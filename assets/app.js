@@ -5,6 +5,8 @@
   const esc = (s) => String(s == null ? "" : s).replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
   const fold = (s) => String(s || "").normalize("NFD").replace(/[̀-ͯ]/g, "").replace(/[‘’]/g, "'").replace(/[“”]/g, '"').toLowerCase();
   const GROUPS = Object.keys(S.group_desc);
+  const VOC = {};  // subject id -> {label, scope, parent}
+  S.vocab.forEach((t) => { VOC[t.id] = { label: t.label, scope: t.scope }; t.c.forEach((c) => { VOC[c.id] = { label: c.label, scope: c.scope, parent: t.id }; }); });
 
   // same normalisation as build.py's canon(): 'D8/9', '163(c)' and '163C' compare equal
   function canon(s) {
@@ -31,6 +33,8 @@
     r.ft = fold(r.t);
     r.fn = fold([r.n, r.tags, r.ln].join(" "));
     r.ftags = fold(r.tags);
+    r.sub = r.sub || [];
+    r.fsub = fold(r.sub.map((t) => t + " " + (VOC[t] ? VOC[t].label : "")).join(" | "));
     r.fk = [fold(r.s + r.f).replace(/\s/g, ""), fold(r.f).replace(/\s/g, ""), fold(r.s + "-" + r.f).replace(/\s/g, "")];
     r.ck = canon(r.s + r.f);
     const nm = String(r.f).match(/\d+/);
@@ -44,7 +48,7 @@
 
   // ------------------------------------------------------------ state <-> hash
   const ctl = {
-    q: $("#q"), field: $("#field"), grp: $("#grp"), roll: $("#roll"), y1: $("#y1"), y2: $("#y2"),
+    q: $("#q"), field: $("#field"), grp: $("#grp"), subj: $("#subj"), roll: $("#roll"), y1: $("#y1"), y2: $("#y2"),
     undated: $("#undated"), link: $("#link"), src: $("#src"), cited: $("#cited"), no1: $("#no1"), smp: $("#smp"), inl: $("#inl"), pp: $("#pp"),
   };
   let st = { sort: "", dir: 1, page: 1, open: [], show: "" };
@@ -54,6 +58,7 @@
     ctl.q.value = h.get("q") || "";
     ctl.field.value = h.get("f") || "all";
     ctl.grp.value = h.get("g") || "";
+    ctl.subj.value = h.get("sub") || "";
     ctl.roll.value = h.get("r") || "";
     ctl.y1.value = h.get("y1") || "";
     ctl.y2.value = h.get("y2") || "";
@@ -74,7 +79,7 @@
   function writeHash() {
     const h = new URLSearchParams();
     const set = (k, v, d) => { if (v !== "" && v != null && v !== d) h.set(k, v); };
-    set("q", ctl.q.value.trim()); set("f", ctl.field.value, "all"); set("g", ctl.grp.value); set("r", ctl.roll.value);
+    set("q", ctl.q.value.trim()); set("f", ctl.field.value, "all"); set("g", ctl.grp.value); set("sub", ctl.subj.value); set("r", ctl.roll.value);
     set("y1", ctl.y1.value); set("y2", ctl.y2.value); if (!ctl.undated.checked) h.set("u", "0");
     set("l", ctl.link.value); set("src", ctl.src.value); if (ctl.cited.checked) h.set("c", "1"); if (ctl.no1.checked) h.set("x1", "1"); if (ctl.smp.checked) h.set("smp", "1"); if (!ctl.inl.checked) h.set("nn", "0");
     set("pp", ctl.pp.value, "100"); set("sort", st.sort); if (st.dir === -1) h.set("dir", "-1"); if (st.page > 1) h.set("p", st.page);
@@ -86,7 +91,7 @@
   // ------------------------------------------------------------ query parsing
   function parseQuery(q, field) {
     const terms = [];
-    const re = /(-)?(?:(title|notes|tags|file|group):)?(?:"([^"]*)"|(\S+))/gi;
+    const re = /(-)?(?:(title|notes|tags|file|group|subject):)?(?:"([^"]*)"|(\S+))/gi;
     let m;
     while ((m = re.exec(q))) {
       const text = m[3] != null ? m[3] : m[4];
@@ -100,6 +105,7 @@
     if (t.f === "title") return r.ft.includes(t.v);
     if (t.f === "notes") return r.fn.includes(t.v);
     if (t.f === "tags") return r.ftags.includes(t.v);
+    if (t.f === "subject") return r.fsub.includes(t.v);
     if (t.f === "group") return fold(r.s) === t.v;
     if (t.f === "file") {
       if (t.exact) { const k = canon(t.raw.slice(1)); return r.ck === k || r.ck === k + "C" || (k.endsWith("C") && r.ck === k.slice(0, -1)); }
@@ -113,11 +119,12 @@
   let results = [];
   function compute() {
     const terms = parseQuery(ctl.q.value, ctl.field.value);
-    const g = ctl.grp.value, roll = +ctl.roll.value || 0;
+    const g = ctl.grp.value, subj = ctl.subj.value, roll = +ctl.roll.value || 0;
     const y1 = +ctl.y1.value || 0, y2 = +ctl.y2.value || 0, und = ctl.undated.checked;
     const link = ctl.link.value, src = ctl.src.value, cited = ctl.cited.checked, smp = ctl.smp.checked, no1 = ctl.no1.checked;
     results = R.filter((r) => {
       if (g && r.s !== g) return false;
+      if (subj && !r.sub.includes(subj)) return false;
       if (roll && !r.rolls.has(roll)) return false;
       if (y1 || y2) {
         if (r.y == null) { if (!und) return false; }
@@ -223,6 +230,12 @@
       add("Link source", how);
     }
     if (r.td) add("D-number in transcription", esc(r.td) + (canon(r.td) === canon("D" + r.f) ? "" : ' <span class="muted">(differs from the index)</span>'));
+    if (r.sub.length) {
+      const top = r.sub.filter((t) => !t.includes("."));
+      add("Subjects", top.map((t) => `<button class="pill subj top" data-subj="${t}" title="${esc(VOC[t] ? VOC[t].scope : "")}">${esc(VOC[t] ? VOC[t].label : t)}</button>` +
+        r.sub.filter((c) => c.startsWith(t + ".")).map((c) => ` <button class="pill subj" data-subj="${c}" title="${esc(VOC[c] ? VOC[c].scope : "")}">${esc(VOC[c] ? VOC[c].label : c)}</button>`).join("")).join("<br>") +
+        ' <span class="muted">(assigned automatically)</span>');
+    }
     if (r.cite) {
       add("Cited in", r.cite.map((c) => `${S.cited.books[c.b] || esc(c.b)} p. ${esc(c.p)}${c.fn ? ", n. " + esc(c.fn) : ""}`).join("<br>"));
     }
@@ -355,13 +368,14 @@
 
   // links inside sections that drive the index
   document.addEventListener("click", (e) => {
-    const b = e.target.closest("[data-roll],[data-grp],[data-q],[data-cited],[data-open]");
+    const b = e.target.closest("[data-roll],[data-grp],[data-q],[data-cited],[data-open],[data-subj]");
     if (!b) return;
     e.preventDefault();
     if (b.dataset.open) { toggle(b.dataset.open, true); return; }
     resetControls();
     if (b.dataset.roll) ctl.roll.value = b.dataset.roll;
     if (b.dataset.grp) ctl.grp.value = b.dataset.grp;
+    if (b.dataset.subj) ctl.subj.value = b.dataset.subj;
     if (b.dataset.q) ctl.q.value = b.dataset.q;
     if (b.dataset.cited) ctl.cited.checked = true;
     st.page = 1; st.show = ""; render();
@@ -370,7 +384,7 @@
 
   // ------------------------------------------------------------ index controls
   function resetControls() {
-    ctl.q.value = ""; ctl.field.value = "all"; ctl.grp.value = ""; ctl.roll.value = ""; ctl.y1.value = ""; ctl.y2.value = "";
+    ctl.q.value = ""; ctl.field.value = "all"; ctl.grp.value = ""; ctl.subj.value = ""; ctl.roll.value = ""; ctl.y1.value = ""; ctl.y2.value = "";
     ctl.undated.checked = true; ctl.link.value = ""; ctl.src.value = ""; ctl.cited.checked = false; ctl.no1.checked = false; ctl.smp.checked = false; ctl.inl.checked = true;
     st.sort = ""; st.dir = 1; st.page = 1; st.show = "";
   }
@@ -378,11 +392,22 @@
     const n = R.filter((r) => r.s === g).length;
     ctl.grp.insertAdjacentHTML("beforeend", `<option value="${g}">${g} – ${esc(S.group_desc[g])} (${n})</option>`);
   });
+  const scount = {};
+  R.forEach((r) => r.sub.forEach((t) => { scount[t] = (scount[t] || 0) + 1; }));
+  S.vocab.forEach((t) => {
+    ctl.subj.insertAdjacentHTML("beforeend", `<optgroup label="${esc(t.label)}"><option value="${t.id}">${esc(t.label)} – all (${scount[t.id] || 0})</option>` +
+      t.c.map((c) => `<option value="${c.id}">${esc(c.label)} (${scount[c.id] || 0})</option>`).join("") + `</optgroup>`);
+  });
+  $("#subjects").innerHTML =
+    `<p>Each file with an individual scan has been given subject tags from a controlled vocabulary of ${S.vocab.length} broad subjects and ${S.vocab.reduce((n, t) => n + t.c.length, 0)} specific ones. Click a subject to list its files, or choose one from the <b>Subject</b> filter. Each heading is mapped to the closest <a href="https://www.oclc.org/research/areas/data-science/fast.html" target="_blank" rel="noopener">OCLC FAST</a> headings in the vocabulary file.</p>` +
+    `<p class="warnnote">The tags were assigned automatically by large language models (Gemini and GPT) reading machine transcriptions of each file. Spot checks found roughly nine in ten tags correct; expect some wrong or missing tags, especially for short or badly scanned files. Files without an individual scan have no tags yet.</p>` +
+    `<div class="subjgrid">` + S.vocab.map((t) => `<div class="subjtop"><h3><button class="linkish" data-subj="${t.id}" title="${esc(t.scope)}">${esc(t.label)}</button> <span class="muted">${scount[t.id] || 0}</span></h3><ul>` +
+      t.c.map((c) => `<li><button class="linkish" data-subj="${c.id}" title="${esc(c.scope)}">${esc(c.label)}</button> <span class="muted">${scount[c.id] || 0}</span></li>`).join("") + `</ul></div>`).join("") + `</div>`;
   S.rolls.forEach((r) => ctl.roll.insertAdjacentHTML("beforeend", `<option value="${r.n}">${r.n}${r.ia ? "" : " (not online)"}</option>`));
 
   let timer;
   ctl.q.addEventListener("input", () => { clearTimeout(timer); timer = setTimeout(() => { st.page = 1; st.show = ""; render(); }, 150); });
-  ["field", "grp", "roll", "y1", "y2", "undated", "link", "src", "cited", "no1", "smp", "pp"].forEach((k) =>
+  ["field", "grp", "subj", "roll", "y1", "y2", "undated", "link", "src", "cited", "no1", "smp", "pp"].forEach((k) =>
     ctl[k].addEventListener("change", () => { st.page = 1; st.show = ""; render(); }));
   ctl.inl.addEventListener("change", render);
   $("#reset").addEventListener("click", () => { resetControls(); render(); });
@@ -420,11 +445,11 @@
     } catch (e) { root.dataset.theme = want; /* storage unavailable */ }
   });
   $("#csv").addEventListener("click", () => {
-    const cols = ["group", "file", "title", "date", "year", "box", "roll", "pages", "scan_pages", "tags", "notes", "ia_file", "ia_roll", "smp_files", "link_source"];
+    const cols = ["group", "file", "title", "date", "year", "box", "roll", "pages", "scan_pages", "tags", "notes", "ia_file", "ia_roll", "smp_files", "link_source", "subjects"];
     const q = (v) => `"${String(v == null ? "" : v).replace(/"/g, '""')}"`;
     const lines = [cols.join(",")].concat(results.map((r) => [r.s, r.f, r.t, r.d, r.y, r.box, r.roll, r.pg, r.np, r.tags, r.n,
       r.links.filter((l) => l.t === "file").map((l) => l.u).join(" "), r.links.filter((l) => l.t === "roll").map((l) => l.u).join(" "),
-      r.links.filter((l) => l.smp).map((l) => l.smp).join(" "), r.nlinks ? (r.lm || "wiki") : ""].map(q).join(",")));
+      r.links.filter((l) => l.smp).map((l) => l.smp).join(" "), r.nlinks ? (r.lm || "wiki") : "", r.sub.join(" ")].map(q).join(",")));
     const a = document.createElement("a");
     a.href = URL.createObjectURL(new Blob(["﻿" + lines.join("\n")], { type: "text/csv" }));
     a.download = "smpa-files-selection.csv";

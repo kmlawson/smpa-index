@@ -256,7 +256,40 @@ filenote = {
     "lines": [inline(l.strip()) for l in n1482.splitlines() if l.strip() and not l.startswith(("[[start", "======"))],
 }
 
+# ---------------------------------------------------------------- extra links and subjects
+
+# Links found after the wiki was frozen (e.g. IO scans matched by name or register number):
+# group, file, ia_id, method, evidence.
+extra = SRC / "extra_links.csv"
+if extra.exists():
+    for row in csv.DictReader(open(extra, newline="")):
+        for i in index.get((row["group"], canon(row["file"])), []):
+            r = records[i]
+            if any(l.get("id") == row["ia_id"] for l in r["links"]):
+                continue
+            l = {"t": "file", "u": "https://archive.org/details/" + row["ia_id"], "id": row["ia_id"]}
+            n = row["ia_id"].split("-")[-1]
+            if n in smp_ids:
+                l["smp"] = "https://ray-bot-ai.github.io/smp-files/file.html?id=" + n
+            if row["ia_id"] in ia_pages:
+                l["p"] = ia_pages[row["ia_id"]]
+            r["links"].insert(sum(1 for x in r["links"] if x["t"] == "file"), l)
+            if not r.get("lm") or r["lm"] == "":
+                r["lm"] = row["method"]
+            if row.get("evidence"):
+                r["lev"] = row["evidence"]
+
+# Subject tags were assigned per Internet Archive scan; an index entry gets the tags of the scans it links to.
+vocab = json.loads((SRC / "vocabulary.json").read_text())
+scan_tags = json.loads((SRC / "subject_tags.json").read_text())
+for r in records:
+    tags = {t for l in r["links"] if l["t"] == "file" for t in scan_tags.get(l["id"], [])}
+    if tags:
+        r["sub"] = sorted(tags, key=lambda t: (t.split(".")[0], "." in t, t))
+
 sections = {
+    "vocab": [{"id": t["id"], "label": t["label"], "scope": t["scope"],
+               "c": [{"id": c["id"], "label": c["label"], "scope": c["scope"]} for c in t["children"]]} for t in vocab["topics"]],
     "about": about,
     "workflow": workflow,
     "groups": group_info,
@@ -279,7 +312,7 @@ data = {"records": records, "sections": sections}
 with open(ROOT / "downloads" / "smpa-files.csv", "w", newline="") as fh:
     w = csv.writer(fh)
     w.writerow(["group", "box", "roll", "file", "title", "date", "year", "pages", "scan_pages", "tags", "notes",
-                "ia_file_links", "ia_roll_links", "other_links", "smp_files_links", "link_note", "link_method", "cited_in"])
+                "ia_file_links", "ia_roll_links", "other_links", "smp_files_links", "link_note", "link_method", "cited_in", "subjects"])
     for r in records:
         L = r["links"]
         w.writerow([r["s"], r["box"], r["roll"], r["f"], r["t"], r["d"], r["y"] or "", r["pg"] or "",
@@ -287,7 +320,8 @@ with open(ROOT / "downloads" / "smpa-files.csv", "w", newline="") as fh:
                     " ".join(l["u"] for l in L if l["t"] == "file"), " ".join(l["u"] for l in L if l["t"] == "roll"),
                     " ".join(l["u"] for l in L if l["t"] == "other"), " ".join(l["smp"] for l in L if l.get("smp")),
                     r["ln"], r.get("lm", ""),
-                    " ".join(f'{c["b"]}:{c["p"]}' + (f',{c["fn"]}' if c["fn"] else "") for c in r.get("cite", []))])
+                    " ".join(f'{c["b"]}:{c["p"]}' + (f',{c["fn"]}' if c["fn"] else "") for c in r.get("cite", [])),
+                    " ".join(r.get("sub", []))])
 (ROOT / "downloads" / "smpa-files.json").write_text(json.dumps(records, ensure_ascii=False, indent=1))
 
 by = {}

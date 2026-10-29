@@ -1,0 +1,2143 @@
+{
+ "name": "SMP files subject vocabulary",
+ "version": "1.0",
+ "geographic_facet": {
+  "id": "fst01205418",
+  "label": "China--Shanghai"
+ },
+ "notes": "Two levels. Level-1 topics are broad headings; level-2 topics refine them. Give level-2 tags where they fit; a level-1 tag may stand alone when no level-2 topic fits. FAST headings are the closest OCLC FAST topical or geographic headings; the place facet China--Shanghai applies to the whole collection.",
+ "topics": [
+  {
+   "id": "COM",
+   "label": "Communism and the Comintern",
+   "scope": "Chinese and international communist organisation, activity and its policing.",
+   "fast": [
+    {
+     "id": "fst00870421",
+     "label": "Communism"
+    },
+    {
+     "id": "fst00529716",
+     "label": "Communist International"
+    }
+   ],
+   "children": [
+    {
+     "id": "COM.party",
+     "label": "Chinese Communist Party",
+     "scope": "CCP organisation, members, meetings and arrests of CCP members in Shanghai.",
+     "fast": [
+      {
+       "id": "fst00535548",
+       "label": "Zhongguo gong chan dang"
+      }
+     ]
+    },
+    {
+     "id": "COM.comintern",
+     "label": "Comintern and international communism",
+     "scope": "Comintern, Profintern, Far Eastern Bureau and foreign communists; the Noulens case.",
+     "fast": [
+      {
+       "id": "fst00529716",
+       "label": "Communist International"
+      }
+     ]
+    },
+    {
+     "id": "COM.propaganda",
+     "label": "Communist propaganda and literature",
+     "scope": "Leaflets, handbills, slogans, periodicals and books of a communist nature, found, seized or translated.",
+     "fast": [
+      {
+       "id": "fst01079003",
+       "label": "Propaganda, Communist"
+      }
+     ]
+    },
+    {
+     "id": "COM.arrests",
+     "label": "Arrests and prosecution of communists",
+     "scope": "Raids, arrests, court cases and extradition of communist suspects.",
+     "fast": [
+      {
+       "id": "fst00810317",
+       "label": "Anti-communist movements"
+      }
+     ]
+    },
+    {
+     "id": "COM.youth",
+     "label": "Communist youth and front organisations",
+     "scope": "Communist Youth League, Anti-Imperialist League, Red Aid and other front bodies.",
+     "fast": [
+      {
+       "id": "fst01183486",
+       "label": "Youth--Political activity"
+      }
+     ]
+    },
+    {
+     "id": "COM.military",
+     "label": "Red Army and communist insurgency",
+     "scope": "Chinese Red Army, rural soviets and communist military activity reported in Shanghai.",
+     "fast": [
+      {
+       "id": "fst00975461",
+       "label": "Insurgency"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "SOV",
+   "label": "Soviet Union and Soviet nationals",
+   "scope": "The USSR, its officials, citizens, agencies and trade bodies in China.",
+   "fast": [
+    {
+     "id": "fst01210281",
+     "label": "Soviet Union"
+    }
+   ],
+   "children": [
+    {
+     "id": "SOV.officials",
+     "label": "Soviet officials and diplomats",
+     "scope": "Soviet consulate, diplomatic couriers and officials.",
+     "fast": [
+      {
+       "id": "fst00894415",
+       "label": "Diplomats"
+      }
+     ]
+    },
+    {
+     "id": "SOV.employees",
+     "label": "Soviet citizens and employees",
+     "scope": "Movements and antecedents of Soviet citizens and employees of Soviet organisations (Centrosojus, Dalles, Soyuzneft etc.).",
+     "fast": [
+      {
+       "id": "fst01127428",
+       "label": "Soviets (People)"
+      }
+     ]
+    },
+    {
+     "id": "SOV.trade",
+     "label": "Soviet trade and business",
+     "scope": "Soviet trading bodies, firms and commercial activity.",
+     "fast": [
+      {
+       "id": "fst00869279",
+       "label": "Commerce"
+      }
+     ]
+    },
+    {
+     "id": "SOV.bolshevism",
+     "label": "Bolshevism and early Soviet influence",
+     "scope": "1917-1927 reporting on Bolshevik agents, propaganda and Russian revolutionary influence.",
+     "fast": [
+      {
+       "id": "fst00870421",
+       "label": "Communism"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "KMT",
+   "label": "Chinese Nationalist politics",
+   "scope": "The Kuomintang, the Nationalist government and Chinese party politics after 1927.",
+   "fast": [
+    {
+     "id": "fst00518796",
+     "label": "Zhongguo guo min dang"
+    },
+    {
+     "id": "fst01206073",
+     "label": "China"
+    }
+   ],
+   "children": [
+    {
+     "id": "KMT.party",
+     "label": "Kuomintang party organisation",
+     "scope": "KMT branches, Tangpu, party meetings and directives.",
+     "fast": [
+      {
+       "id": "fst00518796",
+       "label": "Zhongguo guo min dang"
+      }
+     ]
+    },
+    {
+     "id": "KMT.government",
+     "label": "Nanking and Chungking governments",
+     "scope": "Chinese national government bodies, officials and their activity in or towards Shanghai.",
+     "fast": [
+      {
+       "id": "fst01206073",
+       "label": "China"
+      }
+     ]
+    },
+    {
+     "id": "KMT.secret",
+     "label": "Nationalist secret services",
+     "scope": "Blue Shirts, CC Clique, Juntong and Chungking agents and their operations.",
+     "fast": [
+      {
+       "id": "fst01110661",
+       "label": "Secret service"
+      }
+     ]
+    },
+    {
+     "id": "KMT.factions",
+     "label": "Factional and opposition politics",
+     "scope": "Reorganisationists, Third Party, Trotskyists, Cantonese and other dissident factions.",
+     "fast": [
+      {
+       "id": "fst01069410",
+       "label": "Political parties"
+      }
+     ]
+    },
+    {
+     "id": "KMT.newlife",
+     "label": "Nationalist mass movements",
+     "scope": "New Life Movement and other government-sponsored campaigns.",
+     "fast": [
+      {
+       "id": "fst00701650",
+       "label": "New Life Movement"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "REP",
+   "label": "Early Republican and warlord politics",
+   "scope": "Chinese politics 1911-1928: revolutionaries, warlords, the 1916 anti-Yuan campaigns and the Northern Expedition.",
+   "fast": [
+    {
+     "id": "fst01170813",
+     "label": "Warlordism"
+    },
+    {
+     "id": "fst01096578",
+     "label": "Revolutionaries"
+    }
+   ],
+   "children": [
+    {
+     "id": "REP.revolutionaries",
+     "label": "Revolutionaries and anti-monarchical activity",
+     "scope": "Sun Yat-sen's followers, Chen Qimei and anti-Yuan Shikai or anti-monarchical plots in the Settlement.",
+     "fast": [
+      {
+       "id": "fst01096578",
+       "label": "Revolutionaries"
+      }
+     ]
+    },
+    {
+     "id": "REP.warlords",
+     "label": "Warlords and provincial militarists",
+     "scope": "Tuchuns, warlord armies and their agents in Shanghai.",
+     "fast": [
+      {
+       "id": "fst01170813",
+       "label": "Warlordism"
+      }
+     ]
+    },
+    {
+     "id": "REP.northern",
+     "label": "Northern Expedition and 1927",
+     "scope": "The Northern Expedition, the 1927 crisis and the Nationalist takeover.",
+     "fast": [
+      {
+       "id": "fst01353890",
+       "label": "Northern Expedition (China : 1926-1928)"
+      }
+     ]
+    },
+    {
+     "id": "REP.funding",
+     "label": "Political funding and extortion",
+     "scope": "Demands for contributions, loans and money raised for political or military causes.",
+     "fast": [
+      {
+       "id": "fst00844844",
+       "label": "Campaign funds"
+      },
+      {
+       "id": "fst00918984",
+       "label": "Extortion"
+      }
+     ]
+    },
+    {
+     "id": "REP.monarchists",
+     "label": "Monarchist and restoration movements",
+     "scope": "Chinese monarchist organisations, campaigns and plots to establish or restore imperial rule during the early Republican period.",
+     "fast": [
+      {
+       "id": "fst01025055",
+       "label": "Monarchy"
+      }
+     ],
+     "added_during_tagging": true
+    }
+   ]
+  },
+  {
+   "id": "JPN",
+   "label": "Japan and Japanese interests",
+   "scope": "Japanese government, armed forces, residents and interests in Shanghai before and outside the occupation.",
+   "fast": [
+    {
+     "id": "fst00981362",
+     "label": "Japanese"
+    },
+    {
+     "id": "fst00977053",
+     "label": "International relations"
+    }
+   ],
+   "children": [
+    {
+     "id": "JPN.military",
+     "label": "Japanese armed forces in Shanghai",
+     "scope": "Naval landing party, marines, gendarmerie and military authorities; parades, incidents, deployments.",
+     "fast": [
+      {
+       "id": "fst00553801",
+       "label": "Japan. Kaigun"
+      },
+      {
+       "id": "fst00534859",
+       "label": "Japan. Rikugun"
+      }
+     ]
+    },
+    {
+     "id": "JPN.consular",
+     "label": "Japanese consular police and authorities",
+     "scope": "Requests from and cooperation with Japanese consular police and officials.",
+     "fast": [
+      {
+       "id": "fst01745249",
+       "label": "Consular police"
+      }
+     ]
+    },
+    {
+     "id": "JPN.residents",
+     "label": "Japanese residents and community",
+     "scope": "Japanese civilians, associations, businesses and incidents involving them.",
+     "fast": [
+      {
+       "id": "fst00981362",
+       "label": "Japanese"
+      }
+     ]
+    },
+    {
+     "id": "JPN.encroachment",
+     "label": "Japanese encroachment and pressure on the Settlement",
+     "scope": "Japanese demands, encroachment on Settlement property and police jurisdiction.",
+     "fast": [
+      {
+       "id": "fst00638802",
+       "label": "Shanghai (China : International Settlement). Municipal Council"
+      }
+     ]
+    },
+    {
+     "id": "JPN.ronin",
+     "label": "Japanese agents, ronin and special services",
+     "scope": "Japanese intelligence, special service organs, ronin and their Chinese collaborators.",
+     "fast": [
+      {
+       "id": "fst00975848",
+       "label": "Intelligence service"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ANJ",
+   "label": "Anti-Japanese and national salvation movements",
+   "scope": "Chinese popular resistance to Japan short of war: boycotts, salvation associations, patriotic agitation.",
+   "fast": [
+    {
+     "id": "fst00837348",
+     "label": "Boycotts"
+    },
+    {
+     "id": "fst01033832",
+     "label": "Nationalism"
+    }
+   ],
+   "children": [
+    {
+     "id": "ANJ.boycott",
+     "label": "Anti-Japanese boycotts",
+     "scope": "Boycotts of Japanese goods, pickets, seizures of Japanese goods.",
+     "fast": [
+      {
+       "id": "fst00837348",
+       "label": "Boycotts"
+      }
+     ]
+    },
+    {
+     "id": "ANJ.salvation",
+     "label": "National salvation associations",
+     "scope": "National Salvation Associations, the 'Seven Gentlemen' and allied bodies.",
+     "fast": [
+      {
+       "id": "fst01033832",
+       "label": "Nationalism"
+      }
+     ]
+    },
+    {
+     "id": "ANJ.agitation",
+     "label": "Anti-Japanese agitation and propaganda",
+     "scope": "Anti-Japanese handbills, posters, slogans, meetings and attacks on Japanese.",
+     "fast": [
+      {
+       "id": "fst01078957",
+       "label": "Propaganda"
+      },
+      {
+       "id": "fst01069593",
+       "label": "Political posters"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "WAR",
+   "label": "Sino-Japanese conflict and war",
+   "scope": "The 1932 and 1937 hostilities and wartime conditions in Shanghai.",
+   "fast": [
+    {
+     "id": "fst01431391",
+     "label": "Sino-Japanese War (1937-1945)"
+    },
+    {
+     "id": "fst01353441",
+     "label": "Japanese Invasion of Shanghai (Shanghai, China : 1932)"
+    }
+   ],
+   "children": [
+    {
+     "id": "WAR.1932",
+     "label": "1932 Shanghai Incident",
+     "scope": "The January 28 Incident, its fighting, aftermath and the 'Sino-Japanese impasse' files.",
+     "fast": [
+      {
+       "id": "fst01353441",
+       "label": "Japanese Invasion of Shanghai (Shanghai, China : 1932)"
+      }
+     ]
+    },
+    {
+     "id": "WAR.1937",
+     "label": "1937 hostilities and the Battle of Shanghai",
+     "scope": "Fighting in and around Shanghai from August 1937, bombing, the isolated Settlement.",
+     "fast": [
+      {
+       "id": "fst01431391",
+       "label": "Sino-Japanese War (1937-1945)"
+      }
+     ]
+    },
+    {
+     "id": "WAR.supply",
+     "label": "Wartime supply, prices and rationing",
+     "scope": "Rice and flour supply, food prices, hoarding, rationing and hunger.",
+     "fast": [
+      {
+       "id": "fst00931196",
+       "label": "Food supply"
+      },
+      {
+       "id": "fst01090287",
+       "label": "Rationing"
+      }
+     ]
+    },
+    {
+     "id": "WAR.pacific",
+     "label": "Pacific War and Allied nationals",
+     "scope": "December 1941 onwards: enemy-national status, internment and Allied nationals under Japanese control.",
+     "fast": [
+      {
+       "id": "fst01180924",
+       "label": "World War (1939-1945)"
+      },
+      {
+       "id": "fst02028874",
+       "label": "Internment camps"
+      }
+     ]
+    },
+    {
+     "id": "WAR.diplomacy",
+     "label": "International mediation and peace negotiations",
+     "scope": "International inquiries, mediation, ceasefire negotiations and peace settlements concerning Sino-Japanese conflicts, including the League of Nations commissions.",
+     "fast": [
+      {
+       "id": "fst01013650",
+       "label": "Mediation, International"
+      }
+     ],
+     "added_during_tagging": true
+    }
+   ]
+  },
+  {
+   "id": "OCC",
+   "label": "Occupation regimes and collaboration",
+   "scope": "Japanese-sponsored Chinese governments and collaboration 1937-1945.",
+   "fast": [
+    {
+     "id": "fst00867081",
+     "label": "Collaborationists"
+    },
+    {
+     "id": "fst01206073",
+     "label": "China"
+    }
+   ],
+   "children": [
+    {
+     "id": "OCC.wang",
+     "label": "Wang Jingwei regime",
+     "scope": "The Wang Jingwei peace movement and Reorganised National Government, its organs and agents.",
+     "fast": [
+      {
+       "id": "fst00117646",
+       "label": "Wang, Jingwei, 1883-1944"
+      }
+     ]
+    },
+    {
+     "id": "OCC.puppet",
+     "label": "Ta Tao, Reformed Government and city regimes",
+     "scope": "Ta Tao Municipal Government, Reformed Government and the Shanghai Special Municipality.",
+     "fast": [
+      {
+       "id": "fst00867081",
+       "label": "Collaborationists"
+      }
+     ]
+    },
+    {
+     "id": "OCC.terror",
+     "label": "76 Jessfield Road and political terror",
+     "scope": "The Wang regime's secret police and political violence against opponents.",
+     "fast": [
+      {
+       "id": "fst01069902",
+       "label": "Political violence"
+      }
+     ]
+    },
+    {
+     "id": "OCC.associations",
+     "label": "Collaborationist associations and propaganda",
+     "scope": "Pro-Japanese and Sino-Japanese friendship bodies, anti-British and anti-American campaigns.",
+     "fast": [
+      {
+       "id": "fst01079034",
+       "label": "Propaganda, Japanese"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "VIO",
+   "label": "Political violence and terrorism",
+   "scope": "Assassinations, bombings, abductions and threats with a political motive.",
+   "fast": [
+    {
+     "id": "fst01069902",
+     "label": "Political violence"
+    },
+    {
+     "id": "fst01148101",
+     "label": "Terrorism"
+    }
+   ],
+   "children": [
+    {
+     "id": "VIO.assassination",
+     "label": "Assassinations and attempts",
+     "scope": "Killings and attempted killings of officials, journalists, businessmen and others.",
+     "fast": [
+      {
+       "id": "fst00818962",
+       "label": "Assassination"
+      }
+     ]
+    },
+    {
+     "id": "VIO.bombing",
+     "label": "Bombings and terrorist outrages",
+     "scope": "Bombs, grenades and terrorist attacks.",
+     "fast": [
+      {
+       "id": "fst00835818",
+       "label": "Bombings"
+      }
+     ]
+    },
+    {
+     "id": "VIO.abduction",
+     "label": "Abductions and kidnapping",
+     "scope": "Political abductions and kidnapping for ransom.",
+     "fast": [
+      {
+       "id": "fst00987322",
+       "label": "Kidnapping"
+      }
+     ]
+    },
+    {
+     "id": "VIO.threats",
+     "label": "Threatening and anonymous letters",
+     "scope": "Threatening letters, extortion notes and anonymous denunciations.",
+     "fast": [
+      {
+       "id": "fst00809851",
+       "label": "Anonymous letters"
+      },
+      {
+       "id": "fst01150302",
+       "label": "Threats"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "LAB",
+   "label": "Labour and industry",
+   "scope": "Workers, unions, strikes and conditions of work.",
+   "fast": [
+    {
+     "id": "fst00989798",
+     "label": "Labor"
+    },
+    {
+     "id": "fst00990079",
+     "label": "Labor movement"
+    }
+   ],
+   "children": [
+    {
+     "id": "LAB.strikes",
+     "label": "Strikes and labour disputes",
+     "scope": "Strikes, lock-outs, mediation and labour unrest.",
+     "fast": [
+      {
+       "id": "fst01135030",
+       "label": "Strikes and lockouts"
+      }
+     ]
+    },
+    {
+     "id": "LAB.unions",
+     "label": "Trade unions and guilds",
+     "scope": "Labour unions, guilds, workers' associations and their regulation.",
+     "fast": [
+      {
+       "id": "fst00990260",
+       "label": "Labor unions"
+      },
+      {
+       "id": "fst00949055",
+       "label": "Guilds"
+      }
+     ]
+    },
+    {
+     "id": "LAB.mills",
+     "label": "Mills and factories",
+     "scope": "Cotton mills, silk filatures and other factories, especially Japanese-owned mills.",
+     "fast": [
+      {
+       "id": "fst00881056",
+       "label": "Cotton textile industry"
+      },
+      {
+       "id": "fst00919645",
+       "label": "Factories"
+      }
+     ]
+    },
+    {
+     "id": "LAB.utilities",
+     "label": "Public utilities and transport workers",
+     "scope": "Tramways, buses, power company, waterworks and dock workers.",
+     "fast": [
+      {
+       "id": "fst01083130",
+       "label": "Public utilities"
+      },
+      {
+       "id": "fst01154995",
+       "label": "Transport workers"
+      }
+     ]
+    },
+    {
+     "id": "LAB.conditions",
+     "label": "Employment and working conditions",
+     "scope": "Recruitment of labour, wages, unemployment and exploitation of workers.",
+     "fast": [
+      {
+       "id": "fst01180270",
+       "label": "Work environment"
+      },
+      {
+       "id": "fst01161213",
+       "label": "Unemployment"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "CRI",
+   "label": "Crime and criminal investigation",
+   "scope": "Ordinary crime and criminal cases handled or followed by the police.",
+   "fast": [
+    {
+     "id": "fst00882984",
+     "label": "Crime"
+    },
+    {
+     "id": "fst00883201",
+     "label": "Criminal investigation"
+    }
+   ],
+   "children": [
+    {
+     "id": "CRI.theft",
+     "label": "Theft, robbery and burglary",
+     "scope": "Armed robbery, theft, pickpocketing, shoplifting and burglary.",
+     "fast": [
+      {
+       "id": "fst01098945",
+       "label": "Robbery"
+      },
+      {
+       "id": "fst01149455",
+       "label": "Theft"
+      }
+     ]
+    },
+    {
+     "id": "CRI.fraud",
+     "label": "Fraud, forgery and counterfeiting",
+     "scope": "Swindles, worthless cheques, forged documents and counterfeit money.",
+     "fast": [
+      {
+       "id": "fst00933786",
+       "label": "Fraud"
+      },
+      {
+       "id": "fst00932815",
+       "label": "Forgery"
+      },
+      {
+       "id": "fst00881320",
+       "label": "Counterfeits and counterfeiting"
+      }
+     ]
+    },
+    {
+     "id": "CRI.homicide",
+     "label": "Homicide and violent crime",
+     "scope": "Murder, manslaughter, assault and suspicious deaths, including suicides.",
+     "fast": [
+      {
+       "id": "fst00959660",
+       "label": "Homicide"
+      },
+      {
+       "id": "fst00818981",
+       "label": "Assault and battery"
+      }
+     ]
+    },
+    {
+     "id": "CRI.arms",
+     "label": "Arms trafficking and illegal weapons",
+     "scope": "Arms and ammunition smuggling, illegal possession of firearms.",
+     "fast": [
+      {
+       "id": "fst00967176",
+       "label": "Illegal arms transfers"
+      }
+     ]
+    },
+    {
+     "id": "CRI.gangs",
+     "label": "Gangs and organised crime",
+     "scope": "Green Gang, bandits, gangsters and organised criminal groups.",
+     "fast": [
+      {
+       "id": "fst01047884",
+       "label": "Organized crime"
+      },
+      {
+       "id": "fst00937695",
+       "label": "Gangs"
+      }
+     ]
+    },
+    {
+     "id": "CRI.missing",
+     "label": "Missing and wanted persons",
+     "scope": "Disappearances, whereabouts enquiries for missing persons and wanted criminals.",
+     "fast": [
+      {
+       "id": "fst01023702",
+       "label": "Missing persons"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "VIC",
+   "label": "Narcotics, gambling and vice",
+   "scope": "Illegal drugs, gambling, prostitution and the regulation of entertainment.",
+   "fast": [
+    {
+     "id": "fst01166236",
+     "label": "Vice"
+    },
+    {
+     "id": "fst01032891",
+     "label": "Drug control"
+    }
+   ],
+   "children": [
+    {
+     "id": "VIC.narcotics",
+     "label": "Opium and narcotics",
+     "scope": "Opium, heroin, morphine and other drugs; smuggling, dens and addicts.",
+     "fast": [
+      {
+       "id": "fst01046574",
+       "label": "Opium trade"
+      },
+      {
+       "id": "fst00898722",
+       "label": "Drug traffic"
+      }
+     ]
+    },
+    {
+     "id": "VIC.gambling",
+     "label": "Gambling and lotteries",
+     "scope": "Gaming houses, lotteries, racing and gambling.",
+     "fast": [
+      {
+       "id": "fst00937372",
+       "label": "Gambling"
+      },
+      {
+       "id": "fst01002676",
+       "label": "Lotteries"
+      }
+     ]
+    },
+    {
+     "id": "VIC.prostitution",
+     "label": "Prostitution and trafficking in women",
+     "scope": "Brothels, prostitution, 'white slave' traffic and trafficking in women and children.",
+     "fast": [
+      {
+       "id": "fst01079562",
+       "label": "Prostitution"
+      },
+      {
+       "id": "fst01739818",
+       "label": "Human trafficking"
+      }
+     ]
+    },
+    {
+     "id": "VIC.nightlife",
+     "label": "Cabarets, dance halls and nightlife",
+     "scope": "Cabarets, ballrooms, dance hostesses, bars and their regulation.",
+     "fast": [
+      {
+       "id": "fst01037674",
+       "label": "Nightclubs"
+      },
+      {
+       "id": "fst00887519",
+       "label": "Dance halls"
+      }
+     ]
+    },
+    {
+     "id": "VIC.obscenity",
+     "label": "Indecent publications and entertainment",
+     "scope": "Indecent books, pictures, articles, performances and their prosecution.",
+     "fast": [
+      {
+       "id": "fst01071875",
+       "label": "Pornography"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "PRS",
+   "label": "Press, publishing and censorship",
+   "scope": "Newspapers, publishers, books and the surveillance and censorship of print.",
+   "fast": [
+    {
+     "id": "fst01075837",
+     "label": "Press"
+    },
+    {
+     "id": "fst00850568",
+     "label": "Censorship"
+    }
+   ],
+   "children": [
+    {
+     "id": "PRS.chinese",
+     "label": "Chinese press",
+     "scope": "Chinese-language newspapers and journals, translations from the Chinese press.",
+     "fast": [
+      {
+       "id": "fst00857651",
+       "label": "Chinese newspapers"
+      }
+     ]
+    },
+    {
+     "id": "PRS.foreign",
+     "label": "Foreign-language press",
+     "scope": "English, Russian, Japanese and other foreign-language papers in Shanghai.",
+     "fast": [
+      {
+       "id": "fst00857653",
+       "label": "Chinese newspapers--Foreign language press"
+      }
+     ]
+    },
+    {
+     "id": "PRS.mosquito",
+     "label": "Mosquito papers and tabloids",
+     "scope": "Small sensational 'mosquito' papers and tabloids.",
+     "fast": [
+      {
+       "id": "fst01141790",
+       "label": "Tabloid newspapers"
+      }
+     ]
+    },
+    {
+     "id": "PRS.censorship",
+     "label": "Press censorship and prosecutions",
+     "scope": "Censorship, suppression, registration and prosecution of newspapers and editors.",
+     "fast": [
+      {
+       "id": "fst00934063",
+       "label": "Freedom of the press"
+      },
+      {
+       "id": "fst00850568",
+       "label": "Censorship"
+      }
+     ]
+    },
+    {
+     "id": "PRS.books",
+     "label": "Books, bookshops and publishers",
+     "scope": "Publishers, bookstores and the seizure or ban of books.",
+     "fast": [
+      {
+       "id": "fst00836492",
+       "label": "Booksellers and bookselling"
+      },
+      {
+       "id": "fst01083463",
+       "label": "Publishers and publishing"
+      }
+     ]
+    },
+    {
+     "id": "PRS.agencies",
+     "label": "News agencies and journalists",
+     "scope": "News agencies, correspondents and journalists.",
+     "fast": [
+      {
+       "id": "fst01037013",
+       "label": "News agencies"
+      },
+      {
+       "id": "fst00984188",
+       "label": "Journalists"
+      }
+     ]
+    },
+    {
+     "id": "PRS.radio",
+     "label": "Radio and broadcasting",
+     "scope": "Radio stations, broadcasts and wireless.",
+     "fast": [
+      {
+       "id": "fst01087224",
+       "label": "Radio broadcasting"
+      }
+     ]
+    },
+    {
+     "id": "PRS.leaflets",
+     "label": "Political leaflets, posters and slogans (non-communist)",
+     "scope": "Handbills, posters, wall slogans and pamphlets that are not specifically communist or anti-Japanese.",
+     "fast": [
+      {
+       "id": "fst01069593",
+       "label": "Political posters"
+      },
+      {
+       "id": "fst01051868",
+       "label": "Pamphlets"
+      }
+     ]
+    },
+    {
+     "id": "PRS.postal",
+     "label": "Postal censorship",
+     "scope": "Official opening, inspection, censorship or suppression of private letters and postal correspondence.",
+     "fast": [
+      {
+       "id": "fst01072885",
+       "label": "Postal service"
+      },
+      {
+       "id": "fst00850568",
+       "label": "Censorship"
+      }
+     ],
+     "added_during_tagging": true
+    }
+   ]
+  },
+  {
+   "id": "RUS",
+   "label": "Russian émigrés",
+   "scope": "White Russian refugees and emigrants and their organisations.",
+   "fast": [
+    {
+     "id": "fst01102429",
+     "label": "Russians"
+    },
+    {
+     "id": "fst01092797",
+     "label": "Refugees"
+    }
+   ],
+   "children": [
+    {
+     "id": "RUS.organisations",
+     "label": "Émigré organisations and committees",
+     "scope": "Russian Emigrants Committee, monarchist, legitimist and other émigré bodies.",
+     "fast": [
+      {
+       "id": "fst01102459",
+       "label": "Russians--Societies, etc."
+      }
+     ]
+    },
+    {
+     "id": "RUS.individuals",
+     "label": "Émigré individuals and antecedents",
+     "scope": "Antecedents, movements and enquiries about individual Russian émigrés.",
+     "fast": [
+      {
+       "id": "fst01102429",
+       "label": "Russians"
+      }
+     ]
+    },
+    {
+     "id": "RUS.politics",
+     "label": "Émigré politics and anti-Soviet activity",
+     "scope": "Fascist, monarchist and anti-Soviet émigré politics and their relations with Japan.",
+     "fast": [
+      {
+       "id": "fst00810317",
+       "label": "Anti-communist movements"
+      }
+     ]
+    },
+    {
+     "id": "RUS.welfare",
+     "label": "Émigré employment and welfare",
+     "scope": "Russian labour, poverty, charity and resettlement schemes.",
+     "fast": [
+      {
+       "id": "fst01092797",
+       "label": "Refugees"
+      }
+     ]
+    },
+    {
+     "id": "RUS.military",
+     "label": "Russian military units and ex-officers",
+     "scope": "Russian Regiment of the SVC, ex-White army officers and generals.",
+     "fast": [
+      {
+       "id": "fst00598537",
+       "label": "Shanghai (China : International Settlement). Volunteer Corps. Russian Regiment"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "REF",
+   "label": "Refugees",
+   "scope": "Refugees of every origin other than the Russian émigrés (see RUS): Jewish and Central European refugees from Nazi Europe and Chinese war refugees.",
+   "fast": [
+    {
+     "id": "fst01092797",
+     "label": "Refugees"
+    }
+   ],
+   "children": [
+    {
+     "id": "REF.jewish",
+     "label": "Jewish and Central European refugee arrival",
+     "scope": "Arrival of refugees from Nazi Europe, entry permits and restriction of immigration, 1938-1945.",
+     "fast": [
+      {
+       "id": "fst01730523",
+       "label": "Jewish refugees"
+      }
+     ]
+    },
+    {
+     "id": "REF.organisations",
+     "label": "Refugee relief and community organisations",
+     "scope": "Jewish communal, Zionist and other refugee relief bodies and committees.",
+     "fast": [
+      {
+       "id": "fst01092841",
+       "label": "Refugees--Services for"
+      }
+     ]
+    },
+    {
+     "id": "REF.individuals",
+     "label": "Individual refugees",
+     "scope": "Enquiries about and affairs of individual refugees.",
+     "fast": [
+      {
+       "id": "fst01092797",
+       "label": "Refugees"
+      }
+     ]
+    },
+    {
+     "id": "REF.chinese",
+     "label": "Chinese war refugees and camps",
+     "scope": "Chinese refugees from the 1932 and 1937 fighting, refugee camps and their management.",
+     "fast": [
+      {
+       "id": "fst01170621",
+       "label": "War relief"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "FOR",
+   "label": "Foreign nationals and communities",
+   "scope": "Foreign residents and visitors other than Russian émigrés (RUS), refugees (REF) and Japanese (JPN); consular enquiries about them; foreign political movements followed from Shanghai.",
+   "fast": [
+    {
+     "id": "fst00805278",
+     "label": "Noncitizens"
+    }
+   ],
+   "children": [
+    {
+     "id": "FOR.british",
+     "label": "British and Commonwealth subjects",
+     "scope": "British, Canadian, Australian and other Commonwealth individuals and community.",
+     "fast": [
+      {
+       "id": "fst00839044",
+       "label": "British"
+      }
+     ]
+    },
+    {
+     "id": "FOR.american",
+     "label": "Americans",
+     "scope": "American individuals, firms and community.",
+     "fast": [
+      {
+       "id": "fst00807488",
+       "label": "Americans"
+      }
+     ]
+    },
+    {
+     "id": "FOR.german",
+     "label": "Germans, Austrians and Nazism",
+     "scope": "Germans and Austrians, the Nazi party and German organisations.",
+     "fast": [
+      {
+       "id": "fst00942100",
+       "label": "Germans"
+      },
+      {
+       "id": "fst01033761",
+       "label": "National socialism"
+      }
+     ]
+    },
+    {
+     "id": "FOR.european",
+     "label": "Other Europeans",
+     "scope": "French, Italians, Dutch, Scandinavians, Poles, Czechs, Hungarians, Baltic and other Europeans.",
+     "fast": [
+      {
+       "id": "fst00916820",
+       "label": "Europeans"
+      }
+     ]
+    },
+    {
+     "id": "FOR.asian",
+     "label": "Koreans, Indians and other Asian residents",
+     "scope": "Korean, Indian (Sikh), Filipino, Thai, Burmese, Annamite and other Asian residents.",
+     "fast": [
+      {
+       "id": "fst00988927",
+       "label": "Koreans"
+      },
+      {
+       "id": "fst00901060",
+       "label": "East Indians"
+      },
+      {
+       "id": "fst01118436",
+       "label": "Sikhs"
+      }
+     ]
+    },
+    {
+     "id": "FOR.travellers",
+     "label": "Visitors, travellers and celebrities",
+     "scope": "Notable visitors, travellers, performers and lecturers passing through Shanghai.",
+     "fast": [
+      {
+       "id": "fst01155691",
+       "label": "Travelers"
+      },
+      {
+       "id": "fst00850072",
+       "label": "Celebrities"
+      },
+      {
+       "id": "fst01167960",
+       "label": "Visitors, Foreign"
+      }
+     ]
+    },
+    {
+     "id": "FOR.consular",
+     "label": "Consular enquiries",
+     "scope": "Enquiries from consulates-general (British, American, Dutch, Italian, Swiss etc.) and the US Marshal about individuals.",
+     "fast": [
+      {
+       "id": "fst00876196",
+       "label": "Consuls"
+      }
+     ]
+    },
+    {
+     "id": "FOR.korea",
+     "label": "Korean independence movement",
+     "scope": "Korean Provisional Government, Korean nationalists and terrorists.",
+     "fast": [
+      {
+       "id": "fst00988900",
+       "label": "Korean resistance movements (1905-1945)"
+      }
+     ]
+    },
+    {
+     "id": "FOR.anticolonial",
+     "label": "Indian and Southeast Asian nationalism",
+     "scope": "Ghadr, Indian National Army and Indian nationalists; Annamite, Philippine, Malayan, Javanese and Siamese radicals.",
+     "fast": [
+      {
+       "id": "fst00810343",
+       "label": "Anti-imperialist movements"
+      },
+      {
+       "id": "fst01033832",
+       "label": "Nationalism"
+      }
+     ]
+    },
+    {
+     "id": "FOR.ww1",
+     "label": "First World War enemy aliens and German firms",
+     "scope": "1914-1918: Germans and Austrians in Shanghai, trading with the enemy and German firms (German spies: ESP.german).",
+     "fast": [
+      {
+       "id": "fst01180746",
+       "label": "World War (1914-1918)"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "MIG",
+   "label": "Migration and immigration",
+   "scope": "Movement of people into and out of Shanghai and their legal status: visas, passports, residence, registration, nationality and deportation (refugee-specific matters: REF).",
+   "fast": [
+    {
+     "id": "fst00908690",
+     "label": "Emigration and immigration"
+    }
+   ],
+   "children": [
+    {
+     "id": "MIG.visas",
+     "label": "Passports, visas and travel documents",
+     "scope": "Passports, visas, landing permits and identity documents, including their loss or forgery.",
+     "fast": [
+      {
+       "id": "fst01054473",
+       "label": "Passports"
+      },
+      {
+       "id": "fst01167796",
+       "label": "Visas"
+      },
+      {
+       "id": "fst00966877",
+       "label": "Identification cards"
+      }
+     ]
+    },
+    {
+     "id": "MIG.status",
+     "label": "Residence and migration status",
+     "scope": "Reports and enquiries on a person's immigration or residence status, permission to stay and certificates of residence or character.",
+     "fast": [
+      {
+       "id": "fst00908736",
+       "label": "Emigration and immigration law"
+      }
+     ]
+    },
+    {
+     "id": "MIG.registration",
+     "label": "Registration of foreigners",
+     "scope": "Registration of residents by nationality and lists of registered nationals.",
+     "fast": [
+      {
+       "id": "fst00805278",
+       "label": "Noncitizens"
+      }
+     ]
+    },
+    {
+     "id": "MIG.nationality",
+     "label": "Nationality and citizenship",
+     "scope": "Acquisition of Chinese or other citizenship, change of national status and statelessness.",
+     "fast": [
+      {
+       "id": "fst00861909",
+       "label": "Citizenship"
+      },
+      {
+       "id": "fst01131977",
+       "label": "Statelessness"
+      }
+     ]
+    },
+    {
+     "id": "MIG.movements",
+     "label": "Arrivals, departures and travel",
+     "scope": "Arrivals in and departures from Shanghai, ship passenger reports and travel abroad.",
+     "fast": [
+      {
+       "id": "fst01155558",
+       "label": "Travel"
+      }
+     ]
+    },
+    {
+     "id": "MIG.resettlement",
+     "label": "Emigration and resettlement",
+     "scope": "Onward emigration and resettlement schemes, e.g. groups seeking to settle elsewhere; recruitment of Chinese labour abroad.",
+     "fast": [
+      {
+       "id": "fst00908690",
+       "label": "Emigration and immigration"
+      },
+      {
+       "id": "fst00991305",
+       "label": "Land settlement"
+      }
+     ]
+    },
+    {
+     "id": "MIG.deportation",
+     "label": "Deportation and expulsion",
+     "scope": "Deportation from Shanghai, Japan or elsewhere and banishment.",
+     "fast": [
+      {
+       "id": "fst00890840",
+       "label": "Deportation"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ESP",
+   "label": "Espionage and intelligence",
+   "scope": "Spying and intelligence work by and against foreign powers.",
+   "fast": [
+    {
+     "id": "fst00915379",
+     "label": "Espionage"
+    },
+    {
+     "id": "fst00975848",
+     "label": "Intelligence service"
+    }
+   ],
+   "children": [
+    {
+     "id": "ESP.soviet",
+     "label": "Soviet intelligence",
+     "scope": "OGPU/NKVD, Red Army intelligence (Sorge network) and suspected Soviet agents.",
+     "fast": [
+      {
+       "id": "fst00915419",
+       "label": "Espionage, Soviet"
+      }
+     ]
+    },
+    {
+     "id": "ESP.german",
+     "label": "German and Axis espionage",
+     "scope": "German spies (including in the First World War) and Axis agents.",
+     "fast": [
+      {
+       "id": "fst00915403",
+       "label": "Espionage, German"
+      }
+     ]
+    },
+    {
+     "id": "ESP.allied",
+     "label": "British, American and Allied intelligence",
+     "scope": "British, American, Chinese-Allied and other intelligence activity.",
+     "fast": [
+      {
+       "id": "fst00915390",
+       "label": "Espionage, British"
+      },
+      {
+       "id": "fst00915388",
+       "label": "Espionage, American"
+      }
+     ]
+    },
+    {
+     "id": "ESP.informants",
+     "label": "Informers and police agents",
+     "scope": "SMP agents, informers and their use or exposure.",
+     "fast": [
+      {
+       "id": "fst00973196",
+       "label": "Informers"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "LIA",
+   "label": "Police cooperation",
+   "scope": "Cooperation and correspondence between the SMP and other police forces and authorities (consulates: FOR.consular).",
+   "fast": [
+    {
+     "id": "fst01068460",
+     "label": "Police--International cooperation"
+    }
+   ],
+   "children": [
+    {
+     "id": "LIA.foreignpolice",
+     "label": "Foreign police forces",
+     "scope": "Correspondence with police in Hong Kong, Singapore, India, Japan, Europe and elsewhere.",
+     "fast": [
+      {
+       "id": "fst01068460",
+       "label": "Police--International cooperation"
+      }
+     ]
+    },
+    {
+     "id": "LIA.chinese",
+     "label": "Chinese police and authorities",
+     "scope": "Cooperation with the Public Safety Bureau and Chinese authorities; extradition to Chinese courts.",
+     "fast": [
+      {
+       "id": "fst01068398",
+       "label": "Police"
+      }
+     ]
+    },
+    {
+     "id": "LIA.french",
+     "label": "French Concession police",
+     "scope": "Cooperation with and reports from the French Concession police.",
+     "fast": [
+      {
+       "id": "fst01272237",
+       "label": "China--Concession française de Shanghai"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "POL",
+   "label": "Police force and administration",
+   "scope": "The Shanghai Municipal Police itself.",
+   "fast": [
+    {
+     "id": "fst01068547",
+     "label": "Police administration"
+    },
+    {
+     "id": "fst00616387",
+     "label": "Shanghai (China). Municipal Police"
+    }
+   ],
+   "children": [
+    {
+     "id": "POL.organisation",
+     "label": "Organisation and methods",
+     "scope": "Organisation of Special Branch and other branches, orders, procedures and records.",
+     "fast": [
+      {
+       "id": "fst01068547",
+       "label": "Police administration"
+      }
+     ]
+    },
+    {
+     "id": "POL.personnel",
+     "label": "Recruitment and personnel",
+     "scope": "Applicants, candidates, appointments, transfers, promotions and staff files.",
+     "fast": [
+      {
+       "id": "fst01068501",
+       "label": "Police--Recruiting"
+      }
+     ]
+    },
+    {
+     "id": "POL.conduct",
+     "label": "Police conduct and discipline",
+     "scope": "Complaints, allegations and misconduct by police officers.",
+     "fast": [
+      {
+       "id": "fst01068618",
+       "label": "Police misconduct"
+      }
+     ]
+    },
+    {
+     "id": "POL.licences",
+     "label": "Licences and permits",
+     "scope": "Arms licences, permits for meetings, performances and other police licensing.",
+     "fast": [
+      {
+       "id": "fst00998061",
+       "label": "Licenses"
+      }
+     ]
+    },
+    {
+     "id": "POL.auxiliary",
+     "label": "Volunteer Corps, specials and watchmen",
+     "scope": "Shanghai Volunteer Corps, Special Police Reserve, watchmen and private guards.",
+     "fast": [
+      {
+       "id": "fst00599112",
+       "label": "Shanghai (China : International Settlement). Volunteer Corps"
+      }
+     ]
+    },
+    {
+     "id": "POL.private",
+     "label": "Private detectives and guards",
+     "scope": "Private investigation bureaux, detective agencies and bodyguards.",
+     "fast": [
+      {
+       "id": "fst01077503",
+       "label": "Private investigators"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "LAW",
+   "label": "Courts, law and jurisdiction",
+   "scope": "Courts, legal proceedings and the legal status of the Settlement.",
+   "fast": [
+    {
+     "id": "fst00881747",
+     "label": "Courts"
+    },
+    {
+     "id": "fst00918952",
+     "label": "Exterritoriality"
+    }
+   ],
+   "children": [
+    {
+     "id": "LAW.courts",
+     "label": "Chinese courts in the Settlement",
+     "scope": "Shanghai Special District Courts, Kiangsu High Court branch and the Mixed Court.",
+     "fast": [
+      {
+       "id": "fst00881747",
+       "label": "Courts"
+      }
+     ]
+    },
+    {
+     "id": "LAW.extraterritoriality",
+     "label": "Extraterritoriality and consular courts",
+     "scope": "Extraterritorial rights, consular courts and the British Supreme Court for China.",
+     "fast": [
+      {
+       "id": "fst00918952",
+       "label": "Exterritoriality"
+      }
+     ]
+    },
+    {
+     "id": "LAW.jurisdiction",
+     "label": "Jurisdiction and illegal functioning",
+     "scope": "Chinese or Japanese authorities acting illegally in the Settlement, disputes over jurisdiction and extra-Settlement roads.",
+     "fast": [
+      {
+       "id": "fst00985026",
+       "label": "Jurisdiction"
+      }
+     ]
+    },
+    {
+     "id": "LAW.prisons",
+     "label": "Prisons and prisoners",
+     "scope": "Ward Road gaol, political prisoners and detention.",
+     "fast": [
+      {
+       "id": "fst01077326",
+       "label": "Prisons"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "MUN",
+   "label": "Municipal government and Settlement affairs",
+   "scope": "The International Settlement as a polity: Council, ratepayers and local administration.",
+   "fast": [
+    {
+     "id": "fst00638802",
+     "label": "Shanghai (China : International Settlement). Municipal Council"
+    }
+   ],
+   "children": [
+    {
+     "id": "MUN.council",
+     "label": "Shanghai Municipal Council",
+     "scope": "The Council, its officials, policies and elections; ratepayers.",
+     "fast": [
+      {
+       "id": "fst00638802",
+       "label": "Shanghai (China : International Settlement). Municipal Council"
+      }
+     ]
+    },
+    {
+     "id": "MUN.chinese",
+     "label": "Chinese participation and citizens' associations",
+     "scope": "Chinese ratepayers, citizens' federations, district associations and alleyway tenants.",
+     "fast": [
+      {
+       "id": "fst01069386",
+       "label": "Political participation"
+      }
+     ]
+    },
+    {
+     "id": "MUN.services",
+     "label": "Municipal services and regulation",
+     "scope": "Traffic, housing, rents and other municipal matters (health: see HEA).",
+     "fast": [
+      {
+       "id": "fst01029431",
+       "label": "Municipal services"
+      }
+     ]
+    },
+    {
+     "id": "MUN.greater",
+     "label": "Greater Shanghai and neighbouring authorities",
+     "scope": "Chinese city government of Greater Shanghai, Chapei, Nantao and Pootung.",
+     "fast": [
+      {
+       "id": "fst01029299",
+       "label": "Municipal government"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "MIL",
+   "label": "Foreign armed forces and defence",
+   "scope": "Non-Japanese armed forces and the defence of the Settlement.",
+   "fast": [
+    {
+     "id": "fst00814586",
+     "label": "Armed Forces"
+    }
+   ],
+   "children": [
+    {
+     "id": "MIL.foreign",
+     "label": "British, American and other foreign forces",
+     "scope": "Foreign garrisons, warships, sailors and soldiers and incidents involving them.",
+     "fast": [
+      {
+       "id": "fst00533555",
+       "label": "Great Britain. Army"
+      },
+      {
+       "id": "fst00528845",
+       "label": "United States. Marine Corps"
+      }
+     ]
+    },
+    {
+     "id": "MIL.chinese",
+     "label": "Chinese armies and military",
+     "scope": "Chinese troops, commanders and military plans near Shanghai.",
+     "fast": [
+      {
+       "id": "fst00529948",
+       "label": "China. Lu jun"
+      }
+     ]
+    },
+    {
+     "id": "MIL.subversion",
+     "label": "Subversion of troops and police",
+     "scope": "Propaganda among soldiers, sailors and police; efforts to undermine loyalty.",
+     "fast": [
+      {
+       "id": "fst01136956",
+       "label": "Subversive activities"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ECO",
+   "label": "Economy, commerce and finance",
+   "scope": "Business, finance, trade and the urban economy.",
+   "fast": [
+    {
+     "id": "fst00869279",
+     "label": "Commerce"
+    }
+   ],
+   "children": [
+    {
+     "id": "ECO.firms",
+     "label": "Companies and business affairs",
+     "scope": "Firms, merchants, chambers of commerce and business disputes.",
+     "fast": [
+      {
+       "id": "fst00842519",
+       "label": "Business enterprises"
+      }
+     ]
+    },
+    {
+     "id": "ECO.banking",
+     "label": "Banking, currency and finance",
+     "scope": "Banks, currency, exchange, stock and financial crises.",
+     "fast": [
+      {
+       "id": "fst00826867",
+       "label": "Banks and banking"
+      },
+      {
+       "id": "fst00885329",
+       "label": "Currency question"
+      }
+     ]
+    },
+    {
+     "id": "ECO.trade",
+     "label": "Trade, shipping and smuggling",
+     "scope": "Trade, shipping companies, customs and smuggling of goods.",
+     "fast": [
+      {
+       "id": "fst01116352",
+       "label": "Shipping"
+      },
+      {
+       "id": "fst01121775",
+       "label": "Smuggling"
+      }
+     ]
+    },
+    {
+     "id": "ECO.property",
+     "label": "Property, land and housing",
+     "scope": "Land, property, rents and real estate.",
+     "fast": [
+      {
+       "id": "fst01091096",
+       "label": "Real property"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "SOC",
+   "label": "Society, culture and education",
+   "scope": "Social, cultural, religious and educational life.",
+   "fast": [
+    {
+     "id": "fst01007815",
+     "label": "Manners and customs"
+    }
+   ],
+   "children": [
+    {
+     "id": "SOC.students",
+     "label": "Students and student movements",
+     "scope": "Students, student unions, protests and wartime student groups.",
+     "fast": [
+      {
+       "id": "fst01135954",
+       "label": "Student movements"
+      }
+     ]
+    },
+    {
+     "id": "SOC.schools",
+     "label": "Schools and universities",
+     "scope": "Schools, universities and teachers.",
+     "fast": [
+      {
+       "id": "fst01161597",
+       "label": "Universities and colleges"
+      }
+     ]
+    },
+    {
+     "id": "SOC.associations",
+     "label": "Clubs, societies and associations",
+     "scope": "Clubs, native-place associations, sports bodies and cultural societies.",
+     "fast": [
+      {
+       "id": "fst00864940",
+       "label": "Clubs"
+      },
+      {
+       "id": "fst00819166",
+       "label": "Associations, institutions, etc."
+      }
+     ]
+    },
+    {
+     "id": "SOC.religion",
+     "label": "Religion and missions",
+     "scope": "Churches, missionaries, Buddhist, Muslim, Sikh and other religious bodies.",
+     "fast": [
+      {
+       "id": "fst01023771",
+       "label": "Missions"
+      },
+      {
+       "id": "fst01093763",
+       "label": "Religion"
+      }
+     ]
+    },
+    {
+     "id": "SOC.film",
+     "label": "Film, theatre and performing arts",
+     "scope": "Cinema, film censorship, theatre, dramatic societies and concerts.",
+     "fast": [
+      {
+       "id": "fst01027285",
+       "label": "Motion pictures"
+      },
+      {
+       "id": "fst01149217",
+       "label": "Theater"
+      }
+     ]
+    },
+    {
+     "id": "SOC.women",
+     "label": "Women and gender",
+     "scope": "Women's organisations, women's issues and gendered policing.",
+     "fast": [
+      {
+       "id": "fst01176568",
+       "label": "Women"
+      }
+     ]
+    },
+    {
+     "id": "SOC.welfare",
+     "label": "Charity and social welfare",
+     "scope": "Charities, poor relief and benevolent bodies (hospitals: see HEA.medical).",
+     "fast": [
+      {
+       "id": "fst00852404",
+       "label": "Charities"
+      },
+      {
+       "id": "fst01083250",
+       "label": "Public welfare"
+      }
+     ]
+    },
+    {
+     "id": "SOC.recreation",
+     "label": "Outdoor recreation",
+     "scope": "Recreational hunting, shooting excursions, fishing and other outdoor leisure activities.",
+     "fast": [
+      {
+       "id": "fst01049159",
+       "label": "Outdoor recreation"
+      },
+      {
+       "id": "fst00964162",
+       "label": "Hunting"
+      },
+      {
+       "id": "fst00926650",
+       "label": "Fishing"
+      }
+     ],
+     "added_during_tagging": true
+    }
+   ]
+  },
+  {
+   "id": "HEA",
+   "label": "Public health and hygiene",
+   "scope": "Disease, sanitation, medicine and the health of the population.",
+   "fast": [
+    {
+     "id": "fst01082238",
+     "label": "Public health"
+    },
+    {
+     "id": "fst00965349",
+     "label": "Hygiene"
+    }
+   ],
+   "children": [
+    {
+     "id": "HEA.disease",
+     "label": "Epidemics and infectious disease",
+     "scope": "Cholera, plague, smallpox, typhoid and other outbreaks; vaccination and quarantine.",
+     "fast": [
+      {
+       "id": "fst00914079",
+       "label": "Epidemics"
+      },
+      {
+       "id": "fst00869883",
+       "label": "Communicable diseases"
+      },
+      {
+       "id": "fst01163544",
+       "label": "Vaccination"
+      }
+     ]
+    },
+    {
+     "id": "HEA.sanitation",
+     "label": "Sanitation, food and water",
+     "scope": "Sanitation, refuse, markets, food safety, water supply and hygiene regulations.",
+     "fast": [
+      {
+       "id": "fst01105094",
+       "label": "Sanitation"
+      },
+      {
+       "id": "fst00930671",
+       "label": "Food adulteration and inspection"
+      }
+     ]
+    },
+    {
+     "id": "HEA.medical",
+     "label": "Hospitals, doctors and medicines",
+     "scope": "Hospitals, clinics, medical practitioners, unlicensed doctors, pharmacies and patent medicines.",
+     "fast": [
+      {
+       "id": "fst00961166",
+       "label": "Hospitals"
+      },
+      {
+       "id": "fst01062841",
+       "label": "Physicians"
+      },
+      {
+       "id": "fst01054844",
+       "label": "Patent medicines"
+      }
+     ]
+    },
+    {
+     "id": "HEA.deaths",
+     "label": "Deaths, corpses and burial",
+     "scope": "Exposed corpses, coffins, cemeteries, inquests and causes of death.",
+     "fast": [
+      {
+       "id": "fst00888385",
+       "label": "Dead"
+      },
+      {
+       "id": "fst00841751",
+       "label": "Burial"
+      }
+     ]
+    },
+    {
+     "id": "HEA.mental",
+     "label": "Mental health and psychiatric cases",
+     "scope": "Insanity, delusions, psychiatric illness and individuals reported as mentally unbalanced.",
+     "fast": [
+      {
+       "id": "fst01016547",
+       "label": "Mental illness"
+      },
+      {
+       "id": "fst01016699",
+       "label": "Mentally ill"
+      }
+     ],
+     "added_during_tagging": true
+    }
+   ]
+  },
+  {
+   "id": "PUB",
+   "label": "Public order, meetings and commemorations",
+   "scope": "Meetings, demonstrations, anniversaries and crowd control.",
+   "fast": [
+    {
+     "id": "fst00890222",
+     "label": "Demonstrations"
+    },
+    {
+     "id": "fst01082756",
+     "label": "Public meetings"
+    }
+   ],
+   "children": [
+    {
+     "id": "PUB.demonstrations",
+     "label": "Demonstrations and riots",
+     "scope": "Demonstrations, processions, riots and their policing.",
+     "fast": [
+      {
+       "id": "fst00890222",
+       "label": "Demonstrations"
+      },
+      {
+       "id": "fst01098069",
+       "label": "Riots"
+      }
+     ]
+    },
+    {
+     "id": "PUB.anniversaries",
+     "label": "Political anniversaries",
+     "scope": "May Day, May 30th, September 18th, the Russian Revolution and other anniversaries.",
+     "fast": [
+      {
+       "id": "fst00809757",
+       "label": "Anniversaries"
+      }
+     ]
+    },
+    {
+     "id": "PUB.meetings",
+     "label": "Political meetings and rallies",
+     "scope": "Meetings, rallies and conferences of political bodies.",
+     "fast": [
+      {
+       "id": "fst01082756",
+       "label": "Public meetings"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

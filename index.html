@@ -21,6 +21,7 @@
   <button type="button" class="jump" data-target="s-about" aria-expanded="false">About</button>
   <button type="button" class="jump" data-target="s-rolls" aria-expanded="false">Microfilm Rolls</button>
   <button type="button" class="jump" data-target="s-groups" aria-expanded="false">File Groups</button>
+  <button type="button" class="jump" data-target="s-subjects" aria-expanded="false">Subjects</button>
   <button type="button" class="jump" data-target="s-cited" aria-expanded="false">Files Cited in Scholarship</button>
   <button type="button" class="jump" data-target="s-bib" aria-expanded="false">Bibliography</button>
   <button type="button" class="jump" data-target="s-resources" aria-expanded="false">Other Resources</button>
@@ -34,6 +35,7 @@
 <section class="md" id="s-about" hidden><h2 tabindex="0" title="Hide this section">About</h2><div class="body" id="about"></div></section>
 <section class="md" id="s-rolls" hidden><h2 tabindex="0" title="Hide this section">Microfilm Rolls</h2><div class="body" id="rolls"></div></section>
 <section class="md" id="s-groups" hidden><h2 tabindex="0" title="Hide this section">File Groups</h2><div class="body" id="groups"></div></section>
+<section class="md" id="s-subjects" hidden><h2 tabindex="0" title="Hide this section">Subjects</h2><div class="body" id="subjects"></div></section>
 <section class="md" id="s-cited" hidden><h2 tabindex="0" title="Hide this section">Files Cited in Scholarship</h2><div class="body" id="cited"></div></section>
 <section class="md" id="s-bib" hidden><h2 tabindex="0" title="Hide this section">Bibliography</h2><div class="body" id="bib"></div></section>
 <section class="md" id="s-resources" hidden><h2 tabindex="0" title="Hide this section">Other Resources</h2><div class="body" id="resources"></div></section>
@@ -45,13 +47,14 @@
     <div class="row1">
       <input id="q" type="search" placeholder='Search titles, notes, tags… (e.g. noulens, "white russian", file:D8039A, -japanese)' autocomplete="off" aria-label="Search">
       <select id="field" title="Where to search" aria-label="Search field">
-        <option value="all">All fields</option><option value="title">Title</option><option value="notes">Notes &amp; tags</option><option value="file">File number</option>
+        <option value="all">All fields</option><option value="title">Title</option><option value="notes">Notes &amp; tags</option><option value="file">File number</option><option value="subject">Subject</option>
       </select>
       <button id="reset" type="button" title="Clear all filters">Reset</button>
       <button id="theme" type="button" title="Toggle light / dark" aria-label="Toggle light or dark theme">◐</button>
     </div>
     <div class="row2">
       <label>Group <select id="grp"><option value="">All</option></select></label>
+      <label>Subject <select id="subj"><option value="">All</option></select></label>
       <label>Roll <select id="roll"><option value="">All</option></select></label>
       <label>Year <input id="y1" type="number" min="1890" max="1950" placeholder="from"> – <input id="y2" type="number" min="1890" max="1950" placeholder="to"></label>
       <label><input id="undated" type="checkbox" checked> undated</label>
@@ -90,7 +93,7 @@
     <div class="empty" id="empty" hidden>No files match.</div>
   </div>
   <footer class="help">
-    <p>Words are ANDed, and case and diacritics are ignored. Put a phrase in quotes, use <code>-word</code> to exclude a word, and use the prefixes <code>title:</code>, <code>notes:</code>, <code>tags:</code> and <code>file:</code> (e.g. <code>file:D8039A</code>, <code>file:IO5</code>) to search one field. Click a column heading to sort, or click a row for full details: every link, notes, page count and the books that cite the file. The filters and search are kept in the address bar, so a view can be bookmarked or shared.</p>
+    <p>Words are ANDed, and case and diacritics are ignored. Put a phrase in quotes, use <code>-word</code> to exclude a word, and use the prefixes <code>title:</code>, <code>notes:</code>, <code>tags:</code>, <code>file:</code> and <code>subject:</code> (e.g. <code>file:D8039A</code>, <code>file:IO5</code>, <code>subject:opium</code>) to search one field. Click a column heading to sort, or click a row for full details: every link, notes, page count and the books that cite the file. The filters and search are kept in the address bar, so a view can be bookmarked or shared.</p>
     <p><b>Links.</b> <span class="pill file">IA file</span> is a scan of the individual file on the Internet Archive, usually the clearest copy. <span class="pill roll">Roll 12 p.345</span> opens the full microfilm roll at that page; rolls sometimes include pages that are missing from the individual files. <span class="pill smp">smp-files</span> opens a fresh transcription and Chinese translation of the file on the <a href="https://ray-bot-ai.github.io/smp-files/" target="_blank" rel="noopener">smp-files</a> project.</p>
     <p><b>Auto-matched links.</b> Most D-file links to individual files were added by matching the NARA folder titles against the titles of the Internet Archive items. These links are very likely right, but have not all been checked by hand. Click a row to see its "Link source": how the link was matched, and whether the file's cover was checked.</p>
     <p class="warnnote">Keep in mind that claims in these documents must be read with great care. SMP police records are full of stereotypes, rumour, gossip, slander and unsubstantiated claims about the people they report on.</p>

@@ -47,7 +47,7 @@ section.md p{margin:6px 0 10px}
 .minitable th,.minitable td{border-bottom:1px solid var(--line);padding:5px 8px;text-align:left;vertical-align:top}
 .minitable th{color:var(--muted);font-weight:600;font-size:13px}
 .minitable td.num{text-align:right;font-variant-numeric:tabular-nums}
-.linkish{background:none;border:0;padding:0;color:var(--link);cursor:pointer;font:inherit;text-decoration:underline}
+.linkish{background:none;border:0;padding:0;color:var(--link);cursor:pointer;font:inherit;text-decoration:underline;text-align:left}
 .muted{color:var(--muted)}
 td.grp{white-space:nowrap}
 .outlink{color:var(--file-ink);background:var(--file-bg);border-radius:4px;padding:1px 3px;margin-left:4px;vertical-align:-2px;display:inline-flex}
@@ -123,3 +123,10 @@ select{max-width:100%}
 }
 ul.unl{padding-left:1.2em;margin:0}
 ul.unl li{margin:3px 0}
+.subjgrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:4px 22px}
+.subjtop h3{margin:14px 0 4px}
+.subjtop ul{list-style:none;padding:0;margin:0}
+.subjtop li{margin:2px 0;font-size:14px}
+button.pill.subj{border:1px solid var(--line);background:var(--chip);color:var(--ink);cursor:pointer;font:inherit;font-size:12px}
+button.pill.subj.top{background:var(--accent);color:var(--accent-ink);border-color:var(--accent)}
+.row2 #subj{max-width:15em}
