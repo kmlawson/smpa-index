@@ -1004,13 +1004,28 @@
   "roll": "1",
   "f": "22",
   "t": "Translation of extracts from French police intelligence reports.",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-1877",
+    "id": "smpa-files-1877",
+    "m": "D-number on cover (smp-files transcription); sub-file of this entry (\"D22 D22 MRS E.Y. TUESOVA 31 1. 29 D-22\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=1877",
+    "p": 2
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: D-number on cover (smp-files transcription); sub-file of this entry",
+  "lev": "D22 D22 MRS E.Y. TUESOVA 31 1. 29 D-22",
+  "sub": [
+   "ESP",
+   "ESP.soviet"
+  ]
  },
  {
   "s": "D",
@@ -3800,6 +3815,14 @@
     "id": "smpa-files-3028",
     "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=3028",
     "p": 4
+   },
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-3800",
+    "id": "smpa-files-3800",
+    "m": "D-number on cover (read from image); cover lists several files (\"D 8149-C154\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=3800",
+    "p": 47
    }
   ],
   "ln": "",
@@ -3810,6 +3833,7 @@
   "n": "",
   "lm": "auto: title match",
   "td": "D154",
+  "lev": "D 8149-C154",
   "sub": [
    "CRI",
    "CRI.arms",
@@ -3817,7 +3841,15 @@
    "FOR.asian",
    "JPN",
    "JPN.consular",
-   "JPN.residents"
+   "JPN.residents",
+   "PRS",
+   "PRS.agencies",
+   "PRS.censorship",
+   "PRS.chinese",
+   "SOC",
+   "SOC.associations",
+   "WAR",
+   "WAR.pacific"
   ]
  },
  {
@@ -5198,6 +5230,14 @@
     "id": "smpa-files-3053",
     "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=3053",
     "p": 6
+   },
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-3052",
+    "id": "smpa-files-3052",
+    "m": "D-number on cover (read from image) (\"D523\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=3052",
+    "p": 4
    }
   ],
   "ln": "",
@@ -5208,14 +5248,20 @@
   "n": "",
   "lm": "auto: title match (weak)",
   "chk": "match",
+  "lev": "D523",
   "sub": [
    "COM",
    "COM.comintern",
    "FOR",
    "FOR.consular",
    "FOR.european",
+   "HEA",
+   "HEA.mental",
    "LIA",
-   "LIA.foreignpolice"
+   "LIA.foreignpolice",
+   "RUS",
+   "RUS.individuals",
+   "RUS.welfare"
   ]
  },
  {
@@ -6120,6 +6166,14 @@
     "id": "smpa-files-3139",
     "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=3139",
     "p": 9
+   },
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-3140",
+    "id": "smpa-files-3140",
+    "m": "D-number on cover (smp-files transcription) (\"D-642\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=3140",
+    "p": 41
    }
   ],
   "ln": "",
@@ -6130,7 +6184,12 @@
   "n": "",
   "lm": "auto: title match (weak)",
   "chk": "match",
+  "lev": "D-642",
   "sub": [
+   "CRI",
+   "CRI.fraud",
+   "ECO",
+   "ECO.banking",
    "FOR",
    "FOR.british",
    "LAW",
@@ -12387,13 +12446,32 @@
   "roll": "5",
   "f": "2132",
   "t": "Booklet - “Aviation in China,” by Captain V. J. B. Holland, M.C., reprinted from The China Journal, Vol. X, No. 5, May 1929, pp. 271-273.",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-1879",
+    "id": "smpa-files-1879",
+    "m": "D-number on cover (smp-files transcription); cover lists several files (\"D-2132 D-2133\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=1879",
+    "p": 21
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": 1929,
-  "n": ""
+  "n": "",
+  "lm": "auto: D-number on cover (smp-files transcription); cover lists several files",
+  "lev": "D-2132 D-2133",
+  "sub": [
+   "FOR",
+   "FOR.consular",
+   "POL",
+   "POL.licences",
+   "RUS",
+   "RUS.individuals"
+  ]
  },
  {
   "s": "D",
@@ -12401,13 +12479,32 @@
   "roll": "5",
   "f": "2133",
   "t": "Reports and communications concerning Mrs. Olga Alice Rosen",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-1879",
+    "id": "smpa-files-1879",
+    "m": "D-number on cover (smp-files transcription); cover lists several files (\"D-2132 D-2133\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=1879",
+    "p": 21
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: D-number on cover (smp-files transcription); cover lists several files",
+  "lev": "D-2132 D-2133",
+  "sub": [
+   "FOR",
+   "FOR.consular",
+   "POL",
+   "POL.licences",
+   "RUS",
+   "RUS.individuals"
+  ]
  },
  {
   "s": "D",
@@ -13536,6 +13633,14 @@
     "id": "smpa-files-2837",
     "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2837",
     "p": 16
+   },
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2836",
+    "id": "smpa-files-2836",
+    "m": "D-number on cover (read from image); cover lists several files (\"D2459 & D2461\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2836",
+    "p": 21
    }
   ],
   "ln": "",
@@ -13546,6 +13651,7 @@
   "n": "",
   "lm": "auto: title match (weak)",
   "chk": "unsure",
+  "lev": "D2459 & D2461",
   "sub": [
    "COM",
    "COM.arrests",
@@ -13569,6 +13675,14 @@
     "id": "smpa-files-2993",
     "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2993",
     "p": 1
+   },
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2836",
+    "id": "smpa-files-2836",
+    "m": "D-number on cover (read from image); cover lists several files (\"D2459 & D2461\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2836",
+    "p": 21
    }
   ],
   "ln": "",
@@ -13579,10 +13693,17 @@
   "n": "",
   "lm": "auto: title match",
   "td": "D2461",
+  "lev": "D2459 & D2461",
   "sub": [
+   "COM",
+   "COM.arrests",
    "FOR",
    "FOR.american",
    "FOR.travellers",
+   "LAW",
+   "LAW.courts",
+   "LIA",
+   "LIA.chinese",
    "SOC",
    "SOC.religion"
   ]
@@ -13600,6 +13721,30 @@
     "id": "smpa-files-3322",
     "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=3322",
     "p": 112
+   },
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-3635",
+    "id": "smpa-files-3635",
+    "m": "D-number in IA title; sub-file of this entry (\"D2464-1\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=3635",
+    "p": 5
+   },
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-3636",
+    "id": "smpa-files-3636",
+    "m": "D-number in IA title; sub-file of this entry (\"D2464-3\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=3636",
+    "p": 14
+   },
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-3637",
+    "id": "smpa-files-3637",
+    "m": "D-number in IA title; sub-file of this entry (\"D2464-5\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=3637",
+    "p": 9
    }
   ],
   "ln": "",
@@ -13610,14 +13755,22 @@
   "n": "",
   "lm": "auto: D-number in IA title",
   "td": "D2464",
+  "lev": "D2464-5",
   "sub": [
    "CRI",
    "CRI.homicide",
    "CRI.missing",
    "FOR",
    "FOR.british",
+   "FOR.consular",
+   "LAW",
+   "LAW.courts",
+   "LIA",
+   "LIA.chinese",
    "MIL",
-   "MIL.chinese"
+   "MIL.chinese",
+   "RUS",
+   "RUS.individuals"
   ]
  },
  {
@@ -20473,6 +20626,14 @@
     "id": "smpa-files-3329",
     "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=3329",
     "p": 558
+   },
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-1600",
+    "id": "smpa-files-1600",
+    "m": "D-number on cover (smp-files transcription) (\"D-3176-A\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=1600",
+    "p": 31
    }
   ],
   "ln": "",
@@ -20482,9 +20643,12 @@
   "y": 1932,
   "n": "",
   "lm": "auto: D-number in IA title",
+  "lev": "D-3176-A",
   "sub": [
    "HEA",
    "HEA.medical",
+   "LAB",
+   "LAB.strikes",
    "WAR",
    "WAR.1932"
   ]
@@ -22480,6 +22644,14 @@
     "id": "smpa-files-3337",
     "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=3337",
     "p": 247
+   },
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-3338",
+    "id": "smpa-files-3338",
+    "m": "D-number in IA title; sub-file of this entry (\"D3482-2\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=3338",
+    "p": 491
    }
   ],
   "ln": "",
@@ -22489,9 +22661,13 @@
   "y": null,
   "n": "",
   "lm": "auto: D-number in IA title",
+  "lev": "D3482-2",
   "sub": [
    "ECO",
+   "ECO.firms",
    "ECO.property",
+   "KMT",
+   "KMT.government",
    "MUN",
    "MUN.chinese",
    "MUN.greater",
@@ -31448,6 +31624,70 @@
     "p": 46
    },
    {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-3659",
+    "id": "smpa-files-3659",
+    "m": "D-number on cover (read from image) (\"D4543\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=3659",
+    "p": 56
+   },
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-3660",
+    "id": "smpa-files-3660",
+    "m": "D-number in IA title; sub-file of this entry (\"D4543-2\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=3660",
+    "p": 7
+   },
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-3661",
+    "id": "smpa-files-3661",
+    "m": "D-number in IA title; sub-file of this entry (\"D4543-4\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=3661",
+    "p": 1
+   },
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-3662",
+    "id": "smpa-files-3662",
+    "m": "D-number in IA title; sub-file of this entry (\"D4543-6\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=3662",
+    "p": 1
+   },
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-3663",
+    "id": "smpa-files-3663",
+    "m": "D-number in IA title; sub-file of this entry (\"D4543-8\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=3663",
+    "p": 10
+   },
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-3664",
+    "id": "smpa-files-3664",
+    "m": "D-number in IA title; sub-file of this entry (\"D4543-9\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=3664",
+    "p": 3
+   },
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-3665",
+    "id": "smpa-files-3665",
+    "m": "D-number in IA title; sub-file of this entry (\"D4543-12\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=3665",
+    "p": 5
+   },
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-3666",
+    "id": "smpa-files-3666",
+    "m": "D-number in IA title; sub-file of this entry (\"D4543-16\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=3666",
+    "p": 8
+   },
+   {
     "t": "roll",
     "u": "https://archive.org/details/smpa-13/page/n981/mode/2up",
     "roll": 13,
@@ -31461,14 +31701,25 @@
   "y": 1934,
   "n": "Seems to deal with incidents on the \"Outside Areas\". Documents include police reports and court proceedings, specifically dealing with Chinese officials exercising jurisdiction in areas outside their jurisdiction.",
   "lm": "auto: title match",
+  "lev": "D4543-16",
   "sub": [
+   "COM",
+   "COM.arrests",
+   "ECO",
+   "ECO.property",
+   "KMT",
+   "KMT.secret",
    "LAW",
    "LAW.courts",
    "LAW.jurisdiction",
    "LIA",
    "LIA.chinese",
    "MUN",
-   "MUN.greater"
+   "MUN.greater",
+   "POL",
+   "POL.organisation",
+   "VIO",
+   "VIO.assassination"
   ]
  },
  {
@@ -32450,6 +32701,14 @@
     "p": 88
    },
    {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-1231",
+    "id": "smpa-files-1231",
+    "m": "D-number on cover (smp-files transcription) (\"D4724\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=1231",
+    "p": 4
+   },
+   {
     "t": "roll",
     "u": "https://archive.org/details/smpa-14/page/n899/mode/1up",
     "roll": 14,
@@ -32481,7 +32740,10 @@
     "fn": "15"
    }
   ],
+  "lev": "D4724",
   "sub": [
+   "COM",
+   "COM.comintern",
    "FOR",
    "FOR.german"
   ]
@@ -35271,13 +35533,40 @@
   "roll": "",
   "f": "5021",
   "t": "Note: see D 7042",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-3670",
+    "id": "smpa-files-3670",
+    "m": "D-number in IA title; sub-file of this entry (\"D5021-15\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=3670",
+    "p": 22
+   },
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-3671",
+    "id": "smpa-files-3671",
+    "m": "D-number in IA title; sub-file of this entry (\"D5021-57\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=3671",
+    "p": 13
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: D-number in IA title; sub-file of this entry",
+  "lev": "D5021-57",
+  "sub": [
+   "PRS",
+   "PRS.censorship",
+   "PRS.chinese",
+   "PRS.mosquito",
+   "VIC",
+   "VIC.obscenity"
+  ]
  },
  {
   "s": "D",
@@ -35320,6 +35609,14 @@
     "id": "smpa-files-3362",
     "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=3362",
     "p": 97
+   },
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-973",
+    "id": "smpa-files-973",
+    "m": "D-number on cover (smp-files transcription) (\"D5032\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=973",
+    "p": 27
    }
   ],
   "ln": "",
@@ -35329,6 +35626,7 @@
   "y": 1932,
   "n": "",
   "lm": "auto: D-number in IA title",
+  "lev": "D5032",
   "sub": [
    "JPN",
    "JPN.military",
@@ -35336,7 +35634,9 @@
    "PUB",
    "PUB.anniversaries",
    "SOC",
-   "SOC.religion"
+   "SOC.religion",
+   "WAR",
+   "WAR.1932"
   ]
  },
  {
@@ -35352,6 +35652,14 @@
     "id": "smpa-files-601",
     "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=601",
     "p": 2
+   },
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-600",
+    "id": "smpa-files-600",
+    "m": "D-number on cover (smp-files transcription) (\"D5038\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=600",
+    "p": 2
    }
   ],
   "ln": "",
@@ -35362,12 +35670,19 @@
   "n": "",
   "lm": "auto: title match (weak)",
   "chk": "match",
+  "lev": "D5038",
   "sub": [
+   "COM",
+   "COM.party",
+   "FOR",
+   "FOR.asian",
    "LAB",
    "LAB.conditions",
    "LAB.strikes",
    "LAB.unions",
-   "LAB.utilities"
+   "LAB.utilities",
+   "MUN",
+   "MUN.council"
   ]
  },
  {
@@ -35726,6 +36041,78 @@
     "id": "smpa-files-3366",
     "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=3366",
     "p": 177
+   },
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-1587",
+    "id": "smpa-files-1587",
+    "m": "D-number on cover (read from image); sub-file of this entry (\"D5310/1\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=1587",
+    "p": 13
+   },
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-1588",
+    "id": "smpa-files-1588",
+    "m": "D-number on cover (read from image); sub-file of this entry (\"D5310/1\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=1588",
+    "p": 33
+   },
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-3184",
+    "id": "smpa-files-3184",
+    "m": "D-number on cover (read from image); sub-file of this entry (\"D 5310/11\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=3184",
+    "p": 9
+   },
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-3310",
+    "id": "smpa-files-3310",
+    "m": "D-number on cover (read from image); sub-file of this entry (\"D 5310/13\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=3310",
+    "p": 64
+   },
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-3367",
+    "id": "smpa-files-3367",
+    "m": "D-number in IA title; sub-file of this entry (\"D5310-1\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=3367",
+    "p": 109
+   },
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-3368",
+    "id": "smpa-files-3368",
+    "m": "D-number in IA title; sub-file of this entry (\"D5310-3\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=3368",
+    "p": 247
+   },
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-3369",
+    "id": "smpa-files-3369",
+    "m": "D-number in IA title; sub-file of this entry (\"D5310-7\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=3369",
+    "p": 127
+   },
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-3370",
+    "id": "smpa-files-3370",
+    "m": "D-number in IA title; sub-file of this entry (\"D5310-9\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=3370",
+    "p": 118
+   },
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-3672",
+    "id": "smpa-files-3672",
+    "m": "D-number in IA title; sub-file of this entry (\"D5310-2\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=3672",
+    "p": 16
    }
   ],
   "ln": "",
@@ -35736,12 +36123,21 @@
   "n": "",
   "lm": "auto: D-number in IA title",
   "td": "D5310",
+  "lev": "D5310-2",
   "sub": [
+   "CRI",
+   "CRI.homicide",
+   "ESP",
+   "ESP.informants",
+   "KMT",
+   "KMT.party",
    "LAB",
    "LAB.conditions",
    "LAB.strikes",
    "LAB.unions",
-   "LAB.utilities"
+   "LAB.utilities",
+   "VIO",
+   "VIO.threats"
   ]
  },
  {
@@ -35750,13 +36146,30 @@
   "roll": "17",
   "f": "5364",
   "t": "Applications for enrollment - Transport Company, SVC",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-5",
+    "id": "smpa-files-5",
+    "m": "D-number on cover (smp-files transcription); sub-file of this entry (\"D5364/65\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=5",
+    "p": 3
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: D-number on cover (smp-files transcription); sub-file of this entry",
+  "lev": "D5364/65",
+  "sub": [
+   "POL",
+   "POL.auxiliary",
+   "SOV",
+   "SOV.employees"
+  ]
  },
  {
   "s": "D",
@@ -36410,7 +36823,64 @@
   "roll": "18",
   "f": "5422",
   "t": "Includes covering index",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-3372",
+    "id": "smpa-files-3372",
+    "m": "D-number in IA title; sub-file of this entry (\"D5422-0\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=3372",
+    "p": 126
+   },
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-3373",
+    "id": "smpa-files-3373",
+    "m": "D-number in IA title; sub-file of this entry (\"D5422-0-1\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=3373",
+    "p": 100
+   },
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-3673",
+    "id": "smpa-files-3673",
+    "m": "D-number in IA title (\"D5422\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=3673",
+    "p": 5
+   },
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-3674",
+    "id": "smpa-files-3674",
+    "m": "D-number in IA title (\"D5422\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=3674",
+    "p": 5
+   },
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-3676",
+    "id": "smpa-files-3676",
+    "m": "D-number in IA title; sub-file of this entry (\"D5422(O)-1\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=3676",
+    "p": 50
+   },
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-3681",
+    "id": "smpa-files-3681",
+    "m": "D-number in IA title; sub-file of this entry (\"D5422D\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=3681",
+    "p": 7
+   },
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-3683",
+    "id": "smpa-files-3683",
+    "m": "D-number in IA title; sub-file of this entry (\"D5422K\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=3683",
+    "p": 4
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
@@ -36508,6 +36978,28 @@
     "p": "211",
     "fn": "100"
    }
+  ],
+  "lm": "auto: D-number in IA title; sub-file of this entry",
+  "lev": "D5422K",
+  "sub": [
+   "FOR",
+   "FOR.european",
+   "LIA",
+   "LIA.foreignpolice",
+   "MIG",
+   "MIG.visas",
+   "POL",
+   "POL.licences",
+   "PUB",
+   "PUB.anniversaries",
+   "PUB.meetings",
+   "REF",
+   "REF.individuals",
+   "REF.jewish",
+   "REF.organisations",
+   "SOC",
+   "SOC.film",
+   "SOC.religion"
   ]
  },
  {
@@ -36523,6 +37015,30 @@
     "id": "smpa-files-408",
     "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=408",
     "p": 5
+   },
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-3677",
+    "id": "smpa-files-3677",
+    "m": "D-number in IA title (\"D5422A\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=3677",
+    "p": 4
+   },
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-3678",
+    "id": "smpa-files-3678",
+    "m": "D-number in IA title (\"D5422A\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=3678",
+    "p": 26
+   },
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-3684",
+    "id": "smpa-files-3684",
+    "m": "D-number on cover (smp-files transcription) (\"D-5422-A\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=3684",
+    "p": 30
    }
   ],
   "ln": "Partial:",
@@ -36694,12 +37210,20 @@
     "fn": "36"
    }
   ],
+  "lev": "D-5422-A",
   "sub": [
    "MIG",
+   "MIG.nationality",
    "MIG.visas",
+   "POL",
+   "POL.licences",
    "REF",
    "REF.individuals",
-   "REF.jewish"
+   "REF.jewish",
+   "REF.organisations",
+   "SOC",
+   "SOC.associations",
+   "SOC.religion"
   ]
  },
  {
@@ -36786,6 +37310,30 @@
     "id": "smpa-files-3679",
     "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=3679",
     "p": 8
+   },
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-3376",
+    "id": "smpa-files-3376",
+    "m": "D-number on cover (read from image) (\"D5422(C)\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=3376",
+    "p": 177
+   },
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-3377",
+    "id": "smpa-files-3377",
+    "m": "D-number on cover (read from image) (\"D5422(C)\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=3377",
+    "p": 372
+   },
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-3680",
+    "id": "smpa-files-3680",
+    "m": "D-number in IA title; sub-file of this entry (\"D5422C-10\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=3680",
+    "p": 23
    }
   ],
   "ln": "",
@@ -36797,19 +37345,25 @@
   "lm": "auto: D-number in IA title",
   "td": "D5423C-3",
   "chk": "match",
+  "lev": "D5422C-10",
   "sub": [
+   "FOR",
+   "FOR.german",
    "MIG",
    "MIG.deportation",
    "MIG.nationality",
    "MIG.registration",
+   "MIG.status",
    "MIG.visas",
    "MUN",
    "MUN.council",
    "REF",
+   "REF.individuals",
    "REF.jewish",
    "REF.organisations",
    "SOC",
-   "SOC.religion"
+   "SOC.religion",
+   "SOC.welfare"
   ]
  },
  {
@@ -36825,6 +37379,14 @@
     "id": "smpa-files-3682",
     "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=3682",
     "p": 3
+   },
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-96",
+    "id": "smpa-files-96",
+    "m": "D-number on cover (smp-files transcription) (\"D-5422-E\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=96",
+    "p": 2
    }
   ],
   "ln": "",
@@ -36834,6 +37396,7 @@
   "y": null,
   "n": "",
   "lm": "auto: D-number in IA title",
+  "lev": "D-5422-E",
   "sub": [
    "REF",
    "REF.individuals",
@@ -41064,6 +41627,14 @@
     "id": "smpa-files-3380",
     "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=3380",
     "p": 143
+   },
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-1398",
+    "id": "smpa-files-1398",
+    "m": "D-number on cover (read from image) (\"D5703\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=1398",
+    "p": 50
    }
   ],
   "ln": "",
@@ -41074,15 +41645,23 @@
   "n": "",
   "lm": "auto: D-number in IA title",
   "td": "D5703",
+  "lev": "D5703",
   "sub": [
    "COM",
    "COM.arrests",
+   "COM.comintern",
    "COM.military",
    "COM.party",
+   "FOR",
+   "FOR.asian",
+   "FOR.consular",
    "LAB",
    "LAB.unions",
    "LAW",
-   "LAW.courts"
+   "LAW.courts",
+   "LIA",
+   "LIA.chinese",
+   "LIA.foreignpolice"
   ]
  },
  {
@@ -44322,6 +44901,14 @@
     "id": "smpa-files-970",
     "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=970",
     "p": 1
+   },
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-1825",
+    "id": "smpa-files-1825",
+    "m": "D-number on cover (smp-files transcription) (\"D-5954\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=1825",
+    "p": 38
    }
   ],
   "ln": "",
@@ -44331,6 +44918,7 @@
   "y": null,
   "n": "",
   "lm": "auto: title match",
+  "lev": "D-5954",
   "sub": [
    "JPN",
    "JPN.military"
@@ -44834,6 +45422,14 @@
     "id": "smpa-files-568",
     "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=568",
     "p": 19
+   },
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-80",
+    "id": "smpa-files-80",
+    "m": "D-number on cover (smp-files transcription) (\"D-6206\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=80",
+    "p": 4
    }
   ],
   "ln": "",
@@ -44843,13 +45439,16 @@
   "y": null,
   "n": "",
   "lm": "auto: title match",
+  "lev": "D-6206",
   "sub": [
    "COM",
    "COM.arrests",
    "LAW",
    "LAW.courts",
    "LIA",
-   "LIA.chinese"
+   "LIA.chinese",
+   "PRS",
+   "PRS.books"
   ]
  },
  {
@@ -47574,13 +48173,30 @@
   "roll": "22",
   "f": "6498",
   "t": "Recognition of Manchukuo by the Grand Duke Cyril and the activities of Col. C. Tominaga",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-1933",
+    "id": "smpa-files-1933",
+    "m": "D-number on cover (smp-files transcription); cover lists several files (\"D-6498 2 D-6500\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=1933",
+    "p": 4
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: D-number on cover (smp-files transcription); cover lists several files",
+  "lev": "D-6498 2 D-6500",
+  "sub": [
+   "JPN",
+   "JPN.ronin",
+   "RUS",
+   "RUS.politics"
+  ]
  },
  {
   "s": "D",
@@ -47609,6 +48225,14 @@
     "id": "smpa-files-431",
     "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=431",
     "p": 1
+   },
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-1933",
+    "id": "smpa-files-1933",
+    "m": "D-number on cover (smp-files transcription); cover lists several files (\"D-6498 2 D-6500\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=1933",
+    "p": 4
    }
   ],
   "ln": "",
@@ -47618,11 +48242,15 @@
   "y": 1935,
   "n": "",
   "lm": "wiki",
+  "lev": "D-6498 2 D-6500",
   "sub": [
    "FOR",
    "FOR.korea",
    "JPN",
-   "JPN.consular"
+   "JPN.consular",
+   "JPN.ronin",
+   "RUS",
+   "RUS.politics"
   ]
  },
  {
@@ -50358,6 +50986,70 @@
     "id": "smpa-files-3396",
     "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=3396",
     "p": 322
+   },
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-1919",
+    "id": "smpa-files-1919",
+    "m": "D-number on cover (smp-files transcription); sub-file of this entry (\"D-6813/16\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=1919",
+    "p": 40
+   },
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-3397",
+    "id": "smpa-files-3397",
+    "m": "D-number in IA title; sub-file of this entry (\"D6813-6\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=3397",
+    "p": 299
+   },
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-3398",
+    "id": "smpa-files-3398",
+    "m": "D-number in IA title; sub-file of this entry (\"D6813-10\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=3398",
+    "p": 84
+   },
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-3399",
+    "id": "smpa-files-3399",
+    "m": "D-number in IA title; sub-file of this entry (\"D6813-14\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=3399",
+    "p": 133
+   },
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-3400",
+    "id": "smpa-files-3400",
+    "m": "D-number in IA title; sub-file of this entry (\"D6813-14\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=3400",
+    "p": 676
+   },
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-3401",
+    "id": "smpa-files-3401",
+    "m": "D-number in IA title; sub-file of this entry (\"D6813-14-x-17-c\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=3401",
+    "p": 208
+   },
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-3703",
+    "id": "smpa-files-3703",
+    "m": "D-number in IA title; sub-file of this entry (\"D6813-14\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=3703",
+    "p": 8
+   },
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-3704",
+    "id": "smpa-files-3704",
+    "m": "D-number in IA title; sub-file of this entry (\"D6813-15\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=3704",
+    "p": 1
    }
   ],
   "ln": "",
@@ -50368,17 +51060,31 @@
   "n": "",
   "lm": "auto: D-number in IA title",
   "td": "D6813",
+  "lev": "D6813-15",
   "sub": [
+   "ANJ",
+   "ANJ.agitation",
+   "ECO",
+   "ECO.firms",
    "FOR",
+   "FOR.american",
+   "FOR.european",
    "FOR.german",
    "JPN",
    "JPN.encroachment",
    "KMT",
    "KMT.government",
+   "OCC",
+   "OCC.terror",
+   "OCC.wang",
    "POL",
    "POL.licences",
    "PRS",
-   "PRS.radio"
+   "PRS.censorship",
+   "PRS.radio",
+   "VIO",
+   "VIO.bombing",
+   "VIO.threats"
   ]
  },
  {
@@ -51501,6 +52207,14 @@
     "id": "smpa-files-3708",
     "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=3708",
     "p": 19
+   },
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-3214",
+    "id": "smpa-files-3214",
+    "m": "D-number on cover (read from image) (\"D7042\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=3214",
+    "p": 2
    }
   ],
   "ln": "",
@@ -51518,6 +52232,7 @@
     "fn": "11"
    }
   ],
+  "lev": "D7042",
   "sub": [
    "LAW",
    "LAW.courts",
@@ -51526,6 +52241,8 @@
    "PRS.censorship",
    "PRS.chinese",
    "PRS.mosquito",
+   "SOC",
+   "SOC.film",
    "VIC",
    "VIC.nightlife",
    "VIC.obscenity",
@@ -52404,13 +53121,33 @@
   "roll": "27",
   "f": "7096",
   "t": "Arrest in the International Settlement of a Chinese communist suspect: Koo Yih Ming, alias Chen Lih Ming",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-37",
+    "id": "smpa-files-37",
+    "m": "D-number on cover (smp-files transcription); cover lists several files (\"D-7096 f D-7100\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=37",
+    "p": 17
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: D-number on cover (smp-files transcription); cover lists several files",
+  "lev": "D-7096 f D-7100",
+  "sub": [
+   "COM",
+   "COM.arrests",
+   "LAW",
+   "LAW.courts",
+   "LIA",
+   "LIA.chinese",
+   "LIA.french"
+  ]
  },
  {
   "s": "D",
@@ -52521,13 +53258,30 @@
   "roll": "27",
   "f": "7109",
   "t": "John Calvin West, American",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-1830",
+    "id": "smpa-files-1830",
+    "m": "D-number on cover (smp-files transcription); cover lists several files (\"D-7109 D-7113\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=1830",
+    "p": 5
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: D-number on cover (smp-files transcription); cover lists several files",
+  "lev": "D-7109 D-7113",
+  "sub": [
+   "FOR",
+   "FOR.american",
+   "MUN",
+   "MUN.council"
+  ]
  },
  {
   "s": "D",
@@ -52563,13 +53317,30 @@
   "roll": "27",
   "f": "7113",
   "t": "Miss Helen Webb, Japanese-Eurasian",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-1830",
+    "id": "smpa-files-1830",
+    "m": "D-number on cover (smp-files transcription); cover lists several files (\"D-7109 D-7113\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=1830",
+    "p": 5
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: D-number on cover (smp-files transcription); cover lists several files",
+  "lev": "D-7109 D-7113",
+  "sub": [
+   "FOR",
+   "FOR.american",
+   "MUN",
+   "MUN.council"
+  ]
  },
  {
   "s": "D",
@@ -54187,13 +54958,32 @@
   "roll": "28",
   "f": "7384",
   "t": "Deportation of American Buddhist monk from Japan",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-183",
+    "id": "smpa-files-183",
+    "m": "D-number on cover (smp-files transcription); cover lists several files (\"D-7384 D-7386\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=183",
+    "p": 6
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: D-number on cover (smp-files transcription); cover lists several files",
+  "lev": "D-7384 D-7386",
+  "sub": [
+   "FOR",
+   "FOR.american",
+   "MIG",
+   "MIG.deportation",
+   "SOC",
+   "SOC.religion"
+  ]
  },
  {
   "s": "D",
@@ -54208,6 +54998,14 @@
     "id": "smpa-files-3727",
     "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=3727",
     "p": 3
+   },
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-183",
+    "id": "smpa-files-183",
+    "m": "D-number on cover (smp-files transcription); cover lists several files (\"D-7384 D-7386\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=183",
+    "p": 6
    }
   ],
   "ln": "",
@@ -54217,12 +55015,17 @@
   "y": null,
   "n": "",
   "lm": "auto: D-number in IA title",
+  "lev": "D-7384 D-7386",
   "sub": [
    "COM",
    "COM.comintern",
    "FOR",
    "FOR.american",
-   "FOR.consular"
+   "FOR.consular",
+   "MIG",
+   "MIG.deportation",
+   "SOC",
+   "SOC.religion"
   ]
  },
  {
@@ -55186,13 +55989,30 @@
   "roll": "28",
   "f": "7470",
   "t": "Departure of General Wu Te Chen for Canton, observation duty by members of Special Branch",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-180",
+    "id": "smpa-files-180",
+    "m": "D-number on cover (smp-files transcription); cover lists several files (\"D-7470 D-7473 D-7474\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=180",
+    "p": 28
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: D-number on cover (smp-files transcription); cover lists several files",
+  "lev": "D-7470 D-7473 D-7474",
+  "sub": [
+   "KMT",
+   "KMT.government",
+   "MUN",
+   "MUN.greater"
+  ]
  },
  {
   "s": "D",
@@ -55207,6 +56027,14 @@
     "id": "smpa-files-3740",
     "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=3740",
     "p": 1
+   },
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-180",
+    "id": "smpa-files-180",
+    "m": "D-number on cover (smp-files transcription); cover lists several files (\"D-7470 D-7473 D-7474\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=180",
+    "p": 28
    }
   ],
   "ln": "",
@@ -55218,11 +56046,16 @@
   "lm": "auto: D-number in IA title",
   "td": "D7423",
   "chk": "match",
+  "lev": "D-7470 D-7473 D-7474",
   "sub": [
    "FOR",
    "FOR.british",
+   "KMT",
+   "KMT.government",
    "LAW",
    "LAW.extraterritoriality",
+   "MUN",
+   "MUN.greater",
    "POL",
    "POL.conduct"
   ]
@@ -55240,6 +56073,14 @@
     "id": "smpa-files-3741",
     "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=3741",
     "p": 1
+   },
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-180",
+    "id": "smpa-files-180",
+    "m": "D-number on cover (smp-files transcription); cover lists several files (\"D-7470 D-7473 D-7474\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=180",
+    "p": 28
    }
   ],
   "ln": "",
@@ -55250,7 +56091,12 @@
   "n": "",
   "lm": "auto: D-number in IA title",
   "td": "D7474",
+  "lev": "D-7470 D-7473 D-7474",
   "sub": [
+   "KMT",
+   "KMT.government",
+   "MUN",
+   "MUN.greater",
    "POL",
    "POL.personnel"
   ]
@@ -56880,6 +57726,14 @@
     "id": "smpa-files-3432",
     "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=3432",
     "p": 132
+   },
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-935",
+    "id": "smpa-files-935",
+    "m": "D-number on cover (smp-files transcription) (\"D-7580\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=935",
+    "p": 13
    }
   ],
   "ln": "",
@@ -56896,7 +57750,12 @@
     "fn": "43"
    }
   ],
+  "lev": "D-7580",
   "sub": [
+   "FOR",
+   "FOR.travellers",
+   "MIG",
+   "MIG.visas",
    "RUS",
    "RUS.individuals",
    "RUS.welfare",
@@ -58303,13 +59162,32 @@
   "roll": "32",
   "f": "7694",
   "t": "Shafic George Hatem, U.S. citizen",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-193",
+    "id": "smpa-files-193",
+    "m": "D-number on cover (smp-files transcription) (\"D-7694\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=193",
+    "p": 7
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: D-number on cover (smp-files transcription)",
+  "lev": "D-7694",
+  "sub": [
+   "FOR",
+   "FOR.american",
+   "HEA",
+   "HEA.medical",
+   "LAB",
+   "LAB.conditions"
+  ]
  },
  {
   "s": "D",
@@ -58666,6 +59544,14 @@
     "p": 142
    },
    {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-1944",
+    "id": "smpa-files-1944",
+    "m": "D-number on cover (smp-files transcription); sub-file of this entry (\"D-7758/2\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=1944",
+    "p": 14
+   },
+   {
     "t": "roll",
     "u": "https://archive.org/details/smpa-32/page/n488/mode/1up",
     "roll": 32,
@@ -58680,6 +59566,7 @@
   "n": "",
   "lm": "auto: D-number in IA title",
   "td": "D7758",
+  "lev": "D-7758/2",
   "sub": [
    "LAB",
    "LAB.conditions",
@@ -58687,6 +59574,7 @@
    "LAB.unions",
    "MUN",
    "MUN.council",
+   "MUN.services",
    "PUB",
    "PUB.demonstrations"
   ]
@@ -58883,6 +59771,14 @@
   "t": "Anonymous Threatening Letter to Central Police Station",
   "links": [
    {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-27",
+    "id": "smpa-files-27",
+    "m": "D-number on cover (smp-files transcription); cover lists several files (\"D-7778 D-7779\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=27",
+    "p": 11
+   },
+   {
     "t": "roll",
     "u": "https://archive.org/details/smpa-32/page/n649/mode/1up",
     "roll": 32,
@@ -58894,7 +59790,17 @@
   "tags": "",
   "d": "1937.02",
   "y": 1937,
-  "n": "school not conforming with education policy suspected of harbouring Communists"
+  "n": "school not conforming with education policy suspected of harbouring Communists",
+  "lm": "auto: D-number on cover (smp-files transcription); cover lists several files",
+  "lev": "D-7778 D-7779",
+  "sub": [
+   "COM",
+   "COM.party",
+   "SOC",
+   "SOC.schools",
+   "VIO",
+   "VIO.threats"
+  ]
  },
  {
   "s": "D",
@@ -58909,6 +59815,14 @@
     "id": "smpa-files-1301",
     "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=1301",
     "p": 9
+   },
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-27",
+    "id": "smpa-files-27",
+    "m": "D-number on cover (smp-files transcription); cover lists several files (\"D-7778 D-7779\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=27",
+    "p": 11
    },
    {
     "t": "roll",
@@ -58931,12 +59845,18 @@
     "fn": "101"
    }
   ],
+  "lev": "D-7778 D-7779",
   "sub": [
+   "COM",
+   "COM.party",
    "SOC",
+   "SOC.schools",
    "SOC.welfare",
    "SOC.women",
    "VIC",
-   "VIC.prostitution"
+   "VIC.prostitution",
+   "VIO",
+   "VIO.threats"
   ]
  },
  {
@@ -59682,6 +60602,14 @@
     "id": "smpa-files-1390",
     "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=1390",
     "p": 7
+   },
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-3167",
+    "id": "smpa-files-3167",
+    "m": "D-number on cover (smp-files transcription); cover lists several files (\"D-7893 D-7841 D-7899\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=3167",
+    "p": 11
    }
   ],
   "ln": "",
@@ -59691,9 +60619,17 @@
   "y": 1937,
   "n": "",
   "lm": "auto: title match",
+  "lev": "D-7893 D-7841 D-7899",
   "sub": [
+   "COM",
+   "COM.propaganda",
+   "JPN",
+   "JPN.military",
    "POL",
    "POL.organisation",
+   "PRS",
+   "PRS.books",
+   "PRS.chinese",
    "SOV",
    "SOV.officials"
   ]
@@ -59864,6 +60800,14 @@
     "id": "smpa-files-1021",
     "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=1021",
     "p": 11
+   },
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-195",
+    "id": "smpa-files-195",
+    "m": "D-number on cover (smp-files transcription); cover lists several files (\"D-7952 D-7953 D-7954\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=195",
+    "p": 4
    }
   ],
   "ln": "",
@@ -59873,11 +60817,17 @@
   "y": null,
   "n": "",
   "lm": "auto: title match",
+  "lev": "D-7952 D-7953 D-7954",
   "sub": [
    "COM",
    "COM.party",
+   "CRI",
+   "CRI.fraud",
    "FOR",
    "FOR.consular",
+   "FOR.german",
+   "HEA",
+   "HEA.medical",
    "PRS",
    "PRS.postal"
   ]
@@ -59956,6 +60906,38 @@
     "id": "smpa-files-3794",
     "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=3794",
     "p": 19
+   },
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-14",
+    "id": "smpa-files-14",
+    "m": "D-number on cover (smp-files transcription); sub-file of this entry (\"D-7994-A\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=14",
+    "p": 40
+   },
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-3254",
+    "id": "smpa-files-3254",
+    "m": "D-number on cover (read from image) (\"D7994\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=3254",
+    "p": 24
+   },
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-3448",
+    "id": "smpa-files-3448",
+    "m": "D-number in IA title; sub-file of this entry (\"D7994-5\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=3448",
+    "p": 148
+   },
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-3449",
+    "id": "smpa-files-3449",
+    "m": "D-number in IA title; sub-file of this entry (\"D7994-6\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=3449",
+    "p": 441
    }
   ],
   "ln": "",
@@ -59966,18 +60948,30 @@
   "n": "",
   "lm": "auto: D-number in IA title",
   "td": "D7994",
+  "lev": "D7994-6",
   "sub": [
    "ANJ",
    "ANJ.agitation",
    "ANJ.salvation",
    "JPN",
    "JPN.military",
+   "KMT",
+   "KMT.government",
    "MIG",
    "MIG.movements",
+   "MIL",
+   "MIL.chinese",
+   "PUB",
+   "PUB.meetings",
    "REF",
    "REF.chinese",
    "RUS",
+   "RUS.military",
+   "RUS.politics",
    "RUS.welfare",
+   "SOC",
+   "SOC.film",
+   "SOC.students",
    "SOV",
    "SOV.employees",
    "SOV.officials",
@@ -59994,6 +60988,38 @@
   "t": "Lukouchiao Incident",
   "links": [
    {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-14",
+    "id": "smpa-files-14",
+    "m": "D-number on cover (smp-files transcription); sub-file of this entry (\"D-7994-A\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=14",
+    "p": 40
+   },
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-3254",
+    "id": "smpa-files-3254",
+    "m": "D-number on cover (read from image) (\"D7994\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=3254",
+    "p": 24
+   },
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-3448",
+    "id": "smpa-files-3448",
+    "m": "D-number in IA title; sub-file of this entry (\"D7994-5\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=3448",
+    "p": 148
+   },
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-3449",
+    "id": "smpa-files-3449",
+    "m": "D-number in IA title; sub-file of this entry (\"D7994-6\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=3449",
+    "p": 441
+   },
+   {
     "t": "roll",
     "u": "https://archive.org/details/smpa-34",
     "roll": 34,
@@ -60005,7 +61031,33 @@
   "tags": "",
   "d": "1937.07-1937.08",
   "y": 1937,
-  "n": "Lukouchiao Incident, secret political intelligence on war preparation, press clippings on industries' responses to expectation of war"
+  "n": "Lukouchiao Incident, secret political intelligence on war preparation, press clippings on industries' responses to expectation of war",
+  "lm": "auto: D-number on cover (smp-files transcription); sub-file of this entry",
+  "lev": "D7994-6",
+  "sub": [
+   "ANJ",
+   "ANJ.agitation",
+   "ANJ.salvation",
+   "JPN",
+   "JPN.military",
+   "KMT",
+   "KMT.government",
+   "MIL",
+   "MIL.chinese",
+   "PUB",
+   "PUB.meetings",
+   "RUS",
+   "RUS.military",
+   "RUS.politics",
+   "SOC",
+   "SOC.film",
+   "SOC.students",
+   "SOV",
+   "SOV.officials",
+   "WAR",
+   "WAR.1937",
+   "WAR.supply"
+  ]
  },
  {
   "s": "D",
@@ -60640,6 +61692,14 @@
     "id": "smpa-files-313",
     "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=313",
     "p": 3
+   },
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-1898",
+    "id": "smpa-files-1898",
+    "m": "D-number on cover (smp-files transcription); cover lists several files (\"D-8037 D-8038\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=1898",
+    "p": 5
    }
   ],
   "ln": "",
@@ -60649,11 +61709,16 @@
   "y": 1937,
   "n": "",
   "lm": "auto: title match",
+  "lev": "D-8037 D-8038",
   "sub": [
    "JPN",
    "JPN.consular",
    "RUS",
-   "RUS.individuals"
+   "RUS.individuals",
+   "SOC",
+   "SOC.film",
+   "VIC",
+   "VIC.obscenity"
   ]
  },
  {
@@ -60669,6 +61734,78 @@
     "id": "smpa-files-3281",
     "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=3281",
     "p": 913
+   },
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-1785",
+    "id": "smpa-files-1785",
+    "m": "D-number on cover (smp-files transcription); sub-file of this entry (\"D-8039A/41(K)-0\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=1785",
+    "p": 48
+   },
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-1812",
+    "id": "smpa-files-1812",
+    "m": "D-number on cover (smp-files transcription); sub-file of this entry (\"D-8039A/611 193F-39\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=1812",
+    "p": 28
+   },
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-3454",
+    "id": "smpa-files-3454",
+    "m": "D-number in IA title (\"D8039A\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=3454",
+    "p": 174
+   },
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-3455",
+    "id": "smpa-files-3455",
+    "m": "D-number in IA title; sub-file of this entry (\"D8039A-5\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=3455",
+    "p": 214
+   },
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-3456",
+    "id": "smpa-files-3456",
+    "m": "D-number in IA title; sub-file of this entry (\"D8039A-5\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=3456",
+    "p": 275
+   },
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-3458",
+    "id": "smpa-files-3458",
+    "m": "D-number in IA title; sub-file of this entry (\"D8039a-5-3\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=3458",
+    "p": 323
+   },
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-3477",
+    "id": "smpa-files-3477",
+    "m": "D-number in IA title; sub-file of this entry (\"D8039A5O-5\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=3477",
+    "p": 137
+   },
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-3795",
+    "id": "smpa-files-3795",
+    "m": "D-number in IA title (\"D8039A-\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=3795",
+    "p": 9
+   },
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-3798",
+    "id": "smpa-files-3798",
+    "m": "D-number in IA title; sub-file of this entry (\"D8039A25\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=3798",
+    "p": 2
    },
    {
     "t": "roll",
@@ -60787,17 +61924,48 @@
     "fn": "23"
    }
   ],
+  "lev": "D8039A25",
   "sub": [
    "ANJ",
    "ANJ.agitation",
    "ANJ.salvation",
+   "CRI",
+   "CRI.theft",
+   "ECO",
+   "ECO.firms",
+   "ECO.property",
+   "ECO.trade",
+   "FOR",
+   "FOR.european",
+   "HEA",
+   "HEA.sanitation",
    "JPN",
    "JPN.encroachment",
    "JPN.military",
+   "LAB",
+   "LAB.mills",
+   "LAW",
+   "LAW.jurisdiction",
    "MIL",
    "MIL.chinese",
+   "MUN",
+   "MUN.council",
+   "MUN.services",
+   "OCC",
+   "OCC.wang",
+   "PRS",
+   "PRS.foreign",
+   "PUB",
+   "PUB.demonstrations",
+   "SOC",
+   "SOC.welfare",
+   "VIC",
+   "VIC.gambling",
+   "VIO",
+   "VIO.threats",
    "WAR",
-   "WAR.1937"
+   "WAR.1937",
+   "WAR.supply"
   ]
  },
  {
@@ -60953,6 +62121,14 @@
     "p": 1284
    },
    {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-3169",
+    "id": "smpa-files-3169",
+    "m": "D-number on cover (smp-files transcription) (\"D-8039A/5(0)-1\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=3169",
+    "p": 13
+   },
+   {
     "t": "roll",
     "u": "https://archive.org/details/smpa-38/page/n1414/mode/1up",
     "roll": 38,
@@ -60966,6 +62142,7 @@
   "y": null,
   "n": "",
   "lm": "auto: D-number in IA title",
+  "lev": "D-8039A/5(0)-1",
   "sub": [
    "ECO",
    "ECO.firms",
@@ -61087,6 +62264,14 @@
     "p": 195
    },
    {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-1942",
+    "id": "smpa-files-1942",
+    "m": "D-number on cover (smp-files transcription) (\"D-8039A/5(7)\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=1942",
+    "p": 43
+   },
+   {
     "t": "roll",
     "u": "https://archive.org/details/smpa-38/page/n866/mode/1up",
     "roll": 38,
@@ -61101,14 +62286,25 @@
   "n": "",
   "lm": "auto: D-number read from cover image",
   "chk": "match",
+  "lev": "D-8039A/5(7)",
   "sub": [
+   "CRI",
+   "CRI.theft",
    "ECO",
+   "ECO.firms",
    "ECO.property",
+   "ECO.trade",
+   "JPN",
+   "JPN.residents",
+   "LAW",
+   "LAW.extraterritoriality",
    "MUN",
    "MUN.services",
    "REF",
    "REF.chinese",
-   "REF.organisations"
+   "REF.organisations",
+   "VIO",
+   "VIO.abduction"
   ]
  },
  {
@@ -61126,6 +62322,14 @@
     "p": 195
    },
    {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-1942",
+    "id": "smpa-files-1942",
+    "m": "D-number on cover (smp-files transcription) (\"D-8039A/5(7)\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=1942",
+    "p": 43
+   },
+   {
     "t": "roll",
     "u": "https://archive.org/details/smpa-38/page/n1080/mode/1up",
     "roll": 38,
@@ -61140,14 +62344,25 @@
   "n": "",
   "lm": "auto: D-number read from cover image",
   "chk": "match",
+  "lev": "D-8039A/5(7)",
   "sub": [
+   "CRI",
+   "CRI.theft",
    "ECO",
+   "ECO.firms",
    "ECO.property",
+   "ECO.trade",
+   "JPN",
+   "JPN.residents",
+   "LAW",
+   "LAW.extraterritoriality",
    "MUN",
    "MUN.services",
    "REF",
    "REF.chinese",
-   "REF.organisations"
+   "REF.organisations",
+   "VIO",
+   "VIO.abduction"
   ]
  },
  {
@@ -61558,6 +62773,14 @@
   "t": "",
   "links": [
    {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-1938",
+    "id": "smpa-files-1938",
+    "m": "D-number on cover (smp-files transcription) (\"D-8039A/18\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=1938",
+    "p": 33
+   },
+   {
     "t": "roll",
     "u": "https://archive.org/details/smpa-35/page/n938/mode/1up",
     "roll": 35,
@@ -61569,7 +62792,15 @@
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: D-number on cover (smp-files transcription)",
+  "lev": "D-8039A/18",
+  "sub": [
+   "SOC",
+   "SOC.schools",
+   "WAR",
+   "WAR.1937"
+  ]
  },
  {
   "s": "D",
@@ -61927,6 +63158,14 @@
   "t": "",
   "links": [
    {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-1937",
+    "id": "smpa-files-1937",
+    "m": "D-number on cover (smp-files transcription) (\"D-8039A/40\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=1937",
+    "p": 50
+   },
+   {
     "t": "roll",
     "u": "https://archive.org/details/smpa-36/page/n682/mode/1up",
     "roll": 36,
@@ -61938,7 +63177,23 @@
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: D-number on cover (smp-files transcription)",
+  "lev": "D-8039A/40",
+  "sub": [
+   "CRI",
+   "CRI.theft",
+   "ECO",
+   "ECO.property",
+   "JPN",
+   "JPN.encroachment",
+   "JPN.military",
+   "JPN.residents",
+   "LAB",
+   "LAB.mills",
+   "WAR",
+   "WAR.1937"
+  ]
  },
  {
   "s": "D",
@@ -62182,6 +63437,14 @@
   "t": "",
   "links": [
    {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-1822",
+    "id": "smpa-files-1822",
+    "m": "D-number on cover (smp-files transcription) (\"D-8039A/45\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=1822",
+    "p": 35
+   },
+   {
     "t": "roll",
     "u": "https://archive.org/details/smpa-36/page/n843/mode/1up",
     "roll": 36,
@@ -62194,7 +63457,18 @@
   "d": "",
   "y": null,
   "n": "",
-  "td": "D7566D-7568"
+  "td": "D7566D-7568",
+  "lm": "auto: D-number on cover (smp-files transcription)",
+  "lev": "D-8039A/45",
+  "sub": [
+   "ECO",
+   "ECO.trade",
+   "JPN",
+   "JPN.encroachment",
+   "JPN.military",
+   "WAR",
+   "WAR.supply"
+  ]
  },
  {
   "s": "D",
@@ -62989,6 +64263,14 @@
     "id": "smpa-files-373",
     "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=373",
     "p": 2
+   },
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-374",
+    "id": "smpa-files-374",
+    "m": "D-number on cover (smp-files transcription) (\"D-8092\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=374",
+    "p": 4
    }
   ],
   "ln": "",
@@ -62998,9 +64280,12 @@
   "y": 1937,
   "n": "",
   "lm": "wiki",
+  "lev": "D-8092",
   "sub": [
    "CRI",
    "CRI.arms",
+   "PRS",
+   "PRS.foreign",
    "VIC",
    "VIC.gambling",
    "VIO",
@@ -64267,6 +65552,70 @@
     "id": "smpa-files-2922",
     "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2922",
     "p": 1
+   },
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-34",
+    "id": "smpa-files-34",
+    "m": "D-number on cover (smp-files transcription); sub-file of this entry (\"D-8149-5\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=34",
+    "p": 53
+   },
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-3215",
+    "id": "smpa-files-3215",
+    "m": "D-number on cover (read from image); cover lists several files (\"D8149-C308\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=3215",
+    "p": 23
+   },
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-3260",
+    "id": "smpa-files-3260",
+    "m": "D-number on cover (smp-files transcription); sub-file of this entry (\"D-8149C\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=3260",
+    "p": 22
+   },
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-3279",
+    "id": "smpa-files-3279",
+    "m": "D-number on cover (smp-files transcription); cover lists several files (\"D-8149-F1-5 1942\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=3279",
+    "p": 762
+   },
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-3486",
+    "id": "smpa-files-3486",
+    "m": "D-number on cover (smp-files transcription); cover lists several files (\"D-8149-C768\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=3486",
+    "p": 347
+   },
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-3487",
+    "id": "smpa-files-3487",
+    "m": "D-number on cover (smp-files transcription); cover lists several files (\"D-8149-F7-F32 1938-41\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=3487",
+    "p": 491
+   },
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-3488",
+    "id": "smpa-files-3488",
+    "m": "D-number in IA title; sub-file of this entry (\"D8149c\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=3488",
+    "p": 412
+   },
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-3800",
+    "id": "smpa-files-3800",
+    "m": "D-number on cover (read from image); cover lists several files (\"D 8149-C154\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=3800",
+    "p": 47
    }
   ],
   "ln": "",
@@ -64298,9 +65647,37 @@
     "fn": "36"
    }
   ],
+  "lev": "D 8149-C154",
   "sub": [
+   "FOR",
+   "FOR.american",
+   "JPN",
+   "JPN.consular",
+   "OCC",
+   "OCC.wang",
+   "POL",
+   "POL.licences",
    "PRS",
-   "PRS.censorship"
+   "PRS.agencies",
+   "PRS.books",
+   "PRS.censorship",
+   "PRS.chinese",
+   "PRS.foreign",
+   "PRS.radio",
+   "REF",
+   "REF.jewish",
+   "RUS",
+   "RUS.individuals",
+   "RUS.organisations",
+   "RUS.politics",
+   "SOC",
+   "SOC.associations",
+   "SOC.film",
+   "VIO",
+   "VIO.assassination",
+   "VIO.bombing",
+   "WAR",
+   "WAR.pacific"
   ]
  },
  {
@@ -64425,6 +65802,14 @@
     "id": "smpa-files-3492",
     "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=3492",
     "p": 137
+   },
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-1573",
+    "id": "smpa-files-1573",
+    "m": "D-number on cover (read from image) (\"D8155A\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=1573",
+    "p": 1
    }
   ],
   "ln": "",
@@ -64435,9 +65820,12 @@
   "n": "",
   "lm": "auto: D-number in IA title",
   "td": "D8155A",
+  "lev": "D8155A",
   "sub": [
    "MUN",
    "MUN.chinese",
+   "SOC",
+   "SOC.associations",
    "VIO",
    "VIO.threats"
   ]
@@ -64482,6 +65870,14 @@
     "id": "smpa-files-3493",
     "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=3493",
     "p": 222
+   },
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-1605",
+    "id": "smpa-files-1605",
+    "m": "D-number on cover (read from image) (\"D 8155B\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=1605",
+    "p": 1
    }
   ],
   "ln": "",
@@ -64500,6 +65896,7 @@
     "fn": "27"
    }
   ],
+  "lev": "D 8155B",
   "sub": [
    "JPN",
    "JPN.military",
@@ -64510,6 +65907,7 @@
    "VIO",
    "VIO.assassination",
    "WAR",
+   "WAR.1937",
    "WAR.supply"
   ]
  },
@@ -64526,6 +65924,14 @@
     "id": "smpa-files-3491",
     "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=3491",
     "p": 308
+   },
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-1574",
+    "id": "smpa-files-1574",
+    "m": "D-number on cover (read from image) (\"D8155(1)\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=1574",
+    "p": 1
    }
   ],
   "ln": "",
@@ -64536,6 +65942,7 @@
   "n": "",
   "lm": "auto: D-number in IA title",
   "td": "D8155",
+  "lev": "D8155(1)",
   "sub": [
    "JPN",
    "JPN.encroachment",
@@ -64663,6 +66070,38 @@
     "id": "smpa-files-414",
     "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=414",
     "p": 42
+   },
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-3181",
+    "id": "smpa-files-3181",
+    "m": "D-number on cover (read from image); sub-file of this entry (\"D8155G/2\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=3181",
+    "p": 56
+   },
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-3495",
+    "id": "smpa-files-3495",
+    "m": "D-number in IA title; sub-file of this entry (\"D8155G-3\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=3495",
+    "p": 148
+   },
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-3801",
+    "id": "smpa-files-3801",
+    "m": "D-number in IA title; sub-file of this entry (\"D8155G-10\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=3801",
+    "p": 56
+   },
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-3802",
+    "id": "smpa-files-3802",
+    "m": "D-number in IA title; sub-file of this entry (\"D8155G5\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=3802",
+    "p": 15
    }
   ],
   "ln": "",
@@ -64679,16 +66118,27 @@
     "fn": "27"
    }
   ],
+  "lev": "D8155G5",
   "sub": [
+   "CRI",
+   "CRI.arms",
+   "CRI.gangs",
+   "CRI.theft",
    "JPN",
    "JPN.military",
+   "JPN.ronin",
+   "LAW",
+   "LAW.jurisdiction",
    "MIL",
    "MIL.chinese",
    "OCC",
    "OCC.puppet",
+   "OCC.terror",
    "OCC.wang",
    "POL",
-   "POL.licences"
+   "POL.licences",
+   "VIO",
+   "VIO.abduction"
   ]
  },
  {
@@ -64704,6 +66154,22 @@
     "id": "smpa-files-1072",
     "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=1072",
     "p": 2
+   },
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-1071",
+    "id": "smpa-files-1071",
+    "m": "D-number on cover (read from image) (\"D8155C\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=1071",
+    "p": 1
+   },
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-1851",
+    "id": "smpa-files-1851",
+    "m": "D-number on cover (smp-files transcription) (\"D-8155(c)\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=1851",
+    "p": 11
    }
   ],
   "ln": "",
@@ -64757,6 +66223,7 @@
     "fn": "43"
    }
   ],
+  "lev": "D-8155(c)",
   "sub": [
    "MUN",
    "MUN.greater",
@@ -65984,6 +67451,22 @@
     "id": "smpa-files-496",
     "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=496",
     "p": 48
+   },
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-3501",
+    "id": "smpa-files-3501",
+    "m": "D-number in IA title (\"D8200A\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=3501",
+    "p": 107
+   },
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-3803",
+    "id": "smpa-files-3803",
+    "m": "D-number in IA title; sub-file of this entry (\"D8200A5\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=3803",
+    "p": 33
    }
   ],
   "ln": "",
@@ -65994,6 +67477,7 @@
   "n": "",
   "lm": "wiki",
   "td": "D8200A",
+  "lev": "D8200A5",
   "sub": [
    "ANJ",
    "ANJ.agitation",
@@ -67007,6 +68491,14 @@
     "id": "smpa-files-1327",
     "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=1327",
     "p": 11
+   },
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-1913",
+    "id": "smpa-files-1913",
+    "m": "D-number on cover (smp-files transcription) (\"D8257\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=1913",
+    "p": 4
    }
   ],
   "ln": "",
@@ -67017,6 +68509,7 @@
   "n": "",
   "lm": "auto: title match",
   "td": "D8257",
+  "lev": "D8257",
   "sub": [
    "CRI",
    "CRI.arms",
@@ -67153,6 +68646,30 @@
     "id": "smpa-files-3508",
     "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=3508",
     "p": 597
+   },
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-3509",
+    "id": "smpa-files-3509",
+    "m": "D-number in IA title; sub-file of this entry (\"D8264-1\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=3509",
+    "p": 76
+   },
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-3510",
+    "id": "smpa-files-3510",
+    "m": "D-number in IA title; sub-file of this entry (\"D8264-2\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=3510",
+    "p": 1066
+   },
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-3511",
+    "id": "smpa-files-3511",
+    "m": "D-number in IA title; sub-file of this entry (\"D8264-319\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=3511",
+    "p": 372
    }
   ],
   "ln": "",
@@ -67162,15 +68679,18 @@
   "y": null,
   "n": "",
   "lm": "auto: D-number in IA title",
+  "lev": "D8264-319",
   "sub": [
    "FOR",
    "FOR.consular",
+   "FOR.european",
    "MIG",
    "MIG.resettlement",
    "MIG.status",
    "MIG.visas",
    "REF",
    "REF.individuals",
+   "REF.jewish",
    "RUS",
    "RUS.individuals"
   ]
@@ -67181,13 +68701,53 @@
   "roll": "45-46",
   "f": "8264",
   "t": "Certificates of good character, applications and background sketches [17-219 in box 80; 23-299 on roll 46]",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-3509",
+    "id": "smpa-files-3509",
+    "m": "D-number in IA title; sub-file of this entry (\"D8264-1\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=3509",
+    "p": 76
+   },
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-3510",
+    "id": "smpa-files-3510",
+    "m": "D-number in IA title; sub-file of this entry (\"D8264-2\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=3510",
+    "p": 1066
+   },
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-3511",
+    "id": "smpa-files-3511",
+    "m": "D-number in IA title; sub-file of this entry (\"D8264-319\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=3511",
+    "p": 372
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: D-number in IA title; sub-file of this entry",
+  "lev": "D8264-319",
+  "sub": [
+   "FOR",
+   "FOR.consular",
+   "FOR.european",
+   "MIG",
+   "MIG.status",
+   "MIG.visas",
+   "REF",
+   "REF.individuals",
+   "REF.jewish",
+   "RUS",
+   "RUS.individuals"
+  ]
  },
  {
   "s": "D",
@@ -67202,6 +68762,30 @@
     "id": "smpa-files-588",
     "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=588",
     "p": 34
+   },
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-3509",
+    "id": "smpa-files-3509",
+    "m": "D-number in IA title; sub-file of this entry (\"D8264-1\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=3509",
+    "p": 76
+   },
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-3510",
+    "id": "smpa-files-3510",
+    "m": "D-number in IA title; sub-file of this entry (\"D8264-2\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=3510",
+    "p": 1066
+   },
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-3511",
+    "id": "smpa-files-3511",
+    "m": "D-number in IA title; sub-file of this entry (\"D8264-319\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=3511",
+    "p": 372
    }
   ],
   "ln": "",
@@ -67213,12 +68797,18 @@
   "lm": "auto: title match (weak)",
   "td": "D8264-30",
   "chk": "match",
+  "lev": "D8264-319",
   "sub": [
    "FOR",
    "FOR.consular",
+   "FOR.european",
    "MIG",
    "MIG.resettlement",
    "MIG.status",
+   "MIG.visas",
+   "REF",
+   "REF.individuals",
+   "REF.jewish",
    "RUS",
    "RUS.individuals"
   ]
@@ -67236,6 +68826,14 @@
     "id": "smpa-files-3805",
     "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=3805",
     "p": 1
+   },
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-659",
+    "id": "smpa-files-659",
+    "m": "D-number on cover (smp-files transcription) (\"D-8265\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=659",
+    "p": 4
    }
   ],
   "ln": "",
@@ -67245,9 +68843,15 @@
   "y": null,
   "n": "",
   "lm": "auto: D-number in IA title",
+  "lev": "D-8265",
   "sub": [
    "FOR",
-   "FOR.consular"
+   "FOR.consular",
+   "MIG",
+   "MIG.visas",
+   "RUS",
+   "RUS.individuals",
+   "RUS.organisations"
   ]
  },
  {
@@ -67492,6 +69096,110 @@
     "id": "smpa-files-525",
     "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=525",
     "p": 4
+   },
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-3512",
+    "id": "smpa-files-3512",
+    "m": "D-number in IA title; sub-file of this entry (\"D8298-9\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=3512",
+    "p": 121
+   },
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-3513",
+    "id": "smpa-files-3513",
+    "m": "D-number in IA title; sub-file of this entry (\"D8298-23\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=3513",
+    "p": 142
+   },
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-3514",
+    "id": "smpa-files-3514",
+    "m": "D-number in IA title; sub-file of this entry (\"D8298-39\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=3514",
+    "p": 79
+   },
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-3808",
+    "id": "smpa-files-3808",
+    "m": "D-number in IA title; sub-file of this entry (\"D8298-12\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=3808",
+    "p": 15
+   },
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-3809",
+    "id": "smpa-files-3809",
+    "m": "D-number in IA title; sub-file of this entry (\"D8298-13\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=3809",
+    "p": 46
+   },
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-3810",
+    "id": "smpa-files-3810",
+    "m": "D-number in IA title; sub-file of this entry (\"D8298-32\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=3810",
+    "p": 29
+   },
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-3811",
+    "id": "smpa-files-3811",
+    "m": "D-number in IA title; sub-file of this entry (\"D8298-34\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=3811",
+    "p": 9
+   },
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-3812",
+    "id": "smpa-files-3812",
+    "m": "D-number in IA title; sub-file of this entry (\"D8298-36\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=3812",
+    "p": 6
+   },
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-3813",
+    "id": "smpa-files-3813",
+    "m": "D-number in IA title; sub-file of this entry (\"D8298-37\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=3813",
+    "p": 53
+   },
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-3814",
+    "id": "smpa-files-3814",
+    "m": "D-number in IA title; sub-file of this entry (\"D8298-40\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=3814",
+    "p": 2
+   },
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-3815",
+    "id": "smpa-files-3815",
+    "m": "D-number in IA title; sub-file of this entry (\"D8298-41\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=3815",
+    "p": 2
+   },
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-3816",
+    "id": "smpa-files-3816",
+    "m": "D-number in IA title; sub-file of this entry (\"D8298-42\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=3816",
+    "p": 28
+   },
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-3817",
+    "id": "smpa-files-3817",
+    "m": "D-number in IA title; sub-file of this entry (\"D8298-44\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=3817",
+    "p": 11
    }
   ],
   "ln": "",
@@ -67502,9 +69210,34 @@
   "n": "",
   "lm": "wiki",
   "td": "D8298",
+  "lev": "D8298-44",
   "sub": [
+   "ANJ",
+   "ANJ.agitation",
+   "CRI",
+   "CRI.arms",
+   "CRI.homicide",
+   "ECO",
+   "ECO.trade",
+   "JPN",
+   "JPN.ronin",
+   "KMT",
+   "KMT.secret",
+   "LAW",
+   "LAW.courts",
+   "MIL",
+   "MIL.foreign",
+   "OCC",
+   "OCC.puppet",
+   "PRS",
+   "PRS.chinese",
+   "VIC",
+   "VIC.gambling",
+   "VIC.nightlife",
    "VIO",
-   "VIO.bombing"
+   "VIO.assassination",
+   "VIO.bombing",
+   "VIO.threats"
   ]
  },
  {
@@ -68020,6 +69753,14 @@
     "id": "smpa-files-3832",
     "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=3832",
     "p": 28
+   },
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-283",
+    "id": "smpa-files-283",
+    "m": "D-number on cover (smp-files transcription) (\"D-8351\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=283",
+    "p": 30
    }
   ],
   "ln": "",
@@ -68029,10 +69770,13 @@
   "y": null,
   "n": "",
   "lm": "auto: D-number in IA title",
+  "lev": "D-8351",
   "sub": [
    "ECO",
+   "ECO.firms",
    "ECO.trade",
    "JPN",
+   "JPN.encroachment",
    "JPN.military",
    "JPN.residents"
   ]
@@ -68524,6 +70268,14 @@
     "id": "smpa-files-918",
     "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=918",
     "p": 53
+   },
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-3259",
+    "id": "smpa-files-3259",
+    "m": "D-number on cover (smp-files transcription); sub-file of this entry (\"D-8458(c)\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=3259",
+    "p": 3
    }
   ],
   "ln": "",
@@ -68533,6 +70285,7 @@
   "y": null,
   "n": "",
   "lm": "auto: title match",
+  "lev": "D-8458(c)",
   "sub": [
    "CRI",
    "CRI.gangs",
@@ -68541,6 +70294,7 @@
    "OCC",
    "OCC.associations",
    "OCC.puppet",
+   "OCC.terror",
    "VIO",
    "VIO.assassination"
   ]
@@ -69310,6 +71064,14 @@
     "id": "smpa-files-396",
     "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=396",
     "p": 16
+   },
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-3523",
+    "id": "smpa-files-3523",
+    "m": "D-number in IA title (\"D8531\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=3523",
+    "p": 141
    }
   ],
   "ln": "",
@@ -69320,11 +71082,14 @@
   "n": "Filing of handbill and its contents per SMPA police form, with scan of exact handbill in original text; other reports on related student organisastion at Fudan University",
   "lm": "wiki",
   "td": "D6808",
+  "lev": "D8531",
   "sub": [
    "ANJ",
    "ANJ.agitation",
    "ANJ.boycott",
    "ANJ.salvation",
+   "OCC",
+   "OCC.wang",
    "SOC",
    "SOC.students"
   ]
@@ -69839,6 +71604,14 @@
     "id": "smpa-files-3506",
     "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=3506",
     "p": 129
+   },
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-3833",
+    "id": "smpa-files-3833",
+    "m": "D-number in IA title (\"D8587\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=3833",
+    "p": 3
    }
   ],
   "ln": "",
@@ -69849,14 +71622,22 @@
   "n": "",
   "lm": "wiki",
   "td": "D8234",
+  "lev": "D8587",
   "sub": [
+   "ECO",
+   "ECO.firms",
    "JPN",
    "JPN.military",
    "LAB",
    "LAB.strikes",
    "LAB.utilities",
+   "MUN",
+   "MUN.council",
+   "MUN.services",
    "OCC",
-   "OCC.wang"
+   "OCC.wang",
+   "WAR",
+   "WAR.supply"
   ]
  },
  {
@@ -69980,6 +71761,14 @@
     "id": "smpa-files-3528",
     "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=3528",
     "p": 107
+   },
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-3834",
+    "id": "smpa-files-3834",
+    "m": "D-number in IA title (\"D8593A\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=3834",
+    "p": 3
    }
   ],
   "ln": "",
@@ -69989,15 +71778,18 @@
   "y": 1938,
   "n": "Reorganisastion of Shanghai Chinese Bar Association, squabble between lawyers working for settlements versus national lawyer associations",
   "lm": "wiki",
+  "lev": "D8593A",
   "sub": [
    "JPN",
    "JPN.encroachment",
+   "JPN.ronin",
    "KMT",
    "KMT.government",
    "LAW",
    "LAW.courts",
    "LAW.jurisdiction",
    "OCC",
+   "OCC.puppet",
    "OCC.terror",
    "OCC.wang",
    "VIO",
@@ -70621,6 +72413,14 @@
     "id": "smpa-files-1081",
     "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=1081",
     "p": 6
+   },
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-1082",
+    "id": "smpa-files-1082",
+    "m": "D-number on cover (smp-files transcription) (\"D-8643\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=1082",
+    "p": 6
    }
   ],
   "ln": "",
@@ -70631,9 +72431,11 @@
   "n": "",
   "lm": "auto: title match",
   "td": "D8643",
+  "lev": "D-8643",
   "sub": [
    "ANJ",
    "ANJ.agitation",
+   "ANJ.salvation",
    "FOR",
    "FOR.travellers",
    "SOC",
@@ -70684,6 +72486,22 @@
     "id": "smpa-files-899",
     "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=899",
     "p": 4
+   },
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-251",
+    "id": "smpa-files-251",
+    "m": "D-number on cover (smp-files transcription) (\"D-8647\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=251",
+    "p": 4
+   },
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-963",
+    "id": "smpa-files-963",
+    "m": "D-number on cover (smp-files transcription) (\"D-8647\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=963",
+    "p": 5
    }
   ],
   "ln": "",
@@ -70695,11 +72513,17 @@
   "lm": "auto: title match (weak)",
   "td": "D8647",
   "chk": "match",
+  "lev": "D-8647",
   "sub": [
    "ECO",
    "ECO.property",
    "FOR",
    "FOR.asian",
+   "JPN",
+   "JPN.encroachment",
+   "JPN.military",
+   "MUN",
+   "MUN.council",
    "RUS",
    "RUS.individuals"
   ]
@@ -70717,6 +72541,14 @@
     "id": "smpa-files-1190",
     "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=1190",
     "p": 5
+   },
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-1189",
+    "id": "smpa-files-1189",
+    "m": "D-number on cover (smp-files transcription) (\"D-8648\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=1189",
+    "p": 5
    }
   ],
   "ln": "",
@@ -70728,6 +72560,7 @@
   "lm": "auto: title match (weak)",
   "td": "D8648",
   "chk": "match",
+  "lev": "D-8648",
   "sub": [
    "FOR",
    "FOR.british",
@@ -70750,6 +72583,14 @@
     "id": "smpa-files-354",
     "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=354",
     "p": 20
+   },
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-1157",
+    "id": "smpa-files-1157",
+    "m": "D-number on cover (read from image) (\"D-8654\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=1157",
+    "p": 7
    }
   ],
   "ln": "",
@@ -70760,9 +72601,16 @@
   "n": "",
   "lm": "wiki",
   "td": "D8654",
+  "lev": "D-8654",
   "sub": [
    "ANJ",
    "ANJ.agitation",
+   "FOR",
+   "FOR.consular",
+   "MIG",
+   "MIG.visas",
+   "RUS",
+   "RUS.individuals",
    "SOC",
    "SOC.associations",
    "SOC.film",
@@ -71670,6 +73518,14 @@
     "id": "smpa-files-436",
     "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=436",
     "p": 52
+   },
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-3536",
+    "id": "smpa-files-3536",
+    "m": "D-number in IA title (\"D8710\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=3536",
+    "p": 107
    }
   ],
   "ln": "",
@@ -71679,12 +73535,15 @@
   "y": 1932,
   "n": "",
   "lm": "wiki",
+  "lev": "D8710",
   "sub": [
    "ANJ",
    "ANJ.agitation",
    "ANJ.boycott",
    "COM",
    "COM.propaganda",
+   "OCC",
+   "OCC.associations",
    "PUB",
    "PUB.anniversaries",
    "PUB.demonstrations"
@@ -73033,13 +74892,31 @@
   "roll": "53",
   "f": "8800(C)",
   "t": "Reported unlawful activities in foreign lodging house No. 2 Lane 15, Carter Road",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-1943",
+    "id": "smpa-files-1943",
+    "m": "D-number on cover (smp-files transcription) (\"D 8800(c)\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=1943",
+    "p": 2
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: D-number on cover (smp-files transcription)",
+  "lev": "D 8800(c)",
+  "sub": [
+   "FOR",
+   "FOR.asian",
+   "VIC",
+   "VIC.narcotics",
+   "VIC.nightlife"
+  ]
  },
  {
   "s": "D",
@@ -76312,6 +78189,14 @@
     "id": "smpa-files-3553",
     "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=3553",
     "p": 295
+   },
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-1367",
+    "id": "smpa-files-1367",
+    "m": "D-number on cover (smp-files transcription) (\"D9128\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=1367",
+    "p": 29
    }
   ],
   "ln": "",
@@ -76321,6 +78206,7 @@
   "y": null,
   "n": "",
   "lm": "auto: D-number in IA title",
+  "lev": "D9128",
   "sub": [
    "LAB",
    "LAB.conditions",
@@ -76372,13 +78258,30 @@
   "roll": "55",
   "f": "9129(C)",
   "t": "Activities of Dr. Chu Ming Nyi",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-1915",
+    "id": "smpa-files-1915",
+    "m": "D-number on cover (smp-files transcription) (\"D 9129(c)\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=1915",
+    "p": 2
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: D-number on cover (smp-files transcription)",
+  "lev": "D 9129(c)",
+  "sub": [
+   "FOR",
+   "FOR.american",
+   "PRS",
+   "PRS.agencies"
+  ]
  },
  {
   "s": "D",
@@ -77699,6 +79602,14 @@
     "id": "smpa-files-3562",
     "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=3562",
     "p": 71
+   },
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-1691",
+    "id": "smpa-files-1691",
+    "m": "D-number on cover (smp-files transcription) (\"D-9300\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=1691",
+    "p": 45
    }
   ],
   "ln": "",
@@ -77708,7 +79619,10 @@
   "y": null,
   "n": "",
   "lm": "auto: D-number in IA title",
+  "lev": "D-9300",
   "sub": [
+   "JPN",
+   "JPN.residents",
    "KMT",
    "KMT.party",
    "LAB",
@@ -78716,6 +80630,14 @@
     "id": "smpa-files-367",
     "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=367",
     "p": 54
+   },
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-3564",
+    "id": "smpa-files-3564",
+    "m": "D-number in IA title (\"D9357\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=3564",
+    "p": 137
    }
   ],
   "ln": "",
@@ -78725,6 +80647,7 @@
   "y": 1939,
   "n": "",
   "lm": "wiki",
+  "lev": "D9357",
   "sub": [
    "ANJ",
    "ANJ.agitation",
@@ -78732,10 +80655,13 @@
    "MIL.foreign",
    "OCC",
    "OCC.associations",
+   "OCC.puppet",
    "PUB",
    "PUB.anniversaries",
    "VIO",
-   "VIO.bombing"
+   "VIO.bombing",
+   "WAR",
+   "WAR.1937"
   ]
  },
  {
@@ -79029,13 +80955,33 @@
   "roll": "57",
   "f": "9385(C)",
   "t": "Mr. Darius Marsily",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-1875",
+    "id": "smpa-files-1875",
+    "m": "D-number on cover (smp-files transcription) (\"D 9385 (c)\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=1875",
+    "p": 12
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: D-number on cover (smp-files transcription)",
+  "lev": "D 9385 (c)",
+  "sub": [
+   "FOR",
+   "FOR.consular",
+   "FOR.european",
+   "MIG",
+   "MIG.visas",
+   "VIC",
+   "VIC.gambling"
+  ]
  },
  {
   "s": "D",
@@ -79440,6 +81386,22 @@
     "id": "smpa-files-3568",
     "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=3568",
     "p": 67
+   },
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-1233",
+    "id": "smpa-files-1233",
+    "m": "D-number on cover (smp-files transcription) (\"D 9411\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=1233",
+    "p": 31
+   },
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-3864",
+    "id": "smpa-files-3864",
+    "m": "D-number in IA title; sub-file of this entry (\"D9411-16C\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=3864",
+    "p": 2
    }
   ],
   "ln": "",
@@ -79449,12 +81411,18 @@
   "y": null,
   "n": "",
   "lm": "auto: D-number in IA title",
+  "lev": "D9411-16C",
   "sub": [
    "FOR",
    "FOR.british",
    "FOR.consular",
+   "MIG",
+   "MIG.movements",
+   "MIG.visas",
    "MIL",
    "MIL.foreign",
+   "PRS",
+   "PRS.foreign",
    "REF",
    "REF.individuals",
    "REF.jewish",
@@ -79557,6 +81525,14 @@
     "id": "smpa-files-238",
     "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=238",
     "p": 4
+   },
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-3860",
+    "id": "smpa-files-3860",
+    "m": "D-number in IA title (\"D9411-5A\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=3860",
+    "p": 17
    }
   ],
   "ln": "",
@@ -79566,12 +81542,16 @@
   "y": 1940,
   "n": "",
   "lm": "wiki",
+  "lev": "D9411-5A",
   "sub": [
    "FOR",
    "FOR.british",
    "FOR.german",
    "LAB",
-   "LAB.conditions"
+   "LAB.conditions",
+   "PRS",
+   "PRS.foreign",
+   "PRS.leaflets"
   ]
  },
  {
@@ -79631,6 +81611,14 @@
     "id": "smpa-files-3569",
     "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=3569",
     "p": 78
+   },
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-3862",
+    "id": "smpa-files-3862",
+    "m": "D-number in IA title; sub-file of this entry (\"D9411-9-22\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=3862",
+    "p": 2
    }
   ],
   "ln": "",
@@ -79640,7 +81628,10 @@
   "y": null,
   "n": "",
   "lm": "auto: D-number in IA title",
+  "lev": "D9411-9-22",
   "sub": [
+   "FOR",
+   "FOR.british",
    "RUS",
    "RUS.organisations",
    "RUS.politics"
@@ -81032,13 +83023,36 @@
   "roll": "58",
   "f": "9474",
   "t": "Shanghai Special Municipality Masons and Carpenters Union - application for registration",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-3866",
+    "id": "smpa-files-3866",
+    "m": "D-number in IA title; sub-file of this entry (\"D9474-1\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=3866",
+    "p": 49
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: D-number in IA title; sub-file of this entry",
+  "lev": "D9474-1",
+  "sub": [
+   "ECO",
+   "ECO.firms",
+   "LAB",
+   "LAB.conditions",
+   "LAB.strikes",
+   "LAB.unions",
+   "OCC",
+   "OCC.puppet",
+   "PRS",
+   "PRS.leaflets"
+  ]
  },
  {
   "s": "D",
@@ -81931,7 +83945,16 @@
   "roll": "59",
   "f": "9543(C)",
   "t": "Activities of Antonin Kolacek",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-8",
+    "id": "smpa-files-8",
+    "m": "D-number on cover (smp-files transcription) (\"D9543 (c)\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=8",
+    "p": 6
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
@@ -81944,6 +83967,16 @@
     "p": "252",
     "fn": "36"
    }
+  ],
+  "lm": "auto: D-number on cover (smp-files transcription)",
+  "lev": "D9543 (c)",
+  "sub": [
+   "ESP",
+   "FOR",
+   "FOR.european",
+   "FOR.german",
+   "LIA",
+   "LIA.french"
   ]
  },
  {
@@ -82037,13 +84070,30 @@
   "roll": "59",
   "f": "9562(C)",
   "t": "Fritz Whitsak",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-1772",
+    "id": "smpa-files-1772",
+    "m": "D-number on cover (smp-files transcription) (\"D 9562(c)\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=1772",
+    "p": 2
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: D-number on cover (smp-files transcription)",
+  "lev": "D 9562(c)",
+  "sub": [
+   "FOR",
+   "FOR.german",
+   "JPN",
+   "JPN.ronin"
+  ]
  },
  {
   "s": "D",
@@ -82181,6 +84231,14 @@
     "id": "smpa-files-1740",
     "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=1740",
     "p": 3
+   },
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-1739",
+    "id": "smpa-files-1739",
+    "m": "D-number on cover (smp-files transcription) (\"D 9577 (c)\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=1739",
+    "p": 4
    }
   ],
   "ln": "",
@@ -82191,11 +84249,14 @@
   "n": "",
   "lm": "auto: title match (weak)",
   "chk": "unsure",
+  "lev": "D 9577 (c)",
   "sub": [
    "FOR",
    "FOR.british",
    "MIG",
    "MIG.movements",
+   "RUS",
+   "RUS.individuals",
    "VIC",
    "VIC.prostitution"
   ]
@@ -83130,13 +85191,32 @@
   "roll": "59",
   "f": "9901",
   "t": "Mrs. L. N. Cherkassky and Mr. & Mrs. D'Almeida",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-120",
+    "id": "smpa-files-120",
+    "m": "D-number on cover (smp-files transcription) (\"D 9901\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=120",
+    "p": 16
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: D-number on cover (smp-files transcription)",
+  "lev": "D 9901",
+  "sub": [
+   "FOR",
+   "FOR.consular",
+   "MIG",
+   "MIG.visas",
+   "RUS",
+   "RUS.individuals"
+  ]
  },
  {
   "s": "D",

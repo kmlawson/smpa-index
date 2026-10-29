@@ -267,7 +267,8 @@ if extra.exists():
             r = records[i]
             if any(l.get("id") == row["ia_id"] for l in r["links"]):
                 continue
-            l = {"t": "file", "u": "https://archive.org/details/" + row["ia_id"], "id": row["ia_id"]}
+            l = {"t": "file", "u": "https://archive.org/details/" + row["ia_id"], "id": row["ia_id"],
+                 "m": row["method"].replace("auto: ", "") + (f' ("{row["evidence"]}")' if row.get("evidence") else "")}
             n = row["ia_id"].split("-")[-1]
             if n in smp_ids:
                 l["smp"] = "https://ray-bot-ai.github.io/smp-files/file.html?id=" + n

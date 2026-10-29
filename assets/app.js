@@ -214,7 +214,7 @@
     add("Tags", esc(r.tags));
     if (!ctl.inl.checked) add("Notes", esc(r.n));
     const ls = r.links.map((l) => {
-      if (l.t === "file") return `<a href="${esc(l.u)}" target="_blank" rel="noopener">Internet Archive: ${esc(l.id)}</a>${l.p ? ` <span class="muted">(${l.p} ${l.p === 1 ? "page" : "pages"})</span>` : ""}` + (l.smp ? ` · <a href="${esc(l.smp)}" target="_blank" rel="noopener">smp-files transcription</a>` : "");
+      if (l.t === "file") return `<a href="${esc(l.u)}" target="_blank" rel="noopener">Internet Archive: ${esc(l.id)}</a>${l.p ? ` <span class="muted">(${l.p} ${l.p === 1 ? "page" : "pages"})</span>` : ""}${l.m ? ` <span class="muted">– added later: ${esc(l.m)}</span>` : ""}` + (l.smp ? ` · <a href="${esc(l.smp)}" target="_blank" rel="noopener">smp-files transcription</a>` : "");
       if (l.t === "roll") {
         const ia = S.rolls.find((x) => x.n === l.roll);
         return `<a href="${esc(l.u)}" target="_blank" rel="noopener">Roll ${l.roll}${l.page != null ? ", image " + l.page : ""}</a>` + (ia ? ` <span class="muted">(${esc(ia.cov)})</span>` : "");
