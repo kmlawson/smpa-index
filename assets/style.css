@@ -78,6 +78,7 @@ tbody tr.r:hover{background:var(--hit)}
 tbody td{padding:7px 10px;vertical-align:top}
 td.c-file{white-space:nowrap;font-variant-numeric:tabular-nums}
 td.c-file .g{display:inline-block;min-width:2.4em;color:var(--muted);font-size:12px}
+.inote{color:var(--muted);font-size:13px;margin-top:3px;line-height:1.4}
 td.c-year,td.c-roll{white-space:nowrap;color:var(--muted)}
 td.c-links{white-space:normal;min-width:9em}
 mark{background:var(--hit);color:inherit;border-radius:2px;padding:0 1px}

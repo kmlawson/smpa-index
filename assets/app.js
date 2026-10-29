@@ -42,7 +42,7 @@
   // ------------------------------------------------------------ state <-> hash
   const ctl = {
     q: $("#q"), field: $("#field"), grp: $("#grp"), roll: $("#roll"), y1: $("#y1"), y2: $("#y2"),
-    undated: $("#undated"), link: $("#link"), src: $("#src"), cited: $("#cited"), smp: $("#smp"), pp: $("#pp"),
+    undated: $("#undated"), link: $("#link"), src: $("#src"), cited: $("#cited"), smp: $("#smp"), inl: $("#inl"), pp: $("#pp"),
   };
   let st = { sort: "", dir: 1, page: 1, open: [], show: "" };
 
@@ -59,6 +59,7 @@
     ctl.src.value = h.get("src") || "";
     ctl.cited.checked = h.get("c") === "1";
     ctl.smp.checked = h.get("smp") === "1";
+    ctl.inl.checked = h.get("nn") !== "0";
     ctl.pp.value = h.get("pp") || "100";
     st.sort = h.get("sort") || "";
     st.dir = h.get("dir") === "-1" ? -1 : 1;
@@ -71,7 +72,7 @@
     const set = (k, v, d) => { if (v !== "" && v != null && v !== d) h.set(k, v); };
     set("q", ctl.q.value.trim()); set("f", ctl.field.value, "all"); set("g", ctl.grp.value); set("r", ctl.roll.value);
     set("y1", ctl.y1.value); set("y2", ctl.y2.value); if (!ctl.undated.checked) h.set("u", "0");
-    set("l", ctl.link.value); set("src", ctl.src.value); if (ctl.cited.checked) h.set("c", "1"); if (ctl.smp.checked) h.set("smp", "1");
+    set("l", ctl.link.value); set("src", ctl.src.value); if (ctl.cited.checked) h.set("c", "1"); if (ctl.smp.checked) h.set("smp", "1"); if (!ctl.inl.checked) h.set("nn", "0");
     set("pp", ctl.pp.value, "100"); set("sort", st.sort); if (st.dir === -1) h.set("dir", "-1"); if (st.page > 1) h.set("p", st.page);
     if (st.open.length) h.set("open", st.open.join(",")); set("id", st.show);
     const s = h.toString().replace(/%2C/g, ",").replace(/%3A/g, ":");
@@ -198,7 +199,7 @@
     add("Date", esc(r.d));
     add("Pages", r.pg ? String(r.pg) : "");
     add("Tags", esc(r.tags));
-    add("Notes", esc(r.n));
+    if (!ctl.inl.checked) add("Notes", esc(r.n));
     const ls = r.links.map((l) => {
       if (l.t === "file") return `<a href="${esc(l.u)}" target="_blank" rel="noopener">Internet Archive: ${esc(l.id)}</a>` + (l.smp ? ` · <a href="${esc(l.smp)}" target="_blank" rel="noopener">smp-files transcription</a>` : "");
       if (l.t === "roll") {
@@ -237,7 +238,7 @@
     slice.forEach((r) => {
       html.push(`<tr class="r" data-i="${r.i}" tabindex="0">` +
         `<td class="c-file">${fileLabel(r)}</td>` +
-        `<td class="c-title">${hl(r.t || "(no title)", terms, ["", "title"])}${r.cite ? ` <span class="pill cite" title="Cited in scholarship">cited</span>` : ""}</td>` +
+        `<td class="c-title">${hl(r.t || "(no title)", terms, ["", "title"])}${r.cite ? ` <span class="pill cite" title="Cited in scholarship">cited</span>` : ""}${ctl.inl.checked && r.n ? `<div class="inote">${hl(r.n, terms, ["", "notes"])}</div>` : ""}</td>` +
         `<td class="c-year">${esc(r.d || (r.y || ""))}</td>` +
         `<td class="c-roll">${esc(r.roll)}</td>` +
         `<td class="c-links">${pills(r)}</td></tr>`);
@@ -359,7 +360,7 @@
   // ------------------------------------------------------------ index controls
   function resetControls() {
     ctl.q.value = ""; ctl.field.value = "all"; ctl.grp.value = ""; ctl.roll.value = ""; ctl.y1.value = ""; ctl.y2.value = "";
-    ctl.undated.checked = true; ctl.link.value = ""; ctl.src.value = ""; ctl.cited.checked = false; ctl.smp.checked = false;
+    ctl.undated.checked = true; ctl.link.value = ""; ctl.src.value = ""; ctl.cited.checked = false; ctl.smp.checked = false; ctl.inl.checked = true;
     st.sort = ""; st.dir = 1; st.page = 1; st.show = "";
   }
   GROUPS.forEach((g) => {
@@ -372,6 +373,7 @@
   ctl.q.addEventListener("input", () => { clearTimeout(timer); timer = setTimeout(() => { st.page = 1; st.show = ""; render(); }, 150); });
   ["field", "grp", "roll", "y1", "y2", "undated", "link", "src", "cited", "smp", "pp"].forEach((k) =>
     ctl[k].addEventListener("change", () => { st.page = 1; st.show = ""; render(); }));
+  ctl.inl.addEventListener("change", render);
   $("#reset").addEventListener("click", () => { resetControls(); render(); });
   $("#prev").addEventListener("click", () => { st.page--; render(); $("#search").scrollIntoView(); });
   $("#next").addEventListener("click", () => { st.page++; render(); $("#search").scrollIntoView(); });
