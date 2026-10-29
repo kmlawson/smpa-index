@@ -131,3 +131,4 @@ ul.unl li{margin:3px 0}
 button.pill.subj{border:1px solid var(--line);background:var(--chip);color:var(--ink);cursor:pointer;font:inherit;font-size:12px}
 button.pill.subj.top{background:var(--accent);color:var(--accent-ink);border-color:var(--accent)}
 .row2 #subj{max-width:15em}
+option.subj-main{font-weight:600}

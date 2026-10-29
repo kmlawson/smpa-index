@@ -398,8 +398,9 @@
   const scount = {};
   R.forEach((r) => r.sub.forEach((t) => { scount[t] = (scount[t] || 0) + 1; }));
   S.vocab.forEach((t) => {
-    ctl.subj.insertAdjacentHTML("beforeend", `<optgroup label="${esc(t.label)}"><option value="${t.id}">${esc(t.label)} – all (${scount[t.id] || 0})</option>` +
-      t.c.map((c) => `<option value="${c.id}">${esc(c.label)} (${scount[c.id] || 0})</option>`).join("") + `</optgroup>`);
+    // main subjects are selectable themselves; their specific subjects follow, indented
+    ctl.subj.insertAdjacentHTML("beforeend", `<option value="${t.id}" class="subj-main">■ ${esc(t.label)} (${scount[t.id] || 0})</option>` +
+      t.c.map((c) => `<option value="${c.id}">\u00a0\u00a0\u00a0\u00a0${esc(c.label)} (${scount[c.id] || 0})</option>`).join(""));
   });
   $("#subjects").innerHTML =
     `<p>Each file with an individual scan has been given subject tags from a controlled vocabulary of ${S.vocab.length} broad subjects and ${S.vocab.reduce((n, t) => n + t.c.length, 0)} specific ones. Click a subject to list its files, or choose one from the <b>Subject</b> filter. Each heading is mapped to the closest <a href="https://www.oclc.org/research/areas/data-science/fast.html" target="_blank" rel="noopener">OCLC FAST</a> headings in the vocabulary file.</p>` +
