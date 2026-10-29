@@ -295,7 +295,7 @@
 
     $("#bib").innerHTML = S.bibliography.intro.map((p) => `<p>${p}</p>`).join("") + `<ul class="bib">${S.bibliography.items.map((i) => `<li>${i}</li>`).join("")}</ul>`;
     $("#resources").innerHTML =
-      `<p><b>Complementary resource:</b> <a href="https://ray-bot-ai.github.io/smp-files/" target="_blank" rel="noopener">SMP Files: full-text transcriptions and Chinese translations</a> by YANG Rui. Every individual file on the Internet Archive has been re-transcribed page by page with a vision language model and translated into Chinese, in a searchable site that links back to the original scans. Files in this index that have a transcription there carry an <span class="pill smp">smp-files</span> link.</p>` +
+      `<p><b>Complementary resource:</b> <a href="https://ray-bot-ai.github.io/smp-files/" target="_blank" rel="noopener">SMP Files: full-text transcriptions and Chinese translations</a>, built by Rui Yang (杨睿). Every individual file on the Internet Archive has been re-transcribed page by page with a vision language model and translated into Chinese, in a searchable site that links back to the original scans. Files in this index that have a transcription there carry an <span class="pill smp">smp-files</span> link.</p>` +
       `<ul>${S.resources.map((i) => `<li>${i}</li>`).join("")}</ul>`;
 
     const fn = S.filenote;
