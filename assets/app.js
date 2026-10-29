@@ -268,9 +268,12 @@
     $("#empty").hidden = n > 0;
     const withFile = results.filter((r) => r.hasFile).length;
     $("#count").textContent = `${n.toLocaleString()} of ${R.length.toLocaleString()} files · ${withFile.toLocaleString()} with an individual scan on the Internet Archive`;
-    $("#pageinfo").textContent = `${st.page} / ${pages}`;
-    $("#prev").disabled = st.page <= 1;
-    $("#next").disabled = st.page >= pages;
+    ["", "2"].forEach((k) => {  // pagers above and below the table
+      $("#pageinfo" + k).textContent = `${st.page} / ${pages}`;
+      $("#prev" + k).disabled = st.page <= 1;
+      $("#next" + k).disabled = st.page >= pages;
+    });
+    $(".status.bottom").hidden = pages <= 1;
     document.querySelectorAll("#search thead th").forEach((th) => {
       th.querySelector(".arrow").textContent = th.dataset.k === st.sort ? (st.dir > 0 ? "▲" : "▼") : "";
     });
@@ -411,8 +414,10 @@
     ctl[k].addEventListener("change", () => { st.page = 1; st.show = ""; render(); }));
   ctl.inl.addEventListener("change", render);
   $("#reset").addEventListener("click", () => { resetControls(); render(); });
-  $("#prev").addEventListener("click", () => { st.page--; render(); $("#search").scrollIntoView(); });
-  $("#next").addEventListener("click", () => { st.page++; render(); $("#search").scrollIntoView(); });
+  ["", "2"].forEach((k) => {
+    $("#prev" + k).addEventListener("click", () => { st.page--; render(); $("#search").scrollIntoView(); });
+    $("#next" + k).addEventListener("click", () => { st.page++; render(); $("#search").scrollIntoView(); });
+  });
   document.querySelectorAll("#search thead th").forEach((th) => th.addEventListener("click", () => {
     const k = th.dataset.k;
     if (st.sort === k) { if (st.dir === 1) st.dir = -1; else { st.sort = ""; st.dir = 1; } }

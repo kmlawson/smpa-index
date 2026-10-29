@@ -69,6 +69,7 @@ button{cursor:pointer}
 .status .right{display:flex;gap:8px;align-items:center;flex-wrap:wrap}
 .status button{font-size:13px;padding:5px 9px}
 .pager{display:flex;gap:6px;align-items:center}
+.status.bottom{margin:10px 0 0}
 
 /* results table */
 .tablewrap{background:var(--panel);border:1px solid var(--line);border-radius:10px;overflow:hidden}
