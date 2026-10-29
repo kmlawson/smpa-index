@@ -49,6 +49,9 @@ section.md p{margin:6px 0 10px}
 .minitable td.num{text-align:right;font-variant-numeric:tabular-nums}
 .linkish{background:none;border:0;padding:0;color:var(--link);cursor:pointer;font:inherit;text-decoration:underline}
 .muted{color:var(--muted)}
+td.grp{white-space:nowrap}
+.outlink{color:var(--file-ink);background:var(--file-bg);border-radius:4px;padding:1px 3px;margin-left:4px;vertical-align:-2px;display:inline-flex}
+.outlink:hover{filter:brightness(.95)}
 .bib li{text-indent:-1.3em;padding-left:1.3em;list-style:none}
 
 /* index controls */

@@ -251,7 +251,7 @@
     $("#pageinfo").textContent = `${st.page} / ${pages}`;
     $("#prev").disabled = st.page <= 1;
     $("#next").disabled = st.page >= pages;
-    document.querySelectorAll("thead th").forEach((th) => {
+    document.querySelectorAll("#search thead th").forEach((th) => {
       th.querySelector(".arrow").textContent = th.dataset.k === st.sort ? (st.dir > 0 ? "▲" : "▼") : "";
     });
     writeHash();
@@ -269,16 +269,19 @@
       `<p>The rolls on the Internet Archive are mirrors of the scans in the <a href="https://www.bnasie.eu/BN/Archives" target="_blank" rel="noopener">Bibliothèque Numérique Asiatique</a> collection; read more about their digitisation in <a href="https://enepchina.hypotheses.org/3450" target="_blank" rel="noopener">this post by Christian Henriot</a>. The individual files, which are often clearer to read but sometimes miss pages, are <a href="https://archive.org/search?query=Subject%3A%28Police+Files%29+AND+Subject%3A%28SMPA%29+AND+Subject%3A%28Shanghai+Municipal+Police%29" target="_blank" rel="noopener">listed here</a>.</p>` +
       `<p class="muted">Do not assume that rolls follow a chronological order. Files with very few pages are sometimes filmed together with a neighbouring file, so if a file seems to be missing, check its vicinity.</p>` +
       `<table class="minitable"><thead><tr><th>Roll</th><th>Files and dates</th><th>Internet Archive</th><th>In this index</th></tr></thead><tbody>` +
-      S.rolls.map((r) => `<tr><td class="num">${r.n}</td><td>${esc(r.cov)}</td><td>${r.ia ? `<a href="https://archive.org/details/${r.ia}" target="_blank" rel="noopener">${esc(r.ia)}</a>` : '<span class="muted">not online</span>'}</td><td>${cnt(r.n) ? `<button class="linkish" data-roll="${r.n}">${cnt(r.n)} files</button>` : '<span class="muted">–</span>'}</td></tr>`).join("") +
+      S.rolls.map((r) => `<tr><td class="num">${r.n}</td><td>${esc(r.cov)}</td><td>${r.ia ? `<a href="https://archive.org/details/${r.ia}" target="_blank" rel="noopener">${esc(r.ia)}</a>` : '<span class="muted">not online</span>'}</td><td>${cnt(r.n) ? `<a href="#r=${r.n}" data-roll="${r.n}">${cnt(r.n)} files</a>` : '<span class="muted">–</span>'}</td></tr>`).join("") +
       `</tbody></table>`;
 
     const info = Object.fromEntries(S.groups.map((g) => [g.g, g]));
+    // groups whose individual files carry a "<group> Files" subject tag on the Internet Archive
+    const IA_TAGGED = ["D", "IO", "N", "U", "CS", "W"];
+    const OUT_ICON = `<svg viewBox="0 0 16 16" width="14" height="14" aria-hidden="true"><path fill="currentColor" d="M9 2h5v5h-1.5V4.6L7.1 10 6 8.9l5.4-5.4H9V2zM3 4h4v1.5H4.5v6h6V9H12v4H3V4z"/></svg>`;
     $("#groups").innerHTML =
       `<p>The vast majority of the files are in four groups, D, IO, N and U, with D files by far the largest.</p>` +
       `<table class="minitable"><thead><tr><th>Group</th><th>Description</th><th>Rolls</th><th>Files</th><th>Individual scan</th><th>Roll page only</th></tr></thead><tbody>` +
       GROUPS.map((g) => {
         const rs = R.filter((r) => r.s === g), f = rs.filter((r) => r.hasFile).length, ro = rs.filter((r) => !r.hasFile && r.hasRoll).length;
-        return `<tr><td><button class="linkish" data-grp="${g}">${g}</button></td><td>${esc((info[g] && info[g].desc) || S.group_desc[g])}</td><td>${esc((info[g] && info[g].rolls) || "")}</td><td class="num">${rs.length}</td><td class="num">${f}</td><td class="num">${ro}</td></tr>`;
+        return `<tr><td class="grp"><a href="#g=${g}" data-grp="${g}" title="Show all ${g} files in the index">${g}</a>${IA_TAGGED.includes(g) ? ` <a class="outlink" href="https://archive.org/search?query=${encodeURIComponent(`subject:"${g} Files" AND subject:SMPA`)}" target="_blank" rel="noopener" title="Individual ${g} files on the Internet Archive">${OUT_ICON}</a>` : ""}</td><td>${esc((info[g] && info[g].desc) || S.group_desc[g])}</td><td>${esc((info[g] && info[g].rolls) || "")}</td><td class="num">${rs.length}</td><td class="num">${f}</td><td class="num">${ro}</td></tr>`;
       }).join("") + `</tbody></table>` +
       GROUPS.filter((g) => S.group_intros[g] && S.group_intros[g].length).map((g) =>
         `<h3>${g} files</h3>` + S.group_intros[g].filter((p) => !/must be viewed with great care/.test(p)).map((p) => `<p>${p}</p>`).join("")).join("");
@@ -347,6 +350,7 @@
   document.addEventListener("click", (e) => {
     const b = e.target.closest("[data-roll],[data-grp],[data-q],[data-cited],[data-open]");
     if (!b) return;
+    e.preventDefault();
     if (b.dataset.open) { toggle(b.dataset.open, true); return; }
     resetControls();
     if (b.dataset.roll) ctl.roll.value = b.dataset.roll;
@@ -354,7 +358,7 @@
     if (b.dataset.q) ctl.q.value = b.dataset.q;
     if (b.dataset.cited) ctl.cited.checked = true;
     st.page = 1; st.show = ""; render();
-    $("#search").scrollIntoView({ behavior: "smooth" });
+    $("#search").scrollIntoView();  // jump straight to the results
   });
 
   // ------------------------------------------------------------ index controls
@@ -377,7 +381,7 @@
   $("#reset").addEventListener("click", () => { resetControls(); render(); });
   $("#prev").addEventListener("click", () => { st.page--; render(); $("#search").scrollIntoView(); });
   $("#next").addEventListener("click", () => { st.page++; render(); $("#search").scrollIntoView(); });
-  document.querySelectorAll("thead th").forEach((th) => th.addEventListener("click", () => {
+  document.querySelectorAll("#search thead th").forEach((th) => th.addEventListener("click", () => {
     const k = th.dataset.k;
     if (st.sort === k) { if (st.dir === 1) st.dir = -1; else { st.sort = ""; st.dir = 1; } }
     else { st.sort = k; st.dir = 1; }
