@@ -1,0 +1,9 @@
+[[start|Home]] | [[D Files|D]] | [[N Files|N]] | [[U Files|U]] | [[W Files|W]] | [[FMP Files|FMP]] | [[BW Files|BW]] | [[CS Files|CS]] | [[SMP File|SMP]] | [[FC Files|FC]] | [[H Files|H]] | [[IO Files|IO]] | [[CID Files|CID]] | [[MIS Files|MIS]]
+
+====== W Files Station W (Western area) Files======
+
+These two files can be found in Roll 63
+
+^ Box ^ Roll ^ File  ^ Folder Title/Contents ^ Link ^ Tags ^ Date ^ Notes ^ Pages ^
+| 117 | 63 | 1171 | Kyung Chang            |https://archive.org/details/smpa-files-3195      |      |1929.10.14       |name of ship       |2 |
+| 117 | 63 | 617  | Lai Tsai Kung          |https://archive.org/details/smpa-files-3196      |      |1929.8.18       |       |4 |

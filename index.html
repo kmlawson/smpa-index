@@ -1,0 +1,99 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Shanghai Municipal Police Files</title>
+<meta name="description" content="A searchable, filterable index of the Shanghai Municipal Police archive files (NARA M1750) with links to the scans on the Internet Archive.">
+<link rel="stylesheet" href="assets/style.css">
+<script>try{var t=localStorage.getItem("smpa-theme");if(t)document.documentElement.dataset.theme=t}catch(e){}</script>
+</head>
+<body>
+<div class="wrap">
+<header class="site">
+  <h1 id="home" tabindex="0" title="Back to the opening view">Shanghai Municipal Police Files</h1>
+  <p class="lede">An index of the files in the Shanghai Municipal Police archive microfilm (NARA M1750, 67 rolls), with links to the scans of individual files and of the full rolls on the Internet Archive. Choose a heading to open it, or search the file index below.</p>
+</header>
+
+<nav class="jumps" aria-label="Sections">
+  <button type="button" class="jump openall" data-target="all" aria-expanded="false">Open All</button>
+  <button type="button" class="jump" data-target="s-about" aria-expanded="false">About</button>
+  <button type="button" class="jump" data-target="s-rolls" aria-expanded="false">Microfilm Rolls</button>
+  <button type="button" class="jump" data-target="s-groups" aria-expanded="false">File Groups</button>
+  <button type="button" class="jump" data-target="s-cited" aria-expanded="false">Files Cited in Scholarship</button>
+  <button type="button" class="jump" data-target="s-bib" aria-expanded="false">Bibliography</button>
+  <button type="button" class="jump" data-target="s-resources" aria-expanded="false">Other Resources</button>
+  <button type="button" class="jump" data-target="s-filenotes" aria-expanded="false">File Notes</button>
+  <button type="button" class="jump search" data-target="search">File Index</button>
+  <span class="dl-label">Download:</span>
+  <a class="jump dl" href="downloads/smpa-files.csv" download title="Every file in the index, as CSV">CSV</a>
+  <a class="jump dl" href="downloads/smpa-files.json" download title="Every file in the index, as JSON">JSON</a>
+</nav>
+
+<section class="md" id="s-about" hidden><h2 tabindex="0" title="Hide this section">About</h2><div class="body" id="about"></div></section>
+<section class="md" id="s-rolls" hidden><h2 tabindex="0" title="Hide this section">Microfilm Rolls</h2><div class="body" id="rolls"></div></section>
+<section class="md" id="s-groups" hidden><h2 tabindex="0" title="Hide this section">File Groups</h2><div class="body" id="groups"></div></section>
+<section class="md" id="s-cited" hidden><h2 tabindex="0" title="Hide this section">Files Cited in Scholarship</h2><div class="body" id="cited"></div></section>
+<section class="md" id="s-bib" hidden><h2 tabindex="0" title="Hide this section">Bibliography</h2><div class="body" id="bib"></div></section>
+<section class="md" id="s-resources" hidden><h2 tabindex="0" title="Hide this section">Other Resources</h2><div class="body" id="resources"></div></section>
+<section class="md" id="s-filenotes" hidden><h2 tabindex="0" title="Hide this section">File Notes</h2><div class="body" id="filenotes"></div></section>
+
+<section id="search">
+  <h2>File Index</h2>
+  <div class="controls">
+    <div class="row1">
+      <input id="q" type="search" placeholder='Search titles, notes, tags… (e.g. noulens, "white russian", file:D8039A, -japanese)' autocomplete="off" aria-label="Search">
+      <select id="field" title="Where to search" aria-label="Search field">
+        <option value="all">All fields</option><option value="title">Title</option><option value="notes">Notes &amp; tags</option><option value="file">File number</option>
+      </select>
+      <button id="reset" type="button" title="Clear all filters">Reset</button>
+      <button id="theme" type="button" title="Toggle light / dark" aria-label="Toggle light or dark theme">◐</button>
+    </div>
+    <div class="row2">
+      <label>Group <select id="grp"><option value="">All</option></select></label>
+      <label>Roll <select id="roll"><option value="">All</option></select></label>
+      <label>Year <input id="y1" type="number" min="1890" max="1950" placeholder="from"> – <input id="y2" type="number" min="1890" max="1950" placeholder="to"></label>
+      <label><input id="undated" type="checkbox" checked> undated</label>
+      <label>Scan <select id="link">
+        <option value="">Any</option><option value="file">Individual file on IA</option><option value="roll">Roll page only</option><option value="any">Any scan link</option><option value="none">No link yet</option>
+      </select></label>
+      <label>Link source <select id="src">
+        <option value="">Any</option><option value="wiki">Wiki</option><option value="auto">Auto-matched</option>
+      </select></label>
+      <label><input id="cited" type="checkbox"> cited in scholarship</label>
+      <label><input id="smp" type="checkbox"> has smp-files transcription</label>
+      <label>Per page <select id="pp"><option>50</option><option selected>100</option><option>250</option><option>1000</option><option value="all">All</option></select></label>
+    </div>
+  </div>
+  <div class="status">
+    <div id="count">Loading…</div>
+    <div class="right">
+      <button id="csv" type="button" title="Download the current result list as CSV">Export CSV</button>
+      <div class="pager"><button id="prev" type="button">‹ Prev</button><span id="pageinfo"></span><button id="next" type="button">Next ›</button></div>
+    </div>
+  </div>
+  <div class="tablewrap">
+    <table>
+      <thead><tr>
+        <th data-k="file">File<span class="arrow"></span></th>
+        <th data-k="title">Title<span class="arrow"></span></th>
+        <th data-k="year" class="c-year">Date<span class="arrow"></span></th>
+        <th data-k="roll" class="c-roll">Roll<span class="arrow"></span></th>
+        <th data-k="links">Scans<span class="arrow"></span></th>
+      </tr></thead>
+      <tbody id="rows"></tbody>
+    </table>
+    <div class="empty" id="empty" hidden>No files match.</div>
+  </div>
+  <footer class="help">
+    <p>Words are ANDed, and case and diacritics are ignored. Put a phrase in quotes, use <code>-word</code> to exclude a word, and use the prefixes <code>title:</code>, <code>notes:</code>, <code>tags:</code> and <code>file:</code> (e.g. <code>file:D8039A</code>, <code>file:IO5</code>) to search one field. Click a column heading to sort, or click a row for full details: every link, notes, page count and the books that cite the file. The filters and search are kept in the address bar, so a view can be bookmarked or shared.</p>
+    <p><b>Links.</b> <span class="pill file">IA file</span> is a scan of the individual file on the Internet Archive, usually the clearest copy. <span class="pill roll">Roll 12 p.345</span> opens the full microfilm roll at that page; rolls sometimes include pages that are missing from the individual files. <span class="pill smp">smp-files</span> opens a fresh transcription and Chinese translation of the file on the <a href="https://ray-bot-ai.github.io/smp-files/" target="_blank" rel="noopener">smp-files</a> project.</p>
+    <p><b>Auto-matched links.</b> Most D-file links to individual files were added by matching the NARA folder titles against the titles of the Internet Archive items. Where the title also carries the D-number, or where the file's cover was checked, the details say so. Links marked <span class="pill auto">auto</span> are very likely right, but have not all been checked by hand; the details panel shows how each was matched.</p>
+    <p class="warnnote">Keep in mind that claims in these documents must be read with great care. SMP police records are full of stereotypes, rumour, gossip, slander and unsubstantiated claims about the people they report on.</p>
+  </footer>
+</section>
+</div>
+<script src="data/data.js"></script>
+<script src="assets/app.js"></script>
+</body>
+</html>

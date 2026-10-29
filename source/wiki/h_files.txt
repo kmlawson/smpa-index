@@ -1,0 +1,10 @@
+[[start|Home]] | [[D Files|D]] | [[N Files|N]] | [[U Files|U]] | [[W Files|W]] | [[FMP Files|FMP]] | [[BW Files|BW]] | [[CS Files|CS]] | [[SMP File|SMP]] | [[FC Files|FC]] | [[H Files|H]] | [[IO Files|IO]] | [[CID Files|CID]] | [[MIS Files|MIS]]
+
+====== H Files Headquarters Staff ======
+
+These three files are said to be in Roll 63. Only one seems to be clearly labelled.
+
+^ Box ^ Roll ^ File  ^ Folder Title/Contents                              ^ Link ^ Tags ^ Date ^ Notes ^ Pages ^
+| 119 |  -  | 1656C | [[Princess Sumaire (Patiala) full name Rajkumari Sumair Apjit Singh]] |https://archive.org/details/smpa-63/page/n221/mode/2up \\ https://archive.org/details/smpa-63/page/n221/mode/2up     |      |1941       |      |18 | 
+| 119 |  -  | 2-YZ | 1286 Lax Gabriel                                     |      |      |      |       | | 
+| 119 |  -  | 2-YZ | 1322 Garbe Alexandra                                 |      |      |       |       | | 

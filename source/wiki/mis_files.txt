@@ -1,0 +1,32 @@
+[[start|Home]] | [[D Files|D]] | [[N Files|N]] | [[U Files|U]] | [[W Files|W]] | [[FMP Files|FMP]] | [[BW Files|BW]] | [[CS Files|CS]] | [[SMP File|SMP]] | [[FC Files|FC]] | [[H Files|H]] | [[IO Files|IO]] | [[CID Files|CID]] | [[MIS Files|MIS]]
+
+====== MIS Files ======
+
+These 23 files can be found on Roll 67.
+
+<datatables>
+^ Box ^ Roll ^ File ^ Folder Title/Contents ^ Link ^ Tags ^ Date ^ Notes ^ Pages ^
+| 112 | 67 | 1 | Summary of the arrest in July 1925 of 31 Communists attached to principal organs of the Shanghai Branch of the Central Committee of the Chinese Communist Party |      |       |       |       | | 
+| 112 | - | 2A | "Notes on Bolshevist Activities in Shanghai" |      |       |       |       | | 
+| 112 | - | 2B | "Notes on Bolshevist Movement in Shanghai" |      |       |       |       | | 
+| 112 | - | 3A | Extract from daily report Dec. 2 1924 |      |       |       |       | | 
+| 112 | - | 3B | Shanghai University personnel |      |       |       |       | | 
+| 112 | - | 3C | Extract from daily report Feb. 9 1925 |      |       |       |       |  |
+| 112 | - | 4  | Diplomatic consular military and naval staff |      |       |       |       | | 
+| 112 | - | 5  | List of Soviet officials and private residents engaged in secret intelligence work in Shanghai |   |     |       |       |       |
+| 112 | - | 6  | Sino-British Treaty - Jan. 11 1943 |      |       |     |    |       |
+| 112 | - | 7  | Alleged unorthodox factory inspection now explained |    |    |       |       |       |
+| 112 | - | 8  | Buron Fitts district attorney for Los Angeles County |    |    |       |       |       |
+| 112 | - | 9  | Voting list - foreign settlement of Shanghai |      |    |     |       |       |
+| 112 | - | 10 | Statement prepared by the China Association London |    |    |       |       |       |
+| 112 | - | 11 | Illarion Nikolaevitch Masloff |      |       |       |   |      |
+| 112 | - | 12 | Foreign members of the Shanghai International Peace Association |   |     |       |       |       |
+| 112 | - | 13 | Shanghai in General Strike May-June 1925 |      |       |       |   |      |
+| 112 | - | 14 | Monthly report - labor ? |      |       |       |       | | 
+| 112 | - | 15 | Translation of French police report - July 11, 1935 |      |   |      |       |       |
+| 112 | - | 16 | Sung Zung Yoong |      |       |       |       | | 
+| 112 | - | 17 | Russian Emigrants Committee |      |       |       |    |     |
+| 112 | - | 18 | All-Union Association "Intourist" |      |       |    |     |       |
+| 112 | - | 19 | Gogel S. |      |       |       |      |   |
+| 112 | - | 20 | T'Yen-Han alias Shou Cb'ang |      |     |    |       |       |
+</datatables>

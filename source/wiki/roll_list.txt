@@ -1,0 +1,91 @@
+[[start|Home]] | [[D Files|D]] | [[N Files|N]] | [[U Files|U]] | [[IO Files|IO]] | [[W Files|W]] | [[FMP Files|FMP]] | [[BW Files|BW]] | [[CS Files|CS]] | [[SMP File|SMP]] | [[FC Files|FC]] | [[H Files|H]] | [[CID Files|CID]] | [[MIS Files|MIS]]
+
+====== Roll Categories and List ======
+
+
+  * D Files - Reports of Special Branch between 1929-1949  
+  * IO Files - Reports made 1916-1929  
+  * MIS Files  
+  * N Files - Reports made 1943-1945 during the Japanese Occupation  
+  * U Files - Reports made 1940-1945 during the Japanese Occupation  
+  * W Files - Station W (Western area) files  
+  * FMP Files - French Municipal Files  
+  * BW Files - Bubbling Well Station Reports  
+  * CID Files - Criminal Intelligence Division  
+  * CS Files - Crime and Special Branch  
+  * SMP File  
+  * F Files - French Political Police  
+  * FC Files - Film Censorship  
+  * H Files - Headquarters Staff  
+
+===== Roll List =====
+
+^ Roll ^ File Numbers and Dates                                                    ^
+| 1    | D-1 thru D-106 1929                                                       |
+| 2    | D-107 thru D-655 1929                                                     |
+| 3    | D-655 1929 (continued)                                                    |
+| 4    | D-1192 1930 thru D-179 1/6 1935                                           |
+| 5    | D-179 1/6 1935 (continued) thru D-2325 1931                               |
+| 6    | D-2330 1937 thru D-2878 1931                                              |
+| 7    | D-2879 1931 thru D-3176-A 1932                                            |
+| 8    | D-3176-A 1932 (continued) thru D-3307 1932                                |
+| 9    | D-3307 1932 (continued) thru D-3390 1932                                  |
+| 10   | D-3406 1932 thru D-3522 1932                                              |
+| 11   | D-3525 1932 thru D-3914 1932                                              |
+| 12   | D-3922 1932 thru D-4176 Pt. 1 1933                                        |
+| 13   | D-4201 1934 thru D-4606 1935                                              |
+| 14   | D-4611 1934 thru D-4801 1933                                              |
+| 15   | D-4891 1940 thru D-5023 1940                                              |
+| 16   | D-5023 (continued) thru D-5310 No. 2 1933                                 |
+| 17   | D-5310 No. 3 1933 thru D-5422(2)-10 1939-41                               |
+| 18   | D-5422(C)-10 thru D-5501 1934                                             |
+| 19   | D-5502 1934 thru D-5703 1935                                              |
+| 20   | D-5703 1935 (continued) thru D-5836 1934                                  |
+| 21   | D-5838 1942 thru D-6225 1936                                               |
+| 22   | D-6225 1936 (continued) thru D-6593 1936                                  |
+| 23   | D-6593 1936 (continued) thru D-6813 1935-39                               |
+| 24   | D-6813 1935-1940 (continued)                                              |
+| 25   | D-6813 1938-1940 (continued) thru D-7042 1941                             |
+| 26   | D-7042 1941 (continued) thru D-7073 1935                                  |
+| 27   | D-7074 1935 thru D-7138 1937                                              |
+| 28   | D-7139 1935 thru D-7478                                                   |
+| 29   | D-7478 (continued) thru D-7538 1936                                       |
+| 30   | D-7538 1936 (continued) thru D-7580 1935-41                               |
+| 31   | D-7612 1935-41 thru D-7675 1936                                           |
+| 32   | D-7675 1936 (continued) thru D-7834 1941                                  |
+| 33   | D-7835 1937 thru D-7994 1937                                              |
+| 34   | D-7994 1937 (continued) thru D-8039A 1937                                 |
+| 35   | D-8039A 1937 (continued) thru D-8039A/30 1937-40                          |
+| 36   | D-8039A/32 1937-41 thru D-8030A/41(C)-O 1940                             |
+| 37   | D-8039A/41(C)-O 1941 thru D-8039A/5(2) 1937-41                           |
+| 38   | D-8039/5(3) 1940-41 thru D-8039A/5(0)-1 1937-41                           |
+| 39   | D-8039A/5(0)-1 1937-41 (continued) thru 8039A/5(0)-5 Part 2               |
+| 40   | D-8039A-5(0)-5 Part 2 1940-41 thru D-8089                                 |
+| 41   | D-8090 thru D-8149-C505 1940                                             |
+| 42   | D-8149 C505 (continued) thru D-8149-F 1943                                |
+| 43   | D-8149-F 1943 (continued) thru D-8155-D 1939                              |
+| 44   | D-8155-D 1939 (continued) thru D-8200A 1939                               |
+| 45   | D-8200 1939-40 thru D-8624(C) 1933-1937                                   |
+| 46   | D-8264(2) 1933-37 (continued) thru D-8264(7) 1939                         |
+| 47   | D-8264(7) 1939 (continued) thru D-8298 1938                               |
+| 48   | D-8298 1938 (continued) thru D-8299 1939                                  |
+| 49   | D-8299 1935 (continued) thru D-8371 1938                                  |
+| 50   | D-8372 1942 thru D-8590 1938                                               |
+| 51   | D-8587 1938 thru D-8707 1938                                               |
+| 52   | D-8707 1938 (continued) thru D-8839 1938                                  |
+| 53   | D-8843 1938 thru D-8984(C) 1940                                            |
+| 54   | D-8985(C) 1939 thru D-9128 1941                                            |
+| 55   | D-9128 1941 (continued) thru D-9209                                       |
+| 56   | D-9210 1939 thru D-9357 1939                                               |
+| 57   | D-9357 1939 (continued) thru D-9411/14(C) 1940                            |
+| 58   | D-9411/17(C) thru D-9646 1940                                              |
+| 59   | D-8986 1941 thru D-9944(C) 1940                                            |
+| 60   | D-9946 1940 thru N-362 1940                                                |
+| 61   | N-363 1940 thru N-1104 1942                                                |
+| 62   | N-1232 1941 thru U-4 1944                                                  |
+| 63   | U-352 1944 thru IO 861 IO 864 1917                                         |
+| 64   | IO 922 1935 thru IO 4989 1923                                              |
+| 65   | IO 5044 - 5195 1923 thru IO 6696-6701 1925                                 |
+| 66   | IO 6716-6722 1925 thru IO 9199 1928-29                                     |
+| 67   | IO 9199 1928-29 (continued) thru CID 10381 1925                           |
+

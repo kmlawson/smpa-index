@@ -1,0 +1,20 @@
+[[start|Home]] | [[D Files|D]] | [[N Files|N]] | [[U Files|U]] | [[W Files|W]] | [[FMP Files|FMP]] | [[BW Files|BW]] | [[CS Files|CS]] | [[SMP File|SMP]] | [[FC Files|FC]] | [[H Files|H]] | [[IO Files|IO]] | [[CID Files|CID]] | [[MIS Files|MIS]]
+
+====== F Files French Political Police ======
+
+These 11 files are found in Roll 63.
+
+<datatables>
+^ Box ^ Roll ^ File    ^ Folder Title/Contents                                   ^ Link ^ Tags ^ Date ^ Notes ^ Pages ^
+| 119 |  -  | 2-B-l  | Activities locales des parties politiques               |      |      |       |       | | 
+| 119 |  -  | 2-D-4  | Activities du groupement Trotzkiste                     |      |      |       |       | | 
+| 119 |  -  | 2-E-4  | Activities des groupements revolutionaires correns a Nanking |      |      |       |       | | 
+| 119 |  -  | 2-S-2  | Retour de Cecil Frank Glass a Shanghai                  |      |      |       |       | | 
+| 119 |  -  | 2-E-1  | Retter Heinrich                                         |      |      |       |       | | 
+| 119 |  -  | 2AV-2  | Renseignements sur Cecil Frank Glass, Mme. Grace Burton, Mlle. Pauline Mills |      |      |       |       | | 
+| 119 |  -  | 2-E-A  | Distribution de tracts Communistes a des militaires Anglais et Americans |      |      |       |       | | 
+| 119 |  -  | 2-E-7  | Articles re "Propaganda of Comintern in Shanghai"       |      |      |       |       | | 
+| 119 |  -  | 2-D-2  | Activities du groupement Trotzkiste A. Jovishoff        |      |      |       |       | | 
+| 119 |  -  | 2-B-2  | Hu Wen Hwei and M.F. Class                              |      |      |       |       | | 
+| 119 |  -  | 143    | Renseignements sur Langston Hughes                      |      |      |       |       | | 
+</datatables>

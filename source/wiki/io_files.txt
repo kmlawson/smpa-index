@@ -1,0 +1,611 @@
+[[start|Home]] | [[D Files|D]] | [[N Files|N]] | [[U Files|U]] | [[W Files|W]] | [[FMP Files|FMP]] | [[BW Files|BW]] | [[CS Files|CS]] | [[SMP File|SMP]] | [[FC Files|FC]] | [[H Files|H]] | [[IO Files|IO]] | [[CID Files|CID]] | [[MIS Files|MIS]]
+
+====== IO Files Reports made 1916-1929 ======
+
+The 595 IO Files are found in Roll 63 ([[https://archive.org/details/smpa-63|63]]). 
+
+It is important to keep in mind that any claims in these documents must be viewed with great care. SMP police records are filled with stereotypes, rumor, gossip, slander, and unsubstantiated claims about the individuals it reports on.
+
+When there are two links provided, links to the individual files on their own (as opposed to pages within the rolls) are often clearer images. However, sometimes the rolls include pages missing from the individual files so worth checking.
+
+[[https://archive.org/search?query=Subject%3A%28IO%20Files%29%20AND%20Subject%3A%28SMPA%29|Individual SMPA Files Tagged as IO Files]]
+
+<datatables>
+^ Box ^ Roll ^ File ^ Folder Title/Contents                                           ^ Link ^ Tags ^ Date ^ Notes ^ Pages ^
+| 99  | 63   | 1    | Loh Ka Ts Koh Pootung [Microfilm lists the following as cases 101-130] |https://archive.org/details/smpa-files-2173      |      |1st Jan 1916       |military information in Loh Ka Ta Koh 陆家嘴       |2 |
+| 99  | 63   | 2    | The Tax Office Jan. 2 1916 (Letter)                                 |      |      |       |       | |
+| 99  | 63   | 3    | Da Zah Bing                                                         |https://archive.org/details/smpa-files-2026      |      |3rd Jan 1916       |       |1 |
+| 99  | 63   | 8    | Ying Zen Sung                                                       |https://archive.org/details/smpa-files-2420      |      |Jan 1916       |       |1 |
+| 99  | 63   | 9    | Tsiang Ya Ying                                                      |https://archive.org/details/smpa-files-2364      |      |7th Feb 1916       |       |1 |
+| 99  | 63   | 10   | Shenpao                                                             |      |      |       |       | |
+| 99  | 63   | 12   | Zung Kau Chun                                                       |https://archive.org/details/smpa-files-2459      |Zung Kau Chun as a leader of an attack was shot at 2pm      |11th Jan 1916       |       |1 |
+| 99  | 63   | 13   | Lung Sau Wei                                                        |https://archive.org/details/smpa-files-2184      |      |12th Jan 1916       |       |1 |
+| 99  | 63   | 14   | Koh Ming Tang - Pay Dzung Sung                                      |https://archive.org/details/smpa-files-2132      |Pay Dzung Sung became a spy of the Chinese Government who stayed in Koh Ming Tang      |13th Jan 1916       |       |1 |
+| 99  | 63   | 15   | Mr. Stephorious                                                     |      |      |       |       | |
+| 99  | 63   | 16   | Ong Zung Zen                                                        |https://archive.org/details/smpa-files-2235      |      |15th Jan 1916       |       |1 |
+| 99  | 63   | 17   | Zee Ping Liang                                                      |https://archive.org/details/smpa-files-2453      |      |Jan 1916       |Nanking officials agreed to join the rebels; Zee Ping Liang was a rebel leader from Shanghai and was sent to Nanking to confer with a general about the situation in Yunnan       |3 |
+| 99  | 63   | 18   | Zee Koh Liang                                                       |      |      |       |       | |
+| 99  | 63   | 19   | Tsang Kuang Zah                                                     |https://archive.org/details/smpa-files-2352      |      |Jan 1916       |       |1 |
+| 99  | 63   | 20   | The Nielson Arms Case                                               |      |      |       |       | |
+| 99  | 63   | 21   | Tsu Kung Fah                                                        |https://archive.org/details/smpa-files-2369      |      |Jan 1916       |rebel-related issue       |2 |
+| 99  | 63   | 22   | Chen Chi Mei                                                        |      |      |       |       | |
+| 99  | 63   | 23   | [Missing]                                                           |      |      |       |       | |
+| 99  | 63   | 24   | Zee Koh Liang                                                       |      |      |       |       | |
+| 99  | 63   | 25   | Koo Tuh Ngoh                                                        |      |      |       |       | |
+| 99  | 63   | 26   | General Yang                                                        |      |      |       |       | |
+| 99  | 63   | 27   | Tsai Ao                                                             |      |      |       |       | |
+| 99  | 63   | 28   | Lieu Ching Sung                                                     |https://archive.org/details/smpa-files-2156      |      |Jan 1916       |       |2 |
+| 99  | 63   | 29   | Zee Koh Liang                                                       |      |      |       |       | |
+| 99  | 63   | 30   | Ju Sing                                                             |      |      |       |       | |
+| 99  | 63   | 31   | Faung Sung Dau |https://archive.org/details/smpa-files-2062      |      |Feb 1916       |the City Police received the order of examining all the papers and bills before the Chinese New Year due to the rebel issue       |2 |
+| 99  | 63   | 32   | Shen Yuen Zahl |      |      |       |       | |
+| 99  | 63   | 33   | Thau Yuan" Kyuin corps |      |      |       |    |    |
+| 99  | 63   | 34   | Thau Yuan" Kyuin corps |      |      |       |       | |
+| 99  | 63   | 35   | Wong Tsch Ming |https://archive.org/details/smpa-files-2394      |      |Feb 1916       |      |1  |
+| 99  | 63   | 36   | Zung Tsung |      |      |       |       | |
+| 99  | 63   | 37   | Admiral Tseng |https://archive.org/details/smpa-files-1958      |      |10th Feb 1916       |two high military officers from Peking arrived in Shanghai yesterday        |1 |
+| 99  | 63   | 38   | Shenpao |      |      |       |       | |
+| 99  | 63   | 39   | Huh Ching Tsung |https://archive.org/details/smpa-files-2113      |      |13th Feb 1916       |a fort was about to be rebuilt in Huh Ching Tsung in Pootung   |1     |
+| 99  | 63   | 40   | Sung Jang Foo |      |      |       |       | |
+| 99  | 63   | 41   | Liu Nyoh Zung |https://archive.org/details/smpa-files-2170      |      |14th Feb 1916       |Liu Nyoh Zung assissinated the manager of the Bank of China       |1 |
+| 99  | 63   | 42   | Tsu Li Sun |https://archive.org/details/smpa-files-2370      |      |Feb 1916       |Two military officers came to Shanghai from Peking to discuss the rebel issue       |1 |
+| 99  | 63   | 43   | Lu and Li Tsoong Nyoh |https://archive.org/details/smpa-files-2180      |      |16th Feb 1916        | |1       |
+| 99 | 63 | 44 | Wong Ming Jeu |https://archive.org/details/smpa-files-2389 | |Feb 1916 | |1 |
+| 99 | 63 | 45 | Daung Zen Tsung | | | | | |
+| 99 | 63 | 46 | Tsu Vi Heu |https://archive.org/details/smpa-files-2373 | |Feb 1916 |two men were arrested due to their close relation with revolutionary activities |2 |
+| 99 | 63 | 47 | [Missing] | | | | | |
+| 99 | 63 | 48 | [Missing] | | | | | |
+| 99 | 63 | 49 | [Missing] | | | | | |
+| 99 | 63 | 50 | Tsu Hai Zung | | | |  | |
+| 99 | 63 | 51 | General Feng |https://archive.org/details/smpa-files-2078 | |23rd Feb 1916 | |1 |
+| 99 | 63 | 52 | [Missing] | | | | | |
+| 99 | 63 | 53 | [Missing] | | | | | |
+| 99 | 63 | 54 | Special Telegram from Pekin  | | | | | |
+| 99 | 63 | 55 | Wong Tseh Ming | | | | | |
+| 99 | 63 | 56 | [Missing] | | | | | |
+| 99 | 63 | 66 | Washermen’s strike |  | | | | |
+| 99 | 63 | 94 | [Microfilm header reads 4280] Oct. 8, 1894, letter re lottery affair report |https://archive.org/details/smpa-63/page/n393/mode/2up | | | | |
+| 99 | 63 | 109 | Lieu Khoong | | | | | |
+| 99 | 63 | 122 | Yang Tcheng | | | | | |
+| 99 | 63 | 123 | Tsang Chi Hyuin |https://archive.org/details/smpa-files-2350 | |Mar 1916 | |2 |
+| 99 | 63 | 124 | Hai Yung | | | | | |
+| 99 | 63 | 125 | Woo Tsung Wo | | | | | |
+| 99 | 63 | 126 | Feng Kuo Chang |https://archive.org/details/smpa-files-2068 | |Feb 1916 |Military Order from Feng Kuo Chang in Chiangchun, needed nine hundred more troops to Nanking when called upon |1 |
+| 99 | 63 | 129 | Sin Wan Pao |https://archive.org/details/smpa-files-2275 | |1916 | |7 |
+| 99 | 63 | 130 | Li Tsung Nyoh |https://archive.org/details/smpa-files-2147 | |28th Feb 1916 | |1 |
+| 99 | 63 | 132 | Yuan Shih Kai | | | | | |
+| 99 | 63 | 135 | Ling Dau Wen |https://archive.org/details/smpa-files-2163 | |1916 | |11 |
+| 99 | 63 | 137 | Pootung and Foong Ching  | | | | | |
+| 99 | 63 | 138 | Huh Chung Tsung |https://archive.org/details/smpa-files-2114 | |2nd Mar 1916 | |1 |
+| 99 | 63 | 142 | Zau Lien Wang |https://archive.org/details/smpa-files-2439 | |6th Mar 1916 |purchasing military equipment |1 |
+| 99 | 63 | 145 | Arnold Khrberg & Carlowit z & Co. | | | | | |
+| 99 | 63 | 146 | Chang Hsun | | | | | |
+| 99 | 63 | 149 | Tseng Da Pei |https://archive.org/details/smpa-files-2362 | | | |1 |
+| 99 | 63 | 150 | Feng Kus Chang |https://archive.org/details/smpa-files-2069 | |Mar 1916 |Military information,the situation of Nanking was serious with people became alarmed, Northern troops has arrived at Pukow |1 |
+| 99 | 63 | 155 | Daung Chi Sing | | | | | |
+| 99 | 63 | 158 | Fong Nan Woo | | | | | |
+| 99 | 63 | 160 | Fong Nan Woo | | | | | |
+| 99 | 63 | 161 | Tang Shao Yi | | | | | |
+| 99 | 63 | 165 | Sun Yat-Sen | | | | | |
+| 99 | 63 | 166 | [Missing] | | | | | |
+| 99 | 63 | 167 | Chen Chi Mei | | | |  | |
+| 99 | 63 | 168 | Yui Yui Li | | | | | |
+| 99 | 63 | 171 | Fong Nan Woo | | | | | |
+| 99 | 63 | 174 | Wong Ts Kong |https://archive.org/details/smpa-files-2392 | |16th Mar 1916 | |1 |
+| 99 | 63 | 177 | Ming Kou Pao |https://archive.org/details/smpa-files-2201 | |1916 |the Republican Army used a new-design flag in Shanghai |1 |
+| 99 | 63 | 178 | [Missing] | | | | | |
+| 99 | 63 | 180 | Nyeu Wen Tsang |https://archive.org/details/smpa-files-2233 | |20th Mar 1916  |general information about the current political situation |1 |
+| 99 | 63 | 181 | Lang Chi Tsao | | | | | |
+| 99 | 63 | 182 | Dong Chi Yau | | | | | |
+| 99 | 63 | 183 | Nyen Tih Sung | | | | | |
+| 99 | 63 | 185 | Han Hwei | | | | | |
+| 99 | 63 | 186 | Nyeu Tih Sung | | |  | | |
+| 99 | 63 | 190 | Chang Sau Liag |https://archive.org/details/smpa-files-1989 | |1916-1918 |  |17 |
+| 99 | 63 | 191 | Tsang Tsung Sung |https://archive.org/details/smpa-files-2358 | |23rd Mar 1916 | |1 |
+| 99 | 63 | 200 | Ling Shih Foong |https://archive.org/details/smpa-files-2165 | |25th Mar 1916 | |1 |
+| 99 | 63 | 201 | Chen Chi Mei | | | | | |
+| 99 | 63 | 202 | Wu Ting Fang | | | | | |
+| 99 | 63 | 203 | Seizure of arms at Pootung |https://archive.org/details/smpa-files-2265 | |Mar 1916 | |21 |
+| 99 | 63 | 204 | Tih Liang |https://archive.org/details/smpa-files-2332 | |28th Mar 1916 |Tih Liang who has been a member of Manchu Party conferred to rebel in Shanghai |1 |
+| 99 | 63 | 208 | Chen Chi Mei |https://archive.org/details/smpa-files-1994 | | |  |20|
+| 99 | 63 | 209 | Dong Ping Kun |https://archive.org/details/smpa-files-2048 | |Mar 1916 | |4 |
+| 99 | 63 | 210 | Hung Shih Tsoo |https://archive.org/details/smpa-files-2115 | |rebel-related issue | |1 |
+| 99 | 63 | 212 | Josi Maria Guedes | | | |  | |
+| 99 | 63 | 215 | Woo Sung Pao |https://archive.org/details/smpa-files-2407 | |Mar 1916 | |1 |
+| 99 | 63 | 216 | Zau [Microfilm contains  N. Keli, Turkish subject] |https://archive.org/details/smpa-63/page/n427/mode/2up | | | | |
+| 99 | 63 | 218 | Gee Sing Tsoo | | | | | |
+| 99 | 63 | 219 | Zau Oo Ching |https://archive.org/details/smpa-files-2440 | |Apr 1916 |A car accident, Chinese and Japanese involved |1 |
+| 99 | 63 | 223 | Woo Ching Ying [Microfil m also contains Maurice Benjamin under this number.] | | | | | |
+| 99 | 63 | 224 | Pak Vung Wei | | | | | |
+| 99 | 63 | 225 | Zau Woo Kyung | | | | | |
+| 99 | 63 | 226 | General Yang | | | | | |
+| 99 | 63 | 229 | Mau Chih Ying |https://archive.org/details/smpa-files-2187 | |5th Apr 1916 |ex-soldiers became rebels and lived in Frenchtown in Shanghai |1 |
+| 99 | 63 | 233 | Wu Ting Fang | | | | | |
+| 99 | 63 | 234 | General Yang | | | | | |
+| 99 | 63 | 236 | The Chinese military sit uation | | | | | |
+| 99 | 63 | 239 | Arrival of troops in Shanghai |https://archive.org/details/smpa-files-1974 | |10th Apr 1916 | |1 |
+| 99 | 63 | 241 | Zie Fong Ding | | | | | |
+| 99 | 63 | 242 | Woo Ching Ying [Microfilm  also contains Thomas Mellows under this number.] | | | | | |
+| 99 | 63 | 245 | Woo Ching Ying | | | | | |
+| 99 | 63 | 246 | Movements of Chinese troops |https://archive.org/details/smpa-files-2205 | |12th Apr 1916 | |1 |
+| 99 | 63 | 248 | Zau Li Waung [On microfilm this number is also used for Nyeu Tih Sung.] | | | | | |
+| 99 | 63 | 249 | Chen Chi Mei | | | | | |
+| 99 | 63 | 250 | Di Doo |https://archive.org/details/smpa-files-2045 | |Apr 1916 | |2 |
+| 99 | 63 | 253 | Nyeu Tih Sung | |  | | | |
+| 99 | 63 | 254 | Fung Ching | | | | | |
+| 99 | 63 | 255A | Chiu Wei Ching |https://archive.org/details/smpa-files-2009 | |May 1916 | |4 |
+| 99 | 63 | 256 | Chen Chi May |https://archive.org/details/smpa-files-1992 | |16th Apr 1916 | |1 |
+| 99 | 63 | 260 | Thomas Mellows | | | | | |
+| 99 | 63 | 265 | Deputy Military Governor Lu |https://archive.org/details/smpa-files-2044 | |Apr 1916 | |2 |
+| 99 | 63 | 266 | Fong Nan Woo | | | | | |
+| 99 | 63 | 267 | Wong Toh Sung |https://archive.org/details/smpa-files-2391 | |17th Apr 1916 |A meeting was held in order to induce the authorities to abandon the intention of sending northern troops to Fokien |1 |
+| 99 | 63 | 268 | Nyeu Tih Sung | | | | | |
+| 99 | 63 | 269 | Nyeu Tih Sung [Microfilm  also contains police strength report under this number] | | | | | |
+| 99 | 63 | 270 | Tsu Jui |https://archive.org/details/smpa-files-2368 | |Apr 1916 |Property Ownership Issue |2 |
+| 99 | 63 | 271 | Zung Tsoong Hsien |https://archive.org/details/smpa-files-2461 | |Apr 1916 |Zung Tsoong Hsien was a rebel arrested in Chapei |2 |
+| 99 | 63 | 272 | Wong Ih Eon | | | | | |
+| 99 | 63 | 277 | Yang Sing Ling |https://archive.org/details/smpa-files-2414 | |Apr 1916 |the troops has despatched to Wusieh  |1 |
+| 99 | 63 | 278 | Nyeu Tih Sung | | | | | |
+| 99 | 63 | 282 | Ying Sz | | | | | |
+| 99 | 63 | 283 | Nyeu Tih Sung | | | | | |
+| 99 | 63 | 284 | Woo Fung Ling |https://archive.org/details/smpa-files-2404 | |Apr 1916 | |2 |
+| 99 | 63 | 287 | George R. Arthur | | |  | | |
+| 99 | 63 | 292 | Naung Tsung Zung |https://archive.org/details/smpa-files-2214 | |29th Apr 1916 |Naung Tsung Zung was a rebel who was arrested |1 |
+| 99 | 63 | 293 | Ching Yang |https://archive.org/details/smpa-files-2007 | |Apr 1916 |Recorded the fighting took place in the vicinity of Wesieh |1 |
+| 99 | 63 | 294 | Ho Kya Loh | | | | | |
+| 99 | 63 | 295 | Zung Tsung | | | | | |
+| 99 | 63 | 301 | A. Ettinger |https://archive.org/details/smpa-files-1953 | |May 1916 | |5 |
+| 99 | 63 | 302 | Population of French Concession, 1895 | | | | | |
+| 99 | 63 | 303 | Doo Su Koong Su |https://archive.org/details/smpa-files-2049 | |1st May 1916 | |1 |
+| 99 | 63 | 306 | Four Japanese - revolvers | | | | | |
+| 99 | 63 | 311 | Chu Tsung Eu |https://archive.org/details/smpa-files-2015 | |4th May 1916 | |1 |
+| 99 | 63 | 313 | K. Hatakeyama |https://archive.org/details/smpa-files-2127 | |May 1916 |a Cantonese dressed in foreign clothes was arrested at 10am |1 |
+| 99 | 63 | 314 | Alleged dealing in firearms |https://archive.org/details/smpa-63/page/n455/mode/2up | |1916 |"Kindler case", little evidence found. Accussation made by D. C. Schmidt against M. Kindler, dentist. |3 |
+| 99 | 63 | 315 | Tsang Tsi San | | | | | |
+| 99 | 63 | 316 | Si Si Pao |https://archive.org/details/smpa-files-2271 | |May 1916 |the local yamen received the revolutionary codes to be used in the communication |2 |
+| 99 | 63 | 317 | Bah Sz En |https://archive.org/details/smpa-files-1977 | |May 1916 |Bah Sz En 白士安 was a rebel leader paid his followers to attack Chapet |2 |
+| 99 | 63 | 318 | Chang Hsun | | | | | |
+| 99 | 63 | 319 | Choeh Yung Kwaung | |  | | | |
+| 99 | 63 | 320 | Sun Yat-Sen | | | | | |
+| 99 | 63 | 322 | Sun Yat-Sen | | | | | |
+| 99 | 63 | 326 | Sun Yat-Sen | | | | | |
+| 99 | 63 | 328 | Zau Li Wong |https://archive.org/details/smpa-files-2438 | |May 1916 |A pro-rebel newspaper planed to publish in Shanghai |1 |
+| 99 | 63 | 331 | Chu Tsung | | | | | |
+| 99 | 63 | 332 | Tsung Siao Woo Ts |https://archive.org/details/smpa-files-2375 | |16th May 916 | |1 |
+| 99 | 63 | 334 | Tong Shao Yi |https://archive.org/details/smpa-files-2334 | |1916 | |3 |
+| 99 | 63 | 336 | Tsang Yung Woo |https://archive.org/details/smpa-files-2359 | |1916 | |9 |
+| 99 | 63 | 337 | Tsu Cha Zung |https://archive.org/details/smpa-files-2366 | |May 1916 |containing a list of rebel's leaders |1 |
+| 99 | 63 | 338 | Sing Ming Lee |https://archive.org/details/smpa-files-2277 | |20th May 1916 |the fightings between rebels from different group |1 |
+| 99 | 63 | 340 | Pih Ding | | | | | |
+| 99 | 63 | 341 | Tsa Dien [On microfilm this number is also used for placing of detectives on board incoming ships.] |https://archive.org/details/smpa-63/page/n431/mode/2up | | | | |
+| 99 | 63 | 343 | Tsu Sau Ching |https://archive.org/details/smpa-files-2371 | |May 1916 | |1 |
+| 99 | 63 | 344 | K. J. McEuen | | | | | |
+| 99 | 63 | 348 | Chen Chi Mei |https://archive.org/details/smpa-files-1947 | |May 1916 |a order about killing all government agents by rebels was reported to the police |2 |
+| 99 | 63 | 349 | Chékiang |https://archive.org/details/smpa-files-1991 | |May 1916 |Arms and Ammunition-related issues |1 |
+| 99 | 63 | 353 | Lieu Sau Tsche |https://archive.org/details/smpa-files-2161 | |May 1916 |Lieu Sau Tsche was an ox-Hupoh Taotai who organised a rebel in the Frenchtown in Shanghai |1 |
+| 99 | 63 | 354 | Sun Yat-Sen | | | | | |
+| 99 | 63 | 356 | Sung Cheng Yen |https://archive.org/details/smpa-files-2294 | |27th May 1916 |Two newspaper venders were arrested in Shanghai  |3 |
+| 99 | 63 | 358 | Tsang Loo Zung |https://archive.org/details/smpa-files-2353 | |May 1916 | |2 |
+| 99 | 63 | 359 | Yu Ya Ching | | | | | |
+| 100 | 63 | 360 | Daung Bah |https://archive.org/details/smpa-files-2033 | |1916-1917 | |7 |
+| 100 | 63 | 361 | Tsang Chi Tsoong | |  | | | |
+| 100 | 63 | 362 | Tsu Tuh Eu |https://archive.org/details/smpa-files-2372 | |31st May 1916 | |1 |
+| 100 | 63 | 365 | Li Ying Zah | | | | | |
+| 100 | 63 | 366 | Chu Tsung | | | | | |
+| 100 | 63 | 369 | Woo Cha Loh | | | | | |
+| 100 | 63 | 372 | Zee Li Hyuin |https://archive.org/details/smpa-files-2452 | |Jun 1916 |Zee Li Hyuin was a military officer arrived in Shanghai |1 |
+| 100 | 63 | 376 | Ming Ko Pao |https://archive.org/details/smpa-files-2199 | |6th Jun 1916 | |1 |
+| 100 | 63 | 380 | General Yang - Sun Yat-Sen |https://archive.org/details/smpa-files-2085 | |7th Jun 1916 | |1 |
+| 100 | 63 | 384 | Kuo Ming Tang | | | | | |
+| 100 | 63 | 385 | Li Yuen Hung | | | | | |
+| 100 | 63 | 387 | Wo Ching Ming | | | | | |
+| 100 | 63 | 388 | Li Tsung Woo | | | | | |
+| 100 | 63 | 389 | Chang Chi | | | | | |
+| 100 | 63 | 390 | Zee Koh Liang | | | | | |
+| 100 | 63 | 391 | Chou Ching Tsan | | | | | |
+| 100 | 63 | 392 | Yung Doo |https://archive.org/details/smpa-files-2432 | |Jun 1916 | |1 |
+| 100 | 63 | 393 | Sun Yat-Sen | | | |  | |
+| 100 | 63 | 394 | Sun Yat-Sen | | | | | |
+| 100 | 63 | 396 | Nyeu Tih Sung | | | | | |
+| 100 | 63 | 397 | Feng Kou Chang | | | | | |
+| 100 | 63 | 398 | Hwang Hsin |https://archive.org/details/smpa-files-2116 | |19th Jul 1916 | |1 |
+| 100 | 63 | 399 | Han Hwei | | | | | |
+| 100 | 63 | 401 | Daung Zen Tsang |https://archive.org/details/smpa-files-2038 |  |1916 | |1 |
+| 100 | 63 | 405 | Doong Ts Wen |https://archive.org/details/smpa-files-2051 | |23rd Jun 1916 |Doong Ts Wen was a society built by militarists who aimed at protecting their social interests.|1 |
+| 100 | 63 | 406 | Li Yuen Hung | | | | | |
+| 100 | 63 | 407 | Tsung Woo Sz Zen Wei | | | | | |
+| 100 | 63 | 408 | Doong Ts Wei |https://archive.org/details/smpa-files-2050 | |24th Jun 1916 |Doong Ts Wei was on terms with monarchical party in Shanghai |1 |
+| 100 | 63 | 409 | Feng Kuo Chang | | | | | |
+| 100 | 63 | 411 | Joseph Issac |https://archive.org/details/smpa-files-2125 | |1915 | |52 |
+| 100 | 63 | 414 | Li Yuen Hung | | | | | |
+| 100 | 63 | 415 | Liu Kwe Yung | | | | | |
+| 100 | 63 | 416 | Lee Ting Sun | | | | | |
+| 100 | 63 | 420 | Ting Ching Li |https://archive.org/details/smpa-files-2333 | |Jun 1916 |A bomb explosion occurred at No. 30 Ting Ching Li alleyway on 29th June, one man was killed and three men were wounded, they were all rebels; a rumour said the General Yang was murdered, but it was not ture |1 |
+| 100 | 63 | 423 | Admiral Sah | | | | | |
+| 100 | 63 | 426 | A. Nielsen | | | | | |
+| 100 | 63 | 428 | Tong Ting Kwong |https://archive.org/details/smpa-files-2335 | |1916  |the list of the military officers' name |4 |
+| 100 | 63 | 429 | Zung Zung Zen |https://archive.org/details/smpa-files-2466 | |Jul 1916 |the members of Kuomingtang held a meeting to decide to form a new society called Zung Zung Zen |1 |
+| 100 | 63 | 431 | Admiral Sah | | | | | |
+| 100 | 63 | 432 | "Kiang Yui" |https://archive.org/details/smpa-files-2131 | |Jul 1916 |"Kiang Yui" was a small gun boat. The police reported the appearance of this boat in Shanghai  |1 |
+| 100 | 63 | 434 | Huang Hsing | | | | | |
+| 100 | 63 | 437 | Loo Yung Ziang |https://archive.org/details/smpa-files-2179 | |Jul 1916 |multiple information about political situation in Shanghai |1 |
+| 100 | 63 | 443 | Tsou Ching Tsung |https://archive.org/details/smpa-files-2365 | |11th Jul 1916  | |1 |
+| 100 | 63 | 445 | Han Chow |https://archive.org/details/smpa-files-2094 | |Jul 1916 | |1 | 
+| 100 | 63 | 446 | Sz Kyung Yuin |https://archive.org/details/smpa-files-2298 | |13th Jul 1916 |Sz Kyung Yuin was a high official and was about to arrive in Shanghai soon |1  |
+| 100 | 63 | 447 | Wong Tsung Ding | | | |  | |
+| 100 | 63 | 448 | Wu Pah Ching | | | | | | 
+| 100 | 63 | 449 | Li Ping Shu | | | | | | 
+| 100 | 63 | 452 | Sun Yat-Sen | | | | | | 
+| 100 | 63 | 456 | Wong Tsung Ding [On microfilm this number is also used for notice from Consul General for Portugal.] |https://archive.org/details/smpa-63/page/n433/mode/2up | | | | | 
+| 100 | 63 | 463 | Zee Koh Liang | | | | | | 
+| 100 | 63 | 465 | Yuan Shih Kai | | | | | | 
+| 100 | 63 | 466 | Li Ting Sing |https://archive.org/details/smpa-files-2145 | |21st Jul 1916 | |1 | 
+| 100 | 63 | 469 | Yih Ping Shang |https://archive.org/details/smpa-files-2418 | |Jul 1916 |mostly unreadable, Yih Ping Shang was a hotel |1 | 
+| 100 | 63 | 470 | Pah Vung Wei | | | | | | 
+| 100 | 63 | 481 | Zee Koh Liang | | | | | | 
+| 100 | 63 | 483 | Han Yoong |https://archive.org/details/smpa-files-2106 | |Jul 1918 | |1 | 
+| 100 | 63 | 484 | Chung Li Pah | | | | | | 
+| 100 | 63 | 487 | Mr. Ma Chun Wu |https://archive.org/details/smpa-files-2208 | |Jul 1916 |blurred charaters |1 | 
+| 100 | 63 | 488 | Zee Koh Liang | | | | | | 
+| 100 | 63 | 490 | Zee Koh Liang | | | | | | 
+| 100 | 63 | 491 | Arnold Karberg & Co. |https://archive.org/details/smpa-files-1963 | |2nd Aug 1916 |  |1 |
+| 100 | 63 | 493 | Yao Ts' Zang |https://archive.org/details/smpa-files-2417 | |Aug 1916 | |1 | 
+| 100 | 63 | 494 | "Taung" |https://archive.org/details/smpa-files-2305 | |Aug 1916 | |1 | 
+| 100 | 63 | 496 | Sun Yat-Sen | | | |  | |
+| 100 | 63 | 499 | Feng Kou Chang | | | |  | |
+| 100 | 63 | 502 | Zau Woo Kyung | | | | | | 
+| 100 | 63 | 503 | Max Kindler |https://archive.org/details/smpa-63/page/n437/mode/2up \\ https://archive.org/details/smpa-63/page/n461/mode/2up \\ https://archive.org/details/smpa-files-2188 | |Jul-Sep 1916 | |38 | 
+| 100 | 63 | 504 | Lo Pau Hung |https://archive.org/details/smpa-files-2172 | |8th Aug 1916 |unreadable content |2 | 
+| 100 | 63 | 507 | Zhi Nyi Soo | | | | | | 
+| 100 | 63 | 513 | Hyui Li Nyien | | | | | | 
+| 100 | 63 | 514 | Lieu Jieu | | | | | | 
+| 100 | 63 | 515 | Lu Yoong Ziang | | | | |  |
+| 100 | 63 | 516 | Ho Hai Ming | | | | | | 
+| 100 | 63 | 517 | General Yang - Admiral Sah Chen Ping |https://archive.org/details/smpa-files-2084 | |Aug 1916 |mostly unreadable |2 | 
+| 100 | 63 | 518 | J. B. A. Grote | | | | | | 
+| 100 | 63 | 519 | Pah Jien Yoh Tzen Wen |https://archive.org/details/smpa-files-2236 | |Aug 1916 |  |2 |
+| 100 | 63 | 520 | Ching Yeu Li | | | | | | 
+| 100 | 63 | 521 | The Truth of Fokien | | | |  | |
+| 100 | 63 | 525 | Nyeu Tih Sung | | | | | | 
+| 100 | 63 | 530 | Koh Ming Zeu Eu Wen |https://archive.org/details/smpa-files-2134 | |Aug 1916  | |1 |
+| 100 | 63 | 532 | Han Hwe | | | | | | 
+| 100 | 63 | 533 | Han Hwe | | | | | | 
+| 100 | 63 | 544 | Sale of pistols by Ettinger | | | | | | 
+| 100 | 63 | 550 | Yu Yah Ching | | | | | | 
+| 100 | 63 | 557 | Koh Ming Tong Society |https://archive.org/details/smpa-files-2133 | |Aug 1916  | |3 |
+| 100 | 63 | 558 | Lieu Yah Sing | | | | | | 
+| 100 | 63 | 561 | Zee Kyi Vung | | | | | | 
+| 100 | 63 | 562 | Li Tsung Woo | | | | | | 
+| 100 | 63 | 563 | Han Hwe | | | | | | 
+| 100 | 63 | 566 | Han Hwe | | | | | | 
+| 100 | 63 | 567 | Chang Sz Yung | | |  | | |
+| 100 | 63 | 568 | Tsai Da Pei | | | | | | 
+| 100 | 63 | 569 | Han Hwe | | | | | | 
+| 100 | 63 | 570 | Tang Shao Yi | | | | |  |
+| 100 | 63 | 571 | Daung Yao Ching |https://archive.org/details/smpa-files-2037 | |1916 |Daung Yao Ching was a doctor in Shanghai who went to Peking to get a position in the government |2  |
+| 100 | 63 | 572 | Tang Shaw Yi |https://archive.org/details/smpa-files-2304 | |14th Sep 1916 | |1 | 
+| 100 | 63 | 578 | An auction of the property of the deceased | | | | | | 
+| 100 | 63 | 580 | Van |https://archive.org/details/smpa-files-2382 | |15th Sep 1916 | |2 | 
+| 100 | 63 | 581 | Tsang Sz Zung |https://archive.org/details/smpa-files-2355  | |Tsang Sz Zung conducted the Manchu Restoration Party | |1 |
+| 100 | 63 | 585 | Han Hwe | | | | | | 
+| 100 | 63 | 586 | Han Hwe | | | | | | 
+| 100 | 63 | 588 | Sa Ho |https://archive.org/details/smpa-files-2261 | |23rd Sep 1916 |Sa Ho was a rebel |3 | 
+| 100 | 63 | 589 | Tsang Siau Tien |https://archive.org/details/smpa-files-2354  | |Sep 1916 | |4 |
+| 100 | 63 | 590 | General Lu | | | | | | 
+| 100 | 63 | 591 | Loo Tuh Kw - Li Tsong Ngoh |https://archive.org/details/smpa-files-1945 | |22nd Sep 1916 |The General Yang received two telegrams from Peking and Nanking respectively, Li Tsong Ngoh, the Director of the Arsenal would be removed from the office. |1 | 
+| 100 | 63 | 592 | Ming Kou Da Sing Yung Pao |https://archive.org/details/smpa-files-2200 | |21st Sep 1916 |General Yang summoned officers to discuss the issue of Manchu Restoration Party |1 | 
+| 100 | 63 | 593 | Tieh Liang |https://archive.org/details/smpa-files-2330 | |20th Sep 1916 | |1 | 
+| 100 | 63 | 597 | Ling Liang Gee | | | |  | |
+| 100 | 63 | 598 | Tsang Au Tsing |https://archive.org/details/smpa-files-2349 | |26th Sep 1916 | |1 | 
+| 100 | 63 | 601 | Woo Ling Fong |https://archive.org/details/smpa-files-2405 | |29th Sep 1916 | |1 | 
+| 100 | 63 | 609 | Zee Pou Yiang | | | | | | 
+| 100 | 63 | 610 | Woo Au | | | | | | 
+| 100 | 63 | 611 | Lieu Gee | | | | | | 
+| 100 | 63 | 613 | Tsaung Ting Hung | |  | | | |
+| 100 | 63 | 618 | 41 Dau Tuh Li | | | | | | 
+| 100 | 63 | 624 | Moh Siang Yao Ettinger | | |  | | |
+| 100 | 63 | 625 | Nielsen | | | | | | 
+| 100 | 63 | 636 | General Lu |https://archive.org/details/smpa-63/page/n1109/mode/2up | |Oct 1916 | | | 
+| 100 | 63 | 639 | Pah Vung Wei | | | | | | 
+| 100 | 63 | 641 | Ling Sz Fong | | | | | | 
+| 100 | 63 | 642 | Tuchun Feng | | | | | | 
+| 100 | 63 | 644 | Tang Shao Yi | | | | | | 
+| 100 | 63 | 647 | Wang Tu Fei | | | | | | 
+| 100 | 63 | 648 | Pah Vung Wei | | | | | | 
+| 100 | 63 | 650 | Yu Ya Ching | | | | | | 
+| 100 | 63 | 650 | "Chinese Merchants Meeting" |https://archive.org/details/smpa-63/page/n1121/mode/2up | |Oct 1916 | |3 | 
+| 100 | 63 | 651 | Yu Ya Ching | | | | | | 
+| 100 | 63 | 652 | Yu Ya Ching | | | | | | 
+| 100 | 63 | 653 | Lee Vang Hwe | | | | | | 
+| 100 | 63 | 654 | Waung Pih | | | | | | 
+| 100 | 63 | 655 | 385 Sien Tuh Li | | |  | | |
+| 100 | 63 | 665 | Zau Kya Ziang | | | | | | 
+| 100 | 63 | 666 | Tientsin Incident |https://archive.org/details/smpa-files-2331 | |26th Oct 1916 |the French council General sent the local Chinese press an explanation of Tientsin incident.  |1 |
+| 100 | 63 | 670 | Wong Tsang Zau |https://archive.org/details/smpa-63/page/n1135/mode/2up | |Feb 1918 |王_沼 connected to the navy, born Shanghai, educated St John's university, agent to New York Life Insurance until 1905, joined Navy. Teacher to family in Ningbo, went to Hankou opened a stationer's shop. Claimed to be leader of Liberty Party (自由黨) |8 | 
+| 100 | 63 | 671 | Loo Vung San | | | | | | 
+| 100 | 63 | 672 | Loo Vung San | | | | | | 
+| 100 | 63 | 675 | Lo Fong Sang | | | | | | 
+| 100 | 63 | 676 | Mr. Yang Ch'Eng | | | | | | 
+| 100 | 63 | 679 | Yang Sin Teh |https://archive.org/details/smpa-files-2413 | |Apr 1916 |Chinese and Japanese's issue about housing, a request to arrest the Japanese involved |1 | 
+| 100 | 63 | 681 | General Hwang Hsing |https://archive.org/details/smpa-files-2080 | |Oct 1916 |the information of rebels around China (locations and estimated numbers)  |2 |
+| 100 | 63 | 682 | Li Ping Su | | | | | | 
+| 100 | 63 | 683 | Yu Ya Ching | | | | | | 
+| 100 | 63 | 685 | Woo Ta Tseu |https://archive.org/details/smpa-files-2408 | |Nov 1916 |A telegram was received and invited the general Yang to send a telegram to the Central Government |1 | 
+| 100 | 63 | 686 | Yu Ah Nyong |https://archive.org/details/smpa-files-2422 | |Nov 1916 |A rebel was arrested and released on the 27th October with a payment of a fine of 100 dollar |1 | 
+| 100 | 63 | 688 | Kau Yih Fee |https://archive.org/details/smpa-files-2130 | |Nov 1916 |Kau Yi Fee was a rebel leader and he planned to establish a new society in Pingchao road to promote the welfare of rebels. |1 | 
+| 100 | 63 | 694 | Cho Lan Fong |https://archive.org/details/smpa-files-2010/page/n1/mode/2up | |Mar 1916 | |3 | 
+| 100 | 63 | 695 | Chinese troops |https://archive.org/details/smpa-files-2005 | |Nov 1916 |Newspaper article about the current data of Chinese troops around the nation |1 | 
+| 100 | 63 | 696 | Kong Ching Tsung |https://archive.org/details/smpa-files-2135 | |1916 | |3 | 
+| 100 | 63 | 697 | Zung Ping Sze |https://archive.org/details/smpa-files-2460 | |  |the payment collection of the applications for sending away rebel leaders from Shanghai, the payment list has been categorised  |24 | 
+| 100 | 63 | 698 | Tuchun Feng | | | | | | 
+| 100 | 63 | 699 | Huang Hsing | | | | | | 
+| 100 | 63 | 701 | Li Tsoong Ngoh |https://archive.org/details/smpa-files-2146 | |Nov 1916 |recorded the the movements of these figures: Li Tsoong Ngoh 李宗岳, Loo Voong San 羅凤山, Zee Nyeu Kau 徐元浩, Liang Chi Tsao (maybe 梁启超 but cannot find this name on the internet), Zee Kou Liang, Lee Taun Woo |5 | 
+| 100 | 63 | 702 | Tseng Kwaung Lu |https://archive.org/details/smpa-files-2363 | |Nov 1916 | |2 | 
+| 100 | 63 | 703 | Sing Woo Dan | | | | | | 
+| 100 | 63 | 706 | Chung Soong Yang |https://archive.org/details/smpa-files-2017 | |Nov 1916 |Chung Soong Yang did not pay the officers and soldiers of Sungkiang  |2 |
+| 100 | 63 | 709 | Wong Yung Da |https://archive.org/details/smpa-files-2398 | |Nov 1916 |Wang Vung Da was a member of Kuomingtang party |2 | 
+| 100 | 63 | 710 | Tsung Kwaung Lieu |https://archive.org/details/smpa-files-2374 | |Nov 1916 |Tsung Kwaung Lieu was a member of Manchu Restoration Party who established an office in Frenchtown and was trying to induce the ex-Honan rebels to join him |1  |
+| 100 | 63 | 714 | Daung Chi Sung |https://archive.org/details/smpa-files-2036 | |Nov 1916 |the information about a memorial service for Daung Chi Sung, about 200 persons attended the event |4 | 
+| 100 | 63 | 715 | Zung Ying Nyi |https://archive.org/details/smpa-files-2465 | |Nov 1916 |Germans and Chinese issue |2 | 
+| 100 | 63 | 716 | Zau Kya Ziang | | | | | | 
+| 100 | 63 | 717 | Loo Vung San | | | | | | 
+| 101 | 63 | 740 | Tsen Tsun Hsuan |https://archive.org/details/smpa-files-2361 | |29th Nov 1916 |Tsen Tsun Hsuan was ex-commander of the Republican troop |1 | 
+| 101 | 63 | 743 | Zung Tsung Huan | | | | | | 
+| 101 | 63 | 744 | Liang Chi Tsao | | | | | | 
+| 101 | 63 | 745 | Li Lih Chun |https://archive.org/details/smpa-files-2142 | |Dec 1916 | |4 | 
+| 101 | 63 | 746 | Loo Yoong Ziang | | | | | | 
+| 101 | 63 | 749 | Min Te Pao | | | | | | 
+| 101 | 63 | 751 | Yong Shung Lien Kwan | | | | | | 
+| 101 | 63 | 757 | Sing Woo Dan |https://archive.org/details/smpa-files-2421 | |Dec 1916 |12 rebel leaders held a  meeting in a hotel at 7pm |1 | 
+| 101 | 63 | 759 | Proposed distribution of steamer tickets |https://archive.org/details/smpa-files-3582 | |Dec 1916 |social accident |1 | 
+| 101 | 63 | 760 | Han Hwe | | | | | | 
+| 101 | 63 | 765 | Huang Hsin | | | | | | 
+| 101 | 63 | 766 | General Li Tsung Wo |https://archive.org/details/smpa-files-2081 | |16th Dec 1916 | |1 | 
+| 101 | 63 | 768 | Sun Hung Yi |https://archive.org/details/smpa-files-2285 | |Dec 1916 | |5 | 
+| 101 | 63 | 769 | Han Hwei's | | | | | | 
+| 101 | 63 | 774 | Reproduction of photo of officers |https://archive.org/details/smpa-files-2256 | |19th Dec 1916 | |1 | 
+| 101 | 63 | 777 | Ng Ziang Kaung |https://archive.org/details/smpa-files-2220 | |18th Dec 1916 | |2 | 
+| 101 | 63 | 778 | Vai Sung Jao |https://archive.org/details/smpa-files-2381 | |Sep 1916 | |13 | 
+| 101 | 63 | 781 | Wong Pah Zung |https://archive.org/details/smpa-files-2390 | |1916 | |2 | 
+| 101 | 63 | 782 | Zau Li Waung | | | | | | 
+| 101 | 63 | 787 | Chiungkiang |https://archive.org/details/smpa-files-2008 | |Dec 1916-Jan 1917 | |20 | 
+| 101 | 63 | 790 | Lieu Foh Sun | | | | | | 
+| 101 | 63 | 791 | Lieu Foh Sun | | | | | | 
+| 101 | 63 | 793 | Ta Woo Dae |https://archive.org/details/smpa-files-2299 | |21st Dec 1916 |Several Rifle Range bombs were removed from places including in the document |1 | 
+| 101 | 63 | 798 | Chen Ting Mo | | | | | | 
+| 101 | 63 | 799 | Siao Pah Tseu |https://archive.org/details/smpa-files-2272 | |23rd Dec 1916 |Siao Pah Tseu was a rebel leader |1 | 
+| 101 | 63 | 800 | Li Tsung Woo |https://archive.org/details/smpa-files-2149 | |Apr 1917 | |7 | 
+| 101 | 63 | 809 | General Hwang Hsin | | | | | | 
+| 101 | 63 | 821 | Ettinger and Josef |https://archive.org/details/smpa-files-2056 | |1917 | |4 | 
+| 101 | 63 | 854 | Tsung Sung Dzo |https://archive.org/details/smpa-files-2376 | |1917-1926 |many documents unreadable |37 | 
+| 101 | 63 | 861 | Zung Tsung Choeu |https://archive.org/details/smpa-files-2463 | |Jan 1917 | |25 | 
+| 101 | 63 | 864 | Fong Wei Ching |https://archive.org/details/smpa-63/page/n1371/mode/2up | |1916 |Last file on Roll 63. Transaction involving purchase of arms. |3 | 
+| 101 | 64 | 894 | Mr. Cassell |https://archive.org/details/smpa-files-2206 | |1914-1919 | |17 | 
+| 101 | 64 | 898 | Yang Tcheng | | | | | | 
+| 101 | 64 | 906 | Pah Vung Wei | | | | | | 
+| 101 | 64 | 922 | Theodore Saridis | | | | | | 
+| 101 | 64 | 923 | Zong Cheng Fah | | | | | | 
+| 101 | 64 | 938 | Photo | | | | | | 
+| 101 | 64 | 940 | Nielsen | | | | | | 
+| 101 | 64 | 941 | Mrs. Lea Cox |https://archive.org/details/smpa-files-2212/page/n1/mode/2up | |1917-1919 | |8 | 
+| 101 | 64 | 942 | Tang Shao Yi | | | | | | 
+| 101 | 64 | 951 | Pah Vung Wei | | | | | | 
+| 101 | 64 | 952 | Wai Yu Zia | | | | | | 
+| 101 | 64 | 970 | Man Chu Li |https://archive.org/details/smpa-files-2185 | |Mar-May 1917 | |9 | 
+| 101 | 64 | 972 | Kan Pah |https://archive.org/details/smpa-files-2129 | |Apr 1917 | |7 | 
+| 101 | 64 | 997 | Tang Shao Yi | | | | |  |
+| 101 | 64 | 1003 | Dittman - Nielsen |https://archive.org/details/smpa-files-2046 |  |14th Mar 1917 | |1 |
+| 101 | 64 | 1029 | D. Abramovitch |https://archive.org/details/smpa-files-2024 | |Mar-Apr 1917 | |13 | 
+| 101 | 64 | 1031 | Nielsen - Baumert | | | | | | 
+| 101 | 64 | 1060 | C. Nielsen | | | | | | 
+| 101 | 64 | 1062 | Rothman watching for Nielsen |https://archive.org/details/smpa-files-2257 | |2nd Mar 1917 | |1 | 
+| 101 | 64 | 1094 | D. S. Schmidt |https://archive.org/details/smpa-files-2025 | |19th Apr 1917 |D. S. Schmidt saw Ettinger on Apr 18th |2 | 
+| 101 | 64 | 1214 | A. Ettinger | | | | | | 
+| 101 | 64 | 1265 | Max Kindler | | | | | | 
+| 101 | 64 | 1266 | Chen Ting Mo | | | | | | 
+| 101 | 63 | 1291 | Fritz Pasche | | | | | | 
+| 101 | 64 | 1315 | Lok Chi Tsa | | | | | | 
+| 101 | 64 | 1458 | E. Josephi | | | | | | 
+| 101 | 64 | 1465 | Ettinger - Joseph |https://archive.org/details/smpa-files-2054 | |Sep 1917 |  |4 |
+| 101 | 64 | 1466 | Max Kindler | | | | | | 
+| 101 | 63 | 1471 | Suiza Refuge | | | | | | 
+| 101 | 64 | 1549 | Woo Ping Chien |https://archive.org/details/smpa-files-2406 | |1917 | |5 | 
+| 101 | 64 | 1641 | Dr. Kindler | | | | | | 
+| 101 | 64 | 1690 | The Ho Hwai curse | | |  | | |
+| 101 | 64 | 1906 | Sih Tseng Ong |https://archive.org/details/smpa-files-2273 | |1915 | |16 | 
+| 101 | 64 | 1957 | Lists of Chinese and Japanese newspapers in Shanghai |https://archive.org/details/smpa-files-2168 | |1918 | |8 | 
+| 101 | 64 | 2076 | Michael Doll |https://archive.org/details/smpa-files-2197 | |1918-1919 | |22 | 
+| 102 | 64 | 2103 | Russian Consulate Pass Port Case |https://archive.org/details/smpa-files-2258 | |Jun-Jul 1918 | |48 | 
+| 102 | 64 | 2354 | Anonymous report from Cantonese presidents, 10/3/16 | | | | | | 
+| 102 | 63 | 2376 | Max Kindler |https://archive.org/details/smpa-63/page/n465/mode/2up | | | | | 
+| 102 | 64 | 2393 | Russian revolutionaries, 12/11/18 |https://archive.org/details/smpa-files-2259 | |1918 |four men insulted harassed Russians in Shanghai; Newspaper articles about Russian Revolution and related events in Shanghai from North China Daily News and The Shanghai Gazette  |12 | 
+| 102 | 64 | 2507 | Chinese Red Cross Society, 1919 | | | | | | 
+| 102 | 64 | 2672 | George E. Sokolsky, 10/21/19 |https://archive.org/details/smpa-files-2089 | |1919 |George E. Sokolsky was a man who aimed to promote Bolshevist idea in China, and he has travelled around China for a while |8 | 
+| 102 | 64 | 2674 | Bolshevist activities expected in Shanghai | | | | | | 
+| 102 | 64 | 2837 | Re Shanghai Chronicle | | | | | | 
+| 102 | 64 | 2862 | Book in Russian | | | | | | 
+| 102 | 64 | 2882 | Meetings at the Cantonese Club [Microfilm header reads 2888] |https://archive.org/details/smpa-files-2192 | |Jul 1919 | |7 | 
+| 102 | 64 | 2915 | Departure of Mrs. Ettinger |https://archive.org/details/smpa-files-2040 | |1919 | |3 | 
+| 102 | 64 | 2929 | Report on A. Ettinger |https://archive.org/details/smpa-files-2255 | |1919-1920 | |4 | 
+| 102 | 64 | 3012 | Publication in Russian called "Shanghai Life" |https://archive.org/details/smpa-files-2251 | |Oct 1919 |including the editors' information |9 | 
+| 102 | 64 | 3039 | Newspaper law May, 1909 | | | | | | 
+| 102 | 64 | 3078 | Printing and circulating false rouble notes, 9/19 |https://archive.org/details/smpa-files-3285/page/n17/mode/2up | |1919-1921 | |80 |
+| 102 | 64 | 3233 | Political activities of Russians in Shanghai |https://archive.org/details/smpa-files-2247 | |Feb 1920 |including multiple Russians' accounts |7 |
+| 102 | 64 | 3239 | Bolshevist attempt activities in Shanghai; also "Daily Reports" |https://archive.org/details/smpa-files-1981 | |1920 |including Newspaper articles |32 |
+| 102 | 64 | 3262 | Whereabouts of G. Kun alias Zung Bai Koong |https://archive.org/details/smpa-files-2386 | |1920 | |27 |
+| 102 | 64 | 3271 | Daily report | | | | | |
+| 102 | 64 | 3308 | Evening Standard re Bolshevist methods of propaganda Angelica Balabanoff |https://archive.org/details/smpa-files-2057 | |27th Mar 1920 | |1 |
+| 102 | 64 | 3314 | Enquiries re articles in Shanghai Times on Bolshevist propaganda in China | | | | | |
+| 102 | 64 | 3315 | Articles from the Central China Post on various social problems |https://archive.org/details/smpa-files-1975 | |Feb-Mar 1920 | |9 |
+| 103 | 64 | 3509 | Daily reports, 23 Aug. 1920 | | | | | |
+| 103 | 64 | 3527 | Daily reports, 2 Sept. 1920 | | | | | |
+| 103 | 64 | 3536 | Meeting at No. 27 Elgin Road |https://archive.org/details/smpa-files-2191 | |1920 |国民大会, 189 persons, 165 members and 24 guests |9 |
+| 103 | 64 | 3547 | Movement to hold National Citizens' Convention |https://archive.org/details/smpa-files-2204 | |Sep 1920 | |8 |
+| 103 | 64 | 3572 | Daily report, 16 Oct. 1920 |https://archive.org/details/smpa-files-2028 | |1920-1921 |including newspaper articles |13 |
+| 103 | 64 | 3607 | Daily report, 16 Nov. 1920 | | | | | |
+| 103 | 64 | 3702 | Bolshevist activities in Shanghai |https://archive.org/details/smpa-files-1980 |local Bolsheviks established the Esperanto Schools in Shanghai |Jan-Feb 1921 | |7 |
+| 103 | 64 | 3841 | The Bolshevist movement as seen from Shanghai since 1 Jan. 1921 | | | | | |
+| 103 | 64 | 3844 | Sir Everard D. H. Fraser, K.C.M.G., 30 Mar. 1917 |https://archive.org/details/smpa-files-2280 | |Mar 1917 | |14 |
+| 103 | 64 | 3871 | Translation of extracts from the Count De Toulouse Lautrec De Savine’s book | | | | | |
+| 103 | 64 | 3955 | Tsang Tsung Koh alias Hai Tsung Li  |https://archive.org/details/smpa-files-2357 | |1921 | |52 |
+| 103 | 64 | 4060 | Leaflet advocating the abolition of extraterritoriality |https://archive.org/details/smpa-files-2139 | |Aug 1921 | |8 |
+| 103 | 64 | 4172 | The case of the "Ralph Moller" |https://archive.org/details/smpa-files-2309 | |1921-1922 | |40 |
+| 103 | 64 | 4177 | Extract from the daily report of 17 Sept. 1921 |https://archive.org/details/smpa-files-2059 | | |the date on the paper was not the date recorded in the title |1 |
+| 103 | 64 | 4184 | Compte - Rendu |https://archive.org/details/smpa-files-2021 | |Oct 1921 | |17 |
+| 103 | 64 | 4188 | Provincial Autonomy Co-operative Society |https://archive.org/details/smpa-files-2021/mode/2up | |Oct 1921 | |17 |
+| 103 | 64 | 4190 | Memorandum on letter from F. Parlani to S. A. Serebriannikoff |https://archive.org/details/smpa-files-2021/mode/2up | |Oct 1921 | |17 |
+| 103 | 64 | 4341 | Arrest of wanted Russian named G. A. Efron |https://archive.org/details/smpa-files-1967 | |1920-1943 | |16 |
+| 103 | 64 | 4342 | The China Press, Jan. 8, 1922 | | | | | |
+| 103 | 64 | 4353 | The Shanghai Gazette, Nov. 24, 1921 |https://archive.org/details/smpa-files-2321 | |1922 | |28 |
+| 103 | 64 | 4373 | Bolsheviks quarters and leaders | | | | | |
+| 103 | 64 | 4398 | Interview with Mr. Metzler, Deputy Commissioner for Russian Affairs, about control of Russians in the settlement | | | | | |
+| 103 | 64 | 4409 | Complaint against George Semenoff, former Russian leader |https://archive.org/details/smpa-files-2020 | |Feb-Mar 1922 |The China Press and Pecking & Tiensin Times reported this affair, the reports have been included in this official records file |4 |
+| 103 | 64 | 4423 | Mr. H. S. Kim | | | | | |
+| 103 | 64 | 4463 | Translation of photograph copies. One written by Lang Dal Ho. | | | | | |
+| 103 | 64 | 4514 | Anarchism and Communism in China |https://archive.org/details/smpa-files-1960 | |1922-1923 |foreign anarchists initiated social events in China to promote the idea of Anarchism,including German, Russian, Japanese, etc. |27 |
+| 103 | 64 | 4542 | Translation of a circular which is being distributed amongst Koreans in Shanghai |https://archive.org/details/smpa-files-2338 | |19th May 1922 | |3 |
+| 103 | 64 | 4545 | Russian and Bolshevist activities in Shanghai | | | | | |
+| 103 | 64 | 4550 | Arrest of seven Koreans in French Town | | | | | |
+| 103 | 64 | 4578 | Translation of a declaration issued on May 13, 1922, by the Association of All Societies of the Chinese Republic | | | | | |
+| 103 | 64 | 4581 | Suspected prominent Bolshevist |https://archive.org/details/smpa-files-2296 | |1922 | |5 |
+| 103 | 64 | 4639 | Search of 19C Chengtu Road | | | | | |
+| 103 | 64 | 4652 | The demand for increased pay for seamen |https://archive.org/details/smpa-files-3286/page/n9/mode/2up | |1922-1923 | |116 |
+| 103 | 64 | 4654 | Attempt by malefactors to disable ships of Russian volunteer fleet |https://archive.org/details/smpa-files-1976 | |1922 | |4 |
+| 103 | 64 | 4694 | New Russian magazine | | | | | |
+| 104 | 64 | 4714 | Anti-Bolshevist publication |https://archive.org/details/smpa-files-1962/mode/2up | |Aug 1922 | |3 |
+| 104 | 64 | 4777 | Hong Kong Shun Po, Hong Kong, 1 Aug. 1922 https://archive.org/details/smpa-files-2109| | |1922 | |12 |
+| 104 | 64 | 4793 | Mr. McDavid’s view on dangers of Russian immigration | | | | | |
+| 104 | 64 | 4794 | Deportation of foreigners who are subject of non-treaty powers |https://archive.org/details/smpa-files-2043 | |May 1922 | |5 |
+| 104 | 64 | 4806 | Arrival of the SS Shin Yu | | | | | |
+| 104 | 64 | 4816 | Arrival of Russians from Vladivostock |https://archive.org/details/smpa-files-1968 | |192x(cannot identify) | |4 |
+| 104 | 64 | 4829 | Arrival of steamer from Vladivostock: Chinese Labourers’ Association, 559 Poo Ching Li | | | | | |
+| 104 | 64 | 4831 | The Shanghai Times, Wednesday, Nov. 1, 1922 |https://archive.org/details/smpa-files-2002 | |Nov 1922 |English translation version of Chinese Laboureres Association Regulation |11 |
+| 104 | 64 | 4855 | The Shanghai Times, Wednesday, Nov. 1, 1922 |https://archive.org/details/smpa-files-2325 | |1st Nov 1922 |A telegram reported that 13 warships has escaped from Vladivostok |2 |
+| 104 | 64 | 4859 | Bolsheviks in Shanghai, Dec. 2, 1922 | | | | | |
+| 104 | 64 | 4870 | Deportation of Caftons |https://archive.org/details/smpa-files-2042 | |Dec 1922 | |5 |
+| 104 | 64 | 4874 | Movements of well-known Bolsheviks | | | | | |
+| 104 | 64 | 4880 | List of ships comprising Admiral Stark’s fleet now at Woo Sung | | | | | |
+| 104 | 64 | 4913 | Refugees from Admiral Stark’s fleet |https://archive.org/details/smpa-files-2254 | |1922-1925 | |3 |
+| 104 | 64 | 4919 | Japanese associates of Dr. Sun Yat-Sen | | | | | |
+| 104 | 64 | 4926 | Union Insurance Society of Canton, Ltd. Shanghai |https://archive.org/details/smpa-files-2380 | |1922-1925 | |11 |
+| 104 | 64 | 4989 | The municipal regulations of the French Concession |https://archive.org/details/smpa-files-2316 | |1923 | |47 |
+| 104 | 65 | 5013 | Photo of Mr. and Mrs. Joffe | | | | | |
+| 104 | 65 | 5044 | Translation of prospectus issued in connection with the formation of the Korean Workers’ Army obtained in Dr. Fearn’s church on Apr. 13, 1923 | | | | | |
+| 104 | 65 | 5095 | Circular re organization of citizens army to promote self government in Canton |https://archive.org/details/smpa-files-2018 | |1923 | |6 |
+| 104 | 65 | 5165 | Daily report, June 19, 1923 |https://archive.org/details/smpa-files-2030 | |Jun 1923 | |3 |
+| 104 | 65 | 5169 | Translation of extracts from Russian newspapers | | | | | |
+| 104 | 65 | 5214 | New Shanghai Life, July 24, 1923 |https://archive.org/details/smpa-files-2218 | |1923-1925 | |5 |
+| 104 | 65 | 5233 | The Shanghai Times - "Is Bolshevism Possible in Kwangtung?" |https://archive.org/details/smpa-files-2323 | |1923-1924 | |12 |
+| 104 | 65 | 5303 | The Shanghai Times, Jan. 4, 1924 |https://archive.org/details/smpa-files-2324 | |1923-1924 | |10 |
+| 104 | 65 | 5319 | The Far Eastern Times, Oct. 6, 1923 |https://archive.org/details/smpa-files-2313 | |6th Oct 1923 |Sun Yat-Sen's reply to Mr. Karakhan |2 |
+| 104 | 65 | 5342 | The Shanghai Sunday Times, Apr. 6, 1924 |https://archive.org/details/smpa-files-2322 | |1923-1924 | |38 |
+| 104 | 65 | 5374 | Shanghai Municipal Police, Nov. 13, 1923 |https://archive.org/details/smpa-files-2267 | |1924-1937 | |32 |
+| 104 | 65 | 5471 | Bahá'í Movement Esperanto, etc., (Chen Ting Mo) | | | | | |
+| 104 | 65 | 5483 | A manifesto issue by the Kuomintang Party on the subject of its reorganization |https://archive.org/details/smpa-files-1952 | | | |11 |
+| 104 | 65 | 5492 | Chinese factory and labour union laws |https://archive.org/details/smpa-files-3287 | |1929 | |368 |
+| 104 | 65 | 5495 | Bolshevist propaganda | | | | | |
+| 104 | 65 | 5516 | Shanghai Mercury, Saturday, Feb. 9, 1924 |https://archive.org/details/smpa-files-2266 | |9th Feb 1924 |political events in the specific week |1 |
+| 104 | 65 | 5526 | Sz Ka Siao Pao | | | | | |
+| 104 | 65 | 5594 | Translation from the Echo de Chine of Apr. 1, 1924 | | | | | |
+| 105 | 65 | 5607 | Trebitsch Lincoln | | | | | |
+| 105 | 65 | 5607 II | (I.T.T.) Ignatius Timothy Trebitsch Lincoln | | | | | |
+| 105 | 65 | 5607 III | Trebitsch Lincoln (Abbot Chao Kung) | | | | | |
+| 105 | 65 | 5628 | List of labour unions referring to Yangtzepoo District |https://archive.org/details/smpa-files-3288/page/n91/mode/2up | |1928 |Key figures of Labour Unions and the detailed addresses of Unions |97 |
+| 105 | 65 | 5645 | The Chinese Workmens and Merchants Improvement Society, 3115 Haining Road |https://archive.org/details/smpa-files-2312 | |May-Sep 1924 | |38 |
+| 105 | 65  | 5715 | On observation on Russian cruisers at Woosung           |https://archive.org/details/smpa-files-2234      |      |Jul 1924      |       |32       |
+| 105 | 65  | 5782 | General Ma Yu Zung interviewed                         |https://archive.org/details/smpa-files-3289/page/n33/mode/2up      |      |1924      |       |174       |
+| 106 | 65  | 5821 | Bolsheviks in Shanghai                                 |      |      |      |       |       |
+| 106 | 65  | 5948 | Bolshevik propaganda                                   |      |      |      |       |       |
+| 106 | 65  | 5985 | Photographs of 3 Russian bandits                       |https://archive.org/details/smpa-files-2245      |      |29 Jan 1920      |Newspaper article about 30 Russian Men arrested and recognised as spies       |3       |
+| 106 | 65  | 6023 | Mixed court proceeding against strikers                |https://archive.org/details/smpa-files-3290/mode/2up      |      |1925      |       |264       |
+| 106 | 65  | 6203 | Extract from Black List. Recent movements.             |      |      |      |       |       |
+| 106 | 65  | 6232 | Strike situation - important happenings, meetings, propaganda, etc. |https://archive.org/details/smpa-files-2283      |      |Jun 1925      |       |14       |
+| 106 | 65  | 6266 | Communistic matters                                    |https://archive.org/details/smpa-files-2019      |      |Jun 1925      |       |2       |
+| 106 | 65  | 6350 | Chinese Bolsheviks’ activities in the General Strike   |https://archive.org/details/smpa-files-1999      |      |Jul 1925      |providing the general information of 陈独秀, 翟秋白, 李大钊, etc.       |4       |
+| 106 | 65  | 6441 | Soviet documents                                       |https://archive.org/details/smpa-files-2281      |      |Sep 1925      |       |2       |
+| 106 | 65  | 6508 | Mixed court proceedings against Zinovii Dosser, male, 43, and Ivigna Dosser or Fillipova, female, 26 |      |      |      |       |       |
+| 106 | 65  | 6510 | Case of Zinovii Dosser and Alexander Gregorenko        |      |      |      |       |       |
+| 106 | 65  | 6522 | Photos, Aug. 20, 1925                                  |https://archive.org/details/smpa-files-2319      |      |1925      |       |12       |
+| 106 | 65  | 6564 | The Russian Labour delegation                          |https://archive.org/details/smpa-files-2274      |      |1922. 1925      |       |16       |
+| 106 | 65  | 6600 | Silk documents                                         |      |      |      |       |       |
+| 106 | 65  | 6614 | Recruiting of Russians for militarists K. Kawakami     |https://archive.org/details/smpa-files-3581/mode/2up      |      |Aug-Sep 1925      |An officer who was also a photographer commented on Japanese society       |2       |
+| 106 | 65  | 6686 | Bolshevik activities in China as a preliminary to war  |https://archive.org/details/smpa-files-1978      |      |Oct 1925      |many paragraphs unreadable       |6       |
+| 106 | 65  | 6691 | Extracts from files of 1915, 1919, 1921 re student activities |https://archive.org/details/smpa-files-2061      |      |1915, 1919, 1921      |       |60       |
+| 106 | 65  | 6696 | Bolshevik propaganda among sailors with special reference to efforts to undermine loyalty of members of British fleet |https://archive.org/details/smpa-files-1984      |      |Oct 1925      |many paragraphs unreadable       |6       |
+| 106 | 65  | 6701 | Proposals to combat Bolshevism                         |https://archive.org/details/smpa-files-2249      |      |21st Oct 1925      |       |3       |
+| 106 | 66  | 6715 | Copy of a report from V. A. [Microfilm header reads 6716] |https://archive.org/details/smpa-files-2023      |      |1925      |       |9       |
+| 106 | 66  | 6722 | Conversation with No. 50 (Russian Social Revolutionist) |https://archive.org/details/smpa-files-2023/mode/2up      |      |Oct 1925      |       |9       |
+| 106 | 66  | 6810 | Translation of the Law of Penalties for Breaches of Police Regulations etc. |https://archive.org/details/smpa-files-2345      |      |      |       |48       |
+| 106 | 66  | 6863 | Kjwisc Kimm, Kenean Dr.                                |      |      |      |       |       |
+| 106 | 66  | 6901 | The Japanese Weekly Chronicle                          |https://archive.org/details/smpa-files-2315      |      |1925      |the collection of newspaper articles       |24       |
+| 106 | 66  | 6903 | The North China Daily News, Jan. 5, 1926               |https://archive.org/details/smpa-files-2318      |      |June 1 1926      |newspaper article title: No Real Bolshevism: Borodin Merely an Adviser: The Red Labours for Peace       |2       |
+| 106 | 66  | 6925 | Peking and Tientsin Times, Jan. 10, 1927 [Microfilm header reads 6920] |https://archive.org/details/smpa-files-2243      |      |1926/ 1927      |       |8       |
+| 106 | 66  | 6952 | The Shanghai University                                    |https://archive.org/details/smpa-files-2326      |      |1916      |       |5       |
+| 106 | 66  | 6953 | The Great China University                                 |https://archive.org/details/smpa-files-2314      |      |Jan 1925      |the general details and history of the Great China University       |2       |
+| 106 | 66  | 6980 | Arrival in Shanghai of Russian General Bourlin             |      |      |      |       |       |
+| 106 | 66  | 6984 | New Orenburgh Cossack Organization                        |https://archive.org/details/smpa-files-2216      |      |1926      |       |12       |
+| 107 | 66  | 7040 | George Stambo alias B. Goluboff alias Gorny               |https://archive.org/details/smpa-files-2091      |      |1926-1931      |       |26       |
+| 107 | 66  | 7042 | Mission engaged upon inspection of Soviet Consulates      |https://archive.org/details/smpa-files-2202      |      |1926      |       |9       |
+| 107 | 66  | 7111 | Translation of a booklet entitled Feng Yu Hsiang's 'Red' Intrigues Revealed |https://archive.org/details/smpa-files-2337      |      |Apr 1926      |       |6       |
+| 107 | 66  | 7154 | Sin Wan Pao, June 6, 1926                                 |https://archive.org/details/smpa-files-2276      |      |Mar-Jun 1926      |       |19       |
+| 107 | 66  | 7232 | Chinese Distress Relief Society                           |https://archive.org/details/smpa-files-2001      |      |Jul 1926      |the society's 4 duties: (1) assisting extremist agitators (2) promoting public demonstrations (3) collecting funds for agitators (4) publishing a bi-weekly journal       |4       |
+| 107 | 66  | 7241 | Intelligence Report - Shanghai College of Law, French Town|      |      |      |       |       |
+| 107 | 66  | 7245 | Chinese courts in the settlement and French Concession     |https://archive.org/details/smpa-files-2000      |      |1926-1931     |       |40       |
+| 107 | 66  | 7271 | Shanghai College of Law                                   |https://archive.org/details/smpa-files-3262/page/n1/mode/2up      |      |Aug 1926    |contained the important figure of Shanghai College of Law       |4       |
+| 107 | 66  | 7317 | Japanese Cotton Millowners' Association                   |https://archive.org/details/smpa-files-2123      |      |Jan 1927      |       |8       |
+| 107 | 66  | 7456 | Ataman G. M. Semenoff                                     |      |      |      |       |       |
+| 107 | 66  | 7513 | Career of Bill Prohme - The Shanghai Evening Post and Mercury, Dec. 30, 1935 |      |      |      |       |       |
+| 107 | 66  | 7540 | Russians in Marshal Chang Chung Chang's army              |https://archive.org/details/smpa-files-2260      |      |unclear date information      |information about foreign troops in China       |3       |
+| 107 | 66  | 7563 | Extracts from D.S.I. Robertson’s report re L. K. Kentwell, July 1, 1927 |https://archive.org/details/smpa-files-2060      |      |1927      |       |68       |
+| 107 | 66  | 7587 | Tramway Company, Jan. 12, 1927                            |https://archive.org/details/smpa-files-3291/mode/2up      |      |Jan-Mar 1927      |       |118       |
+| 107 | 66  | 7592 | Memorandum on the movements of M. Fratkin, Soviet employee, Apr. 8, 1932 |https://archive.org/details/smpa-files-2196      |      |1927-1932      |       |26       |
+| 107 | 66  | 7627 | A declaration of the Chinese Communist Party              |https://archive.org/details/smpa-files-1950      |      |Feb 1927      |       |10       |
+| 107 | 66  | 7645 | A letter from the office of the 1st Propaganda Corps of the Chihli-Shantung Allied Forces of the Ankuochun Army |https://archive.org/details/smpa-files-1951      |      |Feb 1927      |       |4       |
+| 107 | 66  | 7668 | The Canton Gazette - International Workers Delegation                     |https://archive.org/details/smpa-files-2308      |      |1927      |collection of newspaper articles       |31       |
+| 107 | 66  | 7660 | Chinese arrested for distributing inflammatory pamphlets to British soldiers |      |      |      |       |       |
+| 107 | 66  | 7804 | Arrest of 7 Communists on May 5, 1927                     |https://archive.org/details/smpa-files-1965      |      |Apr 1928      |       |49       |
+| 107 | 66  | 7815 | Search of suspected Communist Headquarters                   |https://archive.org/details/smpa-files-2264      |Apr 1927      |      |7       |       |
+| 107 | 66  | 7860 | Arrival of Soviet agent, Mar. 21, 1928                       |https://archive.org/details/smpa-files-1970      |      |26 Aug 1927      |the arrival of Chief Vice Consul of the USSR, including the details of their residing places       |3       |
+| 107 | 66  | 7864 | Memorandum on the movements of a suspected Javanese Communist known as Moeso or Musso, alias H. M. Gajati, alias Cajiee |https://archive.org/details/smpa-files-2195      |      |1930      |       |20       |
+| 107 | 66  | 7871 | Attempt to arrest Zung Kong Poh, notorious Communist         |https://archive.org/details/smpa-files-3263/page/n1/mode/2up https://archive.org/details/smpa-files-3580/page/1/mode/2up      |      |May 1927 / April 1937      |The 1937 file is about the attempt to arrest Li Zoong Sing instead of Zung Kong Poh       |3 / 3       |
+| 107 | 66  | 7884 | Arrival of agents of the Third International from Canton     |      |      |      |       |       |
+| 107 | 66  | 7892 | Extract from Suspect List No. 1, May 19, 1927                |      |      |      |       |       |
+| 108 | 66  | 7921 | Chinese who are proceeding from Hankow to Holland by a Japanese steamer |https://archive.org/details/smpa-files-2006      |      |May 1927-Jan 1928      |including a Chinese proof of detention with the reason that this person sabotage the Northern Expedition     |14       |
+| 108 | 66  | 7926 | Re E. M. Hovans-Kojevnikoff, alias E. Pick alias C. Klige    |      |      |      |       |       |
+| 108 | 66  | 8034 | Memo No. 390 - Search Parties June 2, 1927                   |https://archive.org/details/smpa-files-2193/mode/2up      |     |Jun 1937       |       |17       |
+| 108 | 66  | 8259 | Lawrence E. de S. Hoover                                     |https://archive.org/details/smpa-files-3264      |      | Feb-Mar 1929 / Aug 1927     |The 1927 page is the introduction of Lawrence E. de S. Hoover's career path, mentioning both South Asian and East Asian countries      |14       |
+| 108 | 66  | 8449 | Arrival of Soviet steamer Indigirka from Vladivostock        |https://archive.org/details/smpa-files-1971      |      |12 Oct 1927      |       |1       |
+| 108 | 66  | 8632 | Observation on Soviet Consulate                              |      |      |      |       |       |
+| 108 | 66  | 8651 | Departure of Soviet agents                                   |https://archive.org/details/smpa-files-2041     |      |Dec 1927      |       |2       |
+| 108 | 66  | 8760 | Munitions on board the SS Votland and Duisburg               |https://archive.org/details/smpa-files-3292      |      |1916-1929      |       |137       |
+| 109 | 66  | 8847 | Adolpho Carpi                                                |      |      |      |       |       |
+| 109 | 66  | 8874 | Request for information re Douglas James Grant               |https://archive.org/details/smpa-files-3265      |     |Feb 1928       |Details about a mother's letter to her son saying that she was anxious to know his news as her son had not contacted her for many days    |5       |
+| 109 | 66  | 8976 | Naigai Mata Kaisha, Ltd.                                     |https://archive.org/details/smpa-files-2213      |      |Mar 1928      |       |33       |
+| 109 | 66  | 8983 | Translation of a letter from the Chief of the French Police to Captain Barrett, Commissioner of Police |https://archive.org/details/smpa-files-2340      |      |1934      |       |28       |
+| 109 | 66  | 9085 | Haimovitch barred from racing                                |https://archive.org/details/smpa-files-2093      |      |1929-May 1930      | Mr. Victor Haimovitch from riding was suspended because of the complaint. Two press reported this news      |4       |
+| 109 | 66  | 9121 | List of newspapers, periodicals and news agencies in Shanghai |https://archive.org/details/smpa-files-3293      |      |1924-1935      |       |315       |
+| 109 | 66  | 9148 | Japanese meeting                                             |https://archive.org/details/smpa-files-2124      |      |1928      |       |39       |
+| 109 | 66  | 9179 | Manufacture of grenades                                      |https://archive.org/details/smpa-files-2186      |      |May 1928      |       |7       |
+| 109 | 66-67 | 9199 | Pamir Expedition, 3-5-7 Feb. 1929                          |https://archive.org/details/smpa-files-3294      |      |1928-1929      |       |285       |
+| 109 | 67  | 9257 | The Shanghai United Club                                     |https://archive.org/details/smpa-files-3295      |      |1929      |many of them unreadable       |84       |
+| 109 | 67  | 9282 | Dr. O. Fischer returns from European journey                 |https://archive.org/search?query=Subject%3A%28IO+Files%29+AND+Subject%3A%28SMPA%29&page=5      |      |1928-1934      |       |18       |
+| 109 | 67  | 9287 | Index to Provisional Court file                              |https://archive.org/details/smpa-files-2119      |      |      |       |2       |
+| 109 | 67   | 9369 | Arrival of Soviet agent               |https://archive.org/details/smpa-files-1969      |      |1928-1929      |       |5       |
+| 109 | 67   | 9429 | New movement towards U.S.S.R. in Nanking politics |https://archive.org/details/smpa-files-2215      |      |Apr-Aug 1929      |Newspaper articles about the movement       |9       |
+| 110 | 67   | 9524 | Population in Shanghai census         |https://archive.org/details/smpa-files-3296      |      |1928 / 1929 / 1939      |       |90       |
+| 110 | 67   | 9530 | International Seamen's Club           |      |      |      |       |       |
+| 110 | 67   | 9563 | Photograph of Soviet citizens         |      |      |      |       |       |
+| 110 | 67   | 9583 | Kuomintang and Social Bureau          |https://archive.org/details/smpa-files-3297      |      |1928-1930      |       |77       |
+| 110 | 67   | 9614 | The All-China Labour Federation to the All-India Trade Union Congress |https://archive.org/details/smpa-files-2306      |      |Sep 1928      |       |21       |
+| 110 | 67   | 9625 | Re "Shanghai Postal Worker" (pamphlet) |https://archive.org/details/smpa-files-3298      |      |1928-1929      |       |86       |
+| 110 | 67   | 9701 | Shanghai Zarya - Podiagin’s million   |https://archive.org/details/smpa-files-2268      |      |Oct 1927      |       |4       |
+| 110 | 67   | 9780 | The Russian Peasant Labour Party      |https://archive.org/details/smpa-files-2320      |      |1929      |       |18       |
+| 110 | 67   | 9783 | Re Squires Bingham Ltd.               |https://archive.org/details/smpa-files-2118      |      |1926-1931      |       |36       |
+| 110 | 67   | 9878 | Activities of local Bolsheviks        |https://archive.org/details/smpa-files-1956      |      |1928-1929      |       |5       |
+| 110 |      |      | Political occurrences, etc., during the month of August 1925, which affected the International Settlement |      |      |      |       |       |
+| 110 |      |      | General Strike, Shanghai 1925         |      |      |      |       |       |
+| 110 |      |      | Statistical reports                   |      |      |      |       |       |
+| 111 |      |      | Newspaper clippings                   |      |      |      |       |       |
+| 111 |      |      | Circulars                             |      |      |      |       |       |
+
+</datatables>

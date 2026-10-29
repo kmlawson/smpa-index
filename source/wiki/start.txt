@@ -1,0 +1,58 @@
+[[start|Home]] | [[D Files|D]] | [[N Files|N]] | [[U Files|U]] | [[IO Files|IO]] | [[W Files|W]] | [[FMP Files|FMP]] | [[BW Files|BW]] | [[CS Files|CS]] | [[SMP File|SMP]] | [[FC Files|FC]] | [[H Files|H]] | [[CID Files|CID]] | [[MIS Files|MIS]]
+
+Welcome to the SMPA wiki. The purpose of this wiki is to help compile information about files within the Shanghai Municipal Police archive microfilm rolls related to the International Settlement in Shanghai. 
+
+To read more about this collection, see this guide and index produced by the US National Archives: \\ [[https://archive.org/details/records-of-the-shanghai-municipal-police-1894-1949-microfilm-pamphlet|Records Of The Shanghai Municipal Police 1894-1949]]
+
+Reference Info:
+  * [[Roll List]] - List of the rolls and their coverage.
+  * [[Files Cited in Scholarship]] - Files listed found cited in historical scholarship.
+  * [[Bibliography]] - A selected list of secondary scholarship on Shanghai history relevant to the contents of this archive. 
+  * [[resources|Other Resources]] - Links and other resources of use
+
+
+===== Rolls and Files on Internet Archive =====
+
+These are mirrors of the rolls as they are found in the [[https://www.bnasie.eu/BN/Archives|Bibliotèque Numérique Asiatique]] collection. Read more about their digitization efforts in this post by Christian Henriot [[https://enepchina.hypotheses.org/3450|here]].
+
+[[https://archive.org/details/smpa-1-3|1]] | [[https://archive.org/details/smpa-3|3]] | [[https://archive.org/details/smpa-4|4]] | [[https://archive.org/details/smpa-5|5]] | [[https://archive.org/details/smpa-6|6]] | [[https://archive.org/details/smpa-7|7]] | [[https://archive.org/details/smpa-8|8]] | [[https://archive.org/details/smpa-9|9]] | [[https://archive.org/details/smpa-10|10]] | [[https://archive.org/details/smpa-11|11]] | [[https://archive.org/details/smpa-12|12]] | [[https://archive.org/details/smpa-13|13]] | [[https://archive.org/details/smpa-14|14]] | [[https://archive.org/details/smpa-15|15]] | [[https://archive.org/details/smpa-16|16]] | [[https://archive.org/details/smpa-17|17]] | [[https://archive.org/details/smpa-18|18]] | [[https://archive.org/details/smpa-19|19]] | [[https://archive.org/details/smpa-20|20]] | [[https://archive.org/details/smpa-21|21]] | [[https://archive.org/details/smpa-22|22]] | [[https://archive.org/details/smpa-23|23]] | [[https://archive.org/details/smpa-24|24]] | [[https://archive.org/details/smpa-24|24]] | [[https://archive.org/details/smpa-25|25]] | [[https://archive.org/details/smpa-26|26]] | [[https://archive.org/details/smpa-27|27]] | [[https://archive.org/details/smpa-28|28]] | [[https://archive.org/details/smpa-29|29]] | [[https://archive.org/details/smpa-30|30]] | [[https://archive.org/details/smpa-31|13]] | [[https://archive.org/details/smpa-32|32]] | [[https://archive.org/details/smpa-33|33]] | [[https://archive.org/details/smpa-34|34]] | [[https://archive.org/details/smpa-35|35]] | [[https://archive.org/details/smpa-36|36]] | [[https://archive.org/details/smpa-37|37]] | [[https://archive.org/details/smpa-38|38]] | [[https://archive.org/details/smpa-41|41]] | [[https://archive.org/details/smpa-42|42]] | [[https://archive.org/details/smpa-43|43]] | [[https://archive.org/details/smpa-44|44]] | [[https://archive.org/details/smpa-45|45]] | [[https://archive.org/details/smpa-46|46]] | [[https://archive.org/details/smpa-47|47]] | [[https://archive.org/details/smpa-48|48]] | [[https://archive.org/details/smpa-49|49]] | [[https://archive.org/details/smpa-50|50]] | [[https://archive.org/details/smpa-51|51]] | [[https://archive.org/details/smpa-52|52]] | [[https://archive.org/details/smpa-53|53]] | [[https://archive.org/details/smpa-54|54 (Missing File)]] | [[https://archive.org/details/smpa-55|55]] | [[https://archive.org/details/smpa-56|56]] | [[https://archive.org/details/smpa-57|57]] | [[https://archive.org/details/smpa-58|58]] | [[https://archive.org/details/smpa-59|59]] | [[https://archive.org/details/smpa-60|60]] | [[https://archive.org/details/smpa-61|61]] | [[https://archive.org/details/smpa-62|62]] | [[https://archive.org/details/smpa-63|63]]
+
+A list of all available individual files, which are often clearer to read but sometimes is missing files, have been extracted from the rolls and are available on the Internet Archive with this link: 
+
+**[[https://archive.org/search?query=Subject%3A%28Police+Files%29+AND+Subject%3A%28SMPA%29+AND+Subject%3A%28Shanghai+Municipal+Police%29|Shanghai Municipal Police Archive Individual Files]]**
+
+===== File Lists =====
+
+Below are pages which list files from the [[https://archive.org/details/records-of-the-shanghai-municipal-police-1894-1949-microfilm-pamphlet|NARA index]] for the collection. The workflow is as follows: 
+
+  - With use of GPT4 as an assistant and OCR vehicle, pages from the index PDF are converted to tables for inclusion in the pages below.
+  - When these are complete, each page will be proofread to look for problems with the OCR (or other LLM hallucinations)
+  - Links will be added to copies of the files on the Internet Archive, either separate files there or the appropriate page in the microfilm rolls when these can be located.
+  - Tags that add more clues as to topics that are covered in the document can be added to a tags cell.
+  - Notes on files, which may be a summary of what they contain, or a list of various attachments that the files include can be added to a notes box. 
+  - The total pages in the file can be listed for cases of longer files that are more than a few pages.
+  - Files of interest can have the name of the file link to a separate page on this wiki for the file where we can add more details as needed.
+  - When most of the files have been listed and linked up, a full spreadsheet of the collection, in various formats, will be available for download from this homepage.
+
+The majority of the files are found in these four groups of documents, with the vast majority of them D Files.
+
+^ File Group ^ Rolls ^ Description ^ Files ^ Status ^
+|[[D Files]]  |Rolls 1-60 |Reports of Special Branch between 1929-1949  |2,747 | ;;List complete;;, links not started |
+|[[IO Files]] |Rolls 63-67 |Reports made 1916-1929 |595| ;;List complete;;, links not started |
+|[[N Files]] |Rolls 60-62 |Reports made 1943-1945 during the Japanese Occupation |269 | ;;List and links complete;;, 16 files not found. |
+|[[U Files]] |Rolls 62-63 |Reports made 1940-1945 during the Japanese Occupation |73 (75)| ;;List and links complete;;, 4 files not found. |
+
+Other file groups:
+
+^ File Group ^ Rolls ^ Description ^ Files ^ Status ^
+|[[CS Files]] |Roll 63? 67? |Crime and Special Branch |25| ;;List and links complete;; |
+|[[W Files]] |Roll 63, 67 |Station W (Western area) files |2| ;;List and links complete;; |
+|[[FMP Files]] |  |French Municipal Files |14|;;List complete;;, ;;;;links not available;;;; |
+|[[BW Files]] |Roll 63 |Bubbling Well Station Reports |1|;;List and links complete;; |
+|[[SMP File]] |  | |1|;;List complete;;, ;;;;link not available;;;; |
+|[[F Files]] |  |French Political Police |11| ;;List complete;;, ;;;;links not available;;;;|
+|[[FC Files]] |  |Film Censorship |1|;;List complete;;, ;;;;link not available;;;; |
+|[[H Files]] |Roll 63 |Headquarters Staff |3| ;;List and links complete;;, 2 links not found |
+|[[CID Files]] |Roll 67 |Criminal Intelligence Division |1| ;;List and links complete;; |
+|[[MIS Files]] |Roll 67 | |23| ;;List complete;;, ;;;;links not available;;;; |
+

@@ -1,0 +1,23 @@
+[[start|Home]] | [[D Files|D]] | [[N Files|N]] | [[U Files|U]] | [[W Files|W]] | [[FMP Files|FMP]] | [[BW Files|BW]] | [[CS Files|CS]] | [[SMP File|SMP]] | [[FC Files|FC]] | [[H Files|H]] | [[IO Files|IO]] | [[CID Files|CID]] | [[MIS Files|MIS]]
+
+====== FMP Files French Municipal Files ======
+
+This small collection of files can be found in Roll 63 
+
+<datatables>
+^ Box ^ Roll ^ File ^ Folder Title/Contents                                  ^ Link ^ Tags ^ Date ^ Notes ^ Pages ^
+| 118 | 63 | 1  | Vertinsky Alexandre                                      |      |      |       |       | | 
+| 118 | - | 2  | Bulmer J-E Duelle J. Ifland                              |      |      |       |       | | 
+| 118 | - | 3  | "American Lloyd"                                         |      |      |       |       | | 
+| 118 | - | 4  | Election du nouveau de I" Association des Jewesses Sovietique" a Shanghai |      |      |       |       | | 
+| 118 | - | 5  | Moscow Bank Shanghai                                     |      |      |       |       | | 
+| 118 | - | 6  | Declaration du General F. L. Gleboff                     |      |      |       |       | | 
+| 118 | - | 7  | Revue Hebdomadaire Russe "My Journal"                    |      |      |       |       | | 
+| 118 | - | 8  | Monsieur Li Yu Ying - Bibliotheque Sino-Internationale de Geneve |      |      |       |       | | 
+| 118 | - | 9  | Ann Cbang Han                                            |      |      |       |       | | 
+| 118 | - | 10 | Liste des associations Sovietiques installees a Shanghai |      |      |       |       | | 
+| 118 | - | 11 | List of Soviet diplomatic and consular personnel in China |      |      |       |       | | 
+| 118 | - | 12 | Ex-employees of the Shanghai branch of the United Petroleum Trust of the U.S.S.R. |      |       |       |      | | 
+| 118 | - | 13 | List of Soviet organizations in Shanghai                 |      |      |       |       | | 
+| 118 | - | 14 | Liste des passagers arrives le 25 Janvier 1937 a bord du vapeur Sever |      |      |       |       | | 
+</datatables>

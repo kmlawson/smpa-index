@@ -1,0 +1,8 @@
+[[start|Home]] | [[D Files|D]] | [[N Files|N]] | [[U Files|U]] | [[W Files|W]] | [[FMP Files|FMP]] | [[BW Files|BW]] | [[CS Files|CS]] | [[SMP File|SMP]] | [[FC Files|FC]] | [[H Files|H]] | [[IO Files|IO]] | [[CID Files|CID]] | [[MIS Files|MIS]]
+
+====== Bubbling Well Station Reports ======
+
+This single file can be found in Roll 63
+
+^ Box ^ Roll ^ File  ^ Folder Title/Contents                          ^ Link ^ Tags ^ Date ^ Notes ^ Pages ^
+| 119 | 63 | A270 | Translation of statement by C.D.S. Tai Boo Ziang |https://archive.org/details/smpa-files-84      |      |1929.10       |Reported arrest of a woman Sih Lee Sz accused of assaulting her "slave girl". Woman fined and sentenced to 4 months imprisonment, suspended. Question of the woman's disappearance (claimed to have gone to Tianjin) and claiming of some search property.     |1 |
