@@ -184,7 +184,6 @@
     });
     const smp = r.links.filter((l) => l.smp);
     smp.forEach((l) => out.push(`<a class="pill smp" href="${esc(l.smp)}" target="_blank" rel="noopener" title="Transcription and translation on smp-files">smp-files</a>`));
-    if (r.auto) out.push(`<span class="pill auto" title="${esc(r.lm)}">auto</span>`);
     if (!r.links.length && r.ln) out.push(`<span class="muted">${esc(r.ln)}</span>`);
     return out.join(" ");
   }
@@ -262,7 +261,7 @@
     $("#about").innerHTML =
       S.about.map((p) => `<p>${p}</p>`).join("") +
       `<h3>How the file lists were made</h3><ol>${S.workflow.map((w) => `<li>${w}</li>`).join("")}</ol>` +
-      `<h3>This site</h3><p>This index was built from the old SMPA wiki. The D-file list has since been extended with links to the individual files on the Internet Archive, matched automatically by folder title and D-number and, for uncertain cases, by checking the file covers. Every automatically added link is marked <span class="pill auto">auto</span> and its details say how it was matched. Students in the University of St Andrews honours module <a href="https://www.spatialhistory.net/cities/" target="_blank" rel="noopener">MO4971 From City to Home: Spatial Histories of Modern East and Southeast Asia</a> contributed notes on individual files over the years. The whole index can be downloaded as <a href="downloads/smpa-files.csv">CSV</a> or <a href="downloads/smpa-files.json">JSON</a>.</p>`;
+      `<h3>This site</h3><p>This index was built from the old SMPA wiki. The D-file list has since been extended with links to the individual files on the Internet Archive, matched automatically by folder title and D-number and, for uncertain cases, by checking the file covers. For every automatically added link, the "Link source" line in the file's details says how it was matched. Students in the University of St Andrews honours module <a href="https://www.spatialhistory.net/cities/" target="_blank" rel="noopener">MO4971 From City to Home: Spatial Histories of Modern East and Southeast Asia</a> contributed notes on individual files over the years. The whole index can be downloaded as <a href="downloads/smpa-files.csv">CSV</a> or <a href="downloads/smpa-files.json">JSON</a>.</p>`;
 
     const cnt = (n) => R.filter((r) => r.rolls.has(n)).length;
     $("#rolls").innerHTML =
