@@ -141,6 +141,7 @@ def page_intro(name):
     return paras
 
 smp_ids = set((SRC / "smp_files_ids.txt").read_text().split())
+ia_pages = json.loads((SRC / "ia_pages.json").read_text())  # page count of each individual IA scan
 records = []
 
 def add(series, box, roll, file, title, link_cell, pages, tags, date, notes, **extra):
@@ -148,6 +149,8 @@ def add(series, box, roll, file, title, link_cell, pages, tags, date, notes, **e
     for l in links:
         if l["t"] == "file" and l["id"].split("-")[-1] in smp_ids:
             l["smp"] = "https://ray-bot-ai.github.io/smp-files/file.html?id=" + l["id"].split("-")[-1]
+        if l["t"] == "file" and l["id"] in ia_pages:
+            l["p"] = ia_pages[l["id"]]
     title = clean(title)
     rec = {
         "s": series, "box": clean(box), "roll": clean(roll), "f": clean(file),
@@ -275,11 +278,12 @@ data = {"records": records, "sections": sections}
 (ROOT / "downloads").mkdir(exist_ok=True)
 with open(ROOT / "downloads" / "smpa-files.csv", "w", newline="") as fh:
     w = csv.writer(fh)
-    w.writerow(["group", "box", "roll", "file", "title", "date", "year", "pages", "tags", "notes",
+    w.writerow(["group", "box", "roll", "file", "title", "date", "year", "pages", "scan_pages", "tags", "notes",
                 "ia_file_links", "ia_roll_links", "other_links", "smp_files_links", "link_note", "link_method", "cited_in"])
     for r in records:
         L = r["links"]
-        w.writerow([r["s"], r["box"], r["roll"], r["f"], r["t"], r["d"], r["y"] or "", r["pg"] or "", r["tags"], r["n"],
+        w.writerow([r["s"], r["box"], r["roll"], r["f"], r["t"], r["d"], r["y"] or "", r["pg"] or "",
+                    sum(l.get("p", 0) for l in r["links"] if l["t"] == "file") or "", r["tags"], r["n"],
                     " ".join(l["u"] for l in L if l["t"] == "file"), " ".join(l["u"] for l in L if l["t"] == "roll"),
                     " ".join(l["u"] for l in L if l["t"] == "other"), " ".join(l["smp"] for l in L if l.get("smp")),
                     r["ln"], r.get("lm", ""),

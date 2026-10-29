@@ -82,7 +82,8 @@ tbody td{padding:7px 10px;vertical-align:top}
 td.c-file{white-space:nowrap;font-variant-numeric:tabular-nums}
 td.c-file .g{display:inline-block;min-width:2.4em;color:var(--muted);font-size:12px}
 .inote{color:var(--muted);font-size:13px;margin-top:3px;line-height:1.4}
-td.c-year,td.c-roll{white-space:nowrap;color:var(--muted)}
+td.c-year,td.c-roll,td.c-pg{white-space:nowrap;color:var(--muted)}
+td.c-pg,th.c-pg{text-align:right}
 td.c-links{white-space:normal;min-width:9em}
 mark{background:var(--hit);color:inherit;border-radius:2px;padding:0 1px}
 .pill{display:inline-block;font-size:12px;line-height:1.3;padding:1px 7px;border-radius:999px;margin:1px 3px 1px 0;text-decoration:none;white-space:nowrap}
@@ -110,7 +111,7 @@ select{max-width:100%}
  h1{font-size:20px}
  .minitable{display:block;overflow-x:auto}
  section.md{padding:12px}
- .c-roll,.c-year{display:none}
+ .c-roll,.c-year,.c-pg{display:none}
  td.c-links{min-width:0;width:6.5em}
  td.c-links .pill{white-space:normal}
  .row1 #field{flex:1 1 auto}

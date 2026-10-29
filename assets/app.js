@@ -36,13 +36,16 @@
     const nm = String(r.f).match(/\d+/);
     r.fnum = nm ? +nm[0] : 1e9;
     r.nlinks = r.links.length;
+    // pages of the linked individual scan(s); several parts of one file are added together
+    const fp = r.links.filter((l) => l.t === "file" && l.p).map((l) => l.p);
+    r.np = fp.length ? fp.reduce((a, b) => a + b, 0) : null;
     r.minroll = rolls.size ? Math.min(...rolls) : 999;
   });
 
   // ------------------------------------------------------------ state <-> hash
   const ctl = {
     q: $("#q"), field: $("#field"), grp: $("#grp"), roll: $("#roll"), y1: $("#y1"), y2: $("#y2"),
-    undated: $("#undated"), link: $("#link"), src: $("#src"), cited: $("#cited"), smp: $("#smp"), inl: $("#inl"), pp: $("#pp"),
+    undated: $("#undated"), link: $("#link"), src: $("#src"), cited: $("#cited"), no1: $("#no1"), smp: $("#smp"), inl: $("#inl"), pp: $("#pp"),
   };
   let st = { sort: "", dir: 1, page: 1, open: [], show: "" };
 
@@ -58,6 +61,7 @@
     ctl.link.value = h.get("l") || "";
     ctl.src.value = h.get("src") || "";
     ctl.cited.checked = h.get("c") === "1";
+    ctl.no1.checked = h.get("x1") === "1";
     ctl.smp.checked = h.get("smp") === "1";
     ctl.inl.checked = h.get("nn") !== "0";
     ctl.pp.value = h.get("pp") || "100";
@@ -72,7 +76,7 @@
     const set = (k, v, d) => { if (v !== "" && v != null && v !== d) h.set(k, v); };
     set("q", ctl.q.value.trim()); set("f", ctl.field.value, "all"); set("g", ctl.grp.value); set("r", ctl.roll.value);
     set("y1", ctl.y1.value); set("y2", ctl.y2.value); if (!ctl.undated.checked) h.set("u", "0");
-    set("l", ctl.link.value); set("src", ctl.src.value); if (ctl.cited.checked) h.set("c", "1"); if (ctl.smp.checked) h.set("smp", "1"); if (!ctl.inl.checked) h.set("nn", "0");
+    set("l", ctl.link.value); set("src", ctl.src.value); if (ctl.cited.checked) h.set("c", "1"); if (ctl.no1.checked) h.set("x1", "1"); if (ctl.smp.checked) h.set("smp", "1"); if (!ctl.inl.checked) h.set("nn", "0");
     set("pp", ctl.pp.value, "100"); set("sort", st.sort); if (st.dir === -1) h.set("dir", "-1"); if (st.page > 1) h.set("p", st.page);
     if (st.open.length) h.set("open", st.open.join(",")); set("id", st.show);
     const s = h.toString().replace(/%2C/g, ",").replace(/%3A/g, ":");
@@ -111,7 +115,7 @@
     const terms = parseQuery(ctl.q.value, ctl.field.value);
     const g = ctl.grp.value, roll = +ctl.roll.value || 0;
     const y1 = +ctl.y1.value || 0, y2 = +ctl.y2.value || 0, und = ctl.undated.checked;
-    const link = ctl.link.value, src = ctl.src.value, cited = ctl.cited.checked, smp = ctl.smp.checked;
+    const link = ctl.link.value, src = ctl.src.value, cited = ctl.cited.checked, smp = ctl.smp.checked, no1 = ctl.no1.checked;
     results = R.filter((r) => {
       if (g && r.s !== g) return false;
       if (roll && !r.rolls.has(roll)) return false;
@@ -126,6 +130,7 @@
       if (src === "wiki" && !(r.nlinks && !r.auto)) return false;
       if (src === "auto" && !r.auto) return false;
       if (cited && !r.cite) return false;
+      if (no1 && (r.np === 1 || (r.np == null && r.pg === 1))) return false;
       if (smp && !r.hasSmp) return false;
       for (const t of terms) if (termHit(r, t) === t.neg) return false;
       return true;
@@ -138,6 +143,7 @@
         title: (r) => [r.ft],
         year: (r) => [r.y == null ? (d > 0 ? 1e4 : -1) : r.y, r.gi, r.fnum],
         roll: (r) => [r.minroll, r.gi, r.fnum],
+        pages: (r) => [r.np == null ? (d > 0 ? 1e6 : -1) : r.np, r.gi, r.fnum],
         links: (r) => [-(r.hasFile * 2 + r.hasRoll), r.gi, r.fnum],
       }[k];
       results.sort((a, b) => cmp(key(a), key(b)) * d);
@@ -179,7 +185,7 @@
   function pills(r) {
     const out = [];
     r.links.forEach((l) => {
-      if (l.t === "file") out.push(`<a class="pill file" href="${esc(l.u)}" target="_blank" rel="noopener" title="Individual file on the Internet Archive (${esc(l.id)})">IA file</a>`);
+      if (l.t === "file") out.push(`<a class="pill file" href="${esc(l.u)}" target="_blank" rel="noopener" title="Individual file on the Internet Archive (${esc(l.id)}${l.p ? ", " + l.p + (l.p === 1 ? " page" : " pages") : ""})">IA file</a>`);
       else if (l.t === "roll") out.push(`<a class="pill roll" href="${esc(l.u)}" target="_blank" rel="noopener" title="Microfilm roll on the Internet Archive">Roll ${l.roll}${l.page != null ? " p." + l.page : ""}</a>`);
       else out.push(`<a class="pill other" href="${esc(l.u)}" target="_blank" rel="noopener">link</a>`);
     });
@@ -201,7 +207,7 @@
     add("Tags", esc(r.tags));
     if (!ctl.inl.checked) add("Notes", esc(r.n));
     const ls = r.links.map((l) => {
-      if (l.t === "file") return `<a href="${esc(l.u)}" target="_blank" rel="noopener">Internet Archive: ${esc(l.id)}</a>` + (l.smp ? ` · <a href="${esc(l.smp)}" target="_blank" rel="noopener">smp-files transcription</a>` : "");
+      if (l.t === "file") return `<a href="${esc(l.u)}" target="_blank" rel="noopener">Internet Archive: ${esc(l.id)}</a>${l.p ? ` <span class="muted">(${l.p} ${l.p === 1 ? "page" : "pages"})</span>` : ""}` + (l.smp ? ` · <a href="${esc(l.smp)}" target="_blank" rel="noopener">smp-files transcription</a>` : "");
       if (l.t === "roll") {
         const ia = S.rolls.find((x) => x.n === l.roll);
         return `<a href="${esc(l.u)}" target="_blank" rel="noopener">Roll ${l.roll}${l.page != null ? ", image " + l.page : ""}</a>` + (ia ? ` <span class="muted">(${esc(ia.cov)})</span>` : "");
@@ -225,7 +231,7 @@
     if (!r.hasFile && rolls.length) {
       add("Browse roll", rolls.map((n) => { const ro = S.rolls.find((x) => x.n === n); return ro && ro.ia ? `<a href="https://archive.org/details/${ro.ia}" target="_blank" rel="noopener">Roll ${n}</a> <span class="muted">(${esc(ro.cov)})</span>` : `Roll ${n} <span class="muted">(not on the Internet Archive)</span>`; }).join("<br>"));
     }
-    return `<tr class="detail" data-for="${r.i}"><td colspan="5"><dl>${rows.join("")}</dl></td></tr>`;
+    return `<tr class="detail" data-for="${r.i}"><td colspan="6"><dl>${rows.join("")}</dl></td></tr>`;
   }
 
   function render() {
@@ -241,6 +247,7 @@
         `<td class="c-title">${hl(r.t || "(no title)", terms, ["", "title"])}${r.cite ? ` <span class="pill cite" title="Cited in scholarship">cited</span>` : ""}${ctl.inl.checked && r.n ? `<div class="inote">${hl(r.n, terms, ["", "notes"])}</div>` : ""}</td>` +
         `<td class="c-year">${esc(r.d || (r.y || ""))}</td>` +
         `<td class="c-roll">${esc(r.roll)}</td>` +
+        `<td class="c-pg">${r.np != null ? r.np : ""}</td>` +
         `<td class="c-links">${pills(r)}</td></tr>`);
       if (st.show === String(r.i)) html.push(details(r));
     });
@@ -364,7 +371,7 @@
   // ------------------------------------------------------------ index controls
   function resetControls() {
     ctl.q.value = ""; ctl.field.value = "all"; ctl.grp.value = ""; ctl.roll.value = ""; ctl.y1.value = ""; ctl.y2.value = "";
-    ctl.undated.checked = true; ctl.link.value = ""; ctl.src.value = ""; ctl.cited.checked = false; ctl.smp.checked = false; ctl.inl.checked = true;
+    ctl.undated.checked = true; ctl.link.value = ""; ctl.src.value = ""; ctl.cited.checked = false; ctl.no1.checked = false; ctl.smp.checked = false; ctl.inl.checked = true;
     st.sort = ""; st.dir = 1; st.page = 1; st.show = "";
   }
   GROUPS.forEach((g) => {
@@ -375,7 +382,7 @@
 
   let timer;
   ctl.q.addEventListener("input", () => { clearTimeout(timer); timer = setTimeout(() => { st.page = 1; st.show = ""; render(); }, 150); });
-  ["field", "grp", "roll", "y1", "y2", "undated", "link", "src", "cited", "smp", "pp"].forEach((k) =>
+  ["field", "grp", "roll", "y1", "y2", "undated", "link", "src", "cited", "no1", "smp", "pp"].forEach((k) =>
     ctl[k].addEventListener("change", () => { st.page = 1; st.show = ""; render(); }));
   ctl.inl.addEventListener("change", render);
   $("#reset").addEventListener("click", () => { resetControls(); render(); });
@@ -413,9 +420,9 @@
     } catch (e) { root.dataset.theme = want; /* storage unavailable */ }
   });
   $("#csv").addEventListener("click", () => {
-    const cols = ["group", "file", "title", "date", "year", "box", "roll", "pages", "tags", "notes", "ia_file", "ia_roll", "smp_files", "link_source"];
+    const cols = ["group", "file", "title", "date", "year", "box", "roll", "pages", "scan_pages", "tags", "notes", "ia_file", "ia_roll", "smp_files", "link_source"];
     const q = (v) => `"${String(v == null ? "" : v).replace(/"/g, '""')}"`;
-    const lines = [cols.join(",")].concat(results.map((r) => [r.s, r.f, r.t, r.d, r.y, r.box, r.roll, r.pg, r.tags, r.n,
+    const lines = [cols.join(",")].concat(results.map((r) => [r.s, r.f, r.t, r.d, r.y, r.box, r.roll, r.pg, r.np, r.tags, r.n,
       r.links.filter((l) => l.t === "file").map((l) => l.u).join(" "), r.links.filter((l) => l.t === "roll").map((l) => l.u).join(" "),
       r.links.filter((l) => l.smp).map((l) => l.smp).join(" "), r.nlinks ? (r.lm || "wiki") : ""].map(q).join(",")));
     const a = document.createElement("a");
