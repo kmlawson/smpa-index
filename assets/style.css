@@ -120,3 +120,5 @@ select{max-width:100%}
  .detail dl{grid-template-columns:1fr}
  .detail dt{margin-top:6px}
 }
+ul.unl{padding-left:1.2em;margin:0}
+ul.unl li{margin:3px 0}

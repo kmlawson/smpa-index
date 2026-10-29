@@ -277,7 +277,7 @@
     const IA_TAGGED = ["D", "IO", "N", "U", "CS", "W"];
     const OUT_ICON = `<svg viewBox="0 0 16 16" width="14" height="14" aria-hidden="true"><path fill="currentColor" d="M9 2h5v5h-1.5V4.6L7.1 10 6 8.9l5.4-5.4H9V2zM3 4h4v1.5H4.5v6h6V9H12v4H3V4z"/></svg>`;
     $("#groups").innerHTML =
-      `<p>The vast majority of the files are in four groups, D, IO, N and U, with D files by far the largest.</p>` +
+      `<p>The vast majority of the files are in four groups, D, IO, N and U, with D files by far the largest. Some individual files on the Internet Archive are not yet matched to any entry here: see the <a href="unlinked.html">list of unlinked files</a>.</p>` +
       `<table class="minitable"><thead><tr><th>Group</th><th>Description</th><th>Rolls</th><th>Files</th><th>Individual scan</th><th>Roll page only</th></tr></thead><tbody>` +
       GROUPS.map((g) => {
         const rs = R.filter((r) => r.s === g), f = rs.filter((r) => r.hasFile).length, ro = rs.filter((r) => !r.hasFile && r.hasRoll).length;

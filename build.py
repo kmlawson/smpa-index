@@ -293,3 +293,56 @@ print(len(records), "records", by)
 print("with individual IA file link:", sum(any(l["t"] == "file" for l in r["links"]) for r in records))
 print("with roll link only:", sum(not any(l["t"] == "file" for l in r["links"]) and any(l["t"] == "roll" for l in r["links"]) for r in records))
 print("citations:", len(cites), "unmatched:", unmatched_cites, "| rolls:", len(rolls))
+
+# ---------------------------------------------------------------- unlinked.html
+# Individual files on the Internet Archive that no index entry links to yet, grouped by their IA group tag.
+
+ia_files = json.loads((SRC / "ia_files.json").read_text())
+linked = {l["id"] for r in records for l in r["links"] if l["t"] == "file"}
+unlinked = [x for x in ia_files if x["id"] not in linked]
+order = ["D Files", "IO Files", "N Files", "U Files", "CS Files", "W Files"]
+groups_un = {}
+for x in unlinked:
+    tag = next((s for s in order if s in x["subject"]), "Other / no group tag")
+    groups_un.setdefault(tag, []).append(x)
+keyorder = [k for k in order if k in groups_un] + [k for k in groups_un if k not in order]
+parts = []
+for k in keyorder:
+    items = sorted(groups_un[k], key=lambda x: x["title"].lower())
+    lis = "\n".join(
+        f'<li><a href="https://archive.org/details/{x["id"]}" target="_blank" rel="noopener">{html.escape(x["title"])}</a>'
+        f' <span class="muted">{x["id"]}</span>'
+        + (f' <a class="pill smp" href="https://ray-bot-ai.github.io/smp-files/file.html?id={x["id"].split("-")[-1]}" target="_blank" rel="noopener">smp-files</a>' if x["id"].split("-")[-1] in smp_ids else "")
+        + "</li>" for x in items)
+    parts.append(f'<section class="md"><h2>{html.escape(k)} <span class="muted">({len(items)})</span></h2><ul class="unl">\n{lis}\n</ul></section>')
+(ROOT / "unlinked.html").write_text(f"""<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="color-scheme" content="light dark">
+<title>Unlinked SMPA Files</title>
+<meta name="description" content="Individual Shanghai Municipal Police files on the Internet Archive not yet matched to an entry in the file index.">
+<link rel="stylesheet" href="assets/style.css">
+<style>section.md h2{{cursor:default}}section.md h2::after{{content:none}}</style>
+<script>try{{var t=localStorage.getItem("smpa-theme"),d=matchMedia("(prefers-color-scheme: dark)").matches;if(t&&(t==="dark")!==d)document.documentElement.dataset.theme=t}}catch(e){{}}</script>
+</head>
+<body>
+<div class="wrap">
+<header class="site">
+  <h1><a href="./" style="color:inherit;text-decoration:none">Shanghai Municipal Police Files</a></h1>
+  <p class="lede">{len(unlinked):,} of the {len(ia_files):,} individual SMPA files on the Internet Archive are not yet matched to an entry in the <a href="./">file index</a>. Each link opens the file on the Internet Archive and shows its title there. They are grouped by the group tag the file carries on the Internet Archive.</p>
+  <p><input id="f" type="search" placeholder="Filter these titles…" aria-label="Filter titles" style="width:100%;max-width:32em;padding:9px 12px;border:1px solid var(--line);border-radius:8px;background:var(--panel);color:var(--ink);font-size:15px"></p>
+</header>
+{chr(10).join(parts)}
+</div>
+<script>
+document.getElementById("f").addEventListener("input", (e) => {{
+  const q = e.target.value.toLowerCase().normalize("NFD").replace(/[\\u0300-\\u036f]/g, "");
+  document.querySelectorAll("ul.unl li").forEach((li) => {{ li.hidden = q && !li.textContent.toLowerCase().normalize("NFD").replace(/[\\u0300-\\u036f]/g, "").includes(q); }});
+}});
+</script>
+</body>
+</html>
+""")
+print("unlinked IA files:", len(unlinked), {k: len(v) for k, v in groups_un.items()})
