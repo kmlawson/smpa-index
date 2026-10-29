@@ -414,6 +414,12 @@
     setTimeout(() => URL.revokeObjectURL(a.href), 1000);
   });
   window.addEventListener("hashchange", () => { readHash(); syncSections(); render(); });
+  const totop = $("#totop");
+  const showTop = () => { totop.hidden = window.scrollY < 1.5 * window.innerHeight; };
+  window.addEventListener("scroll", showTop, { passive: true });
+  totop.addEventListener("click", () =>
+    window.scrollTo({ top: 0, behavior: matchMedia("(prefers-reduced-motion: reduce)").matches ? "auto" : "smooth" }));
+  showTop();
 
   fillSections();
   readHash();

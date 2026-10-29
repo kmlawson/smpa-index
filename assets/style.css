@@ -96,6 +96,9 @@ tr.detail td{padding:4px 14px 14px;background:var(--panel)}
 footer.help{font-size:13px;color:var(--muted);margin-top:16px;max-width:70em}
 footer.help code{background:var(--chip);padding:0 4px;border-radius:4px;color:var(--ink)}
 .warnnote{background:var(--warn-bg);color:var(--warn-ink);padding:8px 12px;border-radius:8px}
+#totop{position:fixed;right:18px;bottom:18px;z-index:10;width:44px;height:44px;padding:0;border-radius:50%;
+ background:var(--accent);color:var(--accent-ink);border:0;font-size:22px;line-height:44px;box-shadow:0 2px 8px rgba(0,0,0,.25)}
+#totop:hover{filter:brightness(1.1)}
 html,body{overflow-x:hidden}
 .tablewrap{overflow-x:auto}
 select{max-width:100%}
