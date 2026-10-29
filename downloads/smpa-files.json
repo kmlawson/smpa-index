@@ -86176,13 +86176,33 @@
   "roll": "63",
   "f": "2",
   "t": "The Tax Office Jan. 2 1916 (Letter)",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2327",
+    "id": "smpa-files-2327",
+    "m": "IO register number on page 0 (\"C. I. D. I. O. REG No 2\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2327",
+    "p": 1
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": 1916,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO register number on page 0",
+  "lev": "C. I. D. I. O. REG No 2",
+  "sub": [
+   "ECO",
+   "ECO.banking",
+   "ECO.firms",
+   "MIL",
+   "MIL.chinese",
+   "MUN",
+   "MUN.greater"
+  ]
  },
  {
   "s": "IO",
@@ -86278,13 +86298,31 @@
   "roll": "63",
   "f": "10",
   "t": "Shenpao",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2269",
+    "id": "smpa-files-2269",
+    "m": "IO register number on page 0 (\"C. I. D. I. O. REG No. 10 Date 10 - 1 - 16\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2269",
+    "p": 1
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO register number on page 0",
+  "lev": "C. I. D. I. O. REG No. 10 Date 10 - 1 - 16",
+  "sub": [
+   "PRS",
+   "PRS.censorship",
+   "PRS.chinese",
+   "REP",
+   "REP.revolutionaries"
+  ]
  },
  {
   "s": "IO",
@@ -86379,13 +86417,30 @@
   "roll": "63",
   "f": "15",
   "t": "Mr. Stephorious",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2210",
+    "id": "smpa-files-2210",
+    "m": "IO register number on page 0 (\"C. I. D. I. O. REG No 15 Date 14-1-16\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2210",
+    "p": 1
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO register number on page 0",
+  "lev": "C. I. D. I. O. REG No 15 Date 14-1-16",
+  "sub": [
+   "FOR",
+   "FOR.german",
+   "MUN",
+   "MUN.council"
+  ]
  },
  {
   "s": "IO",
@@ -86451,13 +86506,32 @@
   "roll": "63",
   "f": "18",
   "t": "Zee Koh Liang",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2450",
+    "id": "smpa-files-2450",
+    "m": "IO register number on page 0 (\"C. I. D. I. O. REG No. 18 Date 18-1-16\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2450",
+    "p": 1
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO register number on page 0",
+  "lev": "C. I. D. I. O. REG No. 18 Date 18-1-16",
+  "sub": [
+   "PUB",
+   "PUB.demonstrations",
+   "REP",
+   "REP.revolutionaries",
+   "VIO",
+   "VIO.assassination"
+  ]
  },
  {
   "s": "IO",
@@ -86494,13 +86568,32 @@
   "roll": "63",
   "f": "20",
   "t": "The Nielson Arms Case",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2317",
+    "id": "smpa-files-2317",
+    "m": "IO register number on page 1 (\"C. I. D: I. O. REG No. 20\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2317",
+    "p": 38
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO register number on page 1",
+  "lev": "C. I. D: I. O. REG No. 20",
+  "sub": [
+   "CRI",
+   "CRI.arms",
+   "ESP",
+   "ESP.german",
+   "LAW",
+   "LAW.courts"
+  ]
  },
  {
   "s": "IO",
@@ -86537,13 +86630,28 @@
   "roll": "63",
   "f": "22",
   "t": "Chen Chi Mei",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-1993",
+    "id": "smpa-files-1993",
+    "m": "IO register number on page 0 (\"C. I. D. I. O. REG No 22\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=1993",
+    "p": 1
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO register number on page 0",
+  "lev": "C. I. D. I. O. REG No 22",
+  "sub": [
+   "REP",
+   "REP.revolutionaries"
+  ]
  },
  {
   "s": "IO",
@@ -86579,13 +86687,50 @@
   "roll": "63",
   "f": "25",
   "t": "Koo Tuh Ngoh",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2136",
+    "id": "smpa-files-2136",
+    "m": "IO register number on page 0 (\"C. I. D. I. O. REG No. 25 Date January 25th 1916\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2136",
+    "p": 1
+   },
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2270",
+    "id": "smpa-files-2270",
+    "m": "IO register number on page 0 (\"I. O. REG No. 25 Date 11-2-17\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2270",
+    "p": 1
+   },
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2347",
+    "id": "smpa-files-2347",
+    "m": "IO register number on page 0 (\"C. I. D. I. O. REG No. 25\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2347",
+    "p": 1
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO register number on page 0",
+  "lev": "C. I. D. I. O. REG No. 25",
+  "sub": [
+   "PRS",
+   "PRS.censorship",
+   "PRS.chinese",
+   "REP",
+   "REP.funding",
+   "REP.revolutionaries",
+   "VIO",
+   "VIO.threats"
+  ]
  },
  {
   "s": "IO",
@@ -86593,13 +86738,33 @@
   "roll": "63",
   "f": "26",
   "t": "General Yang",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2088",
+    "id": "smpa-files-2088",
+    "m": "IO register number on page 0 (\"C. I. D. I. O. REG No. 26 Date.\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2088",
+    "p": 1
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO register number on page 0",
+  "lev": "C. I. D. I. O. REG No. 26 Date.",
+  "sub": [
+   "PRS",
+   "PRS.censorship",
+   "PRS.chinese",
+   "REP",
+   "REP.warlords",
+   "SOC",
+   "SOC.welfare"
+  ]
  },
  {
   "s": "IO",
@@ -86664,13 +86829,30 @@
   "roll": "63",
   "f": "30",
   "t": "Ju Sing",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2126",
+    "id": "smpa-files-2126",
+    "m": "IO name match",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2126",
+    "p": 2
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO name match",
+  "sub": [
+   "REP",
+   "REP.funding",
+   "REP.revolutionaries",
+   "VIO",
+   "VIO.assassination"
+  ]
  },
  {
   "s": "IO",
@@ -86707,13 +86889,29 @@
   "roll": "63",
   "f": "32",
   "t": "Shen Yuen Zahl",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2063",
+    "id": "smpa-files-2063",
+    "m": "IO register number on page 0 (\"No. 32 Date 2 - 2\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2063",
+    "p": 1
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO register number on page 0",
+  "lev": "No. 32 Date 2 - 2",
+  "sub": [
+   "REP",
+   "REP.monarchists",
+   "REP.warlords"
+  ]
  },
  {
   "s": "IO",
@@ -86776,13 +86974,31 @@
   "roll": "63",
   "f": "36",
   "t": "Zung Tsung",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2462",
+    "id": "smpa-files-2462",
+    "m": "IO register number on page 0 (\"C. D. F. O. REG No. 36\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2462",
+    "p": 1
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO register number on page 0",
+  "lev": "C. D. F. O. REG No. 36",
+  "sub": [
+   "MIL",
+   "MIL.chinese",
+   "REP",
+   "REP.revolutionaries",
+   "REP.warlords"
+  ]
  },
  {
   "s": "IO",
@@ -86987,13 +87203,28 @@
   "roll": "63",
   "f": "45",
   "t": "Daung Zen Tsung",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2039",
+    "id": "smpa-files-2039",
+    "m": "IO name match",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2039",
+    "p": 1
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO name match",
+  "sub": [
+   "REP",
+   "REP.revolutionaries",
+   "REP.warlords"
+  ]
  },
  {
   "s": "IO",
@@ -87074,13 +87305,31 @@
   "roll": "63",
   "f": "50",
   "t": "Tsu Hai Zung",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2367",
+    "id": "smpa-files-2367",
+    "m": "IO name match + register number (\"IO register no. 50\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2367",
+    "p": 1
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO name match + register number",
+  "lev": "IO register no. 50",
+  "sub": [
+   "MIL",
+   "MIL.chinese",
+   "REP",
+   "REP.revolutionaries",
+   "REP.warlords"
+  ]
  },
  {
   "s": "IO",
@@ -87131,13 +87380,28 @@
   "roll": "63",
   "f": "53",
   "t": "[Missing]",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2064",
+    "id": "smpa-files-2064",
+    "m": "IO register number on page 0 (\"C. I. D. I. O. REG No 53 Date 4-2-16\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2064",
+    "p": 1
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO register number on page 0",
+  "lev": "C. I. D. I. O. REG No 53 Date 4-2-16",
+  "sub": [
+   "REP",
+   "REP.revolutionaries"
+  ]
  },
  {
   "s": "IO",
@@ -87159,13 +87423,31 @@
   "roll": "63",
   "f": "55",
   "t": "Wong Tseh Ming",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2395",
+    "id": "smpa-files-2395",
+    "m": "IO name match",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2395",
+    "p": 5
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO name match",
+  "sub": [
+   "FOR",
+   "FOR.consular",
+   "PRS",
+   "PRS.leaflets",
+   "REP",
+   "REP.revolutionaries"
+  ]
  },
  {
   "s": "IO",
@@ -87222,13 +87504,30 @@
   "roll": "63",
   "f": "109",
   "t": "Lieu Khoong",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2160",
+    "id": "smpa-files-2160",
+    "m": "IO name match + register number (\"IO register no. 109\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2160",
+    "p": 2
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO name match + register number",
+  "lev": "IO register no. 109",
+  "sub": [
+   "PRS",
+   "PRS.leaflets",
+   "REP",
+   "REP.revolutionaries"
+  ]
  },
  {
   "s": "IO",
@@ -87278,13 +87577,39 @@
   "roll": "63",
   "f": "124",
   "t": "Hai Yung",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2092",
+    "id": "smpa-files-2092",
+    "m": "IO name match",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2092",
+    "p": 1
+   },
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2282",
+    "id": "smpa-files-2282",
+    "m": "IO register number on page 0 (\"C: I. D: I. O. REG No. 124\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2282",
+    "p": 1
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO name match",
+  "lev": "C: I. D: I. O. REG No. 124",
+  "sub": [
+   "MIL",
+   "MIL.chinese",
+   "REP",
+   "REP.revolutionaries",
+   "REP.warlords"
+  ]
  },
  {
   "s": "IO",
@@ -87292,13 +87617,30 @@
   "roll": "63",
   "f": "125",
   "t": "Woo Tsung Wo",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2409",
+    "id": "smpa-files-2409",
+    "m": "IO name match",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2409",
+    "p": 1
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO name match",
+  "sub": [
+   "MIL",
+   "MIL.chinese",
+   "REP",
+   "REP.revolutionaries",
+   "REP.warlords"
+  ]
  },
  {
   "s": "IO",
@@ -87437,13 +87779,30 @@
   "roll": "63",
   "f": "137",
   "t": "Pootung and Foong Ching",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2248",
+    "id": "smpa-files-2248",
+    "m": "IO name match",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2248",
+    "p": 1
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO name match",
+  "sub": [
+   "MIL",
+   "MIL.chinese",
+   "REP",
+   "REP.revolutionaries",
+   "REP.warlords"
+  ]
  },
  {
   "s": "IO",
@@ -87522,13 +87881,29 @@
   "roll": "63",
   "f": "146",
   "t": "Chang Hsun",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-1988",
+    "id": "smpa-files-1988",
+    "m": "IO register number on page 0 (\"C. I. D. F. O. REG No 146 Date 7/3/16\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=1988",
+    "p": 1
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO register number on page 0",
+  "lev": "C. I. D. F. O. REG No 146 Date 7/3/16",
+  "sub": [
+   "REP",
+   "REP.revolutionaries",
+   "REP.warlords"
+  ]
  },
  {
   "s": "IO",
@@ -87597,13 +87972,30 @@
   "roll": "63",
   "f": "155",
   "t": "Daung Chi Sing",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2035",
+    "id": "smpa-files-2035",
+    "m": "IO name match + register number (\"IO register no. 155\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2035",
+    "p": 1
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO name match + register number",
+  "lev": "IO register no. 155",
+  "sub": [
+   "LAB",
+   "LAB.strikes",
+   "REP",
+   "REP.revolutionaries"
+  ]
  },
  {
   "s": "IO",
@@ -87611,13 +88003,31 @@
   "roll": "63",
   "f": "158",
   "t": "Fong Nan Woo",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2072",
+    "id": "smpa-files-2072",
+    "m": "IO register number on page 0 (\"C. I. D. I. O. REG No. 158 Date 9/3/16\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2072",
+    "p": 1
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO register number on page 0",
+  "lev": "C. I. D. I. O. REG No. 158 Date 9/3/16",
+  "sub": [
+   "LAW",
+   "LAW.courts",
+   "REP",
+   "REP.funding",
+   "REP.warlords"
+  ]
  },
  {
   "s": "IO",
@@ -87625,13 +88035,29 @@
   "roll": "63",
   "f": "160",
   "t": "Fong Nan Woo",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2071",
+    "id": "smpa-files-2071",
+    "m": "IO register number on page 0 (\"C. I. D. I. O. REG No 160 Date 10/3/25\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2071",
+    "p": 1
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO register number on page 0",
+  "lev": "C. I. D. I. O. REG No 160 Date 10/3/25",
+  "sub": [
+   "REP",
+   "REP.revolutionaries",
+   "REP.warlords"
+  ]
  },
  {
   "s": "IO",
@@ -87653,13 +88079,41 @@
   "roll": "63",
   "f": "165",
   "t": "Sun Yat-Sen",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2284",
+    "id": "smpa-files-2284",
+    "m": "IO register number on page 0 (\"0:15 E of Sec No. 165 Date 12/3/4\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2284",
+    "p": 1
+   },
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2431",
+    "id": "smpa-files-2431",
+    "m": "IO register number on page 1 (\"I. O. REG No. 165 March 13th 1916.\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2431",
+    "p": 3
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO register number on page 0",
+  "lev": "I. O. REG No. 165 March 13th 1916.",
+  "sub": [
+   "CRI",
+   "CRI.arms",
+   "REP",
+   "REP.revolutionaries",
+   "REP.warlords",
+   "VIO",
+   "VIO.assassination"
+  ]
  },
  {
   "s": "IO",
@@ -87681,13 +88135,30 @@
   "roll": "63",
   "f": "167",
   "t": "Chen Chi Mei",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-1996",
+    "id": "smpa-files-1996",
+    "m": "IO register number on page 0 (\"I. O. REG No. 167 Date 15 / 3 / 16\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=1996",
+    "p": 1
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO register number on page 0",
+  "lev": "I. O. REG No. 167 Date 15 / 3 / 16",
+  "sub": [
+   "MIL",
+   "MIL.chinese",
+   "REP",
+   "REP.revolutionaries"
+  ]
  },
  {
   "s": "IO",
@@ -87709,13 +88180,29 @@
   "roll": "63",
   "f": "171",
   "t": "Fong Nan Woo",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2073",
+    "id": "smpa-files-2073",
+    "m": "IO register number on page 0 (\"C. I. D. I. O. REG No....................171 Date..................15/3/26....\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2073",
+    "p": 1
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO register number on page 0",
+  "lev": "C. I. D. I. O. REG No....................171 Date..................15/3/26....",
+  "sub": [
+   "REP",
+   "REP.revolutionaries",
+   "REP.warlords"
+  ]
  },
  {
   "s": "IO",
@@ -87824,13 +88311,31 @@
   "roll": "63",
   "f": "181",
   "t": "Lang Chi Tsao",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2138",
+    "id": "smpa-files-2138",
+    "m": "IO name match + register number (\"IO register no. 181\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2138",
+    "p": 1
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO name match + register number",
+  "lev": "IO register no. 181",
+  "sub": [
+   "MIL",
+   "MIL.chinese",
+   "REP",
+   "REP.revolutionaries",
+   "REP.warlords"
+  ]
  },
  {
   "s": "IO",
@@ -87838,13 +88343,27 @@
   "roll": "63",
   "f": "182",
   "t": "Dong Chi Yau",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2047",
+    "id": "smpa-files-2047",
+    "m": "IO name match",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2047",
+    "p": 3
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO name match",
+  "sub": [
+   "PRS",
+   "PRS.postal"
+  ]
  },
  {
   "s": "IO",
@@ -87852,13 +88371,28 @@
   "roll": "63",
   "f": "183",
   "t": "Nyen Tih Sung",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2232",
+    "id": "smpa-files-2232",
+    "m": "IO register number on page 0 (\"F. O. REG No. 183 Date 21/3/16\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2232",
+    "p": 1
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO register number on page 0",
+  "lev": "F. O. REG No. 183 Date 21/3/16",
+  "sub": [
+   "REP",
+   "REP.revolutionaries"
+  ]
  },
  {
   "s": "IO",
@@ -87866,13 +88400,30 @@
   "roll": "63",
   "f": "185",
   "t": "Han Hwei",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2104",
+    "id": "smpa-files-2104",
+    "m": "IO register number on page 0 (\"C. : D. I. O. REG No. 185 Date. 21/3/16\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2104",
+    "p": 1
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO register number on page 0",
+  "lev": "C. : D. I. O. REG No. 185 Date. 21/3/16",
+  "sub": [
+   "MIL",
+   "MIL.chinese",
+   "REP",
+   "REP.revolutionaries"
+  ]
  },
  {
   "s": "IO",
@@ -87880,13 +88431,29 @@
   "roll": "63",
   "f": "186",
   "t": "Nyeu Tih Sung",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2231",
+    "id": "smpa-files-2231",
+    "m": "IO register number on page 0 (\"C. I. D. P. O. REG No. 186 Date. 22/3/12.\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2231",
+    "p": 1
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO register number on page 0",
+  "lev": "C. I. D. P. O. REG No. 186 Date. 22/3/12.",
+  "sub": [
+   "REP",
+   "REP.revolutionaries",
+   "REP.warlords"
+  ]
  },
  {
   "s": "IO",
@@ -87983,13 +88550,31 @@
   "roll": "63",
   "f": "201",
   "t": "Chen Chi Mei",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-1997",
+    "id": "smpa-files-1997",
+    "m": "IO register number on page 0 (\"C. I. D. I. O. REG No. 201 Date 27/3/16\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=1997",
+    "p": 1
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO register number on page 0",
+  "lev": "C. I. D. I. O. REG No. 201 Date 27/3/16",
+  "sub": [
+   "REP",
+   "REP.funding",
+   "REP.revolutionaries",
+   "VIO",
+   "VIO.abduction"
+  ]
  },
  {
   "s": "IO",
@@ -87997,13 +88582,31 @@
   "roll": "63",
   "f": "202",
   "t": "Wu Ting Fang",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2412",
+    "id": "smpa-files-2412",
+    "m": "IO register number on page 0 (\"C: I. D. F. O. REG No. 202\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2412",
+    "p": 2
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO register number on page 0",
+  "lev": "C: I. D. F. O. REG No. 202",
+  "sub": [
+   "MIL",
+   "MIL.chinese",
+   "REP",
+   "REP.funding",
+   "REP.revolutionaries"
+  ]
  },
  {
   "s": "IO",
@@ -88204,6 +88807,14 @@
   "t": "Zau [Microfilm contains N. Keli, Turkish subject]",
   "links": [
    {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2433",
+    "id": "smpa-files-2433",
+    "m": "IO register number on page 0 (\"C. I. D. I. O. REG No 216 Date 1/4/16\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2433",
+    "p": 1
+   },
+   {
     "t": "roll",
     "u": "https://archive.org/details/smpa-63/page/n427/mode/2up",
     "roll": 63,
@@ -88215,7 +88826,13 @@
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO register number on page 0",
+  "lev": "C. I. D. I. O. REG No 216 Date 1/4/16",
+  "sub": [
+   "REP",
+   "REP.revolutionaries"
+  ]
  },
  {
   "s": "IO",
@@ -88223,13 +88840,30 @@
   "roll": "63",
   "f": "218",
   "t": "Gee Sing Tsoo",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2077",
+    "id": "smpa-files-2077",
+    "m": "IO name match + register number (\"IO register no. 218\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2077",
+    "p": 2
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO name match + register number",
+  "lev": "IO register no. 218",
+  "sub": [
+   "LAW",
+   "LAW.courts",
+   "REP",
+   "REP.revolutionaries"
+  ]
  },
  {
   "s": "IO",
@@ -88266,13 +88900,31 @@
   "roll": "63",
   "f": "223",
   "t": "Woo Ching Ying [Microfil m also contains Maurice Benjamin under this number.]",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2403",
+    "id": "smpa-files-2403",
+    "m": "IO register number on page 0 (\"C: I. D. I. O. REG No. 223\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2403",
+    "p": 1
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO register number on page 0",
+  "lev": "C: I. D. I. O. REG No. 223",
+  "sub": [
+   "MIL",
+   "MIL.subversion",
+   "REP",
+   "REP.revolutionaries",
+   "REP.warlords"
+  ]
  },
  {
   "s": "IO",
@@ -88280,13 +88932,31 @@
   "roll": "63",
   "f": "224",
   "t": "Pak Vung Wei",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2242",
+    "id": "smpa-files-2242",
+    "m": "IO name match + register number (\"IO register no. 224\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2242",
+    "p": 1
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO name match + register number",
+  "lev": "IO register no. 224",
+  "sub": [
+   "PRS",
+   "PRS.chinese",
+   "REP",
+   "REP.funding",
+   "REP.revolutionaries"
+  ]
  },
  {
   "s": "IO",
@@ -88294,13 +88964,31 @@
   "roll": "63",
   "f": "225",
   "t": "Zau Woo Kyung",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2442",
+    "id": "smpa-files-2442",
+    "m": "IO register number on page 0 (\"C. I. D. I. O. REQ No 225 Date 4/4/16\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2442",
+    "p": 1
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO register number on page 0",
+  "lev": "C. I. D. I. O. REQ No 225 Date 4/4/16",
+  "sub": [
+   "MIL",
+   "MIL.chinese",
+   "MIL.subversion",
+   "REP",
+   "REP.revolutionaries"
+  ]
  },
  {
   "s": "IO",
@@ -88308,13 +88996,39 @@
   "roll": "63",
   "f": "226",
   "t": "General Yang",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2086",
+    "id": "smpa-files-2086",
+    "m": "IO register number on page 0 (\"C: I. D. I. O. REG No. 226 Date 4/4/16...\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2086",
+    "p": 1
+   },
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2087",
+    "id": "smpa-files-2087",
+    "m": "IO register number on page 0 (\"C. I. D. I. O. REG No 226 Date 8/4/16\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2087",
+    "p": 1
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO register number on page 0",
+  "lev": "C. I. D. I. O. REG No 226 Date 8/4/16",
+  "sub": [
+   "MIL",
+   "MIL.chinese",
+   "REP",
+   "REP.revolutionaries",
+   "REP.warlords"
+  ]
  },
  {
   "s": "IO",
@@ -88352,13 +89066,28 @@
   "roll": "63",
   "f": "233",
   "t": "Wu Ting Fang",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2411",
+    "id": "smpa-files-2411",
+    "m": "IO register number on page 0 (\"C. I. D. O. REG No. 233 Date 8/4/16\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2411",
+    "p": 1
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO register number on page 0",
+  "lev": "C. I. D. O. REG No. 233 Date 8/4/16",
+  "sub": [
+   "REP",
+   "REP.revolutionaries"
+  ]
  },
  {
   "s": "IO",
@@ -88380,13 +89109,34 @@
   "roll": "63",
   "f": "236",
   "t": "The Chinese military sit uation",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2311",
+    "id": "smpa-files-2311",
+    "m": "IO register number on page 0 (\"C. I. D. I. O. REG No. 236\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2311",
+    "p": 1
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO register number on page 0",
+  "lev": "C. I. D. I. O. REG No. 236",
+  "sub": [
+   "MIL",
+   "MIL.chinese",
+   "MIL.subversion",
+   "POL",
+   "POL.auxiliary",
+   "REP",
+   "REP.revolutionaries",
+   "REP.warlords"
+  ]
  },
  {
   "s": "IO",
@@ -88423,13 +89173,29 @@
   "roll": "63",
   "f": "241",
   "t": "Zie Fong Ding",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2455",
+    "id": "smpa-files-2455",
+    "m": "IO name match",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2455",
+    "p": 1
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO name match",
+  "sub": [
+   "CRI",
+   "CRI.arms",
+   "REP",
+   "REP.revolutionaries"
+  ]
  },
  {
   "s": "IO",
@@ -88437,13 +89203,31 @@
   "roll": "63",
   "f": "242",
   "t": "Woo Ching Ying [Microfilm also contains Thomas Mellows under this number.]",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2401",
+    "id": "smpa-files-2401",
+    "m": "IO register number on page 0 (\"M. O. REG No 242 Date 10/4/16\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2401",
+    "p": 1
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO register number on page 0",
+  "lev": "M. O. REG No 242 Date 10/4/16",
+  "sub": [
+   "MIL",
+   "MIL.chinese",
+   "REP",
+   "REP.revolutionaries",
+   "REP.warlords"
+  ]
  },
  {
   "s": "IO",
@@ -88451,13 +89235,30 @@
   "roll": "63",
   "f": "245",
   "t": "Woo Ching Ying",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2402",
+    "id": "smpa-files-2402",
+    "m": "IO register number on page 0 (\"C. I. D. I. O. REG No. 245\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2402",
+    "p": 1
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO register number on page 0",
+  "lev": "C. I. D. I. O. REG No. 245",
+  "sub": [
+   "MIL",
+   "MIL.chinese",
+   "REP",
+   "REP.revolutionaries"
+  ]
  },
  {
   "s": "IO",
@@ -88494,13 +89295,31 @@
   "roll": "63",
   "f": "248",
   "t": "Zau Li Waung [On microfilm this number is also used for Nyeu Tih Sung.]",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2437",
+    "id": "smpa-files-2437",
+    "m": "IO register number on page 0 (\"D. I. D. F. O. REG No. 248 Date 12/4/16\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2437",
+    "p": 1
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO register number on page 0",
+  "lev": "D. I. D. F. O. REG No. 248 Date 12/4/16",
+  "sub": [
+   "REP",
+   "REP.revolutionaries",
+   "REP.warlords",
+   "VIO",
+   "VIO.assassination"
+  ]
  },
  {
   "s": "IO",
@@ -88508,13 +89327,29 @@
   "roll": "63",
   "f": "249",
   "t": "Chen Chi Mei",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-1995",
+    "id": "smpa-files-1995",
+    "m": "IO register number on page 0 (\"F. O. REG No 249 Date 13/4/16.\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=1995",
+    "p": 1
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO register number on page 0",
+  "lev": "F. O. REG No 249 Date 13/4/16.",
+  "sub": [
+   "REP",
+   "REP.funding",
+   "REP.revolutionaries"
+  ]
  },
  {
   "s": "IO",
@@ -88551,13 +89386,31 @@
   "roll": "63",
   "f": "253",
   "t": "Nyeu Tih Sung",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2230",
+    "id": "smpa-files-2230",
+    "m": "IO register number on page 0 (\"I. O. REG No 253 Date 16/4/1927\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2230",
+    "p": 1
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO register number on page 0",
+  "lev": "I. O. REG No 253 Date 16/4/1927",
+  "sub": [
+   "MIL",
+   "MIL.chinese",
+   "REP",
+   "REP.funding",
+   "REP.revolutionaries"
+  ]
  },
  {
   "s": "IO",
@@ -88565,13 +89418,38 @@
   "roll": "63",
   "f": "254",
   "t": "Fung Ching",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2076",
+    "id": "smpa-files-2076",
+    "m": "IO name match",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2076",
+    "p": 2
+   },
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2292",
+    "id": "smpa-files-2292",
+    "m": "IO register number on page 0 (\"C. I. D. P. O. REG No. 254\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2292",
+    "p": 1
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO name match",
+  "lev": "C. I. D. P. O. REG No. 254",
+  "sub": [
+   "REP",
+   "REP.funding",
+   "REP.revolutionaries",
+   "REP.warlords"
+  ]
  },
  {
   "s": "IO",
@@ -88678,13 +89556,31 @@
   "roll": "63",
   "f": "266",
   "t": "Fong Nan Woo",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2070",
+    "id": "smpa-files-2070",
+    "m": "IO register number on page 0 (\"C. I. D. I. O. REQ No. 266 Date 21/4/16\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2070",
+    "p": 2
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO register number on page 0",
+  "lev": "C. I. D. I. O. REQ No. 266 Date 21/4/16",
+  "sub": [
+   "MIL",
+   "MIL.chinese",
+   "REP",
+   "REP.revolutionaries",
+   "REP.warlords"
+  ]
  },
  {
   "s": "IO",
@@ -88722,13 +89618,30 @@
   "roll": "63",
   "f": "268",
   "t": "Nyeu Tih Sung",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2228",
+    "id": "smpa-files-2228",
+    "m": "IO register number on page 0 (\"C. I. D. F. O. REG No 268 Date 21/4/16\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2228",
+    "p": 1
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO register number on page 0",
+  "lev": "C. I. D. F. O. REG No 268 Date 21/4/16",
+  "sub": [
+   "REP",
+   "REP.revolutionaries",
+   "VIO",
+   "VIO.bombing"
+  ]
  },
  {
   "s": "IO",
@@ -88736,13 +89649,32 @@
   "roll": "63",
   "f": "269",
   "t": "Nyeu Tih Sung [Microfilm also contains police strength report under this number]",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2229",
+    "id": "smpa-files-2229",
+    "m": "IO register number on page 1 (\"C. I. D. I. O. REG No. 269 Date 20/4/16\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2229",
+    "p": 2
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO register number on page 1",
+  "lev": "C. I. D. I. O. REG No. 269 Date 20/4/16",
+  "sub": [
+   "MIL",
+   "MIL.chinese",
+   "REP",
+   "REP.revolutionaries",
+   "VIO",
+   "VIO.bombing"
+  ]
  },
  {
   "s": "IO",
@@ -88810,13 +89742,29 @@
   "roll": "63",
   "f": "272",
   "t": "Wong Ih Eon",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2388",
+    "id": "smpa-files-2388",
+    "m": "IO name match + register number (\"IO register no. 272\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2388",
+    "p": 1
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO name match + register number",
+  "lev": "IO register no. 272",
+  "sub": [
+   "REP",
+   "REP.funding",
+   "REP.revolutionaries"
+  ]
  },
  {
   "s": "IO",
@@ -88854,13 +89802,29 @@
   "roll": "63",
   "f": "278",
   "t": "Nyeu Tih Sung",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2226",
+    "id": "smpa-files-2226",
+    "m": "IO register number on page 0 (\"C. I. D. I. O. REG No. 278 Date 26. 4. 16.\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2226",
+    "p": 2
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO register number on page 0",
+  "lev": "C. I. D. I. O. REG No. 278 Date 26. 4. 16.",
+  "sub": [
+   "REP",
+   "REP.revolutionaries",
+   "REP.warlords"
+  ]
  },
  {
   "s": "IO",
@@ -88868,13 +89832,30 @@
   "roll": "63",
   "f": "282",
   "t": "Ying Sz",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2419",
+    "id": "smpa-files-2419",
+    "m": "IO name match",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2419",
+    "p": 6
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO name match",
+  "sub": [
+   "JPN",
+   "JPN.ronin",
+   "REP",
+   "REP.funding",
+   "REP.revolutionaries"
+  ]
  },
  {
   "s": "IO",
@@ -88882,13 +89863,30 @@
   "roll": "63",
   "f": "283",
   "t": "Nyeu Tih Sung",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2227",
+    "id": "smpa-files-2227",
+    "m": "IO register number on page 0 (\"C. I D. I. O. REG No. 283\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2227",
+    "p": 1
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO register number on page 0",
+  "lev": "C. I D. I. O. REG No. 283",
+  "sub": [
+   "MIL",
+   "MIL.chinese",
+   "REP",
+   "REP.revolutionaries"
+  ]
  },
  {
   "s": "IO",
@@ -88924,13 +89922,32 @@
   "roll": "63",
   "f": "287",
   "t": "George R. Arthur",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2090",
+    "id": "smpa-files-2090",
+    "m": "IO name match",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2090",
+    "p": 11
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO name match",
+  "sub": [
+   "FOR",
+   "FOR.british",
+   "FOR.consular",
+   "MIG",
+   "MIG.movements",
+   "REP",
+   "REP.revolutionaries"
+  ]
  },
  {
   "s": "IO",
@@ -88996,13 +90013,30 @@
   "roll": "63",
   "f": "294",
   "t": "Ho Kya Loh",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2108",
+    "id": "smpa-files-2108",
+    "m": "IO name match",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2108",
+    "p": 2
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO name match",
+  "sub": [
+   "MIL",
+   "MIL.chinese",
+   "REP",
+   "REP.revolutionaries",
+   "REP.warlords"
+  ]
  },
  {
   "s": "IO",
@@ -89098,13 +90132,31 @@
   "roll": "63",
   "f": "306",
   "t": "Four Japanese - revolvers",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2075",
+    "id": "smpa-files-2075",
+    "m": "IO name match",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2075",
+    "p": 1
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO name match",
+  "sub": [
+   "CRI",
+   "CRI.arms",
+   "JPN",
+   "JPN.ronin",
+   "REP",
+   "REP.revolutionaries"
+  ]
  },
  {
   "s": "IO",
@@ -89196,13 +90248,29 @@
   "roll": "63",
   "f": "315",
   "t": "Tsang Tsi San",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2356",
+    "id": "smpa-files-2356",
+    "m": "IO name match",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2356",
+    "p": 1
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO name match",
+  "sub": [
+   "MIL",
+   "MIL.subversion",
+   "REP",
+   "REP.revolutionaries"
+  ]
  },
  {
   "s": "IO",
@@ -89269,13 +90337,32 @@
   "roll": "63",
   "f": "318",
   "t": "Chang Hsun",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-1987",
+    "id": "smpa-files-1987",
+    "m": "IO register number on page 0 (\"C. I. D. 318 4/5/16\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=1987",
+    "p": 1
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO register number on page 0",
+  "lev": "C. I. D. 318 4/5/16",
+  "sub": [
+   "REP",
+   "REP.funding",
+   "REP.revolutionaries",
+   "REP.warlords",
+   "VIC",
+   "VIC.narcotics"
+  ]
  },
  {
   "s": "IO",
@@ -89283,13 +90370,28 @@
   "roll": "63",
   "f": "319",
   "t": "Choeh Yung Kwaung",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2011",
+    "id": "smpa-files-2011",
+    "m": "IO name match",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2011",
+    "p": 1
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO name match",
+  "sub": [
+   "REP",
+   "REP.revolutionaries",
+   "REP.warlords"
+  ]
  },
  {
   "s": "IO",
@@ -89325,13 +90427,33 @@
   "roll": "63",
   "f": "326",
   "t": "Sun Yat-Sen",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2289",
+    "id": "smpa-files-2289",
+    "m": "IO register number on page 0 (\"S. I. D. E. O. REG 326 13/5/16\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2289",
+    "p": 1
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO register number on page 0",
+  "lev": "S. I. D. E. O. REG 326 13/5/16",
+  "sub": [
+   "MIL",
+   "MIL.chinese",
+   "PUB",
+   "PUB.meetings",
+   "REP",
+   "REP.revolutionaries",
+   "REP.warlords"
+  ]
  },
  {
   "s": "IO",
@@ -89369,13 +90491,31 @@
   "roll": "63",
   "f": "331",
   "t": "Chu Tsung",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2014",
+    "id": "smpa-files-2014",
+    "m": "IO register number on page 0 (\"I. O. REG 331 17/5716\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2014",
+    "p": 1
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO register number on page 0",
+  "lev": "I. O. REG 331 17/5716",
+  "sub": [
+   "CRI",
+   "CRI.theft",
+   "REP",
+   "REP.revolutionaries",
+   "REP.warlords"
+  ]
  },
  {
   "s": "IO",
@@ -89531,13 +90671,30 @@
   "roll": "63",
   "f": "340",
   "t": "Pih Ding",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2246",
+    "id": "smpa-files-2246",
+    "m": "IO register number on page 0 (\"Date 23/5/16 A.M. No 340\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2246",
+    "p": 1
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO register number on page 0",
+  "lev": "Date 23/5/16 A.M. No 340",
+  "sub": [
+   "REP",
+   "REP.revolutionaries",
+   "VIO",
+   "VIO.assassination"
+  ]
  },
  {
   "s": "IO",
@@ -89546,6 +90703,14 @@
   "f": "341",
   "t": "Tsa Dien [On microfilm this number is also used for placing of detectives on board incoming ships.]",
   "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2346",
+    "id": "smpa-files-2346",
+    "m": "IO register number on page 0 (\"C. I. D. I. O. REG No. 341\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2346",
+    "p": 1
+   },
    {
     "t": "roll",
     "u": "https://archive.org/details/smpa-63/page/n431/mode/2up",
@@ -89558,7 +90723,17 @@
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO register number on page 0",
+  "lev": "C. I. D. I. O. REG No. 341",
+  "sub": [
+   "CRI",
+   "CRI.arms",
+   "JPN",
+   "JPN.ronin",
+   "REP",
+   "REP.revolutionaries"
+  ]
  },
  {
   "s": "IO",
@@ -89594,13 +90769,32 @@
   "roll": "63",
   "f": "344",
   "t": "K. J. McEuen",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2128",
+    "id": "smpa-files-2128",
+    "m": "IO name match + register number (\"IO register no. 344\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2128",
+    "p": 32
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO name match + register number",
+  "lev": "IO register no. 344",
+  "sub": [
+   "CRI",
+   "CRI.arms",
+   "ESP",
+   "ESP.german",
+   "FOR",
+   "FOR.ww1"
+  ]
  },
  {
   "s": "IO",
@@ -89810,13 +91004,30 @@
   "roll": "63",
   "f": "361",
   "t": "Tsang Chi Tsoong",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2351",
+    "id": "smpa-files-2351",
+    "m": "IO name match",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2351",
+    "p": 3
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO name match",
+  "sub": [
+   "MIL",
+   "MIL.chinese",
+   "REP",
+   "REP.revolutionaries",
+   "REP.warlords"
+  ]
  },
  {
   "s": "IO",
@@ -89852,13 +91063,29 @@
   "roll": "63",
   "f": "365",
   "t": "Li Ying Zah",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2151",
+    "id": "smpa-files-2151",
+    "m": "IO name match",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2151",
+    "p": 1
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO name match",
+  "sub": [
+   "REP",
+   "REP.funding",
+   "REP.revolutionaries",
+   "REP.warlords"
+  ]
  },
  {
   "s": "IO",
@@ -89880,13 +91107,30 @@
   "roll": "63",
   "f": "369",
   "t": "Woo Cha Loh",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2400",
+    "id": "smpa-files-2400",
+    "m": "IO name match",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2400",
+    "p": 1
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO name match",
+  "sub": [
+   "MIL",
+   "MIL.chinese",
+   "REP",
+   "REP.funding",
+   "REP.revolutionaries"
+  ]
  },
  {
   "s": "IO",
@@ -89982,13 +91226,29 @@
   "roll": "63",
   "f": "384",
   "t": "Kuo Ming Tang",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2137",
+    "id": "smpa-files-2137",
+    "m": "IO name match",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2137",
+    "p": 1
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO name match",
+  "sub": [
+   "PRS",
+   "PRS.chinese",
+   "REP",
+   "REP.revolutionaries"
+  ]
  },
  {
   "s": "IO",
@@ -89996,13 +91256,29 @@
   "roll": "63",
   "f": "385",
   "t": "Li Yuen Hung",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2154",
+    "id": "smpa-files-2154",
+    "m": "IO register number on page 0 (\"C. I. D. No. 385 Date. 9/6/16\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2154",
+    "p": 1
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO register number on page 0",
+  "lev": "C. I. D. No. 385 Date. 9/6/16",
+  "sub": [
+   "REP",
+   "REP.revolutionaries",
+   "REP.warlords"
+  ]
  },
  {
   "s": "IO",
@@ -90010,13 +91286,31 @@
   "roll": "63",
   "f": "387",
   "t": "Wo Ching Ming",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2387",
+    "id": "smpa-files-2387",
+    "m": "IO name match",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2387",
+    "p": 4
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO name match",
+  "sub": [
+   "CRI",
+   "CRI.missing",
+   "LAW",
+   "LAW.courts",
+   "REP",
+   "REP.revolutionaries"
+  ]
  },
  {
   "s": "IO",
@@ -90038,13 +91332,40 @@
   "roll": "63",
   "f": "389",
   "t": "Chang Chi",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-1986",
+    "id": "smpa-files-1986",
+    "m": "IO name match",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=1986",
+    "p": 1
+   },
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2427",
+    "id": "smpa-files-2427",
+    "m": "IO register number on page 0 (\"389 30/5/16 Shanghai Municipal Council.\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2427",
+    "p": 1
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO name match",
+  "lev": "389 30/5/16 Shanghai Municipal Council.",
+  "sub": [
+   "MIL",
+   "MIL.chinese",
+   "PUB",
+   "PUB.meetings",
+   "REP",
+   "REP.revolutionaries"
+  ]
  },
  {
   "s": "IO",
@@ -90052,13 +91373,31 @@
   "roll": "63",
   "f": "390",
   "t": "Zee Koh Liang",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2447",
+    "id": "smpa-files-2447",
+    "m": "IO register number on page 0 (\"390 14/6/16 Shanghai Municipal Council.\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2447",
+    "p": 1
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO register number on page 0",
+  "lev": "390 14/6/16 Shanghai Municipal Council.",
+  "sub": [
+   "CRI",
+   "CRI.arms",
+   "REP",
+   "REP.revolutionaries",
+   "REP.warlords"
+  ]
  },
  {
   "s": "IO",
@@ -90066,13 +91405,29 @@
   "roll": "63",
   "f": "391",
   "t": "Chou Ching Tsan",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2012",
+    "id": "smpa-files-2012",
+    "m": "IO name match",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2012",
+    "p": 2
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO name match",
+  "sub": [
+   "REP",
+   "REP.revolutionaries",
+   "VIO",
+   "VIO.assassination"
+  ]
  },
  {
   "s": "IO",
@@ -90122,13 +91477,30 @@
   "roll": "63",
   "f": "394",
   "t": "Sun Yat-Sen",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2287",
+    "id": "smpa-files-2287",
+    "m": "IO register number on page 0 (\"C. I. D. F. O. REG No. 394\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2287",
+    "p": 1
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO register number on page 0",
+  "lev": "C. I. D. F. O. REG No. 394",
+  "sub": [
+   "PUB",
+   "PUB.meetings",
+   "REP",
+   "REP.revolutionaries"
+  ]
  },
  {
   "s": "IO",
@@ -90136,13 +91508,32 @@
   "roll": "63",
   "f": "396",
   "t": "Nyeu Tih Sung",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2224",
+    "id": "smpa-files-2224",
+    "m": "IO register number on page 0 (\"C: I. D: E. O. REG No. 396 Date 21/7/17\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2224",
+    "p": 1
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO register number on page 0",
+  "lev": "C: I. D: E. O. REG No. 396 Date 21/7/17",
+  "sub": [
+   "PRS",
+   "PRS.censorship",
+   "PUB",
+   "PUB.meetings",
+   "REP",
+   "REP.revolutionaries"
+  ]
  },
  {
   "s": "IO",
@@ -90263,13 +91654,29 @@
   "roll": "63",
   "f": "406",
   "t": "Li Yuen Hung",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2153",
+    "id": "smpa-files-2153",
+    "m": "IO register number on page 0 (\"406 2.4/6/16 Shanghai Municipal Council.\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2153",
+    "p": 1
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO register number on page 0",
+  "lev": "406 2.4/6/16 Shanghai Municipal Council.",
+  "sub": [
+   "PUB",
+   "PUB.meetings",
+   "REP"
+  ]
  },
  {
   "s": "IO",
@@ -90277,13 +91684,29 @@
   "roll": "63",
   "f": "407",
   "t": "Tsung Woo Sz Zen Wei",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2377",
+    "id": "smpa-files-2377",
+    "m": "IO name match",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2377",
+    "p": 1
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO name match",
+  "sub": [
+   "PUB",
+   "PUB.meetings",
+   "REP",
+   "REP.revolutionaries"
+  ]
  },
  {
   "s": "IO",
@@ -90319,13 +91742,28 @@
   "roll": "63",
   "f": "409",
   "t": "Feng Kuo Chang",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2067",
+    "id": "smpa-files-2067",
+    "m": "IO name match",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2067",
+    "p": 1
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO name match",
+  "sub": [
+   "REP",
+   "REP.revolutionaries",
+   "REP.warlords"
+  ]
  },
  {
   "s": "IO",
@@ -90378,13 +91816,30 @@
   "roll": "63",
   "f": "415",
   "t": "Liu Kwe Yung",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2169",
+    "id": "smpa-files-2169",
+    "m": "IO name match",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2169",
+    "p": 1
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO name match",
+  "sub": [
+   "MIL",
+   "MIL.chinese",
+   "REP",
+   "REP.revolutionaries",
+   "REP.warlords"
+  ]
  },
  {
   "s": "IO",
@@ -90392,13 +91847,30 @@
   "roll": "63",
   "f": "416",
   "t": "Lee Ting Sun",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2140",
+    "id": "smpa-files-2140",
+    "m": "IO name match",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2140",
+    "p": 2
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO name match",
+  "sub": [
+   "MIL",
+   "MIL.chinese",
+   "REP",
+   "REP.revolutionaries",
+   "REP.warlords"
+  ]
  },
  {
   "s": "IO",
@@ -90436,13 +91908,30 @@
   "roll": "63",
   "f": "423",
   "t": "Admiral Sah",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-1946",
+    "id": "smpa-files-1946",
+    "m": "IO register number on page 0 (\"A. I. D. Ag. 423 Date 3/7/16\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=1946",
+    "p": 1
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO register number on page 0",
+  "lev": "A. I. D. Ag. 423 Date 3/7/16",
+  "sub": [
+   "MIL",
+   "MIL.chinese",
+   "REP",
+   "REP.warlords"
+  ]
  },
  {
   "s": "IO",
@@ -90450,13 +91939,31 @@
   "roll": "63",
   "f": "426",
   "t": "A. Nielsen",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-1955",
+    "id": "smpa-files-1955",
+    "m": "IO name match",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=1955",
+    "p": 3
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO name match",
+  "sub": [
+   "FOR",
+   "FOR.anticolonial",
+   "LIA",
+   "LIA.french",
+   "PRS",
+   "PRS.leaflets"
+  ]
  },
  {
   "s": "IO",
@@ -90521,13 +92028,31 @@
   "roll": "63",
   "f": "431",
   "t": "Admiral Sah",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-1957",
+    "id": "smpa-files-1957",
+    "m": "IO register number on page 0 (\"431 5/7/16 H31\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=1957",
+    "p": 1
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO register number on page 0",
+  "lev": "431 5/7/16 H31",
+  "sub": [
+   "REP",
+   "REP.revolutionaries",
+   "REP.warlords",
+   "VIO",
+   "VIO.bombing"
+  ]
  },
  {
   "s": "IO",
@@ -90562,13 +92087,28 @@
   "roll": "63",
   "f": "434",
   "t": "Huang Hsing",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2111",
+    "id": "smpa-files-2111",
+    "m": "IO register number on page 0 (\"F. O. REC No. 434 Date 6/7/16\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2111",
+    "p": 1
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO register number on page 0",
+  "lev": "F. O. REC No. 434 Date 6/7/16",
+  "sub": [
+   "REP",
+   "REP.revolutionaries"
+  ]
  },
  {
   "s": "IO",
@@ -90691,13 +92231,30 @@
   "roll": "63",
   "f": "447",
   "t": "Wong Tsung Ding",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2396",
+    "id": "smpa-files-2396",
+    "m": "IO register number on page 0 (\"No 447 Date 15/7/16\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2396",
+    "p": 1
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO register number on page 0",
+  "lev": "No 447 Date 15/7/16",
+  "sub": [
+   "PUB",
+   "PUB.meetings",
+   "REP",
+   "REP.revolutionaries"
+  ]
  },
  {
   "s": "IO",
@@ -90705,13 +92262,29 @@
   "roll": "63",
   "f": "448",
   "t": "Wu Pah Ching",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2410",
+    "id": "smpa-files-2410",
+    "m": "IO name match",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2410",
+    "p": 3
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO name match",
+  "sub": [
+   "REP",
+   "REP.funding",
+   "VIO",
+   "VIO.threats"
+  ]
  },
  {
   "s": "IO",
@@ -90719,13 +92292,31 @@
   "roll": "63",
   "f": "449",
   "t": "Li Ping Shu",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2143",
+    "id": "smpa-files-2143",
+    "m": "IO name match + register number (\"IO register no. 449\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2143",
+    "p": 1
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO name match + register number",
+  "lev": "IO register no. 449",
+  "sub": [
+   "PUB",
+   "PUB.meetings",
+   "REP",
+   "REP.revolutionaries",
+   "REP.warlords"
+  ]
  },
  {
   "s": "IO",
@@ -90733,13 +92324,30 @@
   "roll": "63",
   "f": "452",
   "t": "Sun Yat-Sen",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2288",
+    "id": "smpa-files-2288",
+    "m": "IO register number on page 0 (\"Shanghai Municipal Council 452 18/7/16\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2288",
+    "p": 1
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO register number on page 0",
+  "lev": "Shanghai Municipal Council 452 18/7/16",
+  "sub": [
+   "PUB",
+   "PUB.meetings",
+   "REP",
+   "REP.revolutionaries"
+  ]
  },
  {
   "s": "IO",
@@ -90748,6 +92356,14 @@
   "f": "456",
   "t": "Wong Tsung Ding [On microfilm this number is also used for notice from Consul General for Portugal.]",
   "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2397",
+    "id": "smpa-files-2397",
+    "m": "IO register number on page 0 (\"456 18/22/6 Shanghai Municipal Council.\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2397",
+    "p": 1
+   },
    {
     "t": "roll",
     "u": "https://archive.org/details/smpa-63/page/n433/mode/2up",
@@ -90760,7 +92376,15 @@
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO register number on page 0",
+  "lev": "456 18/22/6 Shanghai Municipal Council.",
+  "sub": [
+   "PUB",
+   "PUB.meetings",
+   "REP",
+   "REP.revolutionaries"
+  ]
  },
  {
   "s": "IO",
@@ -90768,13 +92392,28 @@
   "roll": "63",
   "f": "463",
   "t": "Zee Koh Liang",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2446",
+    "id": "smpa-files-2446",
+    "m": "IO register number on page 0 (\"463 19/7/16 Shanghai Municipal Council.\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2446",
+    "p": 1
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO register number on page 0",
+  "lev": "463 19/7/16 Shanghai Municipal Council.",
+  "sub": [
+   "REP",
+   "REP.revolutionaries"
+  ]
  },
  {
   "s": "IO",
@@ -90782,13 +92421,30 @@
   "roll": "63",
   "f": "465",
   "t": "Yuan Shih Kai",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2429",
+    "id": "smpa-files-2429",
+    "m": "IO register number on page 0 (\"R. a. King 465 Date 2/7/16\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2429",
+    "p": 1
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO register number on page 0",
+  "lev": "R. a. King 465 Date 2/7/16",
+  "sub": [
+   "REP",
+   "REP.revolutionaries",
+   "VIO",
+   "VIO.assassination"
+  ]
  },
  {
   "s": "IO",
@@ -90855,13 +92511,31 @@
   "roll": "63",
   "f": "470",
   "t": "Pah Vung Wei",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2239",
+    "id": "smpa-files-2239",
+    "m": "IO register number on page 0 (\"470 24/7/16\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2239",
+    "p": 2
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO register number on page 0",
+  "lev": "470 24/7/16",
+  "sub": [
+   "PUB",
+   "PUB.meetings",
+   "REP",
+   "REP.revolutionaries",
+   "REP.warlords"
+  ]
  },
  {
   "s": "IO",
@@ -90869,13 +92543,30 @@
   "roll": "63",
   "f": "481",
   "t": "Zee Koh Liang",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2445",
+    "id": "smpa-files-2445",
+    "m": "IO register number on page 0 (\"481 27/2776 Shanghai Municipal Council.\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2445",
+    "p": 1
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO register number on page 0",
+  "lev": "481 27/2776 Shanghai Municipal Council.",
+  "sub": [
+   "MIL",
+   "MIL.chinese",
+   "REP",
+   "REP.warlords"
+  ]
  },
  {
   "s": "IO",
@@ -90912,13 +92603,29 @@
   "roll": "63",
   "f": "484",
   "t": "Chung Li Pah",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2016",
+    "id": "smpa-files-2016",
+    "m": "IO name match",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2016",
+    "p": 1
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO name match",
+  "sub": [
+   "PUB",
+   "PUB.meetings",
+   "REP",
+   "REP.revolutionaries"
+  ]
  },
  {
   "s": "IO",
@@ -90954,13 +92661,30 @@
   "roll": "63",
   "f": "488",
   "t": "Zee Koh Liang",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2444",
+    "id": "smpa-files-2444",
+    "m": "IO register number on page 0 (\"488 1/8/16 Shanghai Municipal Council.\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2444",
+    "p": 1
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO register number on page 0",
+  "lev": "488 1/8/16 Shanghai Municipal Council.",
+  "sub": [
+   "MIL",
+   "MIL.chinese",
+   "MUN",
+   "MUN.greater"
+  ]
  },
  {
   "s": "IO",
@@ -91068,13 +92792,29 @@
   "roll": "63",
   "f": "496",
   "t": "Sun Yat-Sen",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2286",
+    "id": "smpa-files-2286",
+    "m": "IO register number on page 0 (\"No. E. O. S. No. 496 Date 6/8/16\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2286",
+    "p": 1
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO register number on page 0",
+  "lev": "No. E. O. S. No. 496 Date 6/8/16",
+  "sub": [
+   "REP",
+   "REP.funding",
+   "REP.revolutionaries"
+  ]
  },
  {
   "s": "IO",
@@ -91082,13 +92822,29 @@
   "roll": "63",
   "f": "499",
   "t": "Feng Kou Chang",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2065",
+    "id": "smpa-files-2065",
+    "m": "IO register number on page 0 (\"499 499 6/8/16\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2065",
+    "p": 1
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO register number on page 0",
+  "lev": "499 499 6/8/16",
+  "sub": [
+   "REP",
+   "REP.revolutionaries",
+   "REP.warlords"
+  ]
  },
  {
   "s": "IO",
@@ -91096,13 +92852,33 @@
   "roll": "63",
   "f": "502",
   "t": "Zau Woo Kyung",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2441",
+    "id": "smpa-files-2441",
+    "m": "IO register number on page 2 (\"C. I. D. I. O. REG No. 502 Date 8/8/16\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2441",
+    "p": 3
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO register number on page 2",
+  "lev": "C. I. D. I. O. REG No. 502 Date 8/8/16",
+  "sub": [
+   "MIL",
+   "MIL.chinese",
+   "REP",
+   "REP.revolutionaries",
+   "REP.warlords",
+   "VIO",
+   "VIO.bombing"
+  ]
  },
  {
   "s": "IO",
@@ -91183,13 +92959,40 @@
   "roll": "63",
   "f": "507",
   "t": "Zhi Nyi Soo",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2456",
+    "id": "smpa-files-2456",
+    "m": "IO register number on page 0 (\"507 18/8/16 O.U. Shanghai Municipal Council.\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2456",
+    "p": 1
+   },
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2457",
+    "id": "smpa-files-2457",
+    "m": "IO register number on page 0 (\"507 18/8/16 O.U. Shanghai Municipal Council.\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2457",
+    "p": 1
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO register number on page 0",
+  "lev": "507 18/8/16 O.U. Shanghai Municipal Council.",
+  "sub": [
+   "CRI",
+   "CRI.homicide",
+   "HEA",
+   "HEA.deaths",
+   "REP",
+   "REP.revolutionaries"
+  ]
  },
  {
   "s": "IO",
@@ -91197,13 +93000,31 @@
   "roll": "63",
   "f": "513",
   "t": "Hyui Li Nyien",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2117",
+    "id": "smpa-files-2117",
+    "m": "IO register number on page 0 (\"513 12/8/16 Shanghai Municipal Council.\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2117",
+    "p": 2
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO register number on page 0",
+  "lev": "513 12/8/16 Shanghai Municipal Council.",
+  "sub": [
+   "PUB",
+   "PUB.meetings",
+   "REP",
+   "REP.funding",
+   "REP.revolutionaries"
+  ]
  },
  {
   "s": "IO",
@@ -91239,13 +93060,30 @@
   "roll": "63",
   "f": "516",
   "t": "Ho Hai Ming",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2107",
+    "id": "smpa-files-2107",
+    "m": "IO name match + register number (\"IO register no. 516\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2107",
+    "p": 1
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO name match + register number",
+  "lev": "IO register no. 516",
+  "sub": [
+   "PUB",
+   "PUB.meetings",
+   "REP",
+   "REP.revolutionaries"
+  ]
  },
  {
   "s": "IO",
@@ -91282,13 +93120,29 @@
   "roll": "63",
   "f": "518",
   "t": "J. B. A. Grote",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2122",
+    "id": "smpa-files-2122",
+    "m": "IO name match",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2122",
+    "p": 2
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO name match",
+  "sub": [
+   "CRI",
+   "CRI.arms",
+   "FOR",
+   "FOR.german"
+  ]
  },
  {
   "s": "IO",
@@ -91341,13 +93195,31 @@
   "roll": "63",
   "f": "521",
   "t": "The Truth of Fokien",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2328",
+    "id": "smpa-files-2328",
+    "m": "IO register number on page 0 (\"C. I. S I. O. REQ No 521\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2328",
+    "p": 1
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO register number on page 0",
+  "lev": "C. I. S I. O. REQ No 521",
+  "sub": [
+   "MIL",
+   "MIL.chinese",
+   "REP",
+   "REP.revolutionaries",
+   "REP.warlords"
+  ]
  },
  {
   "s": "IO",
@@ -91396,13 +93268,30 @@
   "roll": "63",
   "f": "532",
   "t": "Han Hwe",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2101",
+    "id": "smpa-files-2101",
+    "m": "IO register number on page 0 (\"S. I. S. P. O. REG No. 532 Date 25/8/16\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2101",
+    "p": 1
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO register number on page 0",
+  "lev": "S. I. S. P. O. REG No. 532 Date 25/8/16",
+  "sub": [
+   "PUB",
+   "PUB.meetings",
+   "REP",
+   "REP.revolutionaries"
+  ]
  },
  {
   "s": "IO",
@@ -91424,13 +93313,29 @@
   "roll": "63",
   "f": "544",
   "t": "Sale of pistols by Ettinger",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2262",
+    "id": "smpa-files-2262",
+    "m": "IO name match",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2262",
+    "p": 6
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO name match",
+  "sub": [
+   "CRI",
+   "CRI.arms",
+   "PRS",
+   "PRS.leaflets"
+  ]
  },
  {
   "s": "IO",
@@ -91438,13 +93343,27 @@
   "roll": "63",
   "f": "550",
   "t": "Yu Yah Ching",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2428",
+    "id": "smpa-files-2428",
+    "m": "IO name match",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2428",
+    "p": 1
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO name match",
+  "sub": [
+   "REP",
+   "REP.revolutionaries"
+  ]
  },
  {
   "s": "IO",
@@ -91481,13 +93400,28 @@
   "roll": "63",
   "f": "558",
   "t": "Lieu Yah Sing",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2162",
+    "id": "smpa-files-2162",
+    "m": "IO name match",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2162",
+    "p": 1
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO name match",
+  "sub": [
+   "REP",
+   "REP.revolutionaries",
+   "REP.warlords"
+  ]
  },
  {
   "s": "IO",
@@ -91495,13 +93429,31 @@
   "roll": "63",
   "f": "561",
   "t": "Zee Kyi Vung",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2451",
+    "id": "smpa-files-2451",
+    "m": "IO name match",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2451",
+    "p": 1
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO name match",
+  "sub": [
+   "LAB",
+   "LAB.strikes",
+   "PUB",
+   "PUB.meetings",
+   "REP",
+   "REP.revolutionaries"
+  ]
  },
  {
   "s": "IO",
@@ -91509,13 +93461,30 @@
   "roll": "63",
   "f": "562",
   "t": "Li Tsung Woo",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2148",
+    "id": "smpa-files-2148",
+    "m": "IO register number on page 0 (\"C. I. D. I. O. REG No. 562\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2148",
+    "p": 1
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO register number on page 0",
+  "lev": "C. I. D. I. O. REG No. 562",
+  "sub": [
+   "MIL",
+   "MIL.chinese",
+   "REP",
+   "REP.revolutionaries"
+  ]
  },
  {
   "s": "IO",
@@ -91523,13 +93492,29 @@
   "roll": "63",
   "f": "563",
   "t": "Han Hwe",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2098",
+    "id": "smpa-files-2098",
+    "m": "IO register number on page 0 (\"C. I. D. K. O. REG No 563 Date 9 - 9 16\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2098",
+    "p": 1
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO register number on page 0",
+  "lev": "C. I. D. K. O. REG No 563 Date 9 - 9 16",
+  "sub": [
+   "REP",
+   "REP.revolutionaries",
+   "REP.warlords"
+  ]
  },
  {
   "s": "IO",
@@ -91537,13 +93522,30 @@
   "roll": "63",
   "f": "566",
   "t": "Han Hwe",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2099",
+    "id": "smpa-files-2099",
+    "m": "IO register number on page 0 (\"C. I. D. I. O. RED No. 566 Date 13.9.16\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2099",
+    "p": 1
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO register number on page 0",
+  "lev": "C. I. D. I. O. RED No. 566 Date 13.9.16",
+  "sub": [
+   "REP",
+   "REP.funding",
+   "REP.monarchists",
+   "REP.revolutionaries"
+  ]
  },
  {
   "s": "IO",
@@ -91551,13 +93553,32 @@
   "roll": "63",
   "f": "567",
   "t": "Chang Sz Yung",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-1990",
+    "id": "smpa-files-1990",
+    "m": "IO name match + register number (\"IO register no. 567\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=1990",
+    "p": 1
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO name match + register number",
+  "lev": "IO register no. 567",
+  "sub": [
+   "LAB",
+   "LAB.strikes",
+   "LAB.unions",
+   "REP",
+   "REP.revolutionaries",
+   "REP.warlords"
+  ]
  },
  {
   "s": "IO",
@@ -91565,13 +93586,29 @@
   "roll": "63",
   "f": "568",
   "t": "Tsai Da Pei",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2348",
+    "id": "smpa-files-2348",
+    "m": "IO name match",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2348",
+    "p": 1
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO name match",
+  "sub": [
+   "MIL",
+   "MIL.chinese",
+   "REP",
+   "REP.revolutionaries"
+  ]
  },
  {
   "s": "IO",
@@ -91579,13 +93616,41 @@
   "roll": "63",
   "f": "569",
   "t": "Han Hwe",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2079",
+    "id": "smpa-files-2079",
+    "m": "IO register number on page 0 (\"C. I. D. I. O. REG No. 569 Date. 29/12/16\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2079",
+    "p": 1
+   },
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2095",
+    "id": "smpa-files-2095",
+    "m": "IO register number on page 0 (\"No 569 Date 13th September\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2095",
+    "p": 1
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO register number on page 0",
+  "lev": "No 569 Date 13th September",
+  "sub": [
+   "CRI",
+   "CRI.homicide",
+   "FOR",
+   "FOR.ww1",
+   "REP",
+   "REP.revolutionaries",
+   "REP.warlords"
+  ]
  },
  {
   "s": "IO",
@@ -91593,13 +93658,29 @@
   "roll": "63",
   "f": "570",
   "t": "Tang Shao Yi",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2301",
+    "id": "smpa-files-2301",
+    "m": "IO register number on page 2 (\"C. I. D. I. O. REG Shanghai Municipal Police. No. 570\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2301",
+    "p": 4
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO register number on page 2",
+  "lev": "C. I. D. I. O. REG Shanghai Municipal Police. No. 570",
+  "sub": [
+   "REP",
+   "REP.revolutionaries",
+   "REP.warlords"
+  ]
  },
  {
   "s": "IO",
@@ -91665,13 +93746,32 @@
   "roll": "63",
   "f": "578",
   "t": "An auction of the property of the deceased",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-1959",
+    "id": "smpa-files-1959",
+    "m": "IO register number on page 0 (\"No. 578 Date 18. 9. 16\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=1959",
+    "p": 1
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO register number on page 0",
+  "lev": "No. 578 Date 18. 9. 16",
+  "sub": [
+   "CRI",
+   "CRI.arms",
+   "REP",
+   "REP.revolutionaries",
+   "VIO",
+   "VIO.bombing"
+  ]
  },
  {
   "s": "IO",
@@ -91736,7 +93836,16 @@
   "roll": "63",
   "f": "585",
   "t": "Han Hwe",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2097",
+    "id": "smpa-files-2097",
+    "m": "IO register number on page 0 (\"C. I D. E. O. REG No 585\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2097",
+    "p": 1
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
@@ -91749,6 +93858,15 @@
     "p": "80",
     "fn": "3"
    }
+  ],
+  "lm": "auto: IO register number on page 0",
+  "lev": "C. I D. E. O. REG No 585",
+  "sub": [
+   "LAB",
+   "LAB.unions",
+   "REP",
+   "REP.revolutionaries",
+   "REP.warlords"
   ]
  },
  {
@@ -91757,13 +93875,32 @@
   "roll": "63",
   "f": "586",
   "t": "Han Hwe",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2096",
+    "id": "smpa-files-2096",
+    "m": "IO register number on page 0 (\"C. I. D. I. O. REG No. 586 Date 19-9-16\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2096",
+    "p": 1
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO register number on page 0",
+  "lev": "C. I. D. I. O. REG No. 586 Date 19-9-16",
+  "sub": [
+   "MIG",
+   "MIG.resettlement",
+   "REP",
+   "REP.revolutionaries",
+   "VIO",
+   "VIO.threats"
+  ]
  },
  {
   "s": "IO",
@@ -91828,13 +93965,29 @@
   "roll": "63",
   "f": "590",
   "t": "General Lu",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2083",
+    "id": "smpa-files-2083",
+    "m": "IO register number on page 0 (\"C. I. D. I. O. REG No. 590 Date. 23. 9. 16\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2083",
+    "p": 1
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO register number on page 0",
+  "lev": "C. I. D. I. O. REG No. 590 Date. 23. 9. 16",
+  "sub": [
+   "REP",
+   "REP.revolutionaries",
+   "REP.warlords"
+  ]
  },
  {
   "s": "IO",
@@ -91928,13 +94081,32 @@
   "roll": "63",
   "f": "597",
   "t": "Ling Liang Gee",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2164",
+    "id": "smpa-files-2164",
+    "m": "IO name match + register number (\"IO register no. 597\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2164",
+    "p": 1
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO name match + register number",
+  "lev": "IO register no. 597",
+  "sub": [
+   "ANJ",
+   "ANJ.agitation",
+   "LAB",
+   "LAB.conditions",
+   "SOC",
+   "SOC.associations"
+  ]
  },
  {
   "s": "IO",
@@ -92001,13 +94173,28 @@
   "roll": "63",
   "f": "609",
   "t": "Zee Pou Yiang",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2454",
+    "id": "smpa-files-2454",
+    "m": "IO name match",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2454",
+    "p": 1
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO name match",
+  "sub": [
+   "REP",
+   "REP.revolutionaries",
+   "REP.warlords"
+  ]
  },
  {
   "s": "IO",
@@ -92015,13 +94202,30 @@
   "roll": "63",
   "f": "610",
   "t": "Woo Au",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2399",
+    "id": "smpa-files-2399",
+    "m": "IO name match",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2399",
+    "p": 1
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO name match",
+  "sub": [
+   "LAB",
+   "LAB.conditions",
+   "REP",
+   "REP.revolutionaries",
+   "REP.warlords"
+  ]
  },
  {
   "s": "IO",
@@ -92029,13 +94233,30 @@
   "roll": "63",
   "f": "611",
   "t": "Lieu Gee",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2159",
+    "id": "smpa-files-2159",
+    "m": "IO name match",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2159",
+    "p": 1
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO name match",
+  "sub": [
+   "REP",
+   "REP.revolutionaries",
+   "REP.warlords",
+   "VIO",
+   "VIO.bombing"
+  ]
  },
  {
   "s": "IO",
@@ -92043,13 +94264,29 @@
   "roll": "63",
   "f": "613",
   "t": "Tsaung Ting Hung",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2360",
+    "id": "smpa-files-2360",
+    "m": "IO name match",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2360",
+    "p": 1
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO name match",
+  "sub": [
+   "REP",
+   "REP.revolutionaries",
+   "SOC",
+   "SOC.welfare"
+  ]
  },
  {
   "s": "IO",
@@ -92057,13 +94294,32 @@
   "roll": "63",
   "f": "618",
   "t": "41 Dau Tuh Li",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-1948",
+    "id": "smpa-files-1948",
+    "m": "IO name match",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=1948",
+    "p": 1
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO name match",
+  "sub": [
+   "LAB",
+   "LAB.strikes",
+   "PUB",
+   "PUB.anniversaries",
+   "REP",
+   "REP.funding",
+   "REP.revolutionaries"
+  ]
  },
  {
   "s": "IO",
@@ -92071,13 +94327,30 @@
   "roll": "63",
   "f": "624",
   "t": "Moh Siang Yao Ettinger",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2203",
+    "id": "smpa-files-2203",
+    "m": "IO register number on page 0 (\"C. I. D. X. Q. REG No. 624 Date 7/10/16\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2203",
+    "p": 1
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO register number on page 0",
+  "lev": "C. I. D. X. Q. REG No. 624 Date 7/10/16",
+  "sub": [
+   "ECO",
+   "ECO.property",
+   "LAB",
+   "LAB.mills"
+  ]
  },
  {
   "s": "IO",
@@ -92101,6 +94374,14 @@
   "t": "General Lu",
   "links": [
    {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2082",
+    "id": "smpa-files-2082",
+    "m": "IO register number on page 0 (\"C. I. D. I. O. REG No. 636 Date 9/10/16\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2082",
+    "p": 1
+   },
+   {
     "t": "roll",
     "u": "https://archive.org/details/smpa-63/page/n1109/mode/2up",
     "roll": 63,
@@ -92112,7 +94393,16 @@
   "tags": "",
   "d": "Oct 1916",
   "y": 1916,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO register number on page 0",
+  "lev": "C. I. D. I. O. REG No. 636 Date 9/10/16",
+  "sub": [
+   "MIL",
+   "MIL.chinese",
+   "REP",
+   "REP.revolutionaries",
+   "REP.warlords"
+  ]
  },
  {
   "s": "IO",
@@ -92134,13 +94424,30 @@
   "roll": "63",
   "f": "641",
   "t": "Ling Sz Fong",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2166",
+    "id": "smpa-files-2166",
+    "m": "IO name match",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2166",
+    "p": 1
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO name match",
+  "sub": [
+   "MIL",
+   "MIL.chinese",
+   "REP",
+   "REP.revolutionaries",
+   "REP.warlords"
+  ]
  },
  {
   "s": "IO",
@@ -92148,13 +94455,31 @@
   "roll": "63",
   "f": "642",
   "t": "Tuchun Feng",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2378",
+    "id": "smpa-files-2378",
+    "m": "IO register number on page 0 (\"Shanghai Municipal Council. 642 12/10/760H\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2378",
+    "p": 1
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO register number on page 0",
+  "lev": "Shanghai Municipal Council. 642 12/10/760H",
+  "sub": [
+   "LAB",
+   "LAB.strikes",
+   "REP",
+   "REP.revolutionaries",
+   "REP.warlords"
+  ]
  },
  {
   "s": "IO",
@@ -92162,13 +94487,30 @@
   "roll": "63",
   "f": "644",
   "t": "Tang Shao Yi",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2300",
+    "id": "smpa-files-2300",
+    "m": "IO register number on page 0 (\"644 14/10/16 A.H. Shanghai Municipal Council.\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2300",
+    "p": 1
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO register number on page 0",
+  "lev": "644 14/10/16 A.H. Shanghai Municipal Council.",
+  "sub": [
+   "MIL",
+   "MIL.chinese",
+   "REP",
+   "REP.revolutionaries"
+  ]
  },
  {
   "s": "IO",
@@ -92176,13 +94518,32 @@
   "roll": "63",
   "f": "647",
   "t": "Wang Tu Fei",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2384",
+    "id": "smpa-files-2384",
+    "m": "IO register number on page 0 (\"647 B 16/10/165 No Shanghai Municipal Council.\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2384",
+    "p": 1
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO register number on page 0",
+  "lev": "647 B 16/10/165 No Shanghai Municipal Council.",
+  "sub": [
+   "PUB",
+   "PUB.demonstrations",
+   "PUB.meetings",
+   "REP",
+   "REP.funding",
+   "REP.revolutionaries"
+  ]
  },
  {
   "s": "IO",
@@ -92190,13 +94551,29 @@
   "roll": "63",
   "f": "648",
   "t": "Pah Vung Wei",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2237",
+    "id": "smpa-files-2237",
+    "m": "IO register number on page 0 (\"No 648 17/10/16\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2237",
+    "p": 1
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO register number on page 0",
+  "lev": "No 648 17/10/16",
+  "sub": [
+   "REP",
+   "REP.funding",
+   "REP.revolutionaries"
+  ]
  },
  {
   "s": "IO",
@@ -92204,13 +94581,39 @@
   "roll": "63",
   "f": "650",
   "t": "Yu Ya Ching",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2003",
+    "id": "smpa-files-2003",
+    "m": "IO name match",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2003",
+    "p": 1
+   },
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2423",
+    "id": "smpa-files-2423",
+    "m": "IO register number on page 0 (\"1.0.650\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2423",
+    "p": 2
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO name match",
+  "lev": "1.0.650",
+  "sub": [
+   "ECO",
+   "ECO.firms",
+   "REP",
+   "REP.funding",
+   "REP.revolutionaries"
+  ]
  },
  {
   "s": "IO",
@@ -92219,6 +94622,22 @@
   "f": "650",
   "t": "\"Chinese Merchants Meeting\"",
   "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2003",
+    "id": "smpa-files-2003",
+    "m": "IO name match",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2003",
+    "p": 1
+   },
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2423",
+    "id": "smpa-files-2423",
+    "m": "IO register number on page 0 (\"1.0.650\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2423",
+    "p": 2
+   },
    {
     "t": "roll",
     "u": "https://archive.org/details/smpa-63/page/n1121/mode/2up",
@@ -92231,7 +94650,16 @@
   "tags": "",
   "d": "Oct 1916",
   "y": 1916,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO name match",
+  "lev": "1.0.650",
+  "sub": [
+   "ECO",
+   "ECO.firms",
+   "REP",
+   "REP.funding",
+   "REP.revolutionaries"
+  ]
  },
  {
   "s": "IO",
@@ -92239,13 +94667,30 @@
   "roll": "63",
   "f": "651",
   "t": "Yu Ya Ching",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2425",
+    "id": "smpa-files-2425",
+    "m": "IO register number on page 0 (\"Shanghai Municipal Council. 651 BQ 19/10/16.\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2425",
+    "p": 1
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO register number on page 0",
+  "lev": "Shanghai Municipal Council. 651 BQ 19/10/16.",
+  "sub": [
+   "REP",
+   "REP.funding",
+   "REP.revolutionaries",
+   "REP.warlords"
+  ]
  },
  {
   "s": "IO",
@@ -92253,13 +94698,31 @@
   "roll": "63",
   "f": "652",
   "t": "Yu Ya Ching",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2424",
+    "id": "smpa-files-2424",
+    "m": "IO register number on page 0 (\"652 652 19/10/16\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2424",
+    "p": 1
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO register number on page 0",
+  "lev": "652 652 19/10/16",
+  "sub": [
+   "PUB",
+   "PUB.meetings",
+   "REP",
+   "REP.funding",
+   "REP.revolutionaries"
+  ]
  },
  {
   "s": "IO",
@@ -92295,13 +94758,28 @@
   "roll": "63",
   "f": "655",
   "t": "385 Sien Tuh Li",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-1949",
+    "id": "smpa-files-1949",
+    "m": "IO name match",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=1949",
+    "p": 1
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO name match",
+  "sub": [
+   "REP",
+   "REP.funding",
+   "REP.revolutionaries"
+  ]
  },
  {
   "s": "IO",
@@ -92309,13 +94787,30 @@
   "roll": "63",
   "f": "665",
   "t": "Zau Kya Ziang",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2434",
+    "id": "smpa-files-2434",
+    "m": "IO register number on page 0 (\"665 27/10/16 M Shanghai Municipal Council.\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2434",
+    "p": 1
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO register number on page 0",
+  "lev": "665 27/10/16 M Shanghai Municipal Council.",
+  "sub": [
+   "MIL",
+   "MIL.chinese",
+   "REP",
+   "REP.revolutionaries"
+  ]
  },
  {
   "s": "IO",
@@ -92354,6 +94849,14 @@
   "t": "Wong Tsang Zau",
   "links": [
    {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2393",
+    "id": "smpa-files-2393",
+    "m": "IO name match + register number (\"IO register no. 670\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2393",
+    "p": 8
+   },
+   {
     "t": "roll",
     "u": "https://archive.org/details/smpa-63/page/n1135/mode/2up",
     "roll": 63,
@@ -92365,7 +94868,17 @@
   "tags": "",
   "d": "Feb 1918",
   "y": 1918,
-  "n": "王_沼 connected to the navy, born Shanghai, educated St John's university, agent to New York Life Insurance until 1905, joined Navy. Teacher to family in Ningbo, went to Hankou opened a stationer's shop. Claimed to be leader of Liberty Party (自由黨)"
+  "n": "王_沼 connected to the navy, born Shanghai, educated St John's university, agent to New York Life Insurance until 1905, joined Navy. Teacher to family in Ningbo, went to Hankou opened a stationer's shop. Claimed to be leader of Liberty Party (自由黨)",
+  "lm": "auto: IO name match + register number",
+  "lev": "IO register no. 670",
+  "sub": [
+   "ESP",
+   "ESP.informants",
+   "POL",
+   "POL.personnel",
+   "REP",
+   "REP.revolutionaries"
+  ]
  },
  {
   "s": "IO",
@@ -92401,13 +94914,29 @@
   "roll": "63",
   "f": "675",
   "t": "Lo Fong Sang",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2171",
+    "id": "smpa-files-2171",
+    "m": "IO name match",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2171",
+    "p": 3
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO name match",
+  "sub": [
+   "REP",
+   "REP.revolutionaries",
+   "SOC",
+   "SOC.welfare"
+  ]
  },
  {
   "s": "IO",
@@ -92415,13 +94944,33 @@
   "roll": "63",
   "f": "676",
   "t": "Mr. Yang Ch'Eng",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2211",
+    "id": "smpa-files-2211",
+    "m": "IO register number on page 0 (\"C. I. D. F. O. REG No. 676 Date. 31/10/16\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2211",
+    "p": 2
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO register number on page 0",
+  "lev": "C. I. D. F. O. REG No. 676 Date. 31/10/16",
+  "sub": [
+   "FOR",
+   "FOR.consular",
+   "FOR.ww1",
+   "LAB",
+   "LAB.conditions",
+   "MIG",
+   "MIG.resettlement"
+  ]
  },
  {
   "s": "IO",
@@ -92489,13 +95038,31 @@
   "roll": "63",
   "f": "682",
   "t": "Li Ping Su",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2144",
+    "id": "smpa-files-2144",
+    "m": "IO name match",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2144",
+    "p": 1
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO name match",
+  "sub": [
+   "MIL",
+   "MIL.chinese",
+   "MUN",
+   "MUN.greater",
+   "REP",
+   "REP.revolutionaries"
+  ]
  },
  {
   "s": "IO",
@@ -92731,13 +95298,30 @@
   "roll": "63",
   "f": "699",
   "t": "Huang Hsing",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2112",
+    "id": "smpa-files-2112",
+    "m": "IO register number on page 0 (\"699/116 Shanghai Municipal Council.\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2112",
+    "p": 1
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO register number on page 0",
+  "lev": "699/116 Shanghai Municipal Council.",
+  "sub": [
+   "HEA",
+   "HEA.deaths",
+   "REP",
+   "REP.revolutionaries"
+  ]
  },
  {
   "s": "IO",
@@ -92803,13 +95387,28 @@
   "roll": "63",
   "f": "703",
   "t": "Sing Woo Dan",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2279",
+    "id": "smpa-files-2279",
+    "m": "IO register number on page 0 (\"703 Shanghai Municipal Council.\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2279",
+    "p": 1
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO register number on page 0",
+  "lev": "703 Shanghai Municipal Council.",
+  "sub": [
+   "REP",
+   "REP.revolutionaries"
+  ]
  },
  {
   "s": "IO",
@@ -92967,13 +95566,30 @@
   "roll": "63",
   "f": "716",
   "t": "Zau Kya Ziang",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2435",
+    "id": "smpa-files-2435",
+    "m": "IO register number on page 0 (\"C. I. D. I. O. REG No. 716 Date 16/11/16\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2435",
+    "p": 1
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO register number on page 0",
+  "lev": "C. I. D. I. O. REG No. 716 Date 16/11/16",
+  "sub": [
+   "MIL",
+   "MIL.chinese",
+   "REP",
+   "REP.warlords"
+  ]
  },
  {
   "s": "IO",
@@ -93038,13 +95654,28 @@
   "roll": "63",
   "f": "744",
   "t": "Liang Chi Tsao",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2155",
+    "id": "smpa-files-2155",
+    "m": "IO name match",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2155",
+    "p": 1
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO name match",
+  "sub": [
+   "PUB",
+   "PUB.meetings",
+   "REP"
+  ]
  },
  {
   "s": "IO",
@@ -93081,13 +95712,40 @@
   "roll": "63",
   "f": "746",
   "t": "Loo Yoong Ziang",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2178",
+    "id": "smpa-files-2178",
+    "m": "IO name match + register number (\"IO register no. 746\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2178",
+    "p": 1
+   },
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2198",
+    "id": "smpa-files-2198",
+    "m": "IO register number on page 0 (\"C. I. D. I. O. REG No. 746 / ASH Date. 7/12/16\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2198",
+    "p": 1
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO name match + register number",
+  "lev": "C. I. D. I. O. REG No. 746 / ASH Date. 7/12/16",
+  "sub": [
+   "HEA",
+   "HEA.deaths",
+   "PRS",
+   "PRS.chinese",
+   "REP",
+   "REP.warlords"
+  ]
  },
  {
   "s": "IO",
@@ -93197,13 +95855,29 @@
   "roll": "63",
   "f": "765",
   "t": "Huang Hsin",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2110",
+    "id": "smpa-files-2110",
+    "m": "IO name match",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2110",
+    "p": 1
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO name match",
+  "sub": [
+   "PUB",
+   "PUB.meetings",
+   "REP",
+   "REP.revolutionaries"
+  ]
  },
  {
   "s": "IO",
@@ -93271,13 +95945,28 @@
   "roll": "63",
   "f": "769",
   "t": "Han Hwei's",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2105",
+    "id": "smpa-files-2105",
+    "m": "IO register number on page 0 (\"C. I. D. I. O. REG No. 769 Date 18/12/16\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2105",
+    "p": 2
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO register number on page 0",
+  "lev": "C. I. D. I. O. REG No. 769 Date 18/12/16",
+  "sub": [
+   "REP",
+   "REP.revolutionaries"
+  ]
  },
  {
   "s": "IO",
@@ -93674,6 +96363,14 @@
   "t": "Fong Wei Ching",
   "links": [
    {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2074",
+    "id": "smpa-files-2074",
+    "m": "IO name match + register number (\"IO register no. 864\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2074",
+    "p": 12
+   },
+   {
     "t": "roll",
     "u": "https://archive.org/details/smpa-63/page/n1371/mode/2up",
     "roll": 63,
@@ -93685,7 +96382,17 @@
   "tags": "",
   "d": "1916",
   "y": 1916,
-  "n": "Last file on Roll 63. Transaction involving purchase of arms."
+  "n": "Last file on Roll 63. Transaction involving purchase of arms.",
+  "lm": "auto: IO name match + register number",
+  "lev": "IO register no. 864",
+  "sub": [
+   "CRI",
+   "CRI.arms",
+   "ESP",
+   "ESP.informants",
+   "FOR",
+   "FOR.american"
+  ]
  },
  {
   "s": "IO",
@@ -93724,13 +96431,31 @@
   "roll": "64",
   "f": "898",
   "t": "Yang Tcheng",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2416",
+    "id": "smpa-files-2416",
+    "m": "IO register number on page 0 (\"SPECIAL BRANCH REGISTRY. File No. I.O. 898\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2416",
+    "p": 8
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO register number on page 0",
+  "lev": "SPECIAL BRANCH REGISTRY. File No. I.O. 898",
+  "sub": [
+   "ESP",
+   "ESP.german",
+   "FOR",
+   "FOR.german",
+   "FOR.ww1"
+  ]
  },
  {
   "s": "IO",
@@ -93738,13 +96463,31 @@
   "roll": "64",
   "f": "906",
   "t": "Pah Vung Wei",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2240",
+    "id": "smpa-files-2240",
+    "m": "IO register number on page 0 (\"C. I. D. I. O. REG No. 906 Date 18/2/17\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2240",
+    "p": 1
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO register number on page 0",
+  "lev": "C. I. D. I. O. REG No. 906 Date 18/2/17",
+  "sub": [
+   "REP",
+   "REP.funding",
+   "REP.revolutionaries",
+   "VIC",
+   "VIC.narcotics"
+  ]
  },
  {
   "s": "IO",
@@ -93752,13 +96495,32 @@
   "roll": "64",
   "f": "922",
   "t": "Theodore Saridis",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2329",
+    "id": "smpa-files-2329",
+    "m": "IO name match",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2329",
+    "p": 26
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO name match",
+  "sub": [
+   "CRI",
+   "CRI.theft",
+   "FOR",
+   "FOR.consular",
+   "FOR.european",
+   "VIC",
+   "VIC.narcotics"
+  ]
  },
  {
   "s": "IO",
@@ -93780,13 +96542,28 @@
   "roll": "64",
   "f": "938",
   "t": "Photo",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2244",
+    "id": "smpa-files-2244",
+    "m": "IO name match",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2244",
+    "p": 1
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO name match",
+  "sub": [
+   "SOV",
+   "SOV.employees",
+   "SOV.trade"
+  ]
  },
  {
   "s": "IO",
@@ -93794,13 +96571,30 @@
   "roll": "64",
   "f": "940",
   "t": "Nielsen",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2223",
+    "id": "smpa-files-2223",
+    "m": "IO register number on page 1 (\"SPECIAL BRANCH REGISTRY. File No. Y. O. 940.\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2223",
+    "p": 8
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO register number on page 1",
+  "lev": "SPECIAL BRANCH REGISTRY. File No. Y. O. 940.",
+  "sub": [
+   "ESP",
+   "ESP.german",
+   "FOR",
+   "FOR.ww1"
+  ]
  },
  {
   "s": "IO",
@@ -93840,13 +96634,31 @@
   "roll": "64",
   "f": "942",
   "t": "Tang Shao Yi",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2303",
+    "id": "smpa-files-2303",
+    "m": "IO register number on page 0 (\"SPECIAL BRANCH REGISTRY. File No. J.0.942.\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2303",
+    "p": 15
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO register number on page 0",
+  "lev": "SPECIAL BRANCH REGISTRY. File No. J.0.942.",
+  "sub": [
+   "FOR",
+   "FOR.ww1",
+   "SOC",
+   "SOC.schools",
+   "SOC.students"
+  ]
  },
  {
   "s": "IO",
@@ -93854,13 +96666,29 @@
   "roll": "64",
   "f": "951",
   "t": "Pah Vung Wei",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2241",
+    "id": "smpa-files-2241",
+    "m": "IO register number on page 0 (\"C. I. D. I. O. REG No. 951 Date 27.2.17\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2241",
+    "p": 1
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO register number on page 0",
+  "lev": "C. I. D. I. O. REG No. 951 Date 27.2.17",
+  "sub": [
+   "REP",
+   "REP.funding",
+   "REP.revolutionaries"
+  ]
  },
  {
   "s": "IO",
@@ -93868,13 +96696,33 @@
   "roll": "64",
   "f": "952",
   "t": "Wai Yu Zia",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2383",
+    "id": "smpa-files-2383",
+    "m": "IO name match + register number (\"IO register no. 952\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2383",
+    "p": 5
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO name match + register number",
+  "lev": "IO register no. 952",
+  "sub": [
+   "CRI",
+   "CRI.arms",
+   "FOR",
+   "FOR.anticolonial",
+   "LIA",
+   "LIA.foreignpolice",
+   "LIA.french"
+  ]
  },
  {
   "s": "IO",
@@ -93945,13 +96793,28 @@
   "roll": "64",
   "f": "997",
   "t": "Tang Shao Yi",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2302",
+    "id": "smpa-files-2302",
+    "m": "IO register number on page 0 (\"Shanghai Municipal Council. 997 12/3/17\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2302",
+    "p": 1
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO register number on page 0",
+  "lev": "Shanghai Municipal Council. 997 12/3/17",
+  "sub": [
+   "REP",
+   "REP.revolutionaries"
+  ]
  },
  {
   "s": "IO",
@@ -94016,13 +96879,31 @@
   "roll": "64",
   "f": "1031",
   "t": "Nielsen - Baumert",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2221",
+    "id": "smpa-files-2221",
+    "m": "IO name match + register number (\"IO register no. 1031\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2221",
+    "p": 13
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO name match + register number",
+  "lev": "IO register no. 1031",
+  "sub": [
+   "ESP",
+   "ESP.german",
+   "FOR",
+   "FOR.german",
+   "FOR.ww1"
+  ]
  },
  {
   "s": "IO",
@@ -94030,13 +96911,29 @@
   "roll": "64",
   "f": "1060",
   "t": "C. Nielsen",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-1985",
+    "id": "smpa-files-1985",
+    "m": "IO name match",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=1985",
+    "p": 14
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO name match",
+  "sub": [
+   "ESP",
+   "ESP.german",
+   "FOR",
+   "FOR.european"
+  ]
  },
  {
   "s": "IO",
@@ -94098,13 +96995,32 @@
   "roll": "64",
   "f": "1214",
   "t": "A. Ettinger",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-1954",
+    "id": "smpa-files-1954",
+    "m": "IO name match",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=1954",
+    "p": 20
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO name match",
+  "sub": [
+   "ESP",
+   "ESP.german",
+   "FOR",
+   "FOR.anticolonial",
+   "FOR.ww1",
+   "LAW",
+   "LAW.courts"
+  ]
  },
  {
   "s": "IO",
@@ -94112,13 +97028,37 @@
   "roll": "64",
   "f": "1265",
   "t": "Max Kindler",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2189",
+    "id": "smpa-files-2189",
+    "m": "IO register number on page 0 (\"SPECIAL BRANCH REGISTRY. File No. 7-0-1265\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2189",
+    "p": 59
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO register number on page 0",
+  "lev": "SPECIAL BRANCH REGISTRY. File No. 7-0-1265",
+  "sub": [
+   "ESP",
+   "ESP.allied",
+   "ESP.german",
+   "FOR",
+   "FOR.german",
+   "FOR.ww1",
+   "LAW",
+   "LAW.extraterritoriality",
+   "MIG",
+   "MIG.deportation",
+   "MIG.visas"
+  ]
  },
  {
   "s": "IO",
@@ -94154,13 +97094,35 @@
   "roll": "64",
   "f": "1315",
   "t": "Lok Chi Tsa",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2174",
+    "id": "smpa-files-2174",
+    "m": "IO name match + register number (\"IO register no. 1315\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2174",
+    "p": 52
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO name match + register number",
+  "lev": "IO register no. 1315",
+  "sub": [
+   "CRI",
+   "CRI.fraud",
+   "FOR",
+   "FOR.german",
+   "FOR.ww1",
+   "LAW",
+   "LAW.courts",
+   "MIG",
+   "MIG.visas"
+  ]
  },
  {
   "s": "IO",
@@ -94168,13 +97130,28 @@
   "roll": "64",
   "f": "1458",
   "t": "E. Josephi",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2053",
+    "id": "smpa-files-2053",
+    "m": "IO name match + register number (\"IO register no. 1458\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2053",
+    "p": 2
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO name match + register number",
+  "lev": "IO register no. 1458",
+  "sub": [
+   "CRI",
+   "CRI.missing"
+  ]
  },
  {
   "s": "IO",
@@ -94210,13 +97187,30 @@
   "roll": "64",
   "f": "1466",
   "t": "Max Kindler",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2190",
+    "id": "smpa-files-2190",
+    "m": "IO register number on page 0 (\"SPECIAL BRANCH REGISTRY. File No. 7.0.1466.\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2190",
+    "p": 4
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO register number on page 0",
+  "lev": "SPECIAL BRANCH REGISTRY. File No. 7.0.1466.",
+  "sub": [
+   "CRI",
+   "CRI.fraud",
+   "HEA",
+   "HEA.medical"
+  ]
  },
  {
   "s": "IO",
@@ -94422,13 +97416,32 @@
   "roll": "64",
   "f": "2354",
   "t": "Anonymous report from Cantonese presidents, 10/3/16",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-1961",
+    "id": "smpa-files-1961",
+    "m": "IO register number on page 0 (\"HEADQUARTERS CENTRAL REGISTRY. No. 2354 24.3.1917\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=1961",
+    "p": 1
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO register number on page 0",
+  "lev": "HEADQUARTERS CENTRAL REGISTRY. No. 2354 24.3.1917",
+  "sub": [
+   "ESP",
+   "ESP.german",
+   "LAW",
+   "LAW.jurisdiction",
+   "VIO",
+   "VIO.threats"
+  ]
  },
  {
   "s": "IO",
@@ -94487,13 +97500,33 @@
   "roll": "64",
   "f": "2507",
   "t": "Chinese Red Cross Society, 1919",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2004",
+    "id": "smpa-files-2004",
+    "m": "IO register number on page 0 (\"I.O.2507 2672\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2004",
+    "p": 10
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": 1919,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO register number on page 0",
+  "lev": "I.O.2507 2672",
+  "sub": [
+   "FOR",
+   "FOR.consular",
+   "HEA",
+   "HEA.medical",
+   "SOC",
+   "SOC.associations",
+   "SOC.welfare"
+  ]
  },
  {
   "s": "IO",
@@ -94530,13 +97563,37 @@
   "roll": "64",
   "f": "2674",
   "t": "Bolshevist activities expected in Shanghai",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-1979",
+    "id": "smpa-files-1979",
+    "m": "IO name match + register number (\"IO register no. 2674\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=1979",
+    "p": 43
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO name match + register number",
+  "lev": "IO register no. 2674",
+  "sub": [
+   "FOR",
+   "FOR.consular",
+   "MIG",
+   "MIG.movements",
+   "PUB",
+   "PUB.meetings",
+   "RUS",
+   "RUS.individuals",
+   "SOV",
+   "SOV.bolshevism",
+   "SOV.officials"
+  ]
  },
  {
   "s": "IO",
@@ -94544,13 +97601,33 @@
   "roll": "64",
   "f": "2837",
   "t": "Re Shanghai Chronicle",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2252",
+    "id": "smpa-files-2252",
+    "m": "IO name match + register number (\"IO register no. 2837\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2252",
+    "p": 26
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO name match + register number",
+  "lev": "IO register no. 2837",
+  "sub": [
+   "LAW",
+   "LAW.courts",
+   "PRS",
+   "PRS.censorship",
+   "PRS.foreign",
+   "SOV",
+   "SOV.bolshevism"
+  ]
  },
  {
   "s": "IO",
@@ -94874,13 +97951,30 @@
   "roll": "64",
   "f": "3314",
   "t": "Enquiries re articles in Shanghai Times on Bolshevist propaganda in China",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2120",
+    "id": "smpa-files-2120",
+    "m": "IO register number on page 0 (\"C. I. C. 3314 2/4/20\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2120",
+    "p": 5
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO register number on page 0",
+  "lev": "C. I. C. 3314 2/4/20",
+  "sub": [
+   "PRS",
+   "PRS.foreign",
+   "SOV",
+   "SOV.bolshevism"
+  ]
  },
  {
   "s": "IO",
@@ -94919,13 +98013,30 @@
   "roll": "64",
   "f": "3509",
   "t": "Daily reports, 23 Aug. 1920",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2032",
+    "id": "smpa-files-2032",
+    "m": "IO register number on page 0 (\"C. I. D. I. O. REG 3509\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2032",
+    "p": 2
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": 1920,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO register number on page 0",
+  "lev": "C. I. D. I. O. REG 3509",
+  "sub": [
+   "MUN",
+   "MUN.chinese",
+   "REP",
+   "REP.warlords"
+  ]
  },
  {
   "s": "IO",
@@ -94933,13 +98044,32 @@
   "roll": "64",
   "f": "3527",
   "t": "Daily reports, 2 Sept. 1920",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2031",
+    "id": "smpa-files-2031",
+    "m": "IO register number on page 0 (\"I. O. REG No. 3527 Date 3/9/20\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2031",
+    "p": 3
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": 1920,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO register number on page 0",
+  "lev": "I. O. REG No. 3527 Date 3/9/20",
+  "sub": [
+   "MUN",
+   "MUN.chinese",
+   "REP",
+   "REP.warlords",
+   "SOC",
+   "SOC.students"
+  ]
  },
  {
   "s": "IO",
@@ -95039,13 +98169,32 @@
   "roll": "64",
   "f": "3607",
   "t": "Daily report, 16 Nov. 1920",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2027",
+    "id": "smpa-files-2027",
+    "m": "IO register number on page 0 (\"Shanghai Municipal Police. 3607 17/11/20 FILED\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2027",
+    "p": 3
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": 1920,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO register number on page 0",
+  "lev": "Shanghai Municipal Police. 3607 17/11/20 FILED",
+  "sub": [
+   "MUN",
+   "MUN.chinese",
+   "RUS",
+   "RUS.organisations",
+   "SOC",
+   "SOC.associations"
+  ]
  },
  {
   "s": "IO",
@@ -95084,13 +98233,31 @@
   "roll": "64",
   "f": "3841",
   "t": "The Bolshevist movement as seen from Shanghai since 1 Jan. 1921",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2307",
+    "id": "smpa-files-2307",
+    "m": "IO register number on page 0 (\"1.0.3841\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2307",
+    "p": 19
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": 1921,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO register number on page 0",
+  "lev": "1.0.3841",
+  "sub": [
+   "REP",
+   "REP.revolutionaries",
+   "REP.warlords",
+   "SOV",
+   "SOV.bolshevism"
+  ]
  },
  {
   "s": "IO",
@@ -95392,13 +98559,29 @@
   "roll": "64",
   "f": "4342",
   "t": "The China Press, Jan. 8, 1922",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2310",
+    "id": "smpa-files-2310",
+    "m": "IO register number on page 0 (\"1.0.4342\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2310",
+    "p": 4
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": 1922,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO register number on page 0",
+  "lev": "1.0.4342",
+  "sub": [
+   "SOV",
+   "SOV.bolshevism",
+   "SOV.officials"
+  ]
  },
  {
   "s": "IO",
@@ -95451,13 +98634,32 @@
   "roll": "64",
   "f": "4398",
   "t": "Interview with Mr. Metzler, Deputy Commissioner for Russian Affairs, about control of Russians in the settlement",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2121",
+    "id": "smpa-files-2121",
+    "m": "IO name match",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2121",
+    "p": 6
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO name match",
+  "sub": [
+   "LAW",
+   "LAW.extraterritoriality",
+   "RUS",
+   "RUS.organisations",
+   "RUS.politics",
+   "SOV",
+   "SOV.bolshevism"
+  ]
  },
  {
   "s": "IO",
@@ -95495,13 +98697,31 @@
   "roll": "64",
   "f": "4423",
   "t": "Mr. H. S. Kim",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2207",
+    "id": "smpa-files-2207",
+    "m": "IO name match",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2207",
+    "p": 16
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO name match",
+  "sub": [
+   "RUS",
+   "RUS.individuals",
+   "SOV",
+   "SOV.bolshevism",
+   "VIO",
+   "VIO.bombing"
+  ]
  },
  {
   "s": "IO",
@@ -95509,13 +98729,32 @@
   "roll": "64",
   "f": "4463",
   "t": "Translation of photograph copies. One written by Lang Dal Ho.",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2343",
+    "id": "smpa-files-2343",
+    "m": "IO name match",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2343",
+    "p": 12
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO name match",
+  "sub": [
+   "FOR",
+   "FOR.korea",
+   "JPN",
+   "JPN.military",
+   "VIO",
+   "VIO.assassination",
+   "VIO.bombing"
+  ]
  },
  {
   "s": "IO",
@@ -95599,13 +98838,31 @@
   "roll": "64",
   "f": "4550",
   "t": "Arrest of seven Koreans in French Town",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-1966",
+    "id": "smpa-files-1966",
+    "m": "IO name match",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=1966",
+    "p": 2
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO name match",
+  "sub": [
+   "FOR",
+   "FOR.korea",
+   "JPN",
+   "JPN.consular",
+   "LIA",
+   "LIA.french"
+  ]
  },
  {
   "s": "IO",
@@ -95613,13 +98870,32 @@
   "roll": "64",
   "f": "4578",
   "t": "Translation of a declaration issued on May 13, 1922, by the Association of All Societies of the Chinese Republic",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2339",
+    "id": "smpa-files-2339",
+    "m": "IO name match + register number (\"IO register no. 4578\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2339",
+    "p": 13
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": 1922,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO name match + register number",
+  "lev": "IO register no. 4578",
+  "sub": [
+   "LAW",
+   "LAW.courts",
+   "PRS",
+   "PRS.leaflets",
+   "REP",
+   "REP.warlords"
+  ]
  },
  {
   "s": "IO",
@@ -95654,13 +98930,33 @@
   "roll": "64",
   "f": "4639",
   "t": "Search of 19C Chengtu Road",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2263",
+    "id": "smpa-files-2263",
+    "m": "IO name match + register number (\"IO register no. 4639\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2263",
+    "p": 10
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO name match + register number",
+  "lev": "IO register no. 4639",
+  "sub": [
+   "COM",
+   "COM.comintern",
+   "COM.propaganda",
+   "LAB",
+   "LAB.unions",
+   "LAW",
+   "LAW.courts"
+  ]
  },
  {
   "s": "IO",
@@ -95729,13 +99025,30 @@
   "roll": "64",
   "f": "4694",
   "t": "New Russian magazine",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2217",
+    "id": "smpa-files-2217",
+    "m": "IO name match",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2217",
+    "p": 3
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO name match",
+  "sub": [
+   "PRS",
+   "PRS.foreign",
+   "RUS",
+   "RUS.individuals",
+   "RUS.politics"
+  ]
  },
  {
   "s": "IO",
@@ -95772,13 +99085,31 @@
   "roll": "64",
   "f": "4777",
   "t": "Hong Kong Shun Po, Hong Kong, 1 Aug. 1922 https://archive.org/details/smpa-files-2109",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2109",
+    "id": "smpa-files-2109",
+    "m": "IO register number on page 2 (\"I. O. REG No. 4777 Date 9/19/22\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2109",
+    "p": 12
+   }
+  ],
   "ln": "",
   "pg": 12,
   "tags": "",
   "d": "1922",
   "y": 1922,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO register number on page 2",
+  "lev": "I. O. REG No. 4777 Date 9/19/22",
+  "sub": [
+   "PRS",
+   "PRS.books",
+   "REP",
+   "REP.revolutionaries",
+   "REP.warlords"
+  ]
  },
  {
   "s": "IO",
@@ -95874,13 +99205,31 @@
   "roll": "64",
   "f": "4829",
   "t": "Arrival of steamer from Vladivostock: Chinese Labourers’ Association, 559 Poo Ching Li",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-1972",
+    "id": "smpa-files-1972",
+    "m": "IO register number on page 2 (\"Shanghai Municipal Police. 4829 10/11/22.\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=1972",
+    "p": 3
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO register number on page 2",
+  "lev": "Shanghai Municipal Police. 4829 10/11/22.",
+  "sub": [
+   "MIG",
+   "MIG.movements",
+   "RUS",
+   "RUS.individuals",
+   "RUS.military"
+  ]
  },
  {
   "s": "IO",
@@ -96003,7 +99352,16 @@
   "roll": "64",
   "f": "4880",
   "t": "List of ships comprising Admiral Stark’s fleet now at Woo Sung",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2167",
+    "id": "smpa-files-2167",
+    "m": "IO register number on page 2 (\"MEMORANDUM. From To 4880 THE SANITARY STATION, 13/12/22\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2167",
+    "p": 13
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
@@ -96016,6 +99374,15 @@
     "p": "145",
     "fn": "8"
    }
+  ],
+  "lm": "auto: IO register number on page 2",
+  "lev": "MEMORANDUM. From To 4880 THE SANITARY STATION, 13/12/22",
+  "sub": [
+   "MIG",
+   "MIG.movements",
+   "RUS",
+   "RUS.military",
+   "RUS.welfare"
   ]
  },
  {
@@ -96147,13 +99514,30 @@
   "roll": "65",
   "f": "5044",
   "t": "Translation of prospectus issued in connection with the formation of the Korean Workers’ Army obtained in Dr. Fearn’s church on Apr. 13, 1923",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2344",
+    "id": "smpa-files-2344",
+    "m": "IO register number on page 0 (\"5044 6/4/23\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2344",
+    "p": 4
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": 1923,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO register number on page 0",
+  "lev": "5044 6/4/23",
+  "sub": [
+   "FOR",
+   "FOR.korea",
+   "PRS",
+   "PRS.leaflets"
+  ]
  },
  {
   "s": "IO",
@@ -96220,13 +99604,30 @@
   "roll": "65",
   "f": "5169",
   "t": "Translation of extracts from Russian newspapers",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2341",
+    "id": "smpa-files-2341",
+    "m": "IO name match",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2341",
+    "p": 8
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO name match",
+  "sub": [
+   "LAB",
+   "LAB.strikes",
+   "LAB.unions",
+   "SOV",
+   "SOV.bolshevism"
+  ]
  },
  {
   "s": "IO",
@@ -96543,13 +99944,30 @@
   "roll": "65",
   "f": "5526",
   "t": "Sz Ka Siao Pao",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2297",
+    "id": "smpa-files-2297",
+    "m": "IO name match",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2297",
+    "p": 4
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO name match",
+  "sub": [
+   "KMT",
+   "KMT.party",
+   "PRS",
+   "PRS.chinese",
+   "PRS.mosquito"
+  ]
  },
  {
   "s": "IO",
@@ -96557,13 +99975,33 @@
   "roll": "65",
   "f": "5594",
   "t": "Translation from the Echo de Chine of Apr. 1, 1924",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2336",
+    "id": "smpa-files-2336",
+    "m": "IO register number on page 0 (\"D 5594\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2336",
+    "p": 24
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": 1924,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO register number on page 0",
+  "lev": "D 5594",
+  "sub": [
+   "LAB",
+   "LAB.strikes",
+   "LAB.unions",
+   "REP",
+   "REP.revolutionaries",
+   "SOV",
+   "SOV.bolshevism"
+  ]
  },
  {
   "s": "IO",
@@ -96830,13 +100268,33 @@
   "roll": "65",
   "f": "6203",
   "t": "Extract from Black List. Recent movements.",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2058",
+    "id": "smpa-files-2058",
+    "m": "IO name match + register number (\"IO register no. 6203, 7922\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2058",
+    "p": 15
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO name match + register number",
+  "lev": "IO register no. 6203, 7922",
+  "sub": [
+   "ESP",
+   "ESP.soviet",
+   "MIG",
+   "MIG.deportation",
+   "SOV",
+   "SOV.bolshevism",
+   "SOV.employees"
+  ]
  },
  {
   "s": "IO",
@@ -97061,13 +100519,35 @@
   "roll": "65",
   "f": "6600",
   "t": "Silk documents",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2253",
+    "id": "smpa-files-2253",
+    "m": "IO register number on page 0 (\"I.O.6600\")",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2253",
+    "p": 41
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO register number on page 0",
+  "lev": "I.O.6600",
+  "sub": [
+   "MIL",
+   "MIL.chinese",
+   "REP",
+   "REP.warlords",
+   "RUS",
+   "RUS.military",
+   "RUS.welfare",
+   "SOV",
+   "SOV.bolshevism"
+  ]
  },
  {
   "s": "IO",
@@ -98025,13 +101505,30 @@
   "roll": "66",
   "f": "7660",
   "t": "Chinese arrested for distributing inflammatory pamphlets to British soldiers",
-  "links": [],
+  "links": [
+   {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-1998",
+    "id": "smpa-files-1998",
+    "m": "IO name match",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=1998",
+    "p": 55
+   }
+  ],
   "ln": "",
   "pg": null,
   "tags": "",
   "d": "",
   "y": null,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO name match",
+  "sub": [
+   "COM",
+   "COM.propaganda",
+   "MIL",
+   "MIL.foreign",
+   "MIL.subversion"
+  ]
  },
  {
   "s": "IO",
@@ -98755,6 +102252,14 @@
   "t": "Dr. O. Fischer returns from European journey",
   "links": [
    {
+    "t": "file",
+    "u": "https://archive.org/details/smpa-files-2052",
+    "id": "smpa-files-2052",
+    "m": "IO name match",
+    "smp": "https://ray-bot-ai.github.io/smp-files/file.html?id=2052",
+    "p": 18
+   },
+   {
     "t": "other",
     "u": "https://archive.org/search?query=Subject%3A%28IO+Files%29+AND+Subject%3A%28SMPA%29&page=5"
    }
@@ -98764,7 +102269,16 @@
   "tags": "",
   "d": "1928-1934",
   "y": 1928,
-  "n": ""
+  "n": "",
+  "lm": "auto: IO name match",
+  "sub": [
+   "COM",
+   "COM.comintern",
+   "FOR",
+   "FOR.german",
+   "MIG",
+   "MIG.movements"
+  ]
  },
  {
   "s": "IO",

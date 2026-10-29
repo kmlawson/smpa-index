@@ -2833,36 +2833,36 @@ D,,60,9996,Enquiry re Rudolfo Alberto Hamburger,,,,4,,,https://archive.org/detai
 D,98,60,9998,American citizens wanted by United States Consulate,1940.6,1940,8,8,,,https://archive.org/details/smpa-files-359,,,https://ray-bot-ai.github.io/smp-files/file.html?id=359,,wiki,,FOR FOR.american FOR.consular MIG MIG.movements
 D,98,60,9999,Attached newspaper clipping from the North China Daily News,1940,1940,5,6,,,https://archive.org/details/smpa-files-501,,,https://ray-bot-ai.github.io/smp-files/file.html?id=501,,wiki,,ECO ECO.firms RUS RUS.individuals
 IO,99,63,1,Loh Ka Ts Koh Pootung [Microfilm lists the following as cases 101-130],1st Jan 1916,1916,2,2,,military information in Loh Ka Ta Koh 陆家嘴,https://archive.org/details/smpa-files-2173,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2173,,wiki,,MIL MIL.chinese REP REP.revolutionaries
-IO,99,63,2,The Tax Office Jan. 2 1916 (Letter),,1916,,,,,,,,,,,,
+IO,99,63,2,The Tax Office Jan. 2 1916 (Letter),,1916,,1,,,https://archive.org/details/smpa-files-2327,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2327,,auto: IO register number on page 0,,ECO ECO.banking ECO.firms MIL MIL.chinese MUN MUN.greater
 IO,99,63,3,Da Zah Bing,3rd Jan 1916,1916,1,1,,,https://archive.org/details/smpa-files-2026,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2026,,wiki,,REP REP.funding REP.monarchists REP.revolutionaries
 IO,99,63,8,Ying Zen Sung,Jan 1916,1916,1,1,,,https://archive.org/details/smpa-files-2420,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2420,,wiki,,CRI CRI.arms ESP ESP.informants POL POL.conduct
 IO,99,63,9,Tsiang Ya Ying,7th Feb 1916,1916,1,1,,,https://archive.org/details/smpa-files-2364,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2364,,wiki,,REP REP.revolutionaries REP.warlords
-IO,99,63,10,Shenpao,,,,,,,,,,,,,,
+IO,99,63,10,Shenpao,,,,1,,,https://archive.org/details/smpa-files-2269,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2269,,auto: IO register number on page 0,,PRS PRS.censorship PRS.chinese REP REP.revolutionaries
 IO,99,63,12,Zung Kau Chun,11th Jan 1916,1916,1,1,Zung Kau Chun as a leader of an attack was shot at 2pm,,https://archive.org/details/smpa-files-2459,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2459,,wiki,,MIL MIL.chinese REP REP.revolutionaries REP.warlords
 IO,99,63,13,Lung Sau Wei,12th Jan 1916,1916,1,1,,,https://archive.org/details/smpa-files-2184,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2184,,wiki,,CRI CRI.gangs REP REP.revolutionaries
 IO,99,63,14,Koh Ming Tang - Pay Dzung Sung,13th Jan 1916,1916,1,1,Pay Dzung Sung became a spy of the Chinese Government who stayed in Koh Ming Tang,,https://archive.org/details/smpa-files-2132,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2132,,wiki,,REP REP.funding REP.revolutionaries
-IO,99,63,15,Mr. Stephorious,,,,,,,,,,,,,,
+IO,99,63,15,Mr. Stephorious,,,,1,,,https://archive.org/details/smpa-files-2210,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2210,,auto: IO register number on page 0,,FOR FOR.german MUN MUN.council
 IO,99,63,16,Ong Zung Zen,15th Jan 1916,1916,1,1,,,https://archive.org/details/smpa-files-2235,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2235,,wiki,,MUN MUN.chinese MUN.greater MUN.services
 IO,99,63,17,Zee Ping Liang,Jan 1916,1916,3,3,,Nanking officials agreed to join the rebels; Zee Ping Liang was a rebel leader from Shanghai and was sent to Nanking to confer with a general about the situation in Yunnan,https://archive.org/details/smpa-files-2453,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2453,,wiki,,REP REP.funding REP.revolutionaries REP.warlords
-IO,99,63,18,Zee Koh Liang,,,,,,,,,,,,,,
+IO,99,63,18,Zee Koh Liang,,,,1,,,https://archive.org/details/smpa-files-2450,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2450,,auto: IO register number on page 0,,PUB PUB.demonstrations REP REP.revolutionaries VIO VIO.assassination
 IO,99,63,19,Tsang Kuang Zah,Jan 1916,1916,1,1,,,https://archive.org/details/smpa-files-2352,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2352,,wiki,,MIL MIL.chinese REP REP.revolutionaries
-IO,99,63,20,The Nielson Arms Case,,,,,,,,,,,,,,
+IO,99,63,20,The Nielson Arms Case,,,,38,,,https://archive.org/details/smpa-files-2317,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2317,,auto: IO register number on page 1,,CRI CRI.arms ESP ESP.german LAW LAW.courts
 IO,99,63,21,Tsu Kung Fah,Jan 1916,1916,2,2,,rebel-related issue,https://archive.org/details/smpa-files-2369,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2369,,wiki,,REP REP.revolutionaries VIO VIO.assassination
-IO,99,63,22,Chen Chi Mei,,,,,,,,,,,,,,
+IO,99,63,22,Chen Chi Mei,,,,1,,,https://archive.org/details/smpa-files-1993,,,https://ray-bot-ai.github.io/smp-files/file.html?id=1993,,auto: IO register number on page 0,,REP REP.revolutionaries
 IO,99,63,23,[Missing],,,,,,,,,,,,,,
 IO,99,63,24,Zee Koh Liang,,,,,,,,,,,,,,
-IO,99,63,25,Koo Tuh Ngoh,,,,,,,,,,,,,,
-IO,99,63,26,General Yang,,,,,,,,,,,,,,
+IO,99,63,25,Koo Tuh Ngoh,,,,3,,,https://archive.org/details/smpa-files-2136 https://archive.org/details/smpa-files-2270 https://archive.org/details/smpa-files-2347,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2136 https://ray-bot-ai.github.io/smp-files/file.html?id=2270 https://ray-bot-ai.github.io/smp-files/file.html?id=2347,,auto: IO register number on page 0,,PRS PRS.censorship PRS.chinese REP REP.funding REP.revolutionaries VIO VIO.threats
+IO,99,63,26,General Yang,,,,1,,,https://archive.org/details/smpa-files-2088,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2088,,auto: IO register number on page 0,,PRS PRS.censorship PRS.chinese REP REP.warlords SOC SOC.welfare
 IO,99,63,27,Tsai Ao,,,,,,,,,,,,,,
 IO,99,63,28,Lieu Ching Sung,Jan 1916,1916,2,2,,,https://archive.org/details/smpa-files-2156,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2156,,wiki,,REP REP.revolutionaries VIO VIO.assassination
 IO,99,63,29,Zee Koh Liang,,,,,,,,,,,,,,
-IO,99,63,30,Ju Sing,,,,,,,,,,,,,,
+IO,99,63,30,Ju Sing,,,,2,,,https://archive.org/details/smpa-files-2126,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2126,,auto: IO name match,,REP REP.funding REP.revolutionaries VIO VIO.assassination
 IO,99,63,31,Faung Sung Dau,Feb 1916,1916,2,2,,the City Police received the order of examining all the papers and bills before the Chinese New Year due to the rebel issue,https://archive.org/details/smpa-files-2062,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2062,,wiki,,PRS PRS.leaflets REP REP.revolutionaries
-IO,99,63,32,Shen Yuen Zahl,,,,,,,,,,,,,,
+IO,99,63,32,Shen Yuen Zahl,,,,1,,,https://archive.org/details/smpa-files-2063,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2063,,auto: IO register number on page 0,,REP REP.monarchists REP.warlords
 IO,99,63,33,"Thau Yuan"" Kyuin corps",,,,,,,,,,,,,,
 IO,99,63,34,"Thau Yuan"" Kyuin corps",,,,,,,,,,,,,,
 IO,99,63,35,Wong Tsch Ming,Feb 1916,1916,1,1,,,https://archive.org/details/smpa-files-2394,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2394,,wiki,,REP REP.revolutionaries
-IO,99,63,36,Zung Tsung,,,,,,,,,,,,,,
+IO,99,63,36,Zung Tsung,,,,1,,,https://archive.org/details/smpa-files-2462,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2462,,auto: IO register number on page 0,,MIL MIL.chinese REP REP.revolutionaries REP.warlords
 IO,99,63,37,Admiral Tseng,10th Feb 1916,1916,1,1,,two high military officers from Peking arrived in Shanghai yesterday,https://archive.org/details/smpa-files-1958,,,https://ray-bot-ai.github.io/smp-files/file.html?id=1958,,wiki,,MIL MIL.chinese REP REP.revolutionaries REP.warlords
 IO,99,63,38,Shenpao,,,,,,,,,,,,,,
 IO,99,63,39,Huh Ching Tsung,13th Feb 1916,1916,1,1,,a fort was about to be rebuilt in Huh Ching Tsung in Pootung,https://archive.org/details/smpa-files-2113,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2113,,wiki,,MIL MIL.chinese
@@ -2871,60 +2871,60 @@ IO,99,63,41,Liu Nyoh Zung,14th Feb 1916,1916,1,1,,Liu Nyoh Zung assissinated the
 IO,99,63,42,Tsu Li Sun,Feb 1916,1916,1,1,,Two military officers came to Shanghai from Peking to discuss the rebel issue,https://archive.org/details/smpa-files-2370,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2370,,wiki,,MIL MIL.chinese REP REP.revolutionaries
 IO,99,63,43,Lu and Li Tsoong Nyoh,16th Feb 1916,1916,1,1,,,https://archive.org/details/smpa-files-2180,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2180,,wiki,,REP REP.warlords
 IO,99,63,44,Wong Ming Jeu,Feb 1916,1916,1,1,,,https://archive.org/details/smpa-files-2389,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2389,,wiki,,MIL MIL.chinese REP REP.revolutionaries
-IO,99,63,45,Daung Zen Tsung,,,,,,,,,,,,,,
+IO,99,63,45,Daung Zen Tsung,,,,1,,,https://archive.org/details/smpa-files-2039,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2039,,auto: IO name match,,REP REP.revolutionaries REP.warlords
 IO,99,63,46,Tsu Vi Heu,Feb 1916,1916,2,2,,two men were arrested due to their close relation with revolutionary activities,https://archive.org/details/smpa-files-2373,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2373,,wiki,,CRI CRI.arms FOR FOR.ww1 REP REP.revolutionaries
 IO,99,63,47,[Missing],,,,,,,,,,,,,,
 IO,99,63,48,[Missing],,,,,,,,,,,,,,
 IO,99,63,49,[Missing],,,,,,,,,,,,,,
-IO,99,63,50,Tsu Hai Zung,,,,,,,,,,,,,,
+IO,99,63,50,Tsu Hai Zung,,,,1,,,https://archive.org/details/smpa-files-2367,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2367,,auto: IO name match + register number,,MIL MIL.chinese REP REP.revolutionaries REP.warlords
 IO,99,63,51,General Feng,23rd Feb 1916,1916,1,1,,,https://archive.org/details/smpa-files-2078,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2078,,wiki,,MIL MIL.chinese REP REP.warlords
 IO,99,63,52,[Missing],,,,,,,,,,,,,,
-IO,99,63,53,[Missing],,,,,,,,,,,,,,
+IO,99,63,53,[Missing],,,,1,,,https://archive.org/details/smpa-files-2064,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2064,,auto: IO register number on page 0,,REP REP.revolutionaries
 IO,99,63,54,Special Telegram from Pekin,,,,,,,,,,,,,,
-IO,99,63,55,Wong Tseh Ming,,,,,,,,,,,,,,
+IO,99,63,55,Wong Tseh Ming,,,,5,,,https://archive.org/details/smpa-files-2395,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2395,,auto: IO name match,,FOR FOR.consular PRS PRS.leaflets REP REP.revolutionaries
 IO,99,63,56,[Missing],,,,,,,,,,,,,,
 IO,99,63,66,Washermen’s strike,,,,,,,,,,,,,,
 IO,99,63,94,"[Microfilm header reads 4280] Oct. 8, 1894, letter re lottery affair report",,1894,,,,,,https://archive.org/details/smpa-63/page/n393/mode/2up,,,,,,
-IO,99,63,109,Lieu Khoong,,,,,,,,,,,,,,
+IO,99,63,109,Lieu Khoong,,,,2,,,https://archive.org/details/smpa-files-2160,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2160,,auto: IO name match + register number,,PRS PRS.leaflets REP REP.revolutionaries
 IO,99,63,122,Yang Tcheng,,,,,,,,,,,,,,
 IO,99,63,123,Tsang Chi Hyuin,Mar 1916,1916,2,2,,,https://archive.org/details/smpa-files-2350,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2350,,wiki,,REP REP.revolutionaries REP.warlords
-IO,99,63,124,Hai Yung,,,,,,,,,,,,,,
-IO,99,63,125,Woo Tsung Wo,,,,,,,,,,,,,,
+IO,99,63,124,Hai Yung,,,,2,,,https://archive.org/details/smpa-files-2092 https://archive.org/details/smpa-files-2282,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2092 https://ray-bot-ai.github.io/smp-files/file.html?id=2282,,auto: IO name match,,MIL MIL.chinese REP REP.revolutionaries REP.warlords
+IO,99,63,125,Woo Tsung Wo,,,,1,,,https://archive.org/details/smpa-files-2409,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2409,,auto: IO name match,,MIL MIL.chinese REP REP.revolutionaries REP.warlords
 IO,99,63,126,Feng Kuo Chang,Feb 1916,1916,1,1,,"Military Order from Feng Kuo Chang in Chiangchun, needed nine hundred more troops to Nanking when called upon",https://archive.org/details/smpa-files-2068,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2068,,wiki,,REP REP.revolutionaries REP.warlords
 IO,99,63,129,Sin Wan Pao,1916,1916,7,7,,,https://archive.org/details/smpa-files-2275,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2275,,wiki,,POL POL.conduct PRS PRS.chinese REP REP.revolutionaries
 IO,99,63,130,Li Tsung Nyoh,28th Feb 1916,1916,1,1,,,https://archive.org/details/smpa-files-2147,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2147,,wiki,,MIL MIL.chinese REP REP.warlords
 IO,99,63,132,Yuan Shih Kai,,,,,,,,,,,,,,
 IO,99,63,135,Ling Dau Wen,1916,1916,11,11,,,https://archive.org/details/smpa-files-2163,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2163,,wiki,,PRS PRS.leaflets REP REP.revolutionaries
-IO,99,63,137,Pootung and Foong Ching,,,,,,,,,,,,,,
+IO,99,63,137,Pootung and Foong Ching,,,,1,,,https://archive.org/details/smpa-files-2248,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2248,,auto: IO name match,,MIL MIL.chinese REP REP.revolutionaries REP.warlords
 IO,99,63,138,Huh Chung Tsung,2nd Mar 1916,1916,1,1,,,https://archive.org/details/smpa-files-2114,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2114,,wiki,,MIL MIL.chinese
 IO,99,63,142,Zau Lien Wang,6th Mar 1916,1916,1,1,,purchasing military equipment,https://archive.org/details/smpa-files-2439,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2439,,wiki,,MIL MIL.chinese REP REP.funding REP.warlords
 IO,99,63,145,Arnold Khrberg & Carlowit z & Co.,,,,,,,,,,,,,,
-IO,99,63,146,Chang Hsun,,,,,,,,,,,,,,
+IO,99,63,146,Chang Hsun,,,,1,,,https://archive.org/details/smpa-files-1988,,,https://ray-bot-ai.github.io/smp-files/file.html?id=1988,,auto: IO register number on page 0,,REP REP.revolutionaries REP.warlords
 IO,99,63,149,Tseng Da Pei,,,1,11,,,https://archive.org/details/smpa-files-2362,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2362,,wiki,,LAW LAW.courts LAW.jurisdiction REP REP.revolutionaries REP.warlords
 IO,99,63,150,Feng Kus Chang,Mar 1916,1916,1,1,,"Military information,the situation of Nanking was serious with people became alarmed, Northern troops has arrived at Pukow",https://archive.org/details/smpa-files-2069,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2069,,wiki,,MIL MIL.chinese REP REP.revolutionaries REP.warlords
-IO,99,63,155,Daung Chi Sing,,,,,,,,,,,,,,
-IO,99,63,158,Fong Nan Woo,,,,,,,,,,,,,,
-IO,99,63,160,Fong Nan Woo,,,,,,,,,,,,,,
+IO,99,63,155,Daung Chi Sing,,,,1,,,https://archive.org/details/smpa-files-2035,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2035,,auto: IO name match + register number,,LAB LAB.strikes REP REP.revolutionaries
+IO,99,63,158,Fong Nan Woo,,,,1,,,https://archive.org/details/smpa-files-2072,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2072,,auto: IO register number on page 0,,LAW LAW.courts REP REP.funding REP.warlords
+IO,99,63,160,Fong Nan Woo,,,,1,,,https://archive.org/details/smpa-files-2071,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2071,,auto: IO register number on page 0,,REP REP.revolutionaries REP.warlords
 IO,99,63,161,Tang Shao Yi,,,,,,,,,,,,,,
-IO,99,63,165,Sun Yat-Sen,,,,,,,,,,,,,,
+IO,99,63,165,Sun Yat-Sen,,,,4,,,https://archive.org/details/smpa-files-2284 https://archive.org/details/smpa-files-2431,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2284 https://ray-bot-ai.github.io/smp-files/file.html?id=2431,,auto: IO register number on page 0,,CRI CRI.arms REP REP.revolutionaries REP.warlords VIO VIO.assassination
 IO,99,63,166,[Missing],,,,,,,,,,,,,,
-IO,99,63,167,Chen Chi Mei,,,,,,,,,,,,,,
+IO,99,63,167,Chen Chi Mei,,,,1,,,https://archive.org/details/smpa-files-1996,,,https://ray-bot-ai.github.io/smp-files/file.html?id=1996,,auto: IO register number on page 0,,MIL MIL.chinese REP REP.revolutionaries
 IO,99,63,168,Yui Yui Li,,,,,,,,,,,,,,
-IO,99,63,171,Fong Nan Woo,,,,,,,,,,,,,,
+IO,99,63,171,Fong Nan Woo,,,,1,,,https://archive.org/details/smpa-files-2073,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2073,,auto: IO register number on page 0,,REP REP.revolutionaries REP.warlords
 IO,99,63,174,Wong Ts Kong,16th Mar 1916,1916,1,1,,,https://archive.org/details/smpa-files-2392,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2392,,wiki,,REP REP.revolutionaries REP.warlords VIO VIO.assassination
 IO,99,63,177,Ming Kou Pao,1916,1916,1,1,,the Republican Army used a new-design flag in Shanghai,https://archive.org/details/smpa-files-2201,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2201,,wiki,,REP REP.revolutionaries
 IO,99,63,178,[Missing],,,,,,,,,,,,,,
 IO,99,63,180,Nyeu Wen Tsang,20th Mar 1916,1916,1,1,,general information about the current political situation,https://archive.org/details/smpa-files-2233,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2233,,wiki,,REP REP.revolutionaries REP.warlords VIO VIO.threats
-IO,99,63,181,Lang Chi Tsao,,,,,,,,,,,,,,
-IO,99,63,182,Dong Chi Yau,,,,,,,,,,,,,,
-IO,99,63,183,Nyen Tih Sung,,,,,,,,,,,,,,
-IO,99,63,185,Han Hwei,,,,,,,,,,,,,,
-IO,99,63,186,Nyeu Tih Sung,,,,,,,,,,,,,,
+IO,99,63,181,Lang Chi Tsao,,,,1,,,https://archive.org/details/smpa-files-2138,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2138,,auto: IO name match + register number,,MIL MIL.chinese REP REP.revolutionaries REP.warlords
+IO,99,63,182,Dong Chi Yau,,,,3,,,https://archive.org/details/smpa-files-2047,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2047,,auto: IO name match,,PRS PRS.postal
+IO,99,63,183,Nyen Tih Sung,,,,1,,,https://archive.org/details/smpa-files-2232,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2232,,auto: IO register number on page 0,,REP REP.revolutionaries
+IO,99,63,185,Han Hwei,,,,1,,,https://archive.org/details/smpa-files-2104,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2104,,auto: IO register number on page 0,,MIL MIL.chinese REP REP.revolutionaries
+IO,99,63,186,Nyeu Tih Sung,,,,1,,,https://archive.org/details/smpa-files-2231,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2231,,auto: IO register number on page 0,,REP REP.revolutionaries REP.warlords
 IO,99,63,190,Chang Sau Liag,1916-1918,1916,17,17,,,https://archive.org/details/smpa-files-1989,,,https://ray-bot-ai.github.io/smp-files/file.html?id=1989,,wiki,,CRI CRI.arms ESP ESP.german FOR FOR.ww1
 IO,99,63,191,Tsang Tsung Sung,23rd Mar 1916,1916,1,1,,,https://archive.org/details/smpa-files-2358,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2358,,wiki,,REP REP.funding REP.revolutionaries REP.warlords
 IO,99,63,200,Ling Shih Foong,25th Mar 1916,1916,1,1,,,https://archive.org/details/smpa-files-2165,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2165,,wiki,,LAW LAW.jurisdiction REP REP.warlords
-IO,99,63,201,Chen Chi Mei,,,,,,,,,,,,,,
-IO,99,63,202,Wu Ting Fang,,,,,,,,,,,,,,
+IO,99,63,201,Chen Chi Mei,,,,1,,,https://archive.org/details/smpa-files-1997,,,https://ray-bot-ai.github.io/smp-files/file.html?id=1997,,auto: IO register number on page 0,,REP REP.funding REP.revolutionaries VIO VIO.abduction
+IO,99,63,202,Wu Ting Fang,,,,2,,,https://archive.org/details/smpa-files-2412,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2412,,auto: IO register number on page 0,,MIL MIL.chinese REP REP.funding REP.revolutionaries
 IO,99,63,203,Seizure of arms at Pootung,Mar 1916,1916,21,21,,,https://archive.org/details/smpa-files-2265,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2265,,wiki,,CRI CRI.arms LAW LAW.courts REP REP.revolutionaries
 IO,99,63,204,Tih Liang,28th Mar 1916,1916,1,1,,Tih Liang who has been a member of Manchu Party conferred to rebel in Shanghai,https://archive.org/details/smpa-files-2332,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2332,,wiki,,REP REP.revolutionaries REP.warlords
 IO,99,63,208,Chen Chi Mei,,,20,20,,,https://archive.org/details/smpa-files-1994,,,https://ray-bot-ai.github.io/smp-files/file.html?id=1994,,wiki,,REP REP.funding REP.revolutionaries VIO VIO.threats
@@ -2932,74 +2932,74 @@ IO,99,63,209,Dong Ping Kun,Mar 1916,1916,4,4,,,https://archive.org/details/smpa-
 IO,99,63,210,Hung Shih Tsoo,rebel-related issue,,1,1,,,https://archive.org/details/smpa-files-2115,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2115,,wiki,,REP REP.revolutionaries REP.warlords
 IO,99,63,212,Josi Maria Guedes,,,,,,,,,,,,,,
 IO,99,63,215,Woo Sung Pao,Mar 1916,1916,1,1,,,https://archive.org/details/smpa-files-2407,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2407,,wiki,,FOR FOR.ww1 PRS PRS.censorship PRS.chinese REP REP.revolutionaries
-IO,99,63,216,"Zau [Microfilm contains N. Keli, Turkish subject]",,,,,,,,https://archive.org/details/smpa-63/page/n427/mode/2up,,,,,,
-IO,99,63,218,Gee Sing Tsoo,,,,,,,,,,,,,,
+IO,99,63,216,"Zau [Microfilm contains N. Keli, Turkish subject]",,,,1,,,https://archive.org/details/smpa-files-2433,https://archive.org/details/smpa-63/page/n427/mode/2up,,https://ray-bot-ai.github.io/smp-files/file.html?id=2433,,auto: IO register number on page 0,,REP REP.revolutionaries
+IO,99,63,218,Gee Sing Tsoo,,,,2,,,https://archive.org/details/smpa-files-2077,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2077,,auto: IO name match + register number,,LAW LAW.courts REP REP.revolutionaries
 IO,99,63,219,Zau Oo Ching,Apr 1916,1916,1,1,,"A car accident, Chinese and Japanese involved",https://archive.org/details/smpa-files-2440,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2440,,wiki,,MIL MIL.chinese REP REP.warlords
-IO,99,63,223,Woo Ching Ying [Microfil m also contains Maurice Benjamin under this number.],,,,,,,,,,,,,,
-IO,99,63,224,Pak Vung Wei,,,,,,,,,,,,,,
-IO,99,63,225,Zau Woo Kyung,,,,,,,,,,,,,,
-IO,99,63,226,General Yang,,,,,,,,,,,,,,
+IO,99,63,223,Woo Ching Ying [Microfil m also contains Maurice Benjamin under this number.],,,,1,,,https://archive.org/details/smpa-files-2403,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2403,,auto: IO register number on page 0,,MIL MIL.subversion REP REP.revolutionaries REP.warlords
+IO,99,63,224,Pak Vung Wei,,,,1,,,https://archive.org/details/smpa-files-2242,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2242,,auto: IO name match + register number,,PRS PRS.chinese REP REP.funding REP.revolutionaries
+IO,99,63,225,Zau Woo Kyung,,,,1,,,https://archive.org/details/smpa-files-2442,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2442,,auto: IO register number on page 0,,MIL MIL.chinese MIL.subversion REP REP.revolutionaries
+IO,99,63,226,General Yang,,,,2,,,https://archive.org/details/smpa-files-2086 https://archive.org/details/smpa-files-2087,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2086 https://ray-bot-ai.github.io/smp-files/file.html?id=2087,,auto: IO register number on page 0,,MIL MIL.chinese REP REP.revolutionaries REP.warlords
 IO,99,63,229,Mau Chih Ying,5th Apr 1916,1916,1,1,,ex-soldiers became rebels and lived in Frenchtown in Shanghai,https://archive.org/details/smpa-files-2187,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2187,,wiki,,MIL MIL.chinese REP REP.funding REP.revolutionaries
-IO,99,63,233,Wu Ting Fang,,,,,,,,,,,,,,
+IO,99,63,233,Wu Ting Fang,,,,1,,,https://archive.org/details/smpa-files-2411,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2411,,auto: IO register number on page 0,,REP REP.revolutionaries
 IO,99,63,234,General Yang,,,,,,,,,,,,,,
-IO,99,63,236,The Chinese military sit uation,,,,,,,,,,,,,,
+IO,99,63,236,The Chinese military sit uation,,,,1,,,https://archive.org/details/smpa-files-2311,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2311,,auto: IO register number on page 0,,MIL MIL.chinese MIL.subversion POL POL.auxiliary REP REP.revolutionaries REP.warlords
 IO,99,63,239,Arrival of troops in Shanghai,10th Apr 1916,1916,1,1,,,https://archive.org/details/smpa-files-1974,,,https://ray-bot-ai.github.io/smp-files/file.html?id=1974,,wiki,,MIL MIL.chinese REP REP.warlords
-IO,99,63,241,Zie Fong Ding,,,,,,,,,,,,,,
-IO,99,63,242,Woo Ching Ying [Microfilm also contains Thomas Mellows under this number.],,,,,,,,,,,,,,
-IO,99,63,245,Woo Ching Ying,,,,,,,,,,,,,,
+IO,99,63,241,Zie Fong Ding,,,,1,,,https://archive.org/details/smpa-files-2455,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2455,,auto: IO name match,,CRI CRI.arms REP REP.revolutionaries
+IO,99,63,242,Woo Ching Ying [Microfilm also contains Thomas Mellows under this number.],,,,1,,,https://archive.org/details/smpa-files-2401,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2401,,auto: IO register number on page 0,,MIL MIL.chinese REP REP.revolutionaries REP.warlords
+IO,99,63,245,Woo Ching Ying,,,,1,,,https://archive.org/details/smpa-files-2402,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2402,,auto: IO register number on page 0,,MIL MIL.chinese REP REP.revolutionaries
 IO,99,63,246,Movements of Chinese troops,12th Apr 1916,1916,1,1,,,https://archive.org/details/smpa-files-2205,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2205,,wiki,,MIL MIL.chinese REP REP.warlords
-IO,99,63,248,Zau Li Waung [On microfilm this number is also used for Nyeu Tih Sung.],,,,,,,,,,,,,,
-IO,99,63,249,Chen Chi Mei,,,,,,,,,,,,,,
+IO,99,63,248,Zau Li Waung [On microfilm this number is also used for Nyeu Tih Sung.],,,,1,,,https://archive.org/details/smpa-files-2437,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2437,,auto: IO register number on page 0,,REP REP.revolutionaries REP.warlords VIO VIO.assassination
+IO,99,63,249,Chen Chi Mei,,,,1,,,https://archive.org/details/smpa-files-1995,,,https://ray-bot-ai.github.io/smp-files/file.html?id=1995,,auto: IO register number on page 0,,REP REP.funding REP.revolutionaries
 IO,99,63,250,Di Doo,Apr 1916,1916,2,2,,,https://archive.org/details/smpa-files-2045,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2045,,wiki,,MIL MIL.chinese REP REP.warlords
-IO,99,63,253,Nyeu Tih Sung,,,,,,,,,,,,,,
-IO,99,63,254,Fung Ching,,,,,,,,,,,,,,
+IO,99,63,253,Nyeu Tih Sung,,,,1,,,https://archive.org/details/smpa-files-2230,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2230,,auto: IO register number on page 0,,MIL MIL.chinese REP REP.funding REP.revolutionaries
+IO,99,63,254,Fung Ching,,,,3,,,https://archive.org/details/smpa-files-2076 https://archive.org/details/smpa-files-2292,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2076 https://ray-bot-ai.github.io/smp-files/file.html?id=2292,,auto: IO name match,,REP REP.funding REP.revolutionaries REP.warlords
 IO,99,63,255A,Chiu Wei Ching,May 1916,1916,4,4,,,https://archive.org/details/smpa-files-2009,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2009,,wiki,,REP REP.funding REP.revolutionaries
 IO,99,63,256,Chen Chi May,16th Apr 1916,1916,1,1,,,https://archive.org/details/smpa-files-1992,,,https://ray-bot-ai.github.io/smp-files/file.html?id=1992,,wiki,,REP REP.revolutionaries
 IO,99,63,260,Thomas Mellows,,,,,,,,,,,,,,
 IO,99,63,265,Deputy Military Governor Lu,Apr 1916,1916,2,2,,,https://archive.org/details/smpa-files-2044,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2044,,wiki,,REP REP.revolutionaries REP.warlords VIO VIO.bombing
-IO,99,63,266,Fong Nan Woo,,,,,,,,,,,,,,
+IO,99,63,266,Fong Nan Woo,,,,2,,,https://archive.org/details/smpa-files-2070,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2070,,auto: IO register number on page 0,,MIL MIL.chinese REP REP.revolutionaries REP.warlords
 IO,99,63,267,Wong Toh Sung,17th Apr 1916,1916,1,1,,A meeting was held in order to induce the authorities to abandon the intention of sending northern troops to Fokien,https://archive.org/details/smpa-files-2391,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2391,,wiki,,PUB PUB.meetings REP REP.revolutionaries REP.warlords
-IO,99,63,268,Nyeu Tih Sung,,,,,,,,,,,,,,
-IO,99,63,269,Nyeu Tih Sung [Microfilm also contains police strength report under this number],,,,,,,,,,,,,,
+IO,99,63,268,Nyeu Tih Sung,,,,1,,,https://archive.org/details/smpa-files-2228,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2228,,auto: IO register number on page 0,,REP REP.revolutionaries VIO VIO.bombing
+IO,99,63,269,Nyeu Tih Sung [Microfilm also contains police strength report under this number],,,,2,,,https://archive.org/details/smpa-files-2229,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2229,,auto: IO register number on page 1,,MIL MIL.chinese REP REP.revolutionaries VIO VIO.bombing
 IO,99,63,270,Tsu Jui,Apr 1916,1916,2,2,,Property Ownership Issue,https://archive.org/details/smpa-files-2368,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2368,,wiki,,REP REP.revolutionaries REP.warlords
 IO,99,63,271,Zung Tsoong Hsien,Apr 1916,1916,2,2,,Zung Tsoong Hsien was a rebel arrested in Chapei,https://archive.org/details/smpa-files-2461,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2461,,wiki,,LIA LIA.french MIL MIL.chinese REP REP.revolutionaries REP.warlords
-IO,99,63,272,Wong Ih Eon,,,,,,,,,,,,,,
+IO,99,63,272,Wong Ih Eon,,,,1,,,https://archive.org/details/smpa-files-2388,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2388,,auto: IO name match + register number,,REP REP.funding REP.revolutionaries
 IO,99,63,277,Yang Sing Ling,Apr 1916,1916,1,1,,the troops has despatched to Wusieh,https://archive.org/details/smpa-files-2414,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2414,,wiki,,MIL MIL.chinese REP REP.revolutionaries REP.warlords
-IO,99,63,278,Nyeu Tih Sung,,,,,,,,,,,,,,
-IO,99,63,282,Ying Sz,,,,,,,,,,,,,,
-IO,99,63,283,Nyeu Tih Sung,,,,,,,,,,,,,,
+IO,99,63,278,Nyeu Tih Sung,,,,2,,,https://archive.org/details/smpa-files-2226,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2226,,auto: IO register number on page 0,,REP REP.revolutionaries REP.warlords
+IO,99,63,282,Ying Sz,,,,6,,,https://archive.org/details/smpa-files-2419,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2419,,auto: IO name match,,JPN JPN.ronin REP REP.funding REP.revolutionaries
+IO,99,63,283,Nyeu Tih Sung,,,,1,,,https://archive.org/details/smpa-files-2227,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2227,,auto: IO register number on page 0,,MIL MIL.chinese REP REP.revolutionaries
 IO,99,63,284,Woo Fung Ling,Apr 1916,1916,2,2,,,https://archive.org/details/smpa-files-2404,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2404,,wiki,,REP REP.revolutionaries REP.warlords
-IO,99,63,287,George R. Arthur,,,,,,,,,,,,,,
+IO,99,63,287,George R. Arthur,,,,11,,,https://archive.org/details/smpa-files-2090,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2090,,auto: IO name match,,FOR FOR.british FOR.consular MIG MIG.movements REP REP.revolutionaries
 IO,99,63,292,Naung Tsung Zung,29th Apr 1916,1916,1,1,,Naung Tsung Zung was a rebel who was arrested,https://archive.org/details/smpa-files-2214,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2214,,wiki,,LAB LAB.strikes REP REP.revolutionaries REP.warlords
 IO,99,63,293,Ching Yang,Apr 1916,1916,1,1,,Recorded the fighting took place in the vicinity of Wesieh,https://archive.org/details/smpa-files-2007,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2007,,wiki,,REP REP.revolutionaries REP.warlords
-IO,99,63,294,Ho Kya Loh,,,,,,,,,,,,,,
+IO,99,63,294,Ho Kya Loh,,,,2,,,https://archive.org/details/smpa-files-2108,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2108,,auto: IO name match,,MIL MIL.chinese REP REP.revolutionaries REP.warlords
 IO,99,63,295,Zung Tsung,,,,,,,,,,,,,,
 IO,99,63,301,A. Ettinger,May 1916,1916,5,5,,,https://archive.org/details/smpa-files-1953,,,https://ray-bot-ai.github.io/smp-files/file.html?id=1953,,wiki,,CRI CRI.fraud ESP ESP.german FOR FOR.ww1
 IO,99,63,302,"Population of French Concession, 1895",,1895,,,,,,,,,,,,
 IO,99,63,303,Doo Su Koong Su,1st May 1916,1916,1,1,,,https://archive.org/details/smpa-files-2049,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2049,,wiki,,MIL MIL.chinese REP REP.warlords
-IO,99,63,306,Four Japanese - revolvers,,,,,,,,,,,,,,
+IO,99,63,306,Four Japanese - revolvers,,,,1,,,https://archive.org/details/smpa-files-2075,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2075,,auto: IO name match,,CRI CRI.arms JPN JPN.ronin REP REP.revolutionaries
 IO,99,63,311,Chu Tsung Eu,4th May 1916,1916,1,1,,,https://archive.org/details/smpa-files-2015,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2015,,wiki,,MIL MIL.chinese REP REP.revolutionaries VIO VIO.assassination
 IO,99,63,313,K. Hatakeyama,May 1916,1916,1,1,,a Cantonese dressed in foreign clothes was arrested at 10am,https://archive.org/details/smpa-files-2127,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2127,,wiki,,JPN JPN.consular JPN.ronin MIG MIG.deportation REP REP.revolutionaries
 IO,99,63,314,Alleged dealing in firearms,1916,1916,3,,,"""Kindler case"", little evidence found. Accussation made by D. C. Schmidt against M. Kindler, dentist.",,https://archive.org/details/smpa-63/page/n455/mode/2up,,,,,,
-IO,99,63,315,Tsang Tsi San,,,,,,,,,,,,,,
+IO,99,63,315,Tsang Tsi San,,,,1,,,https://archive.org/details/smpa-files-2356,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2356,,auto: IO name match,,MIL MIL.subversion REP REP.revolutionaries
 IO,99,63,316,Si Si Pao,May 1916,1916,2,2,,the local yamen received the revolutionary codes to be used in the communication,https://archive.org/details/smpa-files-2271,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2271,,wiki,,PRS PRS.chinese REP REP.revolutionaries
 IO,99,63,317,Bah Sz En,May 1916,1916,2,2,,Bah Sz En 白士安 was a rebel leader paid his followers to attack Chapet,https://archive.org/details/smpa-files-1977,,,https://ray-bot-ai.github.io/smp-files/file.html?id=1977,,wiki,,JPN JPN.ronin REP REP.funding REP.revolutionaries
-IO,99,63,318,Chang Hsun,,,,,,,,,,,,,,
-IO,99,63,319,Choeh Yung Kwaung,,,,,,,,,,,,,,
+IO,99,63,318,Chang Hsun,,,,1,,,https://archive.org/details/smpa-files-1987,,,https://ray-bot-ai.github.io/smp-files/file.html?id=1987,,auto: IO register number on page 0,,REP REP.funding REP.revolutionaries REP.warlords VIC VIC.narcotics
+IO,99,63,319,Choeh Yung Kwaung,,,,1,,,https://archive.org/details/smpa-files-2011,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2011,,auto: IO name match,,REP REP.revolutionaries REP.warlords
 IO,99,63,320,Sun Yat-Sen,,,,,,,,,,,,,,
 IO,99,63,322,Sun Yat-Sen,,,,,,,,,,,,,,
-IO,99,63,326,Sun Yat-Sen,,,,,,,,,,,,,,
+IO,99,63,326,Sun Yat-Sen,,,,1,,,https://archive.org/details/smpa-files-2289,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2289,,auto: IO register number on page 0,,MIL MIL.chinese PUB PUB.meetings REP REP.revolutionaries REP.warlords
 IO,99,63,328,Zau Li Wong,May 1916,1916,1,1,,A pro-rebel newspaper planed to publish in Shanghai,https://archive.org/details/smpa-files-2438,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2438,,wiki,,PRS PRS.chinese REP REP.revolutionaries REP.warlords
-IO,99,63,331,Chu Tsung,,,,,,,,,,,,,,
+IO,99,63,331,Chu Tsung,,,,1,,,https://archive.org/details/smpa-files-2014,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2014,,auto: IO register number on page 0,,CRI CRI.theft REP REP.revolutionaries REP.warlords
 IO,99,63,332,Tsung Siao Woo Ts,16th May 916,,1,1,,,https://archive.org/details/smpa-files-2375,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2375,,wiki,,MIL MIL.chinese REP REP.revolutionaries REP.warlords
 IO,99,63,334,Tong Shao Yi,1916,1916,3,3,,,https://archive.org/details/smpa-files-2334,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2334,,wiki,,PUB PUB.meetings REP REP.revolutionaries REP.warlords
 IO,99,63,336,Tsang Yung Woo,1916,1916,9,9,,,https://archive.org/details/smpa-files-2359,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2359,,wiki,,LIA LIA.french REP REP.revolutionaries VIO VIO.assassination
 IO,99,63,337,Tsu Cha Zung,May 1916,1916,1,1,,containing a list of rebel's leaders,https://archive.org/details/smpa-files-2366,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2366,,wiki,,REP REP.revolutionaries REP.warlords
 IO,99,63,338,Sing Ming Lee,20th May 1916,1916,1,1,,the fightings between rebels from different group,https://archive.org/details/smpa-files-2277,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2277,,wiki,,REP REP.revolutionaries VIO VIO.assassination
-IO,99,63,340,Pih Ding,,,,,,,,,,,,,,
-IO,99,63,341,Tsa Dien [On microfilm this number is also used for placing of detectives on board incoming ships.],,,,,,,,https://archive.org/details/smpa-63/page/n431/mode/2up,,,,,,
+IO,99,63,340,Pih Ding,,,,1,,,https://archive.org/details/smpa-files-2246,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2246,,auto: IO register number on page 0,,REP REP.revolutionaries VIO VIO.assassination
+IO,99,63,341,Tsa Dien [On microfilm this number is also used for placing of detectives on board incoming ships.],,,,1,,,https://archive.org/details/smpa-files-2346,https://archive.org/details/smpa-63/page/n431/mode/2up,,https://ray-bot-ai.github.io/smp-files/file.html?id=2346,,auto: IO register number on page 0,,CRI CRI.arms JPN JPN.ronin REP REP.revolutionaries
 IO,99,63,343,Tsu Sau Ching,May 1916,1916,1,1,,,https://archive.org/details/smpa-files-2371,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2371,,wiki,,REP REP.revolutionaries REP.warlords
-IO,99,63,344,K. J. McEuen,,,,,,,,,,,,,,
+IO,99,63,344,K. J. McEuen,,,,32,,,https://archive.org/details/smpa-files-2128,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2128,,auto: IO name match + register number,,CRI CRI.arms ESP ESP.german FOR FOR.ww1
 IO,99,63,348,Chen Chi Mei,May 1916,1916,2,2,,a order about killing all government agents by rebels was reported to the police,https://archive.org/details/smpa-files-1947,,,https://ray-bot-ai.github.io/smp-files/file.html?id=1947,,wiki,,REP REP.revolutionaries REP.warlords VIO VIO.assassination
 IO,99,63,349,Chékiang,May 1916,1916,1,1,,Arms and Ammunition-related issues,https://archive.org/details/smpa-files-1991,,,https://ray-bot-ai.github.io/smp-files/file.html?id=1991,,wiki,,CRI CRI.arms
 IO,99,63,353,Lieu Sau Tsche,May 1916,1916,1,1,,Lieu Sau Tsche was an ox-Hupoh Taotai who organised a rebel in the Frenchtown in Shanghai,https://archive.org/details/smpa-files-2161,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2161,,wiki,,CRI CRI.arms REP REP.revolutionaries
@@ -3008,147 +3008,147 @@ IO,99,63,356,Sung Cheng Yen,27th May 1916,1916,3,3,,Two newspaper venders were a
 IO,99,63,358,Tsang Loo Zung,May 1916,1916,2,2,,,https://archive.org/details/smpa-files-2353,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2353,,wiki,,PUB PUB.meetings REP
 IO,99,63,359,Yu Ya Ching,,,,,,,,,,,,,,
 IO,100,63,360,Daung Bah,1916-1917,1916,7,7,,,https://archive.org/details/smpa-files-2033,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2033,,wiki,,LAW LAW.jurisdiction REP REP.revolutionaries VIO VIO.abduction
-IO,100,63,361,Tsang Chi Tsoong,,,,,,,,,,,,,,
+IO,100,63,361,Tsang Chi Tsoong,,,,3,,,https://archive.org/details/smpa-files-2351,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2351,,auto: IO name match,,MIL MIL.chinese REP REP.revolutionaries REP.warlords
 IO,100,63,362,Tsu Tuh Eu,31st May 1916,1916,1,1,,,https://archive.org/details/smpa-files-2372,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2372,,wiki,,REP REP.revolutionaries REP.warlords
-IO,100,63,365,Li Ying Zah,,,,,,,,,,,,,,
+IO,100,63,365,Li Ying Zah,,,,1,,,https://archive.org/details/smpa-files-2151,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2151,,auto: IO name match,,REP REP.funding REP.revolutionaries REP.warlords
 IO,100,63,366,Chu Tsung,,,,,,,,,,,,,,
-IO,100,63,369,Woo Cha Loh,,,,,,,,,,,,,,
+IO,100,63,369,Woo Cha Loh,,,,1,,,https://archive.org/details/smpa-files-2400,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2400,,auto: IO name match,,MIL MIL.chinese REP REP.funding REP.revolutionaries
 IO,100,63,372,Zee Li Hyuin,Jun 1916,1916,1,1,,Zee Li Hyuin was a military officer arrived in Shanghai,https://archive.org/details/smpa-files-2452,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2452,,wiki,,REP REP.revolutionaries REP.warlords
 IO,100,63,376,Ming Ko Pao,6th Jun 1916,1916,1,1,,,https://archive.org/details/smpa-files-2199,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2199,,wiki,,PRS PRS.chinese REP REP.revolutionaries
 IO,100,63,380,General Yang - Sun Yat-Sen,7th Jun 1916,1916,1,1,,,https://archive.org/details/smpa-files-2085,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2085,,wiki,,REP REP.funding REP.revolutionaries REP.warlords VIO VIO.assassination
-IO,100,63,384,Kuo Ming Tang,,,,,,,,,,,,,,
-IO,100,63,385,Li Yuen Hung,,,,,,,,,,,,,,
-IO,100,63,387,Wo Ching Ming,,,,,,,,,,,,,,
+IO,100,63,384,Kuo Ming Tang,,,,1,,,https://archive.org/details/smpa-files-2137,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2137,,auto: IO name match,,PRS PRS.chinese REP REP.revolutionaries
+IO,100,63,385,Li Yuen Hung,,,,1,,,https://archive.org/details/smpa-files-2154,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2154,,auto: IO register number on page 0,,REP REP.revolutionaries REP.warlords
+IO,100,63,387,Wo Ching Ming,,,,4,,,https://archive.org/details/smpa-files-2387,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2387,,auto: IO name match,,CRI CRI.missing LAW LAW.courts REP REP.revolutionaries
 IO,100,63,388,Li Tsung Woo,,,,,,,,,,,,,,
-IO,100,63,389,Chang Chi,,,,,,,,,,,,,,
-IO,100,63,390,Zee Koh Liang,,,,,,,,,,,,,,
-IO,100,63,391,Chou Ching Tsan,,,,,,,,,,,,,,
+IO,100,63,389,Chang Chi,,,,2,,,https://archive.org/details/smpa-files-1986 https://archive.org/details/smpa-files-2427,,,https://ray-bot-ai.github.io/smp-files/file.html?id=1986 https://ray-bot-ai.github.io/smp-files/file.html?id=2427,,auto: IO name match,,MIL MIL.chinese PUB PUB.meetings REP REP.revolutionaries
+IO,100,63,390,Zee Koh Liang,,,,1,,,https://archive.org/details/smpa-files-2447,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2447,,auto: IO register number on page 0,,CRI CRI.arms REP REP.revolutionaries REP.warlords
+IO,100,63,391,Chou Ching Tsan,,,,2,,,https://archive.org/details/smpa-files-2012,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2012,,auto: IO name match,,REP REP.revolutionaries VIO VIO.assassination
 IO,100,63,392,Yung Doo,Jun 1916,1916,1,1,,,https://archive.org/details/smpa-files-2432,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2432,,wiki,,REP REP.monarchists REP.warlords
 IO,100,63,393,Sun Yat-Sen,,,,,,,,,,,,,,
-IO,100,63,394,Sun Yat-Sen,,,,,,,,,,,,,,
-IO,100,63,396,Nyeu Tih Sung,,,,,,,,,,,,,,
+IO,100,63,394,Sun Yat-Sen,,,,1,,,https://archive.org/details/smpa-files-2287,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2287,,auto: IO register number on page 0,,PUB PUB.meetings REP REP.revolutionaries
+IO,100,63,396,Nyeu Tih Sung,,,,1,,,https://archive.org/details/smpa-files-2224,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2224,,auto: IO register number on page 0,,PRS PRS.censorship PUB PUB.meetings REP REP.revolutionaries
 IO,100,63,397,Feng Kou Chang,,,,,,,,,,,,,,
 IO,100,63,398,Hwang Hsin,19th Jul 1916,1916,1,1,,,https://archive.org/details/smpa-files-2116,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2116,,wiki,,REP REP.monarchists REP.revolutionaries
 IO,100,63,399,Han Hwei,,,,,,,,,,,,,,
 IO,100,63,401,Daung Zen Tsang,1916,1916,1,1,,,https://archive.org/details/smpa-files-2038,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2038,,wiki,,CRI CRI.fraud CRI.missing
 IO,100,63,405,Doong Ts Wen,23rd Jun 1916,1916,1,1,,Doong Ts Wen was a society built by militarists who aimed at protecting their social interests.,https://archive.org/details/smpa-files-2051,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2051,,wiki,,MIL MIL.chinese REP REP.warlords
-IO,100,63,406,Li Yuen Hung,,,,,,,,,,,,,,
-IO,100,63,407,Tsung Woo Sz Zen Wei,,,,,,,,,,,,,,
+IO,100,63,406,Li Yuen Hung,,,,1,,,https://archive.org/details/smpa-files-2153,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2153,,auto: IO register number on page 0,,PUB PUB.meetings REP
+IO,100,63,407,Tsung Woo Sz Zen Wei,,,,1,,,https://archive.org/details/smpa-files-2377,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2377,,auto: IO name match,,PUB PUB.meetings REP REP.revolutionaries
 IO,100,63,408,Doong Ts Wei,24th Jun 1916,1916,1,1,,Doong Ts Wei was on terms with monarchical party in Shanghai,https://archive.org/details/smpa-files-2050,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2050,,wiki,,REP REP.revolutionaries REP.warlords
-IO,100,63,409,Feng Kuo Chang,,,,,,,,,,,,,,
+IO,100,63,409,Feng Kuo Chang,,,,1,,,https://archive.org/details/smpa-files-2067,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2067,,auto: IO name match,,REP REP.revolutionaries REP.warlords
 IO,100,63,411,Joseph Issac,1915,1915,52,52,,,https://archive.org/details/smpa-files-2125,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2125,,wiki,,ESP ESP.german FOR FOR.consular FOR.german FOR.ww1
 IO,100,63,414,Li Yuen Hung,,,,,,,,,,,,,,
-IO,100,63,415,Liu Kwe Yung,,,,,,,,,,,,,,
-IO,100,63,416,Lee Ting Sun,,,,,,,,,,,,,,
+IO,100,63,415,Liu Kwe Yung,,,,1,,,https://archive.org/details/smpa-files-2169,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2169,,auto: IO name match,,MIL MIL.chinese REP REP.revolutionaries REP.warlords
+IO,100,63,416,Lee Ting Sun,,,,2,,,https://archive.org/details/smpa-files-2140,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2140,,auto: IO name match,,MIL MIL.chinese REP REP.revolutionaries REP.warlords
 IO,100,63,420,Ting Ching Li,Jun 1916,1916,1,1,,"A bomb explosion occurred at No. 30 Ting Ching Li alleyway on 29th June, one man was killed and three men were wounded, they were all rebels; a rumour said the General Yang was murdered, but it was not ture",https://archive.org/details/smpa-files-2333,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2333,,wiki,,REP REP.revolutionaries REP.warlords VIO VIO.bombing
-IO,100,63,423,Admiral Sah,,,,,,,,,,,,,,
-IO,100,63,426,A. Nielsen,,,,,,,,,,,,,,
+IO,100,63,423,Admiral Sah,,,,1,,,https://archive.org/details/smpa-files-1946,,,https://ray-bot-ai.github.io/smp-files/file.html?id=1946,,auto: IO register number on page 0,,MIL MIL.chinese REP REP.warlords
+IO,100,63,426,A. Nielsen,,,,3,,,https://archive.org/details/smpa-files-1955,,,https://ray-bot-ai.github.io/smp-files/file.html?id=1955,,auto: IO name match,,FOR FOR.anticolonial LIA LIA.french PRS PRS.leaflets
 IO,100,63,428,Tong Ting Kwong,1916,1916,4,4,,the list of the military officers' name,https://archive.org/details/smpa-files-2335,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2335,,wiki,,MIL MIL.chinese REP REP.revolutionaries
 IO,100,63,429,Zung Zung Zen,Jul 1916,1916,1,1,,the members of Kuomingtang held a meeting to decide to form a new society called Zung Zung Zen,https://archive.org/details/smpa-files-2466,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2466,,wiki,,REP REP.revolutionaries REP.warlords
-IO,100,63,431,Admiral Sah,,,,,,,,,,,,,,
+IO,100,63,431,Admiral Sah,,,,1,,,https://archive.org/details/smpa-files-1957,,,https://ray-bot-ai.github.io/smp-files/file.html?id=1957,,auto: IO register number on page 0,,REP REP.revolutionaries REP.warlords VIO VIO.bombing
 IO,100,63,432,"""Kiang Yui""",Jul 1916,1916,1,1,,"""Kiang Yui"" was a small gun boat. The police reported the appearance of this boat in Shanghai",https://archive.org/details/smpa-files-2131,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2131,,wiki,,MIL MIL.chinese
-IO,100,63,434,Huang Hsing,,,,,,,,,,,,,,
+IO,100,63,434,Huang Hsing,,,,1,,,https://archive.org/details/smpa-files-2111,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2111,,auto: IO register number on page 0,,REP REP.revolutionaries
 IO,100,63,437,Loo Yung Ziang,Jul 1916,1916,1,1,,multiple information about political situation in Shanghai,https://archive.org/details/smpa-files-2179,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2179,,wiki,,REP REP.revolutionaries REP.warlords
 IO,100,63,443,Tsou Ching Tsung,11th Jul 1916,1916,1,1,,,https://archive.org/details/smpa-files-2365,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2365,,wiki,,REP REP.revolutionaries
 IO,100,63,445,Han Chow,Jul 1916,1916,1,1,,,https://archive.org/details/smpa-files-2094,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2094,,wiki,,CRI CRI.arms MIL MIL.chinese REP REP.revolutionaries REP.warlords
 IO,100,63,446,Sz Kyung Yuin,13th Jul 1916,1916,1,1,,Sz Kyung Yuin was a high official and was about to arrive in Shanghai soon,https://archive.org/details/smpa-files-2298,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2298,,wiki,,REP REP.revolutionaries REP.warlords
-IO,100,63,447,Wong Tsung Ding,,,,,,,,,,,,,,
-IO,100,63,448,Wu Pah Ching,,,,,,,,,,,,,,
-IO,100,63,449,Li Ping Shu,,,,,,,,,,,,,,
-IO,100,63,452,Sun Yat-Sen,,,,,,,,,,,,,,
-IO,100,63,456,Wong Tsung Ding [On microfilm this number is also used for notice from Consul General for Portugal.],,,,,,,,https://archive.org/details/smpa-63/page/n433/mode/2up,,,,,,
-IO,100,63,463,Zee Koh Liang,,,,,,,,,,,,,,
-IO,100,63,465,Yuan Shih Kai,,,,,,,,,,,,,,
+IO,100,63,447,Wong Tsung Ding,,,,1,,,https://archive.org/details/smpa-files-2396,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2396,,auto: IO register number on page 0,,PUB PUB.meetings REP REP.revolutionaries
+IO,100,63,448,Wu Pah Ching,,,,3,,,https://archive.org/details/smpa-files-2410,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2410,,auto: IO name match,,REP REP.funding VIO VIO.threats
+IO,100,63,449,Li Ping Shu,,,,1,,,https://archive.org/details/smpa-files-2143,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2143,,auto: IO name match + register number,,PUB PUB.meetings REP REP.revolutionaries REP.warlords
+IO,100,63,452,Sun Yat-Sen,,,,1,,,https://archive.org/details/smpa-files-2288,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2288,,auto: IO register number on page 0,,PUB PUB.meetings REP REP.revolutionaries
+IO,100,63,456,Wong Tsung Ding [On microfilm this number is also used for notice from Consul General for Portugal.],,,,1,,,https://archive.org/details/smpa-files-2397,https://archive.org/details/smpa-63/page/n433/mode/2up,,https://ray-bot-ai.github.io/smp-files/file.html?id=2397,,auto: IO register number on page 0,,PUB PUB.meetings REP REP.revolutionaries
+IO,100,63,463,Zee Koh Liang,,,,1,,,https://archive.org/details/smpa-files-2446,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2446,,auto: IO register number on page 0,,REP REP.revolutionaries
+IO,100,63,465,Yuan Shih Kai,,,,1,,,https://archive.org/details/smpa-files-2429,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2429,,auto: IO register number on page 0,,REP REP.revolutionaries VIO VIO.assassination
 IO,100,63,466,Li Ting Sing,21st Jul 1916,1916,1,1,,,https://archive.org/details/smpa-files-2145,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2145,,wiki,,MIL MIL.chinese REP REP.revolutionaries
 IO,100,63,469,Yih Ping Shang,Jul 1916,1916,1,1,,"mostly unreadable, Yih Ping Shang was a hotel",https://archive.org/details/smpa-files-2418,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2418,,wiki,,MIL MIL.chinese REP REP.revolutionaries REP.warlords
-IO,100,63,470,Pah Vung Wei,,,,,,,,,,,,,,
-IO,100,63,481,Zee Koh Liang,,,,,,,,,,,,,,
+IO,100,63,470,Pah Vung Wei,,,,2,,,https://archive.org/details/smpa-files-2239,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2239,,auto: IO register number on page 0,,PUB PUB.meetings REP REP.revolutionaries REP.warlords
+IO,100,63,481,Zee Koh Liang,,,,1,,,https://archive.org/details/smpa-files-2445,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2445,,auto: IO register number on page 0,,MIL MIL.chinese REP REP.warlords
 IO,100,63,483,Han Yoong,Jul 1918,1918,1,1,,,https://archive.org/details/smpa-files-2106,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2106,,wiki,,MIL MIL.chinese REP REP.revolutionaries
-IO,100,63,484,Chung Li Pah,,,,,,,,,,,,,,
+IO,100,63,484,Chung Li Pah,,,,1,,,https://archive.org/details/smpa-files-2016,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2016,,auto: IO name match,,PUB PUB.meetings REP REP.revolutionaries
 IO,100,63,487,Mr. Ma Chun Wu,Jul 1916,1916,1,1,,blurred charaters,https://archive.org/details/smpa-files-2208,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2208,,wiki,,REP REP.revolutionaries REP.warlords
-IO,100,63,488,Zee Koh Liang,,,,,,,,,,,,,,
+IO,100,63,488,Zee Koh Liang,,,,1,,,https://archive.org/details/smpa-files-2444,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2444,,auto: IO register number on page 0,,MIL MIL.chinese MUN MUN.greater
 IO,100,63,490,Zee Koh Liang,,,,,,,,,,,,,,
 IO,100,63,491,Arnold Karberg & Co.,2nd Aug 1916,1916,1,1,,,https://archive.org/details/smpa-files-1963,,,https://ray-bot-ai.github.io/smp-files/file.html?id=1963,,wiki,,CRI CRI.arms ECO ECO.trade FOR FOR.ww1
 IO,100,63,493,Yao Ts' Zang,Aug 1916,1916,1,1,,,https://archive.org/details/smpa-files-2417,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2417,,wiki,,REP REP.revolutionaries REP.warlords
 IO,100,63,494,"""Taung""",Aug 1916,1916,1,1,,,https://archive.org/details/smpa-files-2305,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2305,,wiki,,CRI CRI.homicide
-IO,100,63,496,Sun Yat-Sen,,,,,,,,,,,,,,
-IO,100,63,499,Feng Kou Chang,,,,,,,,,,,,,,
-IO,100,63,502,Zau Woo Kyung,,,,,,,,,,,,,,
+IO,100,63,496,Sun Yat-Sen,,,,1,,,https://archive.org/details/smpa-files-2286,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2286,,auto: IO register number on page 0,,REP REP.funding REP.revolutionaries
+IO,100,63,499,Feng Kou Chang,,,,1,,,https://archive.org/details/smpa-files-2065,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2065,,auto: IO register number on page 0,,REP REP.revolutionaries REP.warlords
+IO,100,63,502,Zau Woo Kyung,,,,3,,,https://archive.org/details/smpa-files-2441,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2441,,auto: IO register number on page 2,,MIL MIL.chinese REP REP.revolutionaries REP.warlords VIO VIO.bombing
 IO,100,63,503,Max Kindler,Jul-Sep 1916,1916,38,38,,,https://archive.org/details/smpa-files-2188,https://archive.org/details/smpa-63/page/n437/mode/2up https://archive.org/details/smpa-63/page/n461/mode/2up,,https://ray-bot-ai.github.io/smp-files/file.html?id=2188,,wiki,,CRI CRI.arms CRI.fraud FOR FOR.german LIA LIA.foreignpolice
 IO,100,63,504,Lo Pau Hung,8th Aug 1916,1916,2,2,,unreadable content,https://archive.org/details/smpa-files-2172,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2172,,wiki,,REP REP.funding REP.revolutionaries REP.warlords
-IO,100,63,507,Zhi Nyi Soo,,,,,,,,,,,,,,
-IO,100,63,513,Hyui Li Nyien,,,,,,,,,,,,,,
+IO,100,63,507,Zhi Nyi Soo,,,,2,,,https://archive.org/details/smpa-files-2456 https://archive.org/details/smpa-files-2457,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2456 https://ray-bot-ai.github.io/smp-files/file.html?id=2457,,auto: IO register number on page 0,,CRI CRI.homicide HEA HEA.deaths REP REP.revolutionaries
+IO,100,63,513,Hyui Li Nyien,,,,2,,,https://archive.org/details/smpa-files-2117,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2117,,auto: IO register number on page 0,,PUB PUB.meetings REP REP.funding REP.revolutionaries
 IO,100,63,514,Lieu Jieu,,,,,,,,,,,,,,
 IO,100,63,515,Lu Yoong Ziang,,,,,,,,,,,,,,
-IO,100,63,516,Ho Hai Ming,,,,,,,,,,,,,,
+IO,100,63,516,Ho Hai Ming,,,,1,,,https://archive.org/details/smpa-files-2107,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2107,,auto: IO name match + register number,,PUB PUB.meetings REP REP.revolutionaries
 IO,100,63,517,General Yang - Admiral Sah Chen Ping,Aug 1916,1916,2,2,,mostly unreadable,https://archive.org/details/smpa-files-2084,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2084,,wiki,,MIL MIL.chinese REP REP.warlords
-IO,100,63,518,J. B. A. Grote,,,,,,,,,,,,,,
+IO,100,63,518,J. B. A. Grote,,,,2,,,https://archive.org/details/smpa-files-2122,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2122,,auto: IO name match,,CRI CRI.arms FOR FOR.german
 IO,100,63,519,Pah Jien Yoh Tzen Wen,Aug 1916,1916,2,2,,,https://archive.org/details/smpa-files-2236,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2236,,wiki,,MIL MIL.chinese REP REP.revolutionaries VIO VIO.bombing
 IO,100,63,520,Ching Yeu Li,,,,,,,,,,,,,,
-IO,100,63,521,The Truth of Fokien,,,,,,,,,,,,,,
+IO,100,63,521,The Truth of Fokien,,,,1,,,https://archive.org/details/smpa-files-2328,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2328,,auto: IO register number on page 0,,MIL MIL.chinese REP REP.revolutionaries REP.warlords
 IO,100,63,525,Nyeu Tih Sung,,,,,,,,,,,,,,
 IO,100,63,530,Koh Ming Zeu Eu Wen,Aug 1916,1916,1,1,,,https://archive.org/details/smpa-files-2134,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2134,,wiki,,REP REP.revolutionaries
-IO,100,63,532,Han Hwe,,,,,,,,,,,,,,
+IO,100,63,532,Han Hwe,,,,1,,,https://archive.org/details/smpa-files-2101,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2101,,auto: IO register number on page 0,,PUB PUB.meetings REP REP.revolutionaries
 IO,100,63,533,Han Hwe,,,,,,,,,,,,,,
-IO,100,63,544,Sale of pistols by Ettinger,,,,,,,,,,,,,,
-IO,100,63,550,Yu Yah Ching,,,,,,,,,,,,,,
+IO,100,63,544,Sale of pistols by Ettinger,,,,6,,,https://archive.org/details/smpa-files-2262,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2262,,auto: IO name match,,CRI CRI.arms PRS PRS.leaflets
+IO,100,63,550,Yu Yah Ching,,,,1,,,https://archive.org/details/smpa-files-2428,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2428,,auto: IO name match,,REP REP.revolutionaries
 IO,100,63,557,Koh Ming Tong Society,Aug 1916,1916,3,3,,,https://archive.org/details/smpa-files-2133,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2133,,wiki,,REP REP.revolutionaries SOC SOC.associations
-IO,100,63,558,Lieu Yah Sing,,,,,,,,,,,,,,
-IO,100,63,561,Zee Kyi Vung,,,,,,,,,,,,,,
-IO,100,63,562,Li Tsung Woo,,,,,,,,,,,,,,
-IO,100,63,563,Han Hwe,,,,,,,,,,,,,,
-IO,100,63,566,Han Hwe,,,,,,,,,,,,,,
-IO,100,63,567,Chang Sz Yung,,,,,,,,,,,,,,
-IO,100,63,568,Tsai Da Pei,,,,,,,,,,,,,,
-IO,100,63,569,Han Hwe,,,,,,,,,,,,,,
-IO,100,63,570,Tang Shao Yi,,,,,,,,,,,,,,
+IO,100,63,558,Lieu Yah Sing,,,,1,,,https://archive.org/details/smpa-files-2162,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2162,,auto: IO name match,,REP REP.revolutionaries REP.warlords
+IO,100,63,561,Zee Kyi Vung,,,,1,,,https://archive.org/details/smpa-files-2451,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2451,,auto: IO name match,,LAB LAB.strikes PUB PUB.meetings REP REP.revolutionaries
+IO,100,63,562,Li Tsung Woo,,,,1,,,https://archive.org/details/smpa-files-2148,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2148,,auto: IO register number on page 0,,MIL MIL.chinese REP REP.revolutionaries
+IO,100,63,563,Han Hwe,,,,1,,,https://archive.org/details/smpa-files-2098,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2098,,auto: IO register number on page 0,,REP REP.revolutionaries REP.warlords
+IO,100,63,566,Han Hwe,,,,1,,,https://archive.org/details/smpa-files-2099,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2099,,auto: IO register number on page 0,,REP REP.funding REP.monarchists REP.revolutionaries
+IO,100,63,567,Chang Sz Yung,,,,1,,,https://archive.org/details/smpa-files-1990,,,https://ray-bot-ai.github.io/smp-files/file.html?id=1990,,auto: IO name match + register number,,LAB LAB.strikes LAB.unions REP REP.revolutionaries REP.warlords
+IO,100,63,568,Tsai Da Pei,,,,1,,,https://archive.org/details/smpa-files-2348,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2348,,auto: IO name match,,MIL MIL.chinese REP REP.revolutionaries
+IO,100,63,569,Han Hwe,,,,2,,,https://archive.org/details/smpa-files-2079 https://archive.org/details/smpa-files-2095,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2079 https://ray-bot-ai.github.io/smp-files/file.html?id=2095,,auto: IO register number on page 0,,CRI CRI.homicide FOR FOR.ww1 REP REP.revolutionaries REP.warlords
+IO,100,63,570,Tang Shao Yi,,,,4,,,https://archive.org/details/smpa-files-2301,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2301,,auto: IO register number on page 2,,REP REP.revolutionaries REP.warlords
 IO,100,63,571,Daung Yao Ching,1916,1916,2,2,,Daung Yao Ching was a doctor in Shanghai who went to Peking to get a position in the government,https://archive.org/details/smpa-files-2037,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2037,,wiki,,HEA HEA.deaths PUB PUB.meetings REP REP.revolutionaries
 IO,100,63,572,Tang Shaw Yi,14th Sep 1916,1916,1,1,,,https://archive.org/details/smpa-files-2304,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2304,,wiki,,REP REP.revolutionaries
-IO,100,63,578,An auction of the property of the deceased,,,,,,,,,,,,,,
+IO,100,63,578,An auction of the property of the deceased,,,,1,,,https://archive.org/details/smpa-files-1959,,,https://ray-bot-ai.github.io/smp-files/file.html?id=1959,,auto: IO register number on page 0,,CRI CRI.arms REP REP.revolutionaries VIO VIO.bombing
 IO,100,63,580,Van,15th Sep 1916,1916,2,2,,,https://archive.org/details/smpa-files-2382,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2382,,wiki,,PUB PUB.meetings REP
 IO,100,63,581,Tsang Sz Zung,Tsang Sz Zung conducted the Manchu Restoration Party,,1,1,,,https://archive.org/details/smpa-files-2355,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2355,,wiki,,MIL MIL.chinese REP REP.warlords
-IO,100,63,585,Han Hwe,,,,,,,,,,,,,"M1:80,3",
-IO,100,63,586,Han Hwe,,,,,,,,,,,,,,
+IO,100,63,585,Han Hwe,,,,1,,,https://archive.org/details/smpa-files-2097,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2097,,auto: IO register number on page 0,"M1:80,3",LAB LAB.unions REP REP.revolutionaries REP.warlords
+IO,100,63,586,Han Hwe,,,,1,,,https://archive.org/details/smpa-files-2096,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2096,,auto: IO register number on page 0,,MIG MIG.resettlement REP REP.revolutionaries VIO VIO.threats
 IO,100,63,588,Sa Ho,23rd Sep 1916,1916,3,3,,Sa Ho was a rebel,https://archive.org/details/smpa-files-2261,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2261,,wiki,,REP REP.funding REP.revolutionaries VIO VIO.abduction
 IO,100,63,589,Tsang Siau Tien,Sep 1916,1916,4,4,,,https://archive.org/details/smpa-files-2354,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2354,,wiki,,CRI CRI.fraud
-IO,100,63,590,General Lu,,,,,,,,,,,,,,
+IO,100,63,590,General Lu,,,,1,,,https://archive.org/details/smpa-files-2083,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2083,,auto: IO register number on page 0,,REP REP.revolutionaries REP.warlords
 IO,100,63,591,Loo Tuh Kw - Li Tsong Ngoh,22nd Sep 1916,1916,1,1,,"The General Yang received two telegrams from Peking and Nanking respectively, Li Tsong Ngoh, the Director of the Arsenal would be removed from the office.",https://archive.org/details/smpa-files-1945,,,https://ray-bot-ai.github.io/smp-files/file.html?id=1945,,wiki,,CRI CRI.theft REP REP.revolutionaries REP.warlords
 IO,100,63,592,Ming Kou Da Sing Yung Pao,21st Sep 1916,1916,1,1,,General Yang summoned officers to discuss the issue of Manchu Restoration Party,https://archive.org/details/smpa-files-2200,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2200,,wiki,,PRS PRS.chinese REP REP.revolutionaries
 IO,100,63,593,Tieh Liang,20th Sep 1916,1916,1,1,,,https://archive.org/details/smpa-files-2330,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2330,,wiki,,REP REP.monarchists
-IO,100,63,597,Ling Liang Gee,,,,,,,,,,,,,,
+IO,100,63,597,Ling Liang Gee,,,,1,,,https://archive.org/details/smpa-files-2164,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2164,,auto: IO name match + register number,,ANJ ANJ.agitation LAB LAB.conditions SOC SOC.associations
 IO,100,63,598,Tsang Au Tsing,26th Sep 1916,1916,1,1,,,https://archive.org/details/smpa-files-2349,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2349,,wiki,,LAB LAB.strikes MIG MIG.resettlement REP REP.revolutionaries REP.warlords
 IO,100,63,601,Woo Ling Fong,29th Sep 1916,1916,1,1,,,https://archive.org/details/smpa-files-2405,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2405,,wiki,,REP REP.warlords
-IO,100,63,609,Zee Pou Yiang,,,,,,,,,,,,,,
-IO,100,63,610,Woo Au,,,,,,,,,,,,,,
-IO,100,63,611,Lieu Gee,,,,,,,,,,,,,,
-IO,100,63,613,Tsaung Ting Hung,,,,,,,,,,,,,,
-IO,100,63,618,41 Dau Tuh Li,,,,,,,,,,,,,,
-IO,100,63,624,Moh Siang Yao Ettinger,,,,,,,,,,,,,,
+IO,100,63,609,Zee Pou Yiang,,,,1,,,https://archive.org/details/smpa-files-2454,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2454,,auto: IO name match,,REP REP.revolutionaries REP.warlords
+IO,100,63,610,Woo Au,,,,1,,,https://archive.org/details/smpa-files-2399,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2399,,auto: IO name match,,LAB LAB.conditions REP REP.revolutionaries REP.warlords
+IO,100,63,611,Lieu Gee,,,,1,,,https://archive.org/details/smpa-files-2159,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2159,,auto: IO name match,,REP REP.revolutionaries REP.warlords VIO VIO.bombing
+IO,100,63,613,Tsaung Ting Hung,,,,1,,,https://archive.org/details/smpa-files-2360,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2360,,auto: IO name match,,REP REP.revolutionaries SOC SOC.welfare
+IO,100,63,618,41 Dau Tuh Li,,,,1,,,https://archive.org/details/smpa-files-1948,,,https://ray-bot-ai.github.io/smp-files/file.html?id=1948,,auto: IO name match,,LAB LAB.strikes PUB PUB.anniversaries REP REP.funding REP.revolutionaries
+IO,100,63,624,Moh Siang Yao Ettinger,,,,1,,,https://archive.org/details/smpa-files-2203,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2203,,auto: IO register number on page 0,,ECO ECO.property LAB LAB.mills
 IO,100,63,625,Nielsen,,,,,,,,,,,,,,
-IO,100,63,636,General Lu,Oct 1916,1916,,,,,,https://archive.org/details/smpa-63/page/n1109/mode/2up,,,,,,
+IO,100,63,636,General Lu,Oct 1916,1916,,1,,,https://archive.org/details/smpa-files-2082,https://archive.org/details/smpa-63/page/n1109/mode/2up,,https://ray-bot-ai.github.io/smp-files/file.html?id=2082,,auto: IO register number on page 0,,MIL MIL.chinese REP REP.revolutionaries REP.warlords
 IO,100,63,639,Pah Vung Wei,,,,,,,,,,,,,,
-IO,100,63,641,Ling Sz Fong,,,,,,,,,,,,,,
-IO,100,63,642,Tuchun Feng,,,,,,,,,,,,,,
-IO,100,63,644,Tang Shao Yi,,,,,,,,,,,,,,
-IO,100,63,647,Wang Tu Fei,,,,,,,,,,,,,,
-IO,100,63,648,Pah Vung Wei,,,,,,,,,,,,,,
-IO,100,63,650,Yu Ya Ching,,,,,,,,,,,,,,
-IO,100,63,650,"""Chinese Merchants Meeting""",Oct 1916,1916,3,,,,,https://archive.org/details/smpa-63/page/n1121/mode/2up,,,,,,
-IO,100,63,651,Yu Ya Ching,,,,,,,,,,,,,,
-IO,100,63,652,Yu Ya Ching,,,,,,,,,,,,,,
+IO,100,63,641,Ling Sz Fong,,,,1,,,https://archive.org/details/smpa-files-2166,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2166,,auto: IO name match,,MIL MIL.chinese REP REP.revolutionaries REP.warlords
+IO,100,63,642,Tuchun Feng,,,,1,,,https://archive.org/details/smpa-files-2378,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2378,,auto: IO register number on page 0,,LAB LAB.strikes REP REP.revolutionaries REP.warlords
+IO,100,63,644,Tang Shao Yi,,,,1,,,https://archive.org/details/smpa-files-2300,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2300,,auto: IO register number on page 0,,MIL MIL.chinese REP REP.revolutionaries
+IO,100,63,647,Wang Tu Fei,,,,1,,,https://archive.org/details/smpa-files-2384,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2384,,auto: IO register number on page 0,,PUB PUB.demonstrations PUB.meetings REP REP.funding REP.revolutionaries
+IO,100,63,648,Pah Vung Wei,,,,1,,,https://archive.org/details/smpa-files-2237,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2237,,auto: IO register number on page 0,,REP REP.funding REP.revolutionaries
+IO,100,63,650,Yu Ya Ching,,,,3,,,https://archive.org/details/smpa-files-2003 https://archive.org/details/smpa-files-2423,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2003 https://ray-bot-ai.github.io/smp-files/file.html?id=2423,,auto: IO name match,,ECO ECO.firms REP REP.funding REP.revolutionaries
+IO,100,63,650,"""Chinese Merchants Meeting""",Oct 1916,1916,3,3,,,https://archive.org/details/smpa-files-2003 https://archive.org/details/smpa-files-2423,https://archive.org/details/smpa-63/page/n1121/mode/2up,,https://ray-bot-ai.github.io/smp-files/file.html?id=2003 https://ray-bot-ai.github.io/smp-files/file.html?id=2423,,auto: IO name match,,ECO ECO.firms REP REP.funding REP.revolutionaries
+IO,100,63,651,Yu Ya Ching,,,,1,,,https://archive.org/details/smpa-files-2425,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2425,,auto: IO register number on page 0,,REP REP.funding REP.revolutionaries REP.warlords
+IO,100,63,652,Yu Ya Ching,,,,1,,,https://archive.org/details/smpa-files-2424,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2424,,auto: IO register number on page 0,,PUB PUB.meetings REP REP.funding REP.revolutionaries
 IO,100,63,653,Lee Vang Hwe,,,,,,,,,,,,,,
 IO,100,63,654,Waung Pih,,,,,,,,,,,,,,
-IO,100,63,655,385 Sien Tuh Li,,,,,,,,,,,,,,
-IO,100,63,665,Zau Kya Ziang,,,,,,,,,,,,,,
+IO,100,63,655,385 Sien Tuh Li,,,,1,,,https://archive.org/details/smpa-files-1949,,,https://ray-bot-ai.github.io/smp-files/file.html?id=1949,,auto: IO name match,,REP REP.funding REP.revolutionaries
+IO,100,63,665,Zau Kya Ziang,,,,1,,,https://archive.org/details/smpa-files-2434,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2434,,auto: IO register number on page 0,,MIL MIL.chinese REP REP.revolutionaries
 IO,100,63,666,Tientsin Incident,26th Oct 1916,1916,1,1,,the French council General sent the local Chinese press an explanation of Tientsin incident.,https://archive.org/details/smpa-files-2331,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2331,,wiki,,PRS PRS.chinese REP REP.revolutionaries
-IO,100,63,670,Wong Tsang Zau,Feb 1918,1918,8,,,"王_沼 connected to the navy, born Shanghai, educated St John's university, agent to New York Life Insurance until 1905, joined Navy. Teacher to family in Ningbo, went to Hankou opened a stationer's shop. Claimed to be leader of Liberty Party (自由黨)",,https://archive.org/details/smpa-63/page/n1135/mode/2up,,,,,,
+IO,100,63,670,Wong Tsang Zau,Feb 1918,1918,8,8,,"王_沼 connected to the navy, born Shanghai, educated St John's university, agent to New York Life Insurance until 1905, joined Navy. Teacher to family in Ningbo, went to Hankou opened a stationer's shop. Claimed to be leader of Liberty Party (自由黨)",https://archive.org/details/smpa-files-2393,https://archive.org/details/smpa-63/page/n1135/mode/2up,,https://ray-bot-ai.github.io/smp-files/file.html?id=2393,,auto: IO name match + register number,,ESP ESP.informants POL POL.personnel REP REP.revolutionaries
 IO,100,63,671,Loo Vung San,,,,,,,,,,,,,,
 IO,100,63,672,Loo Vung San,,,,,,,,,,,,,,
-IO,100,63,675,Lo Fong Sang,,,,,,,,,,,,,,
-IO,100,63,676,Mr. Yang Ch'Eng,,,,,,,,,,,,,,
+IO,100,63,675,Lo Fong Sang,,,,3,,,https://archive.org/details/smpa-files-2171,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2171,,auto: IO name match,,REP REP.revolutionaries SOC SOC.welfare
+IO,100,63,676,Mr. Yang Ch'Eng,,,,2,,,https://archive.org/details/smpa-files-2211,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2211,,auto: IO register number on page 0,,FOR FOR.consular FOR.ww1 LAB LAB.conditions MIG MIG.resettlement
 IO,100,63,679,Yang Sin Teh,Apr 1916,1916,1,1,,"Chinese and Japanese's issue about housing, a request to arrest the Japanese involved",https://archive.org/details/smpa-files-2413,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2413,,wiki,,CRI CRI.fraud LAW LAW.courts LIA LIA.chinese
 IO,100,63,681,General Hwang Hsing,Oct 1916,1916,2,2,,the information of rebels around China (locations and estimated numbers),https://archive.org/details/smpa-files-2080,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2080,,wiki,,MIL MIL.chinese REP REP.revolutionaries
-IO,100,63,682,Li Ping Su,,,,,,,,,,,,,,
+IO,100,63,682,Li Ping Su,,,,1,,,https://archive.org/details/smpa-files-2144,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2144,,auto: IO name match,,MIL MIL.chinese MUN MUN.greater REP REP.revolutionaries
 IO,100,63,683,Yu Ya Ching,,,,,,,,,,,,,,
 IO,100,63,685,Woo Ta Tseu,Nov 1916,1916,1,1,,A telegram was received and invited the general Yang to send a telegram to the Central Government,https://archive.org/details/smpa-files-2408,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2408,,wiki,,REP REP.revolutionaries REP.warlords
 IO,100,63,686,Yu Ah Nyong,Nov 1916,1916,1,1,,A rebel was arrested and released on the 27th October with a payment of a fine of 100 dollar,https://archive.org/details/smpa-files-2422,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2422,,wiki,,LIA LIA.french REP REP.revolutionaries
@@ -3158,31 +3158,31 @@ IO,100,63,695,Chinese troops,Nov 1916,1916,1,1,,Newspaper article about the curr
 IO,100,63,696,Kong Ching Tsung,1916,1916,3,3,,,https://archive.org/details/smpa-files-2135,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2135,,wiki,,LAW LAW.courts REP REP.funding REP.revolutionaries
 IO,100,63,697,Zung Ping Sze,,,24,24,,"the payment collection of the applications for sending away rebel leaders from Shanghai, the payment list has been categorised",https://archive.org/details/smpa-files-2460,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2460,,wiki,,MIG MIG.resettlement REP REP.revolutionaries
 IO,100,63,698,Tuchun Feng,,,,,,,,,,,,,,
-IO,100,63,699,Huang Hsing,,,,,,,,,,,,,,
+IO,100,63,699,Huang Hsing,,,,1,,,https://archive.org/details/smpa-files-2112,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2112,,auto: IO register number on page 0,,HEA HEA.deaths REP REP.revolutionaries
 IO,100,63,701,Li Tsoong Ngoh,Nov 1916,1916,5,5,,"recorded the the movements of these figures: Li Tsoong Ngoh 李宗岳, Loo Voong San 羅凤山, Zee Nyeu Kau 徐元浩, Liang Chi Tsao (maybe 梁启超 but cannot find this name on the internet), Zee Kou Liang, Lee Taun Woo",https://archive.org/details/smpa-files-2146,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2146,,wiki,,REP REP.funding REP.revolutionaries REP.warlords
 IO,100,63,702,Tseng Kwaung Lu,Nov 1916,1916,2,2,,,https://archive.org/details/smpa-files-2363,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2363,,wiki,,REP REP.funding REP.revolutionaries REP.warlords
-IO,100,63,703,Sing Woo Dan,,,,,,,,,,,,,,
+IO,100,63,703,Sing Woo Dan,,,,1,,,https://archive.org/details/smpa-files-2279,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2279,,auto: IO register number on page 0,,REP REP.revolutionaries
 IO,100,63,706,Chung Soong Yang,Nov 1916,1916,2,2,,Chung Soong Yang did not pay the officers and soldiers of Sungkiang,https://archive.org/details/smpa-files-2017,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2017,,wiki,,MIL MIL.chinese REP REP.revolutionaries REP.warlords
 IO,100,63,709,Wong Yung Da,Nov 1916,1916,2,2,,Wang Vung Da was a member of Kuomingtang party,https://archive.org/details/smpa-files-2398,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2398,,wiki,,CRI CRI.homicide REP REP.revolutionaries REP.warlords
 IO,100,63,710,Tsung Kwaung Lieu,Nov 1916,1916,1,1,,Tsung Kwaung Lieu was a member of Manchu Restoration Party who established an office in Frenchtown and was trying to induce the ex-Honan rebels to join him,https://archive.org/details/smpa-files-2374,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2374,,wiki,,REP REP.monarchists
 IO,100,63,714,Daung Chi Sung,Nov 1916,1916,4,4,,"the information about a memorial service for Daung Chi Sung, about 200 persons attended the event",https://archive.org/details/smpa-files-2036,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2036,,wiki,,MIG MIG.movements PUB PUB.meetings REP REP.revolutionaries
 IO,100,63,715,Zung Ying Nyi,Nov 1916,1916,2,2,,Germans and Chinese issue,https://archive.org/details/smpa-files-2465,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2465,,wiki,,FOR FOR.german FOR.ww1 LAB LAB.unions REP REP.revolutionaries
-IO,100,63,716,Zau Kya Ziang,,,,,,,,,,,,,,
+IO,100,63,716,Zau Kya Ziang,,,,1,,,https://archive.org/details/smpa-files-2435,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2435,,auto: IO register number on page 0,,MIL MIL.chinese REP REP.warlords
 IO,100,63,717,Loo Vung San,,,,,,,,,,,,,,
 IO,101,63,740,Tsen Tsun Hsuan,29th Nov 1916,1916,1,1,,Tsen Tsun Hsuan was ex-commander of the Republican troop,https://archive.org/details/smpa-files-2361,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2361,,wiki,,REP REP.funding REP.revolutionaries REP.warlords
 IO,101,63,743,Zung Tsung Huan,,,,,,,,,,,,,,
-IO,101,63,744,Liang Chi Tsao,,,,,,,,,,,,,,
+IO,101,63,744,Liang Chi Tsao,,,,1,,,https://archive.org/details/smpa-files-2155,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2155,,auto: IO name match,,PUB PUB.meetings REP
 IO,101,63,745,Li Lih Chun,Dec 1916,1916,4,4,,,https://archive.org/details/smpa-files-2142,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2142,,wiki,,PUB PUB.meetings REP REP.revolutionaries
-IO,101,63,746,Loo Yoong Ziang,,,,,,,,,,,,,,
+IO,101,63,746,Loo Yoong Ziang,,,,2,,,https://archive.org/details/smpa-files-2178 https://archive.org/details/smpa-files-2198,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2178 https://ray-bot-ai.github.io/smp-files/file.html?id=2198,,auto: IO name match + register number,,HEA HEA.deaths PRS PRS.chinese REP REP.warlords
 IO,101,63,749,Min Te Pao,,,,,,,,,,,,,,
 IO,101,63,751,Yong Shung Lien Kwan,,,,,,,,,,,,,,
 IO,101,63,757,Sing Woo Dan,Dec 1916,1916,1,1,,12 rebel leaders held a meeting in a hotel at 7pm,https://archive.org/details/smpa-files-2421,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2421,,wiki,,PUB PUB.meetings REP REP.funding REP.revolutionaries
 IO,101,63,759,Proposed distribution of steamer tickets,Dec 1916,1916,1,1,,social accident,https://archive.org/details/smpa-files-3582,,,https://ray-bot-ai.github.io/smp-files/file.html?id=3582,,wiki,,PUB PUB.demonstrations REP REP.funding REP.revolutionaries
 IO,101,63,760,Han Hwe,,,,,,,,,,,,,,
-IO,101,63,765,Huang Hsin,,,,,,,,,,,,,,
+IO,101,63,765,Huang Hsin,,,,1,,,https://archive.org/details/smpa-files-2110,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2110,,auto: IO name match,,PUB PUB.meetings REP REP.revolutionaries
 IO,101,63,766,General Li Tsung Wo,16th Dec 1916,1916,1,1,,,https://archive.org/details/smpa-files-2081,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2081,,wiki,,PUB PUB.demonstrations REP REP.funding REP.revolutionaries
 IO,101,63,768,Sun Hung Yi,Dec 1916,1916,5,5,,,https://archive.org/details/smpa-files-2285,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2285,,wiki,,REP REP.funding REP.revolutionaries VIO VIO.threats
-IO,101,63,769,Han Hwei's,,,,,,,,,,,,,,
+IO,101,63,769,Han Hwei's,,,,2,,,https://archive.org/details/smpa-files-2105,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2105,,auto: IO register number on page 0,,REP REP.revolutionaries
 IO,101,63,774,Reproduction of photo of officers,19th Dec 1916,1916,1,1,,,https://archive.org/details/smpa-files-2256,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2256,,wiki,,FOR FOR.ww1 MIL MIL.foreign
 IO,101,63,777,Ng Ziang Kaung,18th Dec 1916,1916,2,2,,,https://archive.org/details/smpa-files-2220,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2220,,wiki,,LAB LAB.conditions LAB.unions MUN MUN.services
 IO,101,63,778,Vai Sung Jao,Sep 1916,1916,13,13,,,https://archive.org/details/smpa-files-2381,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2381,,wiki,,REP REP.revolutionaries REP.warlords
@@ -3199,35 +3199,35 @@ IO,101,63,809,General Hwang Hsin,,,,,,,,,,,,,,
 IO,101,63,821,Ettinger and Josef,1917,1917,4,4,,,https://archive.org/details/smpa-files-2056,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2056,,wiki,,FOR FOR.ww1
 IO,101,63,854,Tsung Sung Dzo,1917-1926,1917,37,37,,many documents unreadable,https://archive.org/details/smpa-files-2376,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2376,,wiki,,FOR FOR.anticolonial FOR.asian FOR.consular FOR.ww1
 IO,101,63,861,Zung Tsung Choeu,Jan 1917,1917,25,25,,,https://archive.org/details/smpa-files-2463,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2463,,wiki,,REP REP.revolutionaries REP.warlords
-IO,101,63,864,Fong Wei Ching,1916,1916,3,,,Last file on Roll 63. Transaction involving purchase of arms.,,https://archive.org/details/smpa-63/page/n1371/mode/2up,,,,,,
+IO,101,63,864,Fong Wei Ching,1916,1916,3,12,,Last file on Roll 63. Transaction involving purchase of arms.,https://archive.org/details/smpa-files-2074,https://archive.org/details/smpa-63/page/n1371/mode/2up,,https://ray-bot-ai.github.io/smp-files/file.html?id=2074,,auto: IO name match + register number,,CRI CRI.arms ESP ESP.informants FOR FOR.american
 IO,101,64,894,Mr. Cassell,1914-1919,1914,17,17,,,https://archive.org/details/smpa-files-2206,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2206,,wiki,,ESP ESP.allied ESP.german FOR FOR.german FOR.ww1
-IO,101,64,898,Yang Tcheng,,,,,,,,,,,,,,
-IO,101,64,906,Pah Vung Wei,,,,,,,,,,,,,,
-IO,101,64,922,Theodore Saridis,,,,,,,,,,,,,,
+IO,101,64,898,Yang Tcheng,,,,8,,,https://archive.org/details/smpa-files-2416,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2416,,auto: IO register number on page 0,,ESP ESP.german FOR FOR.german FOR.ww1
+IO,101,64,906,Pah Vung Wei,,,,1,,,https://archive.org/details/smpa-files-2240,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2240,,auto: IO register number on page 0,,REP REP.funding REP.revolutionaries VIC VIC.narcotics
+IO,101,64,922,Theodore Saridis,,,,26,,,https://archive.org/details/smpa-files-2329,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2329,,auto: IO name match,,CRI CRI.theft FOR FOR.consular FOR.european VIC VIC.narcotics
 IO,101,64,923,Zong Cheng Fah,,,,,,,,,,,,,,
-IO,101,64,938,Photo,,,,,,,,,,,,,,
-IO,101,64,940,Nielsen,,,,,,,,,,,,,,
+IO,101,64,938,Photo,,,,1,,,https://archive.org/details/smpa-files-2244,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2244,,auto: IO name match,,SOV SOV.employees SOV.trade
+IO,101,64,940,Nielsen,,,,8,,,https://archive.org/details/smpa-files-2223,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2223,,auto: IO register number on page 1,,ESP ESP.german FOR FOR.ww1
 IO,101,64,941,Mrs. Lea Cox,1917-1919,1917,8,8,,,https://archive.org/details/smpa-files-2212,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2212,,wiki,,FOR FOR.american FOR.consular MIG MIG.visas VIC VIC.prostitution
-IO,101,64,942,Tang Shao Yi,,,,,,,,,,,,,,
-IO,101,64,951,Pah Vung Wei,,,,,,,,,,,,,,
-IO,101,64,952,Wai Yu Zia,,,,,,,,,,,,,,
+IO,101,64,942,Tang Shao Yi,,,,15,,,https://archive.org/details/smpa-files-2303,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2303,,auto: IO register number on page 0,,FOR FOR.ww1 SOC SOC.schools SOC.students
+IO,101,64,951,Pah Vung Wei,,,,1,,,https://archive.org/details/smpa-files-2241,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2241,,auto: IO register number on page 0,,REP REP.funding REP.revolutionaries
+IO,101,64,952,Wai Yu Zia,,,,5,,,https://archive.org/details/smpa-files-2383,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2383,,auto: IO name match + register number,,CRI CRI.arms FOR FOR.anticolonial LIA LIA.foreignpolice LIA.french
 IO,101,64,970,Man Chu Li,Mar-May 1917,1917,9,9,,,https://archive.org/details/smpa-files-2185,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2185,,wiki,,ESP ESP.german FOR FOR.consular FOR.ww1 VIC VIC.narcotics
 IO,101,64,972,Kan Pah,Apr 1917,1917,7,7,,,https://archive.org/details/smpa-files-2129,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2129,,wiki,,ESP ESP.german REP REP.revolutionaries VIO VIO.bombing
-IO,101,64,997,Tang Shao Yi,,,,,,,,,,,,,,
+IO,101,64,997,Tang Shao Yi,,,,1,,,https://archive.org/details/smpa-files-2302,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2302,,auto: IO register number on page 0,,REP REP.revolutionaries
 IO,101,64,1003,Dittman - Nielsen,14th Mar 1917,1917,1,1,,,https://archive.org/details/smpa-files-2046,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2046,,wiki,,ESP ESP.german
 IO,101,64,1029,D. Abramovitch,Mar-Apr 1917,1917,13,13,,,https://archive.org/details/smpa-files-2024,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2024,,wiki,,FOR FOR.consular FOR.european MIG MIG.nationality
-IO,101,64,1031,Nielsen - Baumert,,,,,,,,,,,,,,
-IO,101,64,1060,C. Nielsen,,,,,,,,,,,,,,
+IO,101,64,1031,Nielsen - Baumert,,,,13,,,https://archive.org/details/smpa-files-2221,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2221,,auto: IO name match + register number,,ESP ESP.german FOR FOR.german FOR.ww1
+IO,101,64,1060,C. Nielsen,,,,14,,,https://archive.org/details/smpa-files-1985,,,https://ray-bot-ai.github.io/smp-files/file.html?id=1985,,auto: IO name match,,ESP ESP.german FOR FOR.european
 IO,101,64,1062,Rothman watching for Nielsen,2nd Mar 1917,1917,1,1,,,https://archive.org/details/smpa-files-2257,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2257,,wiki,,MIG MIG.movements
 IO,101,64,1094,D. S. Schmidt,19th Apr 1917,1917,2,2,,D. S. Schmidt saw Ettinger on Apr 18th,https://archive.org/details/smpa-files-2025,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2025,,wiki,,FOR FOR.asian
-IO,101,64,1214,A. Ettinger,,,,,,,,,,,,,,
-IO,101,64,1265,Max Kindler,,,,,,,,,,,,,,
+IO,101,64,1214,A. Ettinger,,,,20,,,https://archive.org/details/smpa-files-1954,,,https://ray-bot-ai.github.io/smp-files/file.html?id=1954,,auto: IO name match,,ESP ESP.german FOR FOR.anticolonial FOR.ww1 LAW LAW.courts
+IO,101,64,1265,Max Kindler,,,,59,,,https://archive.org/details/smpa-files-2189,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2189,,auto: IO register number on page 0,,ESP ESP.allied ESP.german FOR FOR.german FOR.ww1 LAW LAW.extraterritoriality MIG MIG.deportation MIG.visas
 IO,101,64,1266,Chen Ting Mo,,,,,,,,,,,,,,
 IO,101,63,1291,Fritz Pasche,,,,,,,,,,,,,,
-IO,101,64,1315,Lok Chi Tsa,,,,,,,,,,,,,,
-IO,101,64,1458,E. Josephi,,,,,,,,,,,,,,
+IO,101,64,1315,Lok Chi Tsa,,,,52,,,https://archive.org/details/smpa-files-2174,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2174,,auto: IO name match + register number,,CRI CRI.fraud FOR FOR.german FOR.ww1 LAW LAW.courts MIG MIG.visas
+IO,101,64,1458,E. Josephi,,,,2,,,https://archive.org/details/smpa-files-2053,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2053,,auto: IO name match + register number,,CRI CRI.missing
 IO,101,64,1465,Ettinger - Joseph,Sep 1917,1917,4,4,,,https://archive.org/details/smpa-files-2054,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2054,,wiki,,FOR FOR.consular FOR.european
-IO,101,64,1466,Max Kindler,,,,,,,,,,,,,,
+IO,101,64,1466,Max Kindler,,,,4,,,https://archive.org/details/smpa-files-2190,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2190,,auto: IO register number on page 0,,CRI CRI.fraud HEA HEA.medical
 IO,101,63,1471,Suiza Refuge,,,,,,,,,,,,,,
 IO,101,64,1549,Woo Ping Chien,1917,1917,5,5,,,https://archive.org/details/smpa-files-2406,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2406,,wiki,,CRI CRI.fraud FOR FOR.ww1 MIG MIG.visas
 IO,101,64,1641,Dr. Kindler,,,,,,,,,,,,,,
@@ -3236,13 +3236,13 @@ IO,101,64,1906,Sih Tseng Ong,1915,1915,16,16,,,https://archive.org/details/smpa-
 IO,101,64,1957,Lists of Chinese and Japanese newspapers in Shanghai,1918,1918,8,8,,,https://archive.org/details/smpa-files-2168,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2168,,wiki,,PRS PRS.censorship PRS.chinese PRS.foreign
 IO,101,64,2076,Michael Doll,1918-1919,1918,22,22,,,https://archive.org/details/smpa-files-2197,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2197,,wiki,,CRI CRI.fraud FOR FOR.british FOR.consular MIG MIG.visas
 IO,102,64,2103,Russian Consulate Pass Port Case,Jun-Jul 1918,1918,48,48,,,https://archive.org/details/smpa-files-2258,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2258,,wiki,,CRI CRI.fraud FOR FOR.ww1 LAW LAW.courts MIG MIG.visas
-IO,102,64,2354,"Anonymous report from Cantonese presidents, 10/3/16",,,,,,,,,,,,,,
+IO,102,64,2354,"Anonymous report from Cantonese presidents, 10/3/16",,,,1,,,https://archive.org/details/smpa-files-1961,,,https://ray-bot-ai.github.io/smp-files/file.html?id=1961,,auto: IO register number on page 0,,ESP ESP.german LAW LAW.jurisdiction VIO VIO.threats
 IO,102,63,2376,Max Kindler,,,,,,,,https://archive.org/details/smpa-63/page/n465/mode/2up,,,,,,
 IO,102,64,2393,"Russian revolutionaries, 12/11/18",1918,1918,12,12,,four men insulted harassed Russians in Shanghai; Newspaper articles about Russian Revolution and related events in Shanghai from North China Daily News and The Shanghai Gazette,https://archive.org/details/smpa-files-2259,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2259,,wiki,,FOR FOR.consular RUS RUS.individuals RUS.politics
-IO,102,64,2507,"Chinese Red Cross Society, 1919",,1919,,,,,,,,,,,,
+IO,102,64,2507,"Chinese Red Cross Society, 1919",,1919,,10,,,https://archive.org/details/smpa-files-2004,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2004,,auto: IO register number on page 0,,FOR FOR.consular HEA HEA.medical SOC SOC.associations SOC.welfare
 IO,102,64,2672,"George E. Sokolsky, 10/21/19",1919,1919,8,8,,"George E. Sokolsky was a man who aimed to promote Bolshevist idea in China, and he has travelled around China for a while",https://archive.org/details/smpa-files-2089,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2089,,wiki,,FOR FOR.american SOV SOV.bolshevism
-IO,102,64,2674,Bolshevist activities expected in Shanghai,,,,,,,,,,,,,,
-IO,102,64,2837,Re Shanghai Chronicle,,,,,,,,,,,,,,
+IO,102,64,2674,Bolshevist activities expected in Shanghai,,,,43,,,https://archive.org/details/smpa-files-1979,,,https://ray-bot-ai.github.io/smp-files/file.html?id=1979,,auto: IO name match + register number,,FOR FOR.consular MIG MIG.movements PUB PUB.meetings RUS RUS.individuals SOV SOV.bolshevism SOV.officials
+IO,102,64,2837,Re Shanghai Chronicle,,,,26,,,https://archive.org/details/smpa-files-2252,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2252,,auto: IO name match + register number,,LAW LAW.courts PRS PRS.censorship PRS.foreign SOV SOV.bolshevism
 IO,102,64,2862,Book in Russian,,,,,,,,,,,,,,
 IO,102,64,2882,Meetings at the Cantonese Club [Microfilm header reads 2888],Jul 1919,1919,7,7,,,https://archive.org/details/smpa-files-2192,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2192,,wiki,,ECO ECO.firms REP REP.revolutionaries SOC SOC.associations
 IO,102,64,2915,Departure of Mrs. Ettinger,1919,1919,3,3,,,https://archive.org/details/smpa-files-2040,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2040,,wiki,,MIG MIG.movements MIG.visas
@@ -3255,16 +3255,16 @@ IO,102,64,3239,"Bolshevist attempt activities in Shanghai; also ""Daily Reports"
 IO,102,64,3262,Whereabouts of G. Kun alias Zung Bai Koong,1920,1920,27,27,,,https://archive.org/details/smpa-files-2386,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2386,,wiki,,COM COM.propaganda PRS PRS.books PRS.postal SOV SOV.bolshevism
 IO,102,64,3271,Daily report,,,,,,,,,,,,,,
 IO,102,64,3308,Evening Standard re Bolshevist methods of propaganda Angelica Balabanoff,27th Mar 1920,1920,1,1,,,https://archive.org/details/smpa-files-2057,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2057,,wiki,,SOV SOV.bolshevism
-IO,102,64,3314,Enquiries re articles in Shanghai Times on Bolshevist propaganda in China,,,,,,,,,,,,,,
+IO,102,64,3314,Enquiries re articles in Shanghai Times on Bolshevist propaganda in China,,,,5,,,https://archive.org/details/smpa-files-2120,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2120,,auto: IO register number on page 0,,PRS PRS.foreign SOV SOV.bolshevism
 IO,102,64,3315,Articles from the Central China Post on various social problems,Feb-Mar 1920,1920,9,9,,,https://archive.org/details/smpa-files-1975,,,https://ray-bot-ai.github.io/smp-files/file.html?id=1975,,wiki,,LAB LAB.strikes RUS RUS.politics SOV SOV.bolshevism
-IO,103,64,3509,"Daily reports, 23 Aug. 1920",,1920,,,,,,,,,,,,
-IO,103,64,3527,"Daily reports, 2 Sept. 1920",,1920,,,,,,,,,,,,
+IO,103,64,3509,"Daily reports, 23 Aug. 1920",,1920,,2,,,https://archive.org/details/smpa-files-2032,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2032,,auto: IO register number on page 0,,MUN MUN.chinese REP REP.warlords
+IO,103,64,3527,"Daily reports, 2 Sept. 1920",,1920,,3,,,https://archive.org/details/smpa-files-2031,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2031,,auto: IO register number on page 0,,MUN MUN.chinese REP REP.warlords SOC SOC.students
 IO,103,64,3536,Meeting at No. 27 Elgin Road,1920,1920,9,9,,"国民大会, 189 persons, 165 members and 24 guests",https://archive.org/details/smpa-files-2191,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2191,,wiki,,PUB PUB.meetings REP REP.warlords SOC SOC.associations
 IO,103,64,3547,Movement to hold National Citizens' Convention,Sep 1920,1920,8,8,,,https://archive.org/details/smpa-files-2204,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2204,,wiki,,PRS PRS.leaflets PUB PUB.meetings REP
 IO,103,64,3572,"Daily report, 16 Oct. 1920",1920-1921,1920,13,13,,including newspaper articles,https://archive.org/details/smpa-files-2028,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2028,,wiki,,MUN MUN.chinese REP REP.warlords VIC VIC.nightlife
-IO,103,64,3607,"Daily report, 16 Nov. 1920",,1920,,,,,,,,,,,,
+IO,103,64,3607,"Daily report, 16 Nov. 1920",,1920,,3,,,https://archive.org/details/smpa-files-2027,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2027,,auto: IO register number on page 0,,MUN MUN.chinese RUS RUS.organisations SOC SOC.associations
 IO,103,64,3702,Bolshevist activities in Shanghai,Jan-Feb 1921,1921,7,7,local Bolsheviks established the Esperanto Schools in Shanghai,,https://archive.org/details/smpa-files-1980,,,https://ray-bot-ai.github.io/smp-files/file.html?id=1980,,wiki,,ESP ESP.soviet MIL MIL.subversion SOV SOV.bolshevism
-IO,103,64,3841,The Bolshevist movement as seen from Shanghai since 1 Jan. 1921,,1921,,,,,,,,,,,,
+IO,103,64,3841,The Bolshevist movement as seen from Shanghai since 1 Jan. 1921,,1921,,19,,,https://archive.org/details/smpa-files-2307,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2307,,auto: IO register number on page 0,,REP REP.revolutionaries REP.warlords SOV SOV.bolshevism
 IO,103,64,3844,"Sir Everard D. H. Fraser, K.C.M.G., 30 Mar. 1917",Mar 1917,1917,14,14,,,https://archive.org/details/smpa-files-2280,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2280,,wiki,,CRI CRI.fraud FOR FOR.british FOR.consular VIC VIC.nightlife
 IO,103,64,3871,Translation of extracts from the Count De Toulouse Lautrec De Savine’s book,,,,,,,,,,,,,,
 IO,103,64,3955,Tsang Tsung Koh alias Hai Tsung Li,1921,1921,52,52,,,https://archive.org/details/smpa-files-2357,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2357,,wiki,,CRI CRI.homicide LAW LAW.courts MIG MIG.deportation PRS PRS.leaflets SOC SOC.students
@@ -3275,45 +3275,45 @@ IO,103,64,4184,Compte - Rendu,Oct 1921,1921,17,17,,,https://archive.org/details/
 IO,103,64,4188,Provincial Autonomy Co-operative Society,Oct 1921,1921,17,17,,,https://archive.org/details/smpa-files-2021,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2021,,wiki,,ANJ ANJ.salvation LIA LIA.french PUB PUB.meetings
 IO,103,64,4190,Memorandum on letter from F. Parlani to S. A. Serebriannikoff,Oct 1921,1921,17,17,,,https://archive.org/details/smpa-files-2021,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2021,,wiki,,ANJ ANJ.salvation LIA LIA.french PUB PUB.meetings
 IO,103,64,4341,Arrest of wanted Russian named G. A. Efron,1920-1943,1920,16,16,,,https://archive.org/details/smpa-files-1967,,,https://ray-bot-ai.github.io/smp-files/file.html?id=1967,,wiki,,CRI CRI.fraud RUS RUS.individuals
-IO,103,64,4342,"The China Press, Jan. 8, 1922",,1922,,,,,,,,,,,,
+IO,103,64,4342,"The China Press, Jan. 8, 1922",,1922,,4,,,https://archive.org/details/smpa-files-2310,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2310,,auto: IO register number on page 0,,SOV SOV.bolshevism SOV.officials
 IO,103,64,4353,"The Shanghai Gazette, Nov. 24, 1921",1922,1922,28,28,,,https://archive.org/details/smpa-files-2321,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2321,,wiki,,LIA LIA.foreignpolice MIG MIG.deportation SOV SOV.bolshevism
 IO,103,64,4373,Bolsheviks quarters and leaders,,,,,,,,,,,,,,
-IO,103,64,4398,"Interview with Mr. Metzler, Deputy Commissioner for Russian Affairs, about control of Russians in the settlement",,,,,,,,,,,,,,
+IO,103,64,4398,"Interview with Mr. Metzler, Deputy Commissioner for Russian Affairs, about control of Russians in the settlement",,,,6,,,https://archive.org/details/smpa-files-2121,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2121,,auto: IO name match,,LAW LAW.extraterritoriality RUS RUS.organisations RUS.politics SOV SOV.bolshevism
 IO,103,64,4409,"Complaint against George Semenoff, former Russian leader",Feb-Mar 1922,1922,4,4,,"The China Press and Pecking & Tiensin Times reported this affair, the reports have been included in this official records file",https://archive.org/details/smpa-files-2020,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2020,,wiki,,MIG MIG.movements RUS RUS.military RUS.politics
-IO,103,64,4423,Mr. H. S. Kim,,,,,,,,,,,,,,
-IO,103,64,4463,Translation of photograph copies. One written by Lang Dal Ho.,,,,,,,,,,,,,,
+IO,103,64,4423,Mr. H. S. Kim,,,,16,,,https://archive.org/details/smpa-files-2207,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2207,,auto: IO name match,,RUS RUS.individuals SOV SOV.bolshevism VIO VIO.bombing
+IO,103,64,4463,Translation of photograph copies. One written by Lang Dal Ho.,,,,12,,,https://archive.org/details/smpa-files-2343,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2343,,auto: IO name match,,FOR FOR.korea JPN JPN.military VIO VIO.assassination VIO.bombing
 IO,103,64,4514,Anarchism and Communism in China,1922-1923,1922,27,27,,"foreign anarchists initiated social events in China to promote the idea of Anarchism,including German, Russian, Japanese, etc.",https://archive.org/details/smpa-files-1960,,,https://ray-bot-ai.github.io/smp-files/file.html?id=1960,,wiki,,COM COM.comintern LAB LAB.strikes LAB.unions SOV SOV.bolshevism
 IO,103,64,4542,Translation of a circular which is being distributed amongst Koreans in Shanghai,19th May 1922,1922,3,3,,,https://archive.org/details/smpa-files-2338,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2338,,wiki,,FOR FOR.asian FOR.korea PRS PRS.leaflets
 IO,103,64,4545,Russian and Bolshevist activities in Shanghai,,,,,,,,,,,,,,
-IO,103,64,4550,Arrest of seven Koreans in French Town,,,,,,,,,,,,,,
-IO,103,64,4578,"Translation of a declaration issued on May 13, 1922, by the Association of All Societies of the Chinese Republic",,1922,,,,,,,,,,,,
+IO,103,64,4550,Arrest of seven Koreans in French Town,,,,2,,,https://archive.org/details/smpa-files-1966,,,https://ray-bot-ai.github.io/smp-files/file.html?id=1966,,auto: IO name match,,FOR FOR.korea JPN JPN.consular LIA LIA.french
+IO,103,64,4578,"Translation of a declaration issued on May 13, 1922, by the Association of All Societies of the Chinese Republic",,1922,,13,,,https://archive.org/details/smpa-files-2339,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2339,,auto: IO name match + register number,,LAW LAW.courts PRS PRS.leaflets REP REP.warlords
 IO,103,64,4581,Suspected prominent Bolshevist,1922,1922,5,5,,,https://archive.org/details/smpa-files-2296,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2296,,wiki,,SOV SOV.bolshevism
-IO,103,64,4639,Search of 19C Chengtu Road,,,,,,,,,,,,,,
+IO,103,64,4639,Search of 19C Chengtu Road,,,,10,,,https://archive.org/details/smpa-files-2263,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2263,,auto: IO name match + register number,,COM COM.comintern COM.propaganda LAB LAB.unions LAW LAW.courts
 IO,103,64,4652,The demand for increased pay for seamen,1922-1923,1922,116,116,,,https://archive.org/details/smpa-files-3286,,,https://ray-bot-ai.github.io/smp-files/file.html?id=3286,,wiki,,CRI CRI.fraud CRI.missing LAB LAB.conditions LAB.strikes LAB.unions
 IO,103,64,4654,Attempt by malefactors to disable ships of Russian volunteer fleet,1922,1922,4,4,,,https://archive.org/details/smpa-files-1976,,,https://ray-bot-ai.github.io/smp-files/file.html?id=1976,,wiki,,CRI CRI.theft ECO ECO.trade
-IO,103,64,4694,New Russian magazine,,,,,,,,,,,,,,
+IO,103,64,4694,New Russian magazine,,,,3,,,https://archive.org/details/smpa-files-2217,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2217,,auto: IO name match,,PRS PRS.foreign RUS RUS.individuals RUS.politics
 IO,104,64,4714,Anti-Bolshevist publication,Aug 1922,1922,3,3,,,https://archive.org/details/smpa-files-1962,,,https://ray-bot-ai.github.io/smp-files/file.html?id=1962,,wiki,,PRS PRS.books RUS RUS.politics
-IO,104,64,4777,"Hong Kong Shun Po, Hong Kong, 1 Aug. 1922 https://archive.org/details/smpa-files-2109",1922,1922,12,,,,,,,,,,,
+IO,104,64,4777,"Hong Kong Shun Po, Hong Kong, 1 Aug. 1922 https://archive.org/details/smpa-files-2109",1922,1922,12,12,,,https://archive.org/details/smpa-files-2109,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2109,,auto: IO register number on page 2,,PRS PRS.books REP REP.revolutionaries REP.warlords
 IO,104,64,4793,Mr. McDavid’s view on dangers of Russian immigration,,,,,,,,,,,,,,
 IO,104,64,4794,Deportation of foreigners who are subject of non-treaty powers,May 1922,1922,5,5,,,https://archive.org/details/smpa-files-2043,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2043,,wiki,,HEA HEA.mental LAW LAW.courts MIG MIG.deportation
 IO,104,64,4806,Arrival of the SS Shin Yu,,,,,,,,,,,,,,
 IO,104,64,4816,Arrival of Russians from Vladivostock,192x(cannot identify),,4,4,,,https://archive.org/details/smpa-files-1968,,,https://ray-bot-ai.github.io/smp-files/file.html?id=1968,,wiki,,MIG MIG.movements RUS RUS.individuals
-IO,104,64,4829,"Arrival of steamer from Vladivostock: Chinese Labourers’ Association, 559 Poo Ching Li",,,,,,,,,,,,,,
+IO,104,64,4829,"Arrival of steamer from Vladivostock: Chinese Labourers’ Association, 559 Poo Ching Li",,,,3,,,https://archive.org/details/smpa-files-1972,,,https://ray-bot-ai.github.io/smp-files/file.html?id=1972,,auto: IO register number on page 2,,MIG MIG.movements RUS RUS.individuals RUS.military
 IO,104,64,4831,"The Shanghai Times, Wednesday, Nov. 1, 1922",Nov 1922,1922,11,11,,English translation version of Chinese Laboureres Association Regulation,https://archive.org/details/smpa-files-2002,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2002,,wiki,,LAB LAB.mills LAB.unions LAB.utilities
 IO,104,64,4855,"The Shanghai Times, Wednesday, Nov. 1, 1922",1st Nov 1922,1922,2,2,,A telegram reported that 13 warships has escaped from Vladivostok,https://archive.org/details/smpa-files-2325,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2325,,wiki,,MIG MIG.movements RUS RUS.military
 IO,104,64,4859,"Bolsheviks in Shanghai, Dec. 2, 1922",,1922,,,,,,,,,,,,
 IO,104,64,4870,Deportation of Caftons,Dec 1922,1922,5,5,,,https://archive.org/details/smpa-files-2042,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2042,,wiki,,MIG MIG.deportation VIC VIC.prostitution
 IO,104,64,4874,Movements of well-known Bolsheviks,,,,,,,,,,,,,,
-IO,104,64,4880,List of ships comprising Admiral Stark’s fleet now at Woo Sung,,,,,,,,,,,,,"B1:145,8",
+IO,104,64,4880,List of ships comprising Admiral Stark’s fleet now at Woo Sung,,,,13,,,https://archive.org/details/smpa-files-2167,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2167,,auto: IO register number on page 2,"B1:145,8",MIG MIG.movements RUS RUS.military RUS.welfare
 IO,104,64,4913,Refugees from Admiral Stark’s fleet,1922-1925,1922,3,3,,,https://archive.org/details/smpa-files-2254,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2254,,wiki,,MIG MIG.resettlement RUS RUS.military RUS.welfare VIO VIO.threats
 IO,104,64,4919,Japanese associates of Dr. Sun Yat-Sen,,,,,,,,,,,,,,
 IO,104,64,4926,"Union Insurance Society of Canton, Ltd. Shanghai",1922-1925,1922,11,11,,,https://archive.org/details/smpa-files-2380,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2380,,wiki,,LAB LAB.strikes PRS PRS.foreign PRS.radio REP REP.revolutionaries
 IO,104,64,4989,The municipal regulations of the French Concession,1923,1923,47,47,,,https://archive.org/details/smpa-files-2316,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2316,,wiki,,FOR FOR.european MUN MUN.council POL POL.organisation
 IO,104,65,5013,Photo of Mr. and Mrs. Joffe,,,,,,,,,,,,,,
-IO,104,65,5044,"Translation of prospectus issued in connection with the formation of the Korean Workers’ Army obtained in Dr. Fearn’s church on Apr. 13, 1923",,1923,,,,,,,,,,,,
+IO,104,65,5044,"Translation of prospectus issued in connection with the formation of the Korean Workers’ Army obtained in Dr. Fearn’s church on Apr. 13, 1923",,1923,,4,,,https://archive.org/details/smpa-files-2344,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2344,,auto: IO register number on page 0,,FOR FOR.korea PRS PRS.leaflets
 IO,104,65,5095,Circular re organization of citizens army to promote self government in Canton,1923,1923,6,6,,,https://archive.org/details/smpa-files-2018,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2018,,wiki,,PRS PRS.leaflets REP
 IO,104,65,5165,"Daily report, June 19, 1923",Jun 1923,1923,3,3,,,https://archive.org/details/smpa-files-2030,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2030,,wiki,,COM COM.comintern FOR FOR.korea REP REP.warlords
-IO,104,65,5169,Translation of extracts from Russian newspapers,,,,,,,,,,,,,,
+IO,104,65,5169,Translation of extracts from Russian newspapers,,,,8,,,https://archive.org/details/smpa-files-2341,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2341,,auto: IO name match,,LAB LAB.strikes LAB.unions SOV SOV.bolshevism
 IO,104,65,5214,"New Shanghai Life, July 24, 1923",1923-1925,1923,5,5,,,https://archive.org/details/smpa-files-2218,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2218,,wiki,,COM COM.party COM.propaganda PRS PRS.foreign REP REP.warlords
 IO,104,65,5233,"The Shanghai Times - ""Is Bolshevism Possible in Kwangtung?""",1923-1924,1923,12,12,,,https://archive.org/details/smpa-files-2323,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2323,,wiki,,COM COM.comintern SOV SOV.bolshevism SOV.officials
 IO,104,65,5303,"The Shanghai Times, Jan. 4, 1924",1923-1924,1923,10,10,,,https://archive.org/details/smpa-files-2324,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2324,,wiki,,MIL MIL.chinese REP REP.warlords
@@ -3325,8 +3325,8 @@ IO,104,65,5483,A manifesto issue by the Kuomintang Party on the subject of its r
 IO,104,65,5492,Chinese factory and labour union laws,1929,1929,368,368,,,https://archive.org/details/smpa-files-3287,,,https://ray-bot-ai.github.io/smp-files/file.html?id=3287,,wiki,,ECO ECO.firms LAB LAB.conditions LAB.mills LAB.unions LAW LAW.jurisdiction
 IO,104,65,5495,Bolshevist propaganda,,,,,,,,,,,,,,
 IO,104,65,5516,"Shanghai Mercury, Saturday, Feb. 9, 1924",9th Feb 1924,1924,1,5,,political events in the specific week,https://archive.org/details/smpa-files-2266,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2266,,wiki,,REP REP.revolutionaries REP.warlords
-IO,104,65,5526,Sz Ka Siao Pao,,,,,,,,,,,,,,
-IO,104,65,5594,"Translation from the Echo de Chine of Apr. 1, 1924",,1924,,,,,,,,,,,,
+IO,104,65,5526,Sz Ka Siao Pao,,,,4,,,https://archive.org/details/smpa-files-2297,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2297,,auto: IO name match,,KMT KMT.party PRS PRS.chinese PRS.mosquito
+IO,104,65,5594,"Translation from the Echo de Chine of Apr. 1, 1924",,1924,,24,,,https://archive.org/details/smpa-files-2336,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2336,,auto: IO register number on page 0,,LAB LAB.strikes LAB.unions REP REP.revolutionaries SOV SOV.bolshevism
 IO,105,65,5607,Trebitsch Lincoln,,,,,,,,,,,,,,
 IO,105,65,5607 II,(I.T.T.) Ignatius Timothy Trebitsch Lincoln,,,,,,,,,,,,,,
 IO,105,65,5607 III,Trebitsch Lincoln (Abbot Chao Kung),,,,,,,,,,,,,,
@@ -3338,7 +3338,7 @@ IO,106,65,5821,Bolsheviks in Shanghai,,,,,,,,,,,,,,
 IO,106,65,5948,Bolshevik propaganda,,,,,,,,,,,,,,
 IO,106,65,5985,Photographs of 3 Russian bandits,29 Jan 1920,1920,3,3,,Newspaper article about 30 Russian Men arrested and recognised as spies,https://archive.org/details/smpa-files-2245,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2245,,wiki,,LAW LAW.prisons REP REP.warlords RUS RUS.individuals RUS.military
 IO,106,65,6023,Mixed court proceeding against strikers,1925,1925,264,264,,,https://archive.org/details/smpa-files-3290,,,https://ray-bot-ai.github.io/smp-files/file.html?id=3290,,wiki,,LAB LAB.mills LAB.strikes LAW LAW.courts PUB PUB.demonstrations
-IO,106,65,6203,Extract from Black List. Recent movements.,,,,,,,,,,,,,,
+IO,106,65,6203,Extract from Black List. Recent movements.,,,,15,,,https://archive.org/details/smpa-files-2058,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2058,,auto: IO name match + register number,,ESP ESP.soviet MIG MIG.deportation SOV SOV.bolshevism SOV.employees
 IO,106,65,6232,"Strike situation - important happenings, meetings, propaganda, etc.",Jun 1925,1925,14,14,,,https://archive.org/details/smpa-files-2283,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2283,,wiki,,ANJ ANJ.agitation LAB LAB.strikes LAB.unions SOC SOC.students
 IO,106,65,6266,Communistic matters,Jun 1925,1925,2,2,,,https://archive.org/details/smpa-files-2019,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2019,,wiki,,COM COM.youth SOC SOC.students SOV SOV.bolshevism
 IO,106,65,6350,Chinese Bolsheviks’ activities in the General Strike,Jul 1925,1925,4,11,,"providing the general information of 陈独秀, 翟秋白, 李大钊, etc.",https://archive.org/details/smpa-files-1999,,,https://ray-bot-ai.github.io/smp-files/file.html?id=1999,,wiki,,COM COM.comintern COM.party LAB LAB.strikes LAB.unions SOC SOC.students
@@ -3347,7 +3347,7 @@ IO,106,65,6508,"Mixed court proceedings against Zinovii Dosser, male, 43, and Iv
 IO,106,65,6510,Case of Zinovii Dosser and Alexander Gregorenko,,,,,,,,,,,,,,
 IO,106,65,6522,"Photos, Aug. 20, 1925",1925,1925,12,12,,,https://archive.org/details/smpa-files-2319,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2319,,wiki,,COM COM.comintern LAB LAB.unions SOV SOV.bolshevism SOV.officials
 IO,106,65,6564,The Russian Labour delegation,1922. 1925,1922,16,16,,,https://archive.org/details/smpa-files-2274,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2274,,wiki,,ESP ESP.soviet PRS PRS.foreign SOV SOV.bolshevism SOV.trade
-IO,106,65,6600,Silk documents,,,,,,,,,,,,,,
+IO,106,65,6600,Silk documents,,,,41,,,https://archive.org/details/smpa-files-2253,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2253,,auto: IO register number on page 0,,MIL MIL.chinese REP REP.warlords RUS RUS.military RUS.welfare SOV SOV.bolshevism
 IO,106,65,6614,Recruiting of Russians for militarists K. Kawakami,Aug-Sep 1925,1925,2,2,,An officer who was also a photographer commented on Japanese society,https://archive.org/details/smpa-files-3581,,,https://ray-bot-ai.github.io/smp-files/file.html?id=3581,,wiki,,COM COM.comintern SOV SOV.officials
 IO,106,65,6686,Bolshevik activities in China as a preliminary to war,Oct 1925,1925,6,6,,many paragraphs unreadable,https://archive.org/details/smpa-files-1978,,,https://ray-bot-ai.github.io/smp-files/file.html?id=1978,,wiki,,COM COM.comintern REP REP.warlords SOV SOV.bolshevism
 IO,106,65,6691,"Extracts from files of 1915, 1919, 1921 re student activities","1915, 1919, 1921",1915,60,60,,,https://archive.org/details/smpa-files-2061,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2061,,wiki,,ANJ ANJ.agitation ANJ.boycott LAB LAB.strikes PUB PUB.demonstrations SOC SOC.students SOV SOV.bolshevism
@@ -3382,7 +3382,7 @@ IO,107,66,7592,"Memorandum on the movements of M. Fratkin, Soviet employee, Apr.
 IO,107,66,7627,A declaration of the Chinese Communist Party,Feb 1927,1927,10,10,,,https://archive.org/details/smpa-files-1950,,,https://ray-bot-ai.github.io/smp-files/file.html?id=1950,,wiki,,COM COM.party COM.propaganda LAB LAB.utilities REP REP.northern
 IO,107,66,7645,A letter from the office of the 1st Propaganda Corps of the Chihli-Shantung Allied Forces of the Ankuochun Army,Feb 1927,1927,4,4,,,https://archive.org/details/smpa-files-1951,,,https://ray-bot-ai.github.io/smp-files/file.html?id=1951,,wiki,,REP REP.warlords
 IO,107,66,7668,The Canton Gazette - International Workers Delegation,1927,1927,31,31,,collection of newspaper articles,https://archive.org/details/smpa-files-2308,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2308,,wiki,,COM COM.comintern LAB LAB.unions REP REP.northern
-IO,107,66,7660,Chinese arrested for distributing inflammatory pamphlets to British soldiers,,,,,,,,,,,,,,
+IO,107,66,7660,Chinese arrested for distributing inflammatory pamphlets to British soldiers,,,,55,,,https://archive.org/details/smpa-files-1998,,,https://ray-bot-ai.github.io/smp-files/file.html?id=1998,,auto: IO name match,,COM COM.propaganda MIL MIL.foreign MIL.subversion
 IO,107,66,7804,"Arrest of 7 Communists on May 5, 1927",Apr 1928,1928,49,49,,,https://archive.org/details/smpa-files-1965,,,https://ray-bot-ai.github.io/smp-files/file.html?id=1965,,wiki,"B1:183,29",COM COM.arrests COM.comintern COM.party COM.propaganda LAW LAW.courts LIA LIA.chinese REP REP.northern
 IO,107,66,7815,Search of suspected Communist Headquarters,,,,7,Apr 1927,7,https://archive.org/details/smpa-files-2264,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2264,,wiki,,COM COM.arrests COM.propaganda LAB LAB.unions REP REP.northern
 IO,107,66,7860,"Arrival of Soviet agent, Mar. 21, 1928",26 Aug 1927,1927,3,3,,"the arrival of Chief Vice Consul of the USSR, including the details of their residing places",https://archive.org/details/smpa-files-1970,,,https://ray-bot-ai.github.io/smp-files/file.html?id=1970,,wiki,,ESP ESP.soviet SOV SOV.employees SOV.officials
@@ -3408,7 +3408,7 @@ IO,109,66,9148,Japanese meeting,1928,1928,39,39,,,https://archive.org/details/sm
 IO,109,66,9179,Manufacture of grenades,May 1928,1928,7,7,,,https://archive.org/details/smpa-files-2186,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2186,,wiki,,CRI CRI.arms MIL MIL.chinese
 IO,109,66-67,9199,"Pamir Expedition, 3-5-7 Feb. 1929",1928-1929,1928,285,285,,,https://archive.org/details/smpa-files-3294,,,https://ray-bot-ai.github.io/smp-files/file.html?id=3294,,wiki,,COM COM.comintern COM.propaganda RUS RUS.organisations SOV
 IO,109,67,9257,The Shanghai United Club,1929,1929,84,84,,many of them unreadable,https://archive.org/details/smpa-files-3295,,,https://ray-bot-ai.github.io/smp-files/file.html?id=3295,,wiki,,PUB PUB.meetings RUS RUS.organisations RUS.politics RUS.welfare SOC SOC.associations
-IO,109,67,9282,Dr. O. Fischer returns from European journey,1928-1934,1928,18,,,,,,https://archive.org/search?query=Subject%3A%28IO+Files%29+AND+Subject%3A%28SMPA%29&page=5,,,,,
+IO,109,67,9282,Dr. O. Fischer returns from European journey,1928-1934,1928,18,18,,,https://archive.org/details/smpa-files-2052,,https://archive.org/search?query=Subject%3A%28IO+Files%29+AND+Subject%3A%28SMPA%29&page=5,https://ray-bot-ai.github.io/smp-files/file.html?id=2052,,auto: IO name match,,COM COM.comintern FOR FOR.german MIG MIG.movements
 IO,109,67,9287,Index to Provisional Court file,,,2,2,,,https://archive.org/details/smpa-files-2119,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2119,,wiki,,LAW LAW.courts LAW.jurisdiction
 IO,109,67,9369,Arrival of Soviet agent,1928-1929,1928,5,5,,,https://archive.org/details/smpa-files-1969,,,https://ray-bot-ai.github.io/smp-files/file.html?id=1969,,wiki,,ESP ESP.soviet MIG MIG.movements SOV SOV.employees SOV.trade
 IO,109,67,9429,New movement towards U.S.S.R. in Nanking politics,Apr-Aug 1929,1929,9,9,,Newspaper articles about the movement,https://archive.org/details/smpa-files-2215,,,https://ray-bot-ai.github.io/smp-files/file.html?id=2215,,wiki,,KMT KMT.government PRS PRS.agencies PRS.censorship PRS.foreign SOV SOV.officials
