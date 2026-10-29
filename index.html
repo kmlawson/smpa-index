@@ -3,10 +3,11 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="color-scheme" content="light dark">
 <title>Shanghai Municipal Police Files</title>
 <meta name="description" content="A searchable, filterable index of the Shanghai Municipal Police archive files (NARA M1750) with links to the scans on the Internet Archive.">
 <link rel="stylesheet" href="assets/style.css">
-<script>try{var t=localStorage.getItem("smpa-theme");if(t)document.documentElement.dataset.theme=t}catch(e){}</script>
+<script>try{var t=localStorage.getItem("smpa-theme"),d=matchMedia("(prefers-color-scheme: dark)").matches;if(t&&(t==="dark")!==d)document.documentElement.dataset.theme=t;else localStorage.removeItem("smpa-theme")}catch(e){}</script>
 </head>
 <body>
 <div class="wrap">

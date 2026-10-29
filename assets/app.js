@@ -400,11 +400,17 @@
     const tr = e.target.closest("tr.r");
     if (tr && (e.key === "Enter" || e.key === " ")) { e.preventDefault(); toggleRow(tr); }
   });
+  // The page follows the system light/dark setting. The ◐ button stores an override only when it
+  // differs from the system; choosing the system's own mode clears it, so the page follows the system again.
+  const sysDark = matchMedia("(prefers-color-scheme: dark)");
   $("#theme").addEventListener("click", () => {
     const root = document.documentElement;
-    const dark = root.dataset.theme ? root.dataset.theme === "dark" : matchMedia("(prefers-color-scheme: dark)").matches;
-    root.dataset.theme = dark ? "light" : "dark";
-    try { localStorage.setItem("smpa-theme", root.dataset.theme); } catch (e) { /* storage unavailable */ }
+    const dark = root.dataset.theme ? root.dataset.theme === "dark" : sysDark.matches;
+    const want = dark ? "light" : "dark";
+    try {
+      if ((want === "dark") === sysDark.matches) { delete root.dataset.theme; localStorage.removeItem("smpa-theme"); }
+      else { root.dataset.theme = want; localStorage.setItem("smpa-theme", want); }
+    } catch (e) { root.dataset.theme = want; /* storage unavailable */ }
   });
   $("#csv").addEventListener("click", () => {
     const cols = ["group", "file", "title", "date", "year", "box", "roll", "pages", "tags", "notes", "ia_file", "ia_roll", "smp_files", "link_source"];
